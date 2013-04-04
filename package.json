@@ -1,0 +1,16 @@
+{
+  "name": "countrydata",
+  "version": "0.0.0",
+  "description": "Data about countries - like their iso codes and currencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "data",
+    "country"
+  ],
+  "author": "Edmund von der Burg",
+  "license": "AGPL"
+}
