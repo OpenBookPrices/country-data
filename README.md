@@ -1,5 +1,7 @@
 # Country Data
 
+[![Build Status](https://travis-ci.org/LinkToBooks/country-data.png)](https://travis-ci.org/LinkToBooks/country-data)
+
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.
 
