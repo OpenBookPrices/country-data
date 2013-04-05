@@ -1,0 +1,249 @@
+name,alpha2,alpha3,currencies
+Andorra,AD,AND,EUR
+United Arab Emirates,AE,ARE,AED
+Afghanistan,AF,AFG,AFN
+Antigua And Barbuda,AG,ATG,XCD
+Anguilla,AI,AIA,XCD
+Albania,AL,ALB,ALL
+Armenia,AM,ARM,AMD
+Angola,AO,AGO,AOA
+Antarctica,AQ,ATA,
+Argentina,AR,ARG,ARS
+American Samoa,AS,ASM,USD
+Austria,AT,AUT,EUR
+Australia,AU,AUS,AUD
+Aruba,AW,ABW,AWG
+Azerbaijan,AZ,AZE,AZN
+Bosnia & Herzegovina,BA,BIH,BAM
+Barbados,BB,BRB,BBD
+Bangladesh,BD,BGD,BDT
+Belgium,BE,BEL,EUR
+Burkina Faso,BF,BFA,XOF
+Bulgaria,BG,BGR,BGN
+Bahrain,BH,BHR,BHD
+Burundi,BI,BDI,BIF
+Benin,BJ,BEN,XOF
+"Saint Barthélemy
+",BL,BLM,EUR
+Bermuda,BM,BMU,BMD
+Brunei Darussalam,BN,BRN,BND
+"Bolivia, Plurinational State Of",BO,BOL,"BOB,BOV"
+"Bonaire, Saint Eustatius And Saba",BQ,BES,USD
+Brazil,BR,BRA,BRL
+Bahamas,BS,BHS,BSD
+Bhutan,BT,BTN,"INR,BTN"
+Bouvet Island,BV,BVT,NOK
+Botswana,BW,BWA,BWP
+Belarus,BY,BLR,BYR
+Belize,BZ,BLZ,BZD
+Canada,CA,CAN,CAD
+Cocos (Keeling) Islands,CC,CCK,AUD
+Democratic Republic Of Congo,CD,COD,CDF
+Central African Republic,CF,CAF,XAF
+Republic Of Congo,CG,COG,XAF
+Switzerland,CH,CHE,"CHF,CHE,CHW"
+Cote d'Ivoire,CI,CIV,XOF
+Cook Islands,CK,COK,NZD
+Chile,CL,CHL,"CLP,CLF"
+Cameroon,CM,CMR,XAF
+China,CN,CHN,CNY
+Colombia,CO,COL,"COP,COU"
+Costa Rica,CR,CRI,CRC
+Cuba,CU,CUB,"CUP,CUC"
+Cape Verde,CV,CPV,CVE
+Curacao,CW,CUW,ANG
+Christmas Island,CX,CXR,AUD
+Cyprus,CY,CYP,EUR
+Czech Republic,CZ,CZE,CZK
+Germany,DE,DEU,EUR
+Djibouti,DJ,DJI,DJF
+Denmark,DK,DNK,DKK
+Dominica,DM,DMA,XCD
+Dominican Republic,DO,DOM,DOP
+Algeria,DZ,DZA,DZD
+Ecuador,EC,ECU,USD
+Estonia,EE,EST,EUR
+Egypt,EG,EGY,EGP
+Western Sahara,EH,ESH,MAD
+Eritrea,ER,ERI,ERN
+Spain,ES,ESP,EUR
+Ethiopia,ET,ETH,ETB
+Finland,FI,FIN,EUR
+Fiji,FJ,FJI,FJD
+Falkland Islands,FK,FLK,FKP
+"Micronesia, Federated States Of",FM,FSM,USD
+Faroe Islands,FO,FRO,DKK
+France,FR,FRA,EUR
+Gabon,GA,GAB,XAF
+United Kingdom,GB,GBR,GBP
+Grenada,GD,GRD,XCD
+Georgia,GE,GEO,GEL
+French Guiana,GF,GUF,EUR
+Guernsey,GG,GGY,GBP
+Ghana,GH,GHA,GHS
+Gibraltar,GI,GIB,GIP
+Greenland,GL,GRL,DKK
+Gambia,GM,GMB,GMD
+Guinea,GN,GIN,GNF
+Guadeloupe,GP,GLP,EUR
+Equatorial Guinea,GQ,GNQ,XAF
+Greece,GR,GRC,EUR
+South Georgia And The South Sandwich Islands,GS,SGS,GBP
+Guatemala,GT,GTM,GTQ
+Guam,GU,GUM,USD
+Guinea-bissau,GW,GNB,XOF
+Guyana,GY,GUY,GYD
+Hong Kong,HK,HKG,HKD
+Heard Island And McDonald Islands,HM,HMD,AUD
+Honduras,HN,HND,HNL
+Croatia,HR,HRV,HRK
+Haiti,HT,HTI,"HTG,USD"
+Hungary,HU,HUN,HUF
+Indonesia,ID,IDN,IDR
+Ireland,IE,IRL,EUR
+Israel,IL,ISR,ILS
+Isle Of Man,IM,IMN,GBP
+India,IN,IND,INR
+British Indian Ocean Territory,IO,IOT,USD
+Iraq,IQ,IRQ,IQD
+"Iran, Islamic Republic Of",IR,IRN,IRR
+Iceland,IS,ISL,ISK
+Italy,IT,ITA,EUR
+Jersey,JE,JEY,GBP
+Jamaica,JM,JAM,JMD
+Jordan,JO,JOR,JOD
+Japan,JP,JPN,JPY
+Kenya,KE,KEN,KES
+Kyrgyzstan,KG,KGZ,KGS
+Cambodia,KH,KHM,KHR
+Kiribati,KI,KIR,AUD
+Comoros,KM,COM,KMF
+Saint Kitts And Nevis,KN,KNA,XCD
+"Korea, Democratic People's Republic Of",KP,PRK,KPW
+"Korea, Republic Of",KR,KOR,KRW
+Kuwait,KW,KWT,KWD
+Cayman Islands,KY,CYM,KYD
+Kazakhstan,KZ,KAZ,KZT
+Lao People's Democratic Republic,LA,LAO,LAK
+Lebanon,LB,LBN,LBP
+Saint Lucia,LC,LCA,XCD
+Liechtenstein,LI,LIE,CHF
+Sri Lanka,LK,LKA,LKR
+Liberia,LR,LBR,LRD
+Lesotho,LS,LSO,"LSL,ZAR"
+Lithuania,LT,LTU,LTL
+Luxembourg,LU,LUX,EUR
+Latvia,LV,LVA,LVL
+Libya,LY,LBY,LYD
+Morocco,MA,MAR,MAD
+Monaco,MC,MCO,EUR
+Moldova,MD,MDA,MDL
+Montenegro,ME,MNE,EUR
+Saint Martin,MF,MAF,EUR
+Madagascar,MG,MDG,MGA
+Marshall Islands,MH,MHL,USD
+"Macedonia, The Former Yugoslav Republic Of",MK,MKD,MKD
+Mali,ML,MLI,XOF
+Myanmar,MM,MMR,MMK
+Mongolia,MN,MNG,MNT
+Macao,MO,MAC,MOP
+Northern Mariana Islands,MP,MNP,USD
+Martinique,MQ,MTQ,EUR
+Mauritania,MR,MRT,MRO
+Montserrat,MS,MSR,XCD
+Malta,MT,MLT,EUR
+Mauritius,MU,MUS,MUR
+Maldives,MV,MDV,MVR
+Malawi,MW,MWI,MWK
+Mexico,MX,MEX,"MXN,MXV"
+Malaysia,MY,MYS,MYR
+Mozambique,MZ,MOZ,MZN
+Namibia,NA,NAM,"NAD,ZAR"
+New Caledonia,NC,NCL,XPF
+Niger,NE,NER,XOF
+Norfolk Island,NF,NFK,AUD
+Nigeria,NG,NGA,NGN
+Nicaragua,NI,NIC,NIO
+Netherlands,NL,NLD,EUR
+Norway,NO,NOR,NOK
+Nepal,NP,NPL,NPR
+Nauru,NR,NRU,AUD
+Niue,NU,NIU,NZD
+New Zealand,NZ,NZL,NZD
+Oman,OM,OMN,OMR
+Panama,PA,PAN,"PAB,USD"
+Peru,PE,PER,PEN
+French Polynesia,PF,PYF,XPF
+Papua New Guinea,PG,PNG,PGK
+Philippines,PH,PHL,PHP
+Pakistan,PK,PAK,PKR
+Poland,PL,POL,PLN
+Saint Pierre And Miquelon,PM,SPM,EUR
+Pitcairn,PN,PCN,NZD
+Puerto Rico,PR,PRI,USD
+"Palestinian Territory, Occupied",PS,PSE,"JOD,EGP,ILS"
+Portugal,PT,PRT,EUR
+Palau,PW,PLW,USD
+Paraguay,PY,PRY,PYG
+Qatar,QA,QAT,QAR
+Reunion,RE,REU,EUR
+Romania,RO,ROU,RON
+Serbia,RS,SRB,RSD
+Russian Federation,RU,RUS,RUB
+Rwanda,RW,RWA,RWF
+Saudi Arabia,SA,SAU,SAR
+Solomon Islands,SB,SLB,SBD
+Seychelles,SC,SYC,SCR
+Sudan,SD,SDN,SDG
+Sweden,SE,SWE,SEK
+Singapore,SG,SGP,SGD
+"Saint Helena, Ascension And Tristan Da Cunha",SH,SHN,SHP
+Slovenia,SI,SVN,EUR
+Svalbard And Jan Mayen,SJ,SJM,NOK
+Slovakia,SK,SVK,EUR
+Sierra Leone,SL,SLE,SLL
+San Marino,SM,SMR,EUR
+Senegal,SN,SEN,XOF
+Somalia,SO,SOM,SOS
+Suriname,SR,SUR,SRD
+Sao Tome And Principe,ST,STP,STD
+El Salvador,SV,SLV,"SVC,USD"
+Sint Maarten,SX,SXM,ANG
+Syrian Arab Republic,SY,SYR,SYP
+Swaziland,SZ,SWZ,SZL
+Turks And Caicos Islands,TC,TCA,USD
+Chad,TD,TCD,XAF
+French Southern Territories,TF,ATF,EUR
+Togo,TG,TGO,XOF
+Thailand,TH,THA,THB
+Tajikistan,TJ,TJK,TJS
+Tokelau,TK,TKL,NZD
+East Timor,TL,TLS,USD
+Turkmenistan,TM,TKM,TMT
+Tunisia,TN,TUN,TND
+Tonga,TO,TON,TOP
+Turkey,TR,TUR,TRY
+Trinidad And Tobago,TT,TTO,TTD
+Tuvalu,TV,TUV,AUD
+"Taiwan, Province Of China",TW,TWN,TWD
+"Tanzania, United Republic Of",TZ,TZA,TZS
+Ukraine,UA,UKR,UAH
+Uganda,UG,UGA,UGX
+United States Minor Outlying Islands,UM,UMI,USD
+United States,US,USA,USD
+Uruguay,UY,URY,"UYU,UYI"
+Uzbekistan,UZ,UZB,UZS
+Vatican City State,VA,VAT,EUR
+Saint Vincent And The Grenadines,VC,VCT,XCD
+"Venezuela, Bolivarian Republic Of",VE,VEN,VEF
+Virgin Islands (British),VG,VGB,USD
+Virgin Islands (US),VI,VIR,USD
+Viet Nam,VN,VNM,VND
+Vanuatu,VU,VUT,VUV
+Wallis And Futuna,WF,WLF,XPF
+Samoa,WS,WSM,WST
+Yemen,YE,YEM,YER
+Mayotte,YT,MYT,EUR
+South Africa,ZA,ZAF,ZAR
+Zambia,ZM,ZMB,ZMK
+Zimbabwe,ZW,ZWE,ZWL
