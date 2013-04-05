@@ -73,3 +73,7 @@ git push
 
 # Then send a pull request with your changes
 ```
+
+## Sources
+
+The currency data was copied from the [Wikipedia ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) page.
