@@ -5,6 +5,7 @@
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.
 
+
 ## Countries
 
 The data currently provided for each country is:
@@ -14,14 +15,15 @@ The data currently provided for each country is:
   * `alpha3` The [ISO 3166-1 alpha 3](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) code
   * `currencies` An array of [ISO 4217 currency codes](http://en.wikipedia.org/wiki/ISO_4217) with the primary one first
 
+
 ## Currencies
 
 It is not that useful to just have the currency code(s) for a country, so included is currency data too:
 
-    * `name` The english name for the currency
-    * `code` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) code
-    * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
-    * `decimals` The number of decimal digits conventionally shown
+  * `name` The english name for the currency
+  * `code` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) code
+  * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
+  * `decimals` The number of decimal digits conventionally shown
 
 
 ## Installing
@@ -89,6 +91,7 @@ git push
 
 # Then send a pull request with your changes
 ```
+
 
 ## Sources
 
