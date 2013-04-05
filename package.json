@@ -12,5 +12,12 @@
     "country"
   ],
   "author": "Edmund von der Burg",
-  "license": "AGPL"
+  "license": "AGPL",
+  "devDependencies": {
+    "canonical-json": "0.0.1",
+    "csv": "~0.2.9",
+    "underscore": "~1.4.4"
+  },
+  "dependencies": {
+  }
 }
