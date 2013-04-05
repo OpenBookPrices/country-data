@@ -1671,7 +1671,6 @@
     "alpha2": "SV",
     "alpha3": "SLV",
     "currencies": [
-      "SVC",
       "USD"
     ],
     "name": "El Salvador"
@@ -1977,7 +1976,7 @@
     "alpha2": "ZM",
     "alpha3": "ZMB",
     "currencies": [
-      "ZMK"
+      "ZMW"
     ],
     "name": "Zambia"
   },
@@ -1985,7 +1984,11 @@
     "alpha2": "ZW",
     "alpha3": "ZWE",
     "currencies": [
-      "ZWL"
+      "USD",
+      "ZAR",
+      "BWP",
+      "GBP",
+      "EUR"
     ],
     "name": "Zimbabwe"
   }

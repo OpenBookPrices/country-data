@@ -1,5 +1,8 @@
-var countries = require('..').countries,
-    assert    = require('assert');
+var countries  = require('..').countries,
+    currencies = require('..').currencies,
+    countryData = require('..').data.countries,
+    assert     = require('assert'),
+    _          = require('underscore');
 
 describe('countries', function () {
 
@@ -17,4 +20,15 @@ describe('countries', function () {
     });
   });
 
+  describe('check currencies for each country', function () {
+    _.each( countryData, function (country) {
+      describe(country.alpha2, function () {
+        _.each( country.currencies, function (currency) {
+          it(currency, function () {
+            assert( currencies.code[currency] );            
+          });
+        });
+      });
+    });
+  });
 });

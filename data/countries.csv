@@ -206,7 +206,7 @@ Senegal,SN,SEN,XOF
 Somalia,SO,SOM,SOS
 Suriname,SR,SUR,SRD
 Sao Tome And Principe,ST,STP,STD
-El Salvador,SV,SLV,"SVC,USD"
+El Salvador,SV,SLV,"USD"
 Sint Maarten,SX,SXM,ANG
 Syrian Arab Republic,SY,SYR,SYP
 Swaziland,SZ,SWZ,SZL
@@ -244,5 +244,5 @@ Samoa,WS,WSM,WST
 Yemen,YE,YEM,YER
 Mayotte,YT,MYT,EUR
 South Africa,ZA,ZAF,ZAR
-Zambia,ZM,ZMB,ZMK
-Zimbabwe,ZW,ZWE,ZWL
+Zambia,ZM,ZMB,ZMW
+Zimbabwe,ZW,ZWE,"USD,ZAR,BWP,GBP,EUR"
