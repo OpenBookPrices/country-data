@@ -5,12 +5,23 @@
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.
 
+## Countries
+
 The data currently provided for each country is:
 
   * `name` The english name for the country
   * `alpha2` The [ISO 3166-1 alpha 2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code
   * `alpha3` The [ISO 3166-1 alpha 3](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) code
   * `currencies` An array of [ISO 4217 currency codes](http://en.wikipedia.org/wiki/ISO_4217) with the primary one first
+
+## Currencies
+
+It is not that useful to just have the currency code(s) for a country, so included is currency data too:
+
+    * `name` The english name for the currency
+    * `code` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) code
+    * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
+    * `decimals` The number of decimal digits conventionally shown
 
 
 ## Installing
@@ -23,10 +34,15 @@ npm install country-data
 ## Example usage
 
 ``` javascript
-var countries = require('country-data').countries;
+var countries  = require('country-data').countries,
+    currencies = require('country-data').currencies;
 
+// countries are found using alpha2 or alpha3
 console.log( countries.alpha2.BE.name );        // 'Belgium'
 console.log( countries.alpha3.FRA.currencies ); // ['EUR']
+
+// currencies are accessed by their code
+console.log( currencies.code.USD.name ); // 'United States dollar'
 ```
 
 It is very simple for now - feel free to contribute more helpful accessors.
