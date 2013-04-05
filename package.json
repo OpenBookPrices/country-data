@@ -1,17 +1,17 @@
 {
   "name": "country-data",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Data about countries - like their ISO codes and currencies",
   "homepage": "https://github.com/LinkToBooks/country-data",
   "bugs": {
-    "url" : "https://github.com/LinkToBooks/country-data/issues"
+    "url": "https://github.com/LinkToBooks/country-data/issues"
   },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
-    "type" : "git",
+    "type": "git",
     "url": "https://github.com/LinkToBooks/country-data.git"
   },
   "keywords": [
