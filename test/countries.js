@@ -1,31 +1,36 @@
 var countries  = require('..').countries,
     currencies = require('..').currencies,
-    countryData = require('..').data.countries,
     assert     = require('assert'),
     _          = require('underscore');
 
 describe('countries', function () {
 
+  describe('all', function () {
+    it('should be array', function () {
+      assert( _.isArray(countries.all) );
+    });
+  });
+
   describe('alpha2', function () {
     it('should find USA', function () {
-      assert.equal( countries.alpha2.BE.name, 'Belgium');
-      assert.equal( countries.alpha2.US.name, 'United States');
+      assert.equal( countries.BE.name, 'Belgium');
+      assert.equal( countries.US.name, 'United States');
     });
   });
 
   describe('alpha3', function () {
     it('should find France', function () {
-      assert.equal( countries.alpha3.FRA.name, 'France');
-      assert.deepEqual( countries.alpha3.FRA.currencies, ['EUR']);
+      assert.equal( countries.FRA.name, 'France');
+      assert.deepEqual( countries.FRA.currencies, ['EUR']);
     });
   });
 
   describe('check currencies for each country', function () {
-    _.each( countryData, function (country) {
+    _.each( countries.all, function (country) {
       describe(country.alpha2, function () {
         _.each( country.currencies, function (currency) {
           it(currency, function () {
-            assert( currencies.code[currency] );            
+            assert( currencies[currency] );            
           });
         });
       });

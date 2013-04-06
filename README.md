@@ -39,12 +39,16 @@ npm install country-data
 var countries  = require('country-data').countries,
     currencies = require('country-data').currencies;
 
-// countries are found using alpha2 or alpha3
-console.log( countries.alpha2.BE.name );        // 'Belgium'
-console.log( countries.alpha3.FRA.currencies ); // ['EUR']
+// .all gives you an array of all entries
+console.log( countries.all );
+console.log( currencies.all );
 
-// currencies are accessed by their code
-console.log( currencies.code.USD.name ); // 'United States dollar'
+// countries are found using alpha2 or alpha3 (both uppercase)
+console.log( countries.BE.name );        // 'Belgium'
+console.log( countries.FRA.currencies ); // ['EUR']
+
+// currencies are accessed by their code (uppercase)
+console.log( currencies.USD.name ); // 'United States dollar'
 ```
 
 It is very simple for now - feel free to contribute more helpful accessors.
