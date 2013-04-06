@@ -5,6 +5,12 @@
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.
 
+## Work in Progress
+
+This code base may change a bit until it hits `0.1.x` - feel free to use it, but be sure to check between upgrades.
+
+I suspect that many of the `currencies` entries on the countries may be wrong. Help checking them would be appreciated.
+
 
 ## Countries
 
@@ -54,22 +60,32 @@ console.log( currencies.USD.name ); // 'United States dollar'
 It is very simple for now - feel free to contribute more helpful accessors.
 
 
-## Adding data
+## Possible future additions
 
 More data for each country is most welcome. Obvious things that it might be nice
 to add are:
 
+### Countries
+
   * Top level domains
   * Wikipedia links
   * Coordinates (centroid, bounding box, etc)
-  * International dialing codes
+  * International dialling codes
+  * Languages spoken - most common first
+  
+### Currencies
 
-The data is finally stored as JSON, but this is not always easy to manipulate.
-For this it is easier to edit the CSV files (using spreadsheet software) and
-then use the scripts in the data directory to convert the CSV to JSON. Please
-don't edit the JSON directly, but do it via the CSV.
+  * currency symbols
+  * other currency that it is [pegged](http://en.wikipedia.org/wiki/Fixed_exchange_rate) to
 
-These are the steps required
+
+## How to contribute
+
+The final format is JSON, but it is easier to work with CSV. Hence in the `data`
+folder there are CSV files and scripts that convert them to JSON. Please don't
+edit the JSON directly, but do it via the CSV.
+
+These are the steps required:
 
 ``` bash
 # Clone the repo (or better your fork of it)
@@ -83,7 +99,8 @@ npm install .
 open countries.csv
 
 # Convert the CSV to JSON
-node data/country_csv_to_json.js > data/countries.json
+node data/country_csv_to_json.js  > data/countries.json
+node data/currency_csv_to_json.js > data/currencies.json
 
 # Run the tests
 mocha
@@ -93,7 +110,8 @@ git add .
 git commit
 git push
 
-# Then send a pull request with your changes
+# Then send a pull request with your changes. Ideally use several small commits,
+# and reference a source that backs up the change.
 ```
 
 
