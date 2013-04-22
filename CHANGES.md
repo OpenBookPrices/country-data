@@ -1,5 +1,10 @@
 # Changes
 
+## v0.0.4
+
+  * added country ISO status
+  * added country calling codes
+
 ## v0.0.3
 
   * got rid of the `countries.alpha2.` style accessors.
