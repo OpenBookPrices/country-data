@@ -1,248 +1,248 @@
-name,alpha2,alpha3,currencies,status
-Andorra,AD,AND,EUR,assigned
-United Arab Emirates,AE,ARE,AED,assigned
-Afghanistan,AF,AFG,AFN,assigned
-Antigua And Barbuda,AG,ATG,XCD,assigned
-Anguilla,AI,AIA,XCD,assigned
-Albania,AL,ALB,ALL,assigned
-Armenia,AM,ARM,AMD,assigned
-Angola,AO,AGO,AOA,assigned
-Antarctica,AQ,ATA,,assigned
-Argentina,AR,ARG,ARS,assigned
-American Samoa,AS,ASM,USD,assigned
-Austria,AT,AUT,EUR,assigned
-Australia,AU,AUS,AUD,assigned
-Aruba,AW,ABW,AWG,assigned
-Azerbaijan,AZ,AZE,AZN,assigned
-Bosnia & Herzegovina,BA,BIH,BAM,assigned
-Barbados,BB,BRB,BBD,assigned
-Bangladesh,BD,BGD,BDT,assigned
-Belgium,BE,BEL,EUR,assigned
-Burkina Faso,BF,BFA,XOF,assigned
-Bulgaria,BG,BGR,BGN,assigned
-Bahrain,BH,BHR,BHD,assigned
-Burundi,BI,BDI,BIF,assigned
-Benin,BJ,BEN,XOF,assigned
-Saint Barthélemy,BL,BLM,EUR,assigned
-Bermuda,BM,BMU,BMD,assigned
-Brunei Darussalam,BN,BRN,BND,assigned
-"Bolivia, Plurinational State Of",BO,BOL,"BOB,BOV",assigned
-"Bonaire, Saint Eustatius And Saba",BQ,BES,USD,assigned
-Brazil,BR,BRA,BRL,assigned
-Bahamas,BS,BHS,BSD,assigned
-Bhutan,BT,BTN,"INR,BTN",assigned
-Bouvet Island,BV,BVT,NOK,assigned
-Botswana,BW,BWA,BWP,assigned
-Belarus,BY,BLR,BYR,assigned
-Belize,BZ,BLZ,BZD,assigned
-Canada,CA,CAN,CAD,assigned
-Cocos (Keeling) Islands,CC,CCK,AUD,assigned
-Democratic Republic Of Congo,CD,COD,CDF,assigned
-Central African Republic,CF,CAF,XAF,assigned
-Republic Of Congo,CG,COG,XAF,assigned
-Switzerland,CH,CHE,"CHF,CHE,CHW",assigned
-Cote d'Ivoire,CI,CIV,XOF,assigned
-Cook Islands,CK,COK,NZD,assigned
-Chile,CL,CHL,"CLP,CLF",assigned
-Cameroon,CM,CMR,XAF,assigned
-China,CN,CHN,CNY,assigned
-Colombia,CO,COL,"COP,COU",assigned
-Costa Rica,CR,CRI,CRC,assigned
-Cuba,CU,CUB,"CUP,CUC",assigned
-Cape Verde,CV,CPV,CVE,assigned
-Curacao,CW,CUW,ANG,assigned
-Christmas Island,CX,CXR,AUD,assigned
-Cyprus,CY,CYP,EUR,assigned
-Czech Republic,CZ,CZE,CZK,assigned
-Germany,DE,DEU,EUR,assigned
-Djibouti,DJ,DJI,DJF,assigned
-Denmark,DK,DNK,DKK,assigned
-Dominica,DM,DMA,XCD,assigned
-Dominican Republic,DO,DOM,DOP,assigned
-Algeria,DZ,DZA,DZD,assigned
-Ecuador,EC,ECU,USD,assigned
-Estonia,EE,EST,EUR,assigned
-Egypt,EG,EGY,EGP,assigned
-Western Sahara,EH,ESH,MAD,assigned
-Eritrea,ER,ERI,ERN,assigned
-Spain,ES,ESP,EUR,assigned
-Ethiopia,ET,ETH,ETB,assigned
-Finland,FI,FIN,EUR,assigned
-Fiji,FJ,FJI,FJD,assigned
-Falkland Islands,FK,FLK,FKP,assigned
-"Micronesia, Federated States Of",FM,FSM,USD,assigned
-Faroe Islands,FO,FRO,DKK,assigned
-France,FR,FRA,EUR,assigned
-Gabon,GA,GAB,XAF,assigned
-United Kingdom,GB,GBR,GBP,assigned
-Grenada,GD,GRD,XCD,assigned
-Georgia,GE,GEO,GEL,assigned
-French Guiana,GF,GUF,EUR,assigned
-Guernsey,GG,GGY,GBP,assigned
-Ghana,GH,GHA,GHS,assigned
-Gibraltar,GI,GIB,GIP,assigned
-Greenland,GL,GRL,DKK,assigned
-Gambia,GM,GMB,GMD,assigned
-Guinea,GN,GIN,GNF,assigned
-Guadeloupe,GP,GLP,EUR,assigned
-Equatorial Guinea,GQ,GNQ,XAF,assigned
-Greece,GR,GRC,EUR,assigned
-South Georgia And The South Sandwich Islands,GS,SGS,GBP,assigned
-Guatemala,GT,GTM,GTQ,assigned
-Guam,GU,GUM,USD,assigned
-Guinea-bissau,GW,GNB,XOF,assigned
-Guyana,GY,GUY,GYD,assigned
-Hong Kong,HK,HKG,HKD,assigned
-Heard Island And McDonald Islands,HM,HMD,AUD,assigned
-Honduras,HN,HND,HNL,assigned
-Croatia,HR,HRV,HRK,assigned
-Haiti,HT,HTI,"HTG,USD",assigned
-Hungary,HU,HUN,HUF,assigned
-Indonesia,ID,IDN,IDR,assigned
-Ireland,IE,IRL,EUR,assigned
-Israel,IL,ISR,ILS,assigned
-Isle Of Man,IM,IMN,GBP,assigned
-India,IN,IND,INR,assigned
-British Indian Ocean Territory,IO,IOT,USD,assigned
-Iraq,IQ,IRQ,IQD,assigned
-"Iran, Islamic Republic Of",IR,IRN,IRR,assigned
-Iceland,IS,ISL,ISK,assigned
-Italy,IT,ITA,EUR,assigned
-Jersey,JE,JEY,GBP,assigned
-Jamaica,JM,JAM,JMD,assigned
-Jordan,JO,JOR,JOD,assigned
-Japan,JP,JPN,JPY,assigned
-Kenya,KE,KEN,KES,assigned
-Kyrgyzstan,KG,KGZ,KGS,assigned
-Cambodia,KH,KHM,KHR,assigned
-Kiribati,KI,KIR,AUD,assigned
-Comoros,KM,COM,KMF,assigned
-Saint Kitts And Nevis,KN,KNA,XCD,assigned
-"Korea, Democratic People's Republic Of",KP,PRK,KPW,assigned
-"Korea, Republic Of",KR,KOR,KRW,assigned
-Kuwait,KW,KWT,KWD,assigned
-Cayman Islands,KY,CYM,KYD,assigned
-Kazakhstan,KZ,KAZ,KZT,assigned
-Lao People's Democratic Republic,LA,LAO,LAK,assigned
-Lebanon,LB,LBN,LBP,assigned
-Saint Lucia,LC,LCA,XCD,assigned
-Liechtenstein,LI,LIE,CHF,assigned
-Sri Lanka,LK,LKA,LKR,assigned
-Liberia,LR,LBR,LRD,assigned
-Lesotho,LS,LSO,"LSL,ZAR",assigned
-Lithuania,LT,LTU,LTL,assigned
-Luxembourg,LU,LUX,EUR,assigned
-Latvia,LV,LVA,LVL,assigned
-Libya,LY,LBY,LYD,assigned
-Morocco,MA,MAR,MAD,assigned
-Monaco,MC,MCO,EUR,assigned
-Moldova,MD,MDA,MDL,assigned
-Montenegro,ME,MNE,EUR,assigned
-Saint Martin,MF,MAF,EUR,assigned
-Madagascar,MG,MDG,MGA,assigned
-Marshall Islands,MH,MHL,USD,assigned
-"Macedonia, The Former Yugoslav Republic Of",MK,MKD,MKD,assigned
-Mali,ML,MLI,XOF,assigned
-Myanmar,MM,MMR,MMK,assigned
-Mongolia,MN,MNG,MNT,assigned
-Macao,MO,MAC,MOP,assigned
-Northern Mariana Islands,MP,MNP,USD,assigned
-Martinique,MQ,MTQ,EUR,assigned
-Mauritania,MR,MRT,MRO,assigned
-Montserrat,MS,MSR,XCD,assigned
-Malta,MT,MLT,EUR,assigned
-Mauritius,MU,MUS,MUR,assigned
-Maldives,MV,MDV,MVR,assigned
-Malawi,MW,MWI,MWK,assigned
-Mexico,MX,MEX,"MXN,MXV",assigned
-Malaysia,MY,MYS,MYR,assigned
-Mozambique,MZ,MOZ,MZN,assigned
-Namibia,NA,NAM,"NAD,ZAR",assigned
-New Caledonia,NC,NCL,XPF,assigned
-Niger,NE,NER,XOF,assigned
-Norfolk Island,NF,NFK,AUD,assigned
-Nigeria,NG,NGA,NGN,assigned
-Nicaragua,NI,NIC,NIO,assigned
-Netherlands,NL,NLD,EUR,assigned
-Norway,NO,NOR,NOK,assigned
-Nepal,NP,NPL,NPR,assigned
-Nauru,NR,NRU,AUD,assigned
-Niue,NU,NIU,NZD,assigned
-New Zealand,NZ,NZL,NZD,assigned
-Oman,OM,OMN,OMR,assigned
-Panama,PA,PAN,"PAB,USD",assigned
-Peru,PE,PER,PEN,assigned
-French Polynesia,PF,PYF,XPF,assigned
-Papua New Guinea,PG,PNG,PGK,assigned
-Philippines,PH,PHL,PHP,assigned
-Pakistan,PK,PAK,PKR,assigned
-Poland,PL,POL,PLN,assigned
-Saint Pierre And Miquelon,PM,SPM,EUR,assigned
-Pitcairn,PN,PCN,NZD,assigned
-Puerto Rico,PR,PRI,USD,assigned
-"Palestinian Territory, Occupied",PS,PSE,"JOD,EGP,ILS",assigned
-Portugal,PT,PRT,EUR,assigned
-Palau,PW,PLW,USD,assigned
-Paraguay,PY,PRY,PYG,assigned
-Qatar,QA,QAT,QAR,assigned
-Reunion,RE,REU,EUR,assigned
-Romania,RO,ROU,RON,assigned
-Serbia,RS,SRB,RSD,assigned
-Russian Federation,RU,RUS,RUB,assigned
-Rwanda,RW,RWA,RWF,assigned
-Saudi Arabia,SA,SAU,SAR,assigned
-Solomon Islands,SB,SLB,SBD,assigned
-Seychelles,SC,SYC,SCR,assigned
-Sudan,SD,SDN,SDG,assigned
-Sweden,SE,SWE,SEK,assigned
-Singapore,SG,SGP,SGD,assigned
-"Saint Helena, Ascension And Tristan Da Cunha",SH,SHN,SHP,assigned
-Slovenia,SI,SVN,EUR,assigned
-Svalbard And Jan Mayen,SJ,SJM,NOK,assigned
-Slovakia,SK,SVK,EUR,assigned
-Sierra Leone,SL,SLE,SLL,assigned
-San Marino,SM,SMR,EUR,assigned
-Senegal,SN,SEN,XOF,assigned
-Somalia,SO,SOM,SOS,assigned
-Suriname,SR,SUR,SRD,assigned
-Sao Tome And Principe,ST,STP,STD,assigned
-El Salvador,SV,SLV,USD,assigned
-Sint Maarten,SX,SXM,ANG,assigned
-Syrian Arab Republic,SY,SYR,SYP,assigned
-Swaziland,SZ,SWZ,SZL,assigned
-Turks And Caicos Islands,TC,TCA,USD,assigned
-Chad,TD,TCD,XAF,assigned
-French Southern Territories,TF,ATF,EUR,assigned
-Togo,TG,TGO,XOF,assigned
-Thailand,TH,THA,THB,assigned
-Tajikistan,TJ,TJK,TJS,assigned
-Tokelau,TK,TKL,NZD,assigned
-East Timor,TL,TLS,USD,assigned
-Turkmenistan,TM,TKM,TMT,assigned
-Tunisia,TN,TUN,TND,assigned
-Tonga,TO,TON,TOP,assigned
-Turkey,TR,TUR,TRY,assigned
-Trinidad And Tobago,TT,TTO,TTD,assigned
-Tuvalu,TV,TUV,AUD,assigned
-"Taiwan, Province Of China",TW,TWN,TWD,assigned
-"Tanzania, United Republic Of",TZ,TZA,TZS,assigned
-Ukraine,UA,UKR,UAH,assigned
-Uganda,UG,UGA,UGX,assigned
-United States Minor Outlying Islands,UM,UMI,USD,assigned
-United States,US,USA,USD,assigned
-Uruguay,UY,URY,"UYU,UYI",assigned
-Uzbekistan,UZ,UZB,UZS,assigned
-Vatican City State,VA,VAT,EUR,assigned
-Saint Vincent And The Grenadines,VC,VCT,XCD,assigned
-"Venezuela, Bolivarian Republic Of",VE,VEN,VEF,assigned
-Virgin Islands (British),VG,VGB,USD,assigned
-Virgin Islands (US),VI,VIR,USD,assigned
-Viet Nam,VN,VNM,VND,assigned
-Vanuatu,VU,VUT,VUV,assigned
-Wallis And Futuna,WF,WLF,XPF,assigned
-Samoa,WS,WSM,WST,assigned
-Yemen,YE,YEM,YER,assigned
-Mayotte,YT,MYT,EUR,assigned
-South Africa,ZA,ZAF,ZAR,assigned
-Zambia,ZM,ZMB,ZMW,assigned
-Zimbabwe,ZW,ZWE,"USD,ZAR,BWP,GBP,EUR",assigned
+name,alpha2,alpha3,currencies,ccTLD,status
+Andorra,AD,AND,EUR,,assigned
+United Arab Emirates,AE,ARE,AED,,assigned
+Afghanistan,AF,AFG,AFN,,assigned
+Antigua And Barbuda,AG,ATG,XCD,,assigned
+Anguilla,AI,AIA,XCD,,assigned
+Albania,AL,ALB,ALL,,assigned
+Armenia,AM,ARM,AMD,,assigned
+Angola,AO,AGO,AOA,,assigned
+Antarctica,AQ,ATA,,,assigned
+Argentina,AR,ARG,ARS,,assigned
+American Samoa,AS,ASM,USD,,assigned
+Austria,AT,AUT,EUR,,assigned
+Australia,AU,AUS,AUD,,assigned
+Aruba,AW,ABW,AWG,,assigned
+Azerbaijan,AZ,AZE,AZN,,assigned
+Bosnia & Herzegovina,BA,BIH,BAM,,assigned
+Barbados,BB,BRB,BBD,,assigned
+Bangladesh,BD,BGD,BDT,,assigned
+Belgium,BE,BEL,EUR,,assigned
+Burkina Faso,BF,BFA,XOF,,assigned
+Bulgaria,BG,BGR,BGN,,assigned
+Bahrain,BH,BHR,BHD,,assigned
+Burundi,BI,BDI,BIF,,assigned
+Benin,BJ,BEN,XOF,,assigned
+Saint Barthélemy,BL,BLM,EUR,,assigned
+Bermuda,BM,BMU,BMD,,assigned
+Brunei Darussalam,BN,BRN,BND,,assigned
+"Bolivia, Plurinational State Of",BO,BOL,"BOB,BOV",,assigned
+"Bonaire, Saint Eustatius And Saba",BQ,BES,USD,,assigned
+Brazil,BR,BRA,BRL,,assigned
+Bahamas,BS,BHS,BSD,,assigned
+Bhutan,BT,BTN,"INR,BTN",,assigned
+Bouvet Island,BV,BVT,NOK,,assigned
+Botswana,BW,BWA,BWP,,assigned
+Belarus,BY,BLR,BYR,,assigned
+Belize,BZ,BLZ,BZD,,assigned
+Canada,CA,CAN,CAD,,assigned
+Cocos (Keeling) Islands,CC,CCK,AUD,,assigned
+Democratic Republic Of Congo,CD,COD,CDF,,assigned
+Central African Republic,CF,CAF,XAF,,assigned
+Republic Of Congo,CG,COG,XAF,,assigned
+Switzerland,CH,CHE,"CHF,CHE,CHW",,assigned
+Cote d'Ivoire,CI,CIV,XOF,,assigned
+Cook Islands,CK,COK,NZD,,assigned
+Chile,CL,CHL,"CLP,CLF",,assigned
+Cameroon,CM,CMR,XAF,,assigned
+China,CN,CHN,CNY,,assigned
+Colombia,CO,COL,"COP,COU",,assigned
+Costa Rica,CR,CRI,CRC,,assigned
+Cuba,CU,CUB,"CUP,CUC",,assigned
+Cape Verde,CV,CPV,CVE,,assigned
+Curacao,CW,CUW,ANG,,assigned
+Christmas Island,CX,CXR,AUD,,assigned
+Cyprus,CY,CYP,EUR,,assigned
+Czech Republic,CZ,CZE,CZK,,assigned
+Germany,DE,DEU,EUR,,assigned
+Djibouti,DJ,DJI,DJF,,assigned
+Denmark,DK,DNK,DKK,,assigned
+Dominica,DM,DMA,XCD,,assigned
+Dominican Republic,DO,DOM,DOP,,assigned
+Algeria,DZ,DZA,DZD,,assigned
+Ecuador,EC,ECU,USD,,assigned
+Estonia,EE,EST,EUR,,assigned
+Egypt,EG,EGY,EGP,,assigned
+Western Sahara,EH,ESH,MAD,,assigned
+Eritrea,ER,ERI,ERN,,assigned
+Spain,ES,ESP,EUR,,assigned
+Ethiopia,ET,ETH,ETB,,assigned
+Finland,FI,FIN,EUR,,assigned
+Fiji,FJ,FJI,FJD,,assigned
+Falkland Islands,FK,FLK,FKP,,assigned
+"Micronesia, Federated States Of",FM,FSM,USD,,assigned
+Faroe Islands,FO,FRO,DKK,,assigned
+France,FR,FRA,EUR,,assigned
+Gabon,GA,GAB,XAF,,assigned
+United Kingdom,GB,GBR,GBP,,assigned
+Grenada,GD,GRD,XCD,,assigned
+Georgia,GE,GEO,GEL,,assigned
+French Guiana,GF,GUF,EUR,,assigned
+Guernsey,GG,GGY,GBP,,assigned
+Ghana,GH,GHA,GHS,,assigned
+Gibraltar,GI,GIB,GIP,,assigned
+Greenland,GL,GRL,DKK,,assigned
+Gambia,GM,GMB,GMD,,assigned
+Guinea,GN,GIN,GNF,,assigned
+Guadeloupe,GP,GLP,EUR,,assigned
+Equatorial Guinea,GQ,GNQ,XAF,,assigned
+Greece,GR,GRC,EUR,,assigned
+South Georgia And The South Sandwich Islands,GS,SGS,GBP,,assigned
+Guatemala,GT,GTM,GTQ,,assigned
+Guam,GU,GUM,USD,,assigned
+Guinea-bissau,GW,GNB,XOF,,assigned
+Guyana,GY,GUY,GYD,,assigned
+Hong Kong,HK,HKG,HKD,,assigned
+Heard Island And McDonald Islands,HM,HMD,AUD,,assigned
+Honduras,HN,HND,HNL,,assigned
+Croatia,HR,HRV,HRK,,assigned
+Haiti,HT,HTI,"HTG,USD",,assigned
+Hungary,HU,HUN,HUF,,assigned
+Indonesia,ID,IDN,IDR,,assigned
+Ireland,IE,IRL,EUR,,assigned
+Israel,IL,ISR,ILS,,assigned
+Isle Of Man,IM,IMN,GBP,,assigned
+India,IN,IND,INR,,assigned
+British Indian Ocean Territory,IO,IOT,USD,,assigned
+Iraq,IQ,IRQ,IQD,,assigned
+"Iran, Islamic Republic Of",IR,IRN,IRR,,assigned
+Iceland,IS,ISL,ISK,,assigned
+Italy,IT,ITA,EUR,,assigned
+Jersey,JE,JEY,GBP,,assigned
+Jamaica,JM,JAM,JMD,,assigned
+Jordan,JO,JOR,JOD,,assigned
+Japan,JP,JPN,JPY,,assigned
+Kenya,KE,KEN,KES,,assigned
+Kyrgyzstan,KG,KGZ,KGS,,assigned
+Cambodia,KH,KHM,KHR,,assigned
+Kiribati,KI,KIR,AUD,,assigned
+Comoros,KM,COM,KMF,,assigned
+Saint Kitts And Nevis,KN,KNA,XCD,,assigned
+"Korea, Democratic People's Republic Of",KP,PRK,KPW,,assigned
+"Korea, Republic Of",KR,KOR,KRW,,assigned
+Kuwait,KW,KWT,KWD,,assigned
+Cayman Islands,KY,CYM,KYD,,assigned
+Kazakhstan,KZ,KAZ,KZT,,assigned
+Lao People's Democratic Republic,LA,LAO,LAK,,assigned
+Lebanon,LB,LBN,LBP,,assigned
+Saint Lucia,LC,LCA,XCD,,assigned
+Liechtenstein,LI,LIE,CHF,,assigned
+Sri Lanka,LK,LKA,LKR,,assigned
+Liberia,LR,LBR,LRD,,assigned
+Lesotho,LS,LSO,"LSL,ZAR",,assigned
+Lithuania,LT,LTU,LTL,,assigned
+Luxembourg,LU,LUX,EUR,,assigned
+Latvia,LV,LVA,LVL,,assigned
+Libya,LY,LBY,LYD,,assigned
+Morocco,MA,MAR,MAD,,assigned
+Monaco,MC,MCO,EUR,,assigned
+Moldova,MD,MDA,MDL,,assigned
+Montenegro,ME,MNE,EUR,,assigned
+Saint Martin,MF,MAF,EUR,,assigned
+Madagascar,MG,MDG,MGA,,assigned
+Marshall Islands,MH,MHL,USD,,assigned
+"Macedonia, The Former Yugoslav Republic Of",MK,MKD,MKD,,assigned
+Mali,ML,MLI,XOF,,assigned
+Myanmar,MM,MMR,MMK,,assigned
+Mongolia,MN,MNG,MNT,,assigned
+Macao,MO,MAC,MOP,,assigned
+Northern Mariana Islands,MP,MNP,USD,,assigned
+Martinique,MQ,MTQ,EUR,,assigned
+Mauritania,MR,MRT,MRO,,assigned
+Montserrat,MS,MSR,XCD,,assigned
+Malta,MT,MLT,EUR,,assigned
+Mauritius,MU,MUS,MUR,,assigned
+Maldives,MV,MDV,MVR,,assigned
+Malawi,MW,MWI,MWK,,assigned
+Mexico,MX,MEX,"MXN,MXV",,assigned
+Malaysia,MY,MYS,MYR,,assigned
+Mozambique,MZ,MOZ,MZN,,assigned
+Namibia,NA,NAM,"NAD,ZAR",,assigned
+New Caledonia,NC,NCL,XPF,,assigned
+Niger,NE,NER,XOF,,assigned
+Norfolk Island,NF,NFK,AUD,,assigned
+Nigeria,NG,NGA,NGN,,assigned
+Nicaragua,NI,NIC,NIO,,assigned
+Netherlands,NL,NLD,EUR,,assigned
+Norway,NO,NOR,NOK,,assigned
+Nepal,NP,NPL,NPR,,assigned
+Nauru,NR,NRU,AUD,,assigned
+Niue,NU,NIU,NZD,,assigned
+New Zealand,NZ,NZL,NZD,,assigned
+Oman,OM,OMN,OMR,,assigned
+Panama,PA,PAN,"PAB,USD",,assigned
+Peru,PE,PER,PEN,,assigned
+French Polynesia,PF,PYF,XPF,,assigned
+Papua New Guinea,PG,PNG,PGK,,assigned
+Philippines,PH,PHL,PHP,,assigned
+Pakistan,PK,PAK,PKR,,assigned
+Poland,PL,POL,PLN,,assigned
+Saint Pierre And Miquelon,PM,SPM,EUR,,assigned
+Pitcairn,PN,PCN,NZD,,assigned
+Puerto Rico,PR,PRI,USD,,assigned
+"Palestinian Territory, Occupied",PS,PSE,"JOD,EGP,ILS",,assigned
+Portugal,PT,PRT,EUR,,assigned
+Palau,PW,PLW,USD,,assigned
+Paraguay,PY,PRY,PYG,,assigned
+Qatar,QA,QAT,QAR,,assigned
+Reunion,RE,REU,EUR,,assigned
+Romania,RO,ROU,RON,,assigned
+Serbia,RS,SRB,RSD,,assigned
+Russian Federation,RU,RUS,RUB,,assigned
+Rwanda,RW,RWA,RWF,,assigned
+Saudi Arabia,SA,SAU,SAR,,assigned
+Solomon Islands,SB,SLB,SBD,,assigned
+Seychelles,SC,SYC,SCR,,assigned
+Sudan,SD,SDN,SDG,,assigned
+Sweden,SE,SWE,SEK,,assigned
+Singapore,SG,SGP,SGD,,assigned
+"Saint Helena, Ascension And Tristan Da Cunha",SH,SHN,SHP,,assigned
+Slovenia,SI,SVN,EUR,,assigned
+Svalbard And Jan Mayen,SJ,SJM,NOK,,assigned
+Slovakia,SK,SVK,EUR,,assigned
+Sierra Leone,SL,SLE,SLL,,assigned
+San Marino,SM,SMR,EUR,,assigned
+Senegal,SN,SEN,XOF,,assigned
+Somalia,SO,SOM,SOS,,assigned
+Suriname,SR,SUR,SRD,,assigned
+Sao Tome And Principe,ST,STP,STD,,assigned
+El Salvador,SV,SLV,USD,,assigned
+Sint Maarten,SX,SXM,ANG,,assigned
+Syrian Arab Republic,SY,SYR,SYP,,assigned
+Swaziland,SZ,SWZ,SZL,,assigned
+Turks And Caicos Islands,TC,TCA,USD,,assigned
+Chad,TD,TCD,XAF,,assigned
+French Southern Territories,TF,ATF,EUR,,assigned
+Togo,TG,TGO,XOF,,assigned
+Thailand,TH,THA,THB,,assigned
+Tajikistan,TJ,TJK,TJS,,assigned
+Tokelau,TK,TKL,NZD,,assigned
+East Timor,TL,TLS,USD,,assigned
+Turkmenistan,TM,TKM,TMT,,assigned
+Tunisia,TN,TUN,TND,,assigned
+Tonga,TO,TON,TOP,,assigned
+Turkey,TR,TUR,TRY,,assigned
+Trinidad And Tobago,TT,TTO,TTD,,assigned
+Tuvalu,TV,TUV,AUD,,assigned
+"Taiwan, Province Of China",TW,TWN,TWD,,assigned
+"Tanzania, United Republic Of",TZ,TZA,TZS,,assigned
+Ukraine,UA,UKR,UAH,,assigned
+Uganda,UG,UGA,UGX,,assigned
+United States Minor Outlying Islands,UM,UMI,USD,,assigned
+United States,US,USA,USD,,assigned
+Uruguay,UY,URY,"UYU,UYI",,assigned
+Uzbekistan,UZ,UZB,UZS,,assigned
+Vatican City State,VA,VAT,EUR,,assigned
+Saint Vincent And The Grenadines,VC,VCT,XCD,,assigned
+"Venezuela, Bolivarian Republic Of",VE,VEN,VEF,,assigned
+Virgin Islands (British),VG,VGB,USD,,assigned
+Virgin Islands (US),VI,VIR,USD,,assigned
+Viet Nam,VN,VNM,VND,,assigned
+Vanuatu,VU,VUT,VUV,,assigned
+Wallis And Futuna,WF,WLF,XPF,,assigned
+Samoa,WS,WSM,WST,,assigned
+Yemen,YE,YEM,YER,,assigned
+Mayotte,YT,MYT,EUR,,assigned
+South Africa,ZA,ZAF,ZAR,,assigned
+Zambia,ZM,ZMB,ZMW,,assigned
+Zimbabwe,ZW,ZWE,"USD,ZAR,BWP,GBP,EUR",,assigned

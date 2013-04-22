@@ -20,12 +20,17 @@ csv()
     // sort by alpha2
     countries = _.sortBy(countries, function (i) { return i.alpha2;} );
 
+    // strip out fields that are not ready yet
+    _.each(countries, function (country) {
+      delete country.ccTLD;
+    });
+
     // change the currencies to be an array
     _.each(countries, function (country) {
       country.currencies = country.currencies ? country.currencies.split(',') : [];
     });
 
     // print out results to stdout
-    console.log( canonicalJSON( countries, null, 2 ));  
+    console.log( canonicalJSON( countries, null, 2 ));
 
   });
