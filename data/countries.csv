@@ -1,4 +1,5 @@
 name,alpha2,alpha3,currencies,ccTLD,status
+Ascension Island,AC,,"SHP,USD",.ac,reserved
 Andorra,AD,AND,EUR,,assigned
 United Arab Emirates,AE,ARE,AED,,assigned
 Afghanistan,AF,AFG,AFN,,assigned
@@ -47,6 +48,7 @@ Chile,CL,CHL,"CLP,CLF",,assigned
 Cameroon,CM,CMR,XAF,,assigned
 China,CN,CHN,CNY,,assigned
 Colombia,CO,COL,"COP,COU",,assigned
+Clipperton Island,CP,,EUR,,reserved
 Costa Rica,CR,CRI,CRC,,assigned
 Cuba,CU,CUB,"CUP,CUC",,assigned
 Cape Verde,CV,CPV,CVE,,assigned
@@ -55,11 +57,13 @@ Christmas Island,CX,CXR,AUD,,assigned
 Cyprus,CY,CYP,EUR,,assigned
 Czech Republic,CZ,CZE,CZK,,assigned
 Germany,DE,DEU,EUR,,assigned
+Diego Garcia,DG,,USD,,reserved
 Djibouti,DJ,DJI,DJF,,assigned
 Denmark,DK,DNK,DKK,,assigned
 Dominica,DM,DMA,XCD,,assigned
 Dominican Republic,DO,DOM,DOP,,assigned
 Algeria,DZ,DZA,DZD,,assigned
+"Ceuta, Mulilla",EA,,EUR,,reserved
 Ecuador,EC,ECU,USD,,assigned
 Estonia,EE,EST,EUR,,assigned
 Egypt,EG,EGY,EGP,,assigned
@@ -67,12 +71,14 @@ Western Sahara,EH,ESH,MAD,,assigned
 Eritrea,ER,ERI,ERN,,assigned
 Spain,ES,ESP,EUR,,assigned
 Ethiopia,ET,ETH,ETB,,assigned
+European Union,EU,,EUR,.eu,reserved
 Finland,FI,FIN,EUR,,assigned
 Fiji,FJ,FJI,FJD,,assigned
 Falkland Islands,FK,FLK,FKP,,assigned
 "Micronesia, Federated States Of",FM,FSM,USD,,assigned
 Faroe Islands,FO,FRO,DKK,,assigned
 France,FR,FRA,EUR,,assigned
+"France, Metropolitan",FX,,EUR,,reserved
 Gabon,GA,GAB,XAF,,assigned
 United Kingdom,GB,GBR,GBP,,assigned
 Grenada,GD,GRD,XCD,,assigned
@@ -98,6 +104,7 @@ Honduras,HN,HND,HNL,,assigned
 Croatia,HR,HRV,HRK,,assigned
 Haiti,HT,HTI,"HTG,USD",,assigned
 Hungary,HU,HUN,HUF,,assigned
+Canary Islands,IC,,EUR,,reserved
 Indonesia,ID,IDN,IDR,,assigned
 Ireland,IE,IRL,EUR,,assigned
 Israel,IL,ISR,ILS,,assigned
@@ -206,10 +213,12 @@ Senegal,SN,SEN,XOF,,assigned
 Somalia,SO,SOM,SOS,,assigned
 Suriname,SR,SUR,SRD,,assigned
 Sao Tome And Principe,ST,STP,STD,,assigned
+USSR,SU,,RUB,.su,reserved
 El Salvador,SV,SLV,USD,,assigned
 Sint Maarten,SX,SXM,ANG,,assigned
 Syrian Arab Republic,SY,SYR,SYP,,assigned
 Swaziland,SZ,SWZ,SZL,,assigned
+Tristan de Cunha,TA,,GBP,,reserved
 Turks And Caicos Islands,TC,TCA,USD,,assigned
 Chad,TD,TCD,XAF,,assigned
 French Southern Territories,TF,ATF,EUR,,assigned
@@ -228,6 +237,7 @@ Tuvalu,TV,TUV,AUD,,assigned
 "Tanzania, United Republic Of",TZ,TZA,TZS,,assigned
 Ukraine,UA,UKR,UAH,,assigned
 Uganda,UG,UGA,UGX,,assigned
+United Kingdom,UK,,GBP,.uk,reserved
 United States Minor Outlying Islands,UM,UMI,USD,,assigned
 United States,US,USA,USD,,assigned
 Uruguay,UY,URY,"UYU,UYI",,assigned

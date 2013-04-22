@@ -1,5 +1,15 @@
 [
   {
+    "alpha2": "AC",
+    "alpha3": "",
+    "currencies": [
+      "SHP",
+      "USD"
+    ],
+    "name": "Ascension Island",
+    "status": "reserved"
+  },
+  {
     "alpha2": "AD",
     "alpha3": "AND",
     "currencies": [
@@ -436,6 +446,15 @@
     "status": "assigned"
   },
   {
+    "alpha2": "CP",
+    "alpha3": "",
+    "currencies": [
+      "EUR"
+    ],
+    "name": "Clipperton Island",
+    "status": "reserved"
+  },
+  {
     "alpha2": "CR",
     "alpha3": "CRI",
     "currencies": [
@@ -509,6 +528,15 @@
     "status": "assigned"
   },
   {
+    "alpha2": "DG",
+    "alpha3": "",
+    "currencies": [
+      "USD"
+    ],
+    "name": "Diego Garcia",
+    "status": "reserved"
+  },
+  {
     "alpha2": "DJ",
     "alpha3": "DJI",
     "currencies": [
@@ -552,6 +580,15 @@
     ],
     "name": "Algeria",
     "status": "assigned"
+  },
+  {
+    "alpha2": "EA",
+    "alpha3": "",
+    "currencies": [
+      "EUR"
+    ],
+    "name": "Ceuta, Mulilla",
+    "status": "reserved"
   },
   {
     "alpha2": "EC",
@@ -617,6 +654,15 @@
     "status": "assigned"
   },
   {
+    "alpha2": "EU",
+    "alpha3": "",
+    "currencies": [
+      "EUR"
+    ],
+    "name": "European Union",
+    "status": "reserved"
+  },
+  {
     "alpha2": "FI",
     "alpha3": "FIN",
     "currencies": [
@@ -669,6 +715,15 @@
     ],
     "name": "France",
     "status": "assigned"
+  },
+  {
+    "alpha2": "FX",
+    "alpha3": "",
+    "currencies": [
+      "EUR"
+    ],
+    "name": "France, Metropolitan",
+    "status": "reserved"
   },
   {
     "alpha2": "GA",
@@ -895,6 +950,15 @@
     ],
     "name": "Hungary",
     "status": "assigned"
+  },
+  {
+    "alpha2": "IC",
+    "alpha3": "",
+    "currencies": [
+      "EUR"
+    ],
+    "name": "Canary Islands",
+    "status": "reserved"
   },
   {
     "alpha2": "ID",
@@ -1875,6 +1939,15 @@
     "status": "assigned"
   },
   {
+    "alpha2": "SU",
+    "alpha3": "",
+    "currencies": [
+      "RUB"
+    ],
+    "name": "USSR",
+    "status": "reserved"
+  },
+  {
     "alpha2": "SV",
     "alpha3": "SLV",
     "currencies": [
@@ -1909,6 +1982,15 @@
     ],
     "name": "Swaziland",
     "status": "assigned"
+  },
+  {
+    "alpha2": "TA",
+    "alpha3": "",
+    "currencies": [
+      "GBP"
+    ],
+    "name": "Tristan de Cunha",
+    "status": "reserved"
   },
   {
     "alpha2": "TC",
@@ -2071,6 +2153,15 @@
     ],
     "name": "Uganda",
     "status": "assigned"
+  },
+  {
+    "alpha2": "UK",
+    "alpha3": "",
+    "currencies": [
+      "GBP"
+    ],
+    "name": "United Kingdom",
+    "status": "reserved"
   },
   {
     "alpha2": "UM",
