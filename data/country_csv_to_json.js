@@ -25,9 +25,13 @@ csv()
       delete country.ccTLD;
     });
 
-    // change the currencies to be an array
-    _.each(countries, function (country) {
-      country.currencies = country.currencies ? country.currencies.split(',') : [];
+
+
+    // change the appropriate fields to be an array
+    _.each(['currencies', 'countryCallingCodes'], function(key) {
+      _.each(countries, function (country) {
+        country[key] = country[key] ? country[key].split(',') : [];
+      });
     });
 
     // print out results to stdout

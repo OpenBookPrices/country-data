@@ -19,9 +19,9 @@ The data currently provided for each country is:
   * `name` The english name for the country
   * `alpha2` The [ISO 3166-1 alpha 2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code
   * `alpha3` The [ISO 3166-1 alpha 3](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) code
-  * `status`: The ISO status of the entry: either 'assigned' or 'reserved'. 
+  * `status`: The ISO status of the entry: either 'assigned' or 'reserved'.
   * `currencies` An array of [ISO 4217 currency codes](http://en.wikipedia.org/wiki/ISO_4217) with the primary one first
-
+  * `countryCallingCodes` An array of the international call prefixes for this country.
 
 ## Currencies
 
@@ -73,7 +73,7 @@ to add are:
   * Coordinates (centroid, bounding box, etc)
   * International dialling codes
   * Languages spoken - most common first
-  
+
 ### Currencies
 
   * currency symbols
@@ -119,3 +119,5 @@ git push
 ## Sources
 
 The currency data was copied from the [Wikipedia ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) page.
+
+The country callicodes came from the  [Wikipedia country calling codes](http://en.wikipedia.org/wiki/List_of_country_calling_codes) page.
