@@ -16,9 +16,9 @@ csv()
   })
   .on('end', function () {
 
-    // sort by alpha2
+    // sort by name
     countries = _.sortBy(countries, function(i) {
-      return i.alpha2
+      return i.name
     })
 
     // change the appropriate fields to be an array
@@ -48,6 +48,6 @@ csv()
 
 
     // print out results to stdout
-    console.log( canonicalJSON( jsonCountries, null, 2 ));
+    console.log( JSON.stringify( jsonCountries, null, 2 ));
 
   });
