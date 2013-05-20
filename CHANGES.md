@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.7
+
+  * Corrected several calling codes (GB, GA, GF, GG)
+
 ## v0.0.6
 
   * Added link to libphonenumber

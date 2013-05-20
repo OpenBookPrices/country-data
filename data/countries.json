@@ -963,7 +963,7 @@
     "alpha2": "GA",
     "alpha3": "GAB",
     "countryCallingCodes": [
-      "+44"
+      "+241"
     ],
     "currencies": [
       "XAF"
@@ -975,7 +975,7 @@
     "alpha2": "GB",
     "alpha3": "GBR",
     "countryCallingCodes": [
-      "+1 473"
+      "+44"
     ],
     "currencies": [
       "GBP"
@@ -1011,7 +1011,7 @@
     "alpha2": "GF",
     "alpha3": "GUF",
     "countryCallingCodes": [
-      "+44"
+      "+594"
     ],
     "currencies": [
       "EUR"
@@ -1022,7 +1022,9 @@
   {
     "alpha2": "GG",
     "alpha3": "GGY",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+44"
+    ],
     "currencies": [
       "GBP"
     ],
