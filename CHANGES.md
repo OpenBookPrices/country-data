@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.4
+
+  * added script for <https://getprove.com> usage
+
 ## v0.0.3
 
   * got rid of the `countries.alpha2.` style accessors.

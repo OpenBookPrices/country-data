@@ -1,9 +1,11 @@
 var countriesAll  = require('./data/countries.json'),
+    countriesAll2 = require('./data/countries2.json'),
     currenciesAll = require('./data/currencies.json'),
     _               = require('underscore');
 
 exports.countries = {
   all: countriesAll,
+  all2: countriesAll2
 };
 
 _.each(countriesAll, function (country) {
