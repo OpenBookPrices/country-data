@@ -152,7 +152,7 @@
   "BV": {
     "name": "Bouvet Island",
     "iso2": "BV",
-    "code": ""
+    "code": "47"
   },
   "BR": {
     "name": "Brazil",
@@ -202,7 +202,7 @@
   "IC": {
     "name": "Canary Islands",
     "iso2": "IC",
-    "code": ""
+    "code": "34"
   },
   "CV": {
     "name": "Cape Verde",
@@ -222,7 +222,7 @@
   "EA": {
     "name": "Ceuta, Mulilla",
     "iso2": "EA",
-    "code": ""
+    "code": "34"
   },
   "TD": {
     "name": "Chad",
@@ -317,7 +317,7 @@
   "DG": {
     "name": "Diego Garcia",
     "iso2": "DG",
-    "code": ""
+    "code": "246"
   },
   "DJ": {
     "name": "Djibouti",
@@ -422,7 +422,7 @@
   "TF": {
     "name": "French Southern Territories",
     "iso2": "TF",
-    "code": ""
+    "code": "689"
   },
   "GA": {
     "name": "Gabon",
@@ -487,7 +487,7 @@
   "GG": {
     "name": "Guernsey",
     "iso2": "GG",
-    "code": ""
+    "code": "44"
   },
   "GN": {
     "name": "Guinea",
@@ -902,7 +902,7 @@
   "PN": {
     "name": "Pitcairn",
     "iso2": "PN",
-    "code": ""
+    "code": "870"
   },
   "PL": {
     "name": "Poland",
@@ -1062,7 +1062,7 @@
   "GS": {
     "name": "South Georgia And The South Sandwich Islands",
     "iso2": "GS",
-    "code": ""
+    "code": "500"
   },
   "ES": {
     "name": "Spain",
@@ -1182,7 +1182,7 @@
   "SU": {
     "name": "USSR",
     "iso2": "SU",
-    "code": ""
+    "code": "7"
   },
   "UG": {
     "name": "Uganda",
@@ -1207,7 +1207,7 @@
   "UK": {
     "name": "United Kingdom",
     "iso2": "UK",
-    "code": ""
+    "code": "44"
   },
   "US": {
     "name": "United States",
@@ -1217,7 +1217,7 @@
   "UM": {
     "name": "United States Minor Outlying Islands",
     "iso2": "UM",
-    "code": ""
+    "code": "699"
   },
   "UY": {
     "name": "Uruguay",
