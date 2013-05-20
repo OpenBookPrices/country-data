@@ -16,9 +16,9 @@ csv()
   })
   .on('end', function () {
 
-    // sort by name
+    // sort by alpha2
     countries = _.sortBy(countries, function(i) {
-      return i.name
+      return i.alpha2
     })
 
     // change the appropriate fields to be an array
