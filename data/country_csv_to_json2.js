@@ -25,6 +25,7 @@ csv()
     _.each(['countryCallingCodes'], function(key) {
       _.each(countries, function (country) {
         country[key] = country[key] ? country[key].split(',') : [];
+        country[key] = (country[key].length > 0) ? country[key][0] : ''
       })
     })
 
@@ -37,9 +38,11 @@ csv()
       // rename alpha2 to iso2
       country.iso2 = country.alpha2;
       delete country.alpha2;
-      // rename countryCallingCodes to codes
-      country.codes = country.countryCallingCodes;
+      // rename countryCallingCodes to code
+      country.code = country.countryCallingCodes;
       delete country.countryCallingCodes;
+      // strip the '+' from code
+      country.code = country.code.replace(/\+/g, '')
       jsonCountries[country.iso2] = country
     })
 
