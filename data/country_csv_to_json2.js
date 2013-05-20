@@ -26,6 +26,9 @@ csv()
       _.each(countries, function (country) {
         country[key] = country[key] ? country[key].split(',') : [];
         country[key] = (country[key].length > 0) ? country[key][0] : ''
+        // if calling code empty, then remove it (e.g. clipperton island)
+        if (country[key] === '')
+          delete countries[country];
       })
     })
 
