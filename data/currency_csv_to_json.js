@@ -13,6 +13,10 @@ var currencies = [];
 csv()
   .from.path(csvFile, { columns: true })
   .on('record', function (row) {
+
+    // convert decimals to and number
+    row.decimals = parseInt(row.decimals);
+
     currencies.push(row);
   })
   .on('end', function () {
@@ -21,6 +25,6 @@ csv()
     currencies = _.sortBy(currencies, function (i) { return i.code;} );
 
     // print out results to stdout
-    console.log( canonicalJSON( currencies, null, 2 ));  
+    console.log( canonicalJSON( currencies, null, 2 ));
 
   });

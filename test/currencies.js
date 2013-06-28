@@ -16,4 +16,10 @@ describe('currencies', function () {
     });
   });
 
+  describe('formatting', function () {
+    it("decimals should be numbers", function () {
+      assert(_.isNumber(currencies.USD.decimals));      
+    });
+  });
+
 });

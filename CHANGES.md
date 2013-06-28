@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.5
+
+  * in currencies make the `decimals` an integer
+
 ## v0.0.4
 
   * added country ISO status
