@@ -80,6 +80,11 @@ to add are:
   * other currency that it is [pegged](http://en.wikipedia.org/wiki/Fixed_exchange_rate) to
 
 
+## Other similar bits of code
+
+* [libphonenumber](https://code.google.com/p/libphonenumber/) "Google's common Java, C++ and Javascript library for parsing, formatting, storing and validating international phone numbers."
+
+
 ## How to contribute
 
 The final format is JSON, but it is easier to work with CSV. Hence in the `data`

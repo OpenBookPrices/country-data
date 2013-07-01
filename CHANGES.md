@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.6
+
+  * Added link to libphonenumber
+
 ## v0.0.5
 
   * in currencies make the `decimals` an integer
