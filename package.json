@@ -2,9 +2,9 @@
   "name": "country-data",
   "version": "0.0.5",
   "description": "Data about countries - like their ISO codes and currencies",
-  "homepage": "https://github.com/LinkToBooks/country-data",
+  "homepage": "https://github.com/OpenBookPrices/country-data",
   "bugs": {
-    "url": "https://github.com/LinkToBooks/country-data/issues"
+    "url": "https://github.com/OpenBookPrices/country-data/issues"
   },
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LinkToBooks/country-data.git"
+    "url": "https://github.com/OpenBookPrices/country-data.git"
   },
   "keywords": [
     "data",
