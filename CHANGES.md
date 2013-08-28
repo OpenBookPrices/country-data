@@ -3,6 +3,7 @@
 ## v0.0.6
 
   * Added link to libphonenumber
+  * Repo name change - to OpenBookPrices from LinkToBooks
 
 ## v0.0.5
 
