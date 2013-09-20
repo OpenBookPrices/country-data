@@ -6,9 +6,9 @@
       "+247"
     ],
     "currencies": [
-      "SHP",
       "USD"
     ],
+    "ioc": "SHP",
     "name": "Ascension Island",
     "status": "reserved"
   },
@@ -21,6 +21,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "AND",
     "name": "Andorra",
     "status": "assigned"
   },
@@ -33,6 +34,7 @@
     "currencies": [
       "AED"
     ],
+    "ioc": "UAE",
     "name": "United Arab Emirates",
     "status": "assigned"
   },
@@ -45,6 +47,7 @@
     "currencies": [
       "AFN"
     ],
+    "ioc": "AFG",
     "name": "Afghanistan",
     "status": "assigned"
   },
@@ -57,6 +60,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "ANT",
     "name": "Antigua And Barbuda",
     "status": "assigned"
   },
@@ -69,6 +73,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "",
     "name": "Anguilla",
     "status": "assigned"
   },
@@ -81,6 +86,7 @@
     "currencies": [
       "ALL"
     ],
+    "ioc": "ALB",
     "name": "Albania",
     "status": "assigned"
   },
@@ -93,6 +99,7 @@
     "currencies": [
       "AMD"
     ],
+    "ioc": "ARM",
     "name": "Armenia",
     "status": "assigned"
   },
@@ -105,6 +112,7 @@
     "currencies": [
       "AOA"
     ],
+    "ioc": "ANG",
     "name": "Angola",
     "status": "assigned"
   },
@@ -115,6 +123,7 @@
       "+672"
     ],
     "currencies": [],
+    "ioc": "",
     "name": "Antarctica",
     "status": "assigned"
   },
@@ -127,6 +136,7 @@
     "currencies": [
       "ARS"
     ],
+    "ioc": "ARG",
     "name": "Argentina",
     "status": "assigned"
   },
@@ -139,6 +149,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "ASA",
     "name": "American Samoa",
     "status": "assigned"
   },
@@ -151,6 +162,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "AUT",
     "name": "Austria",
     "status": "assigned"
   },
@@ -163,6 +175,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "AUS",
     "name": "Australia",
     "status": "assigned"
   },
@@ -175,6 +188,7 @@
     "currencies": [
       "AWG"
     ],
+    "ioc": "ARU",
     "name": "Aruba",
     "status": "assigned"
   },
@@ -187,6 +201,7 @@
     "currencies": [
       "AZN"
     ],
+    "ioc": "AZE",
     "name": "Azerbaijan",
     "status": "assigned"
   },
@@ -199,6 +214,7 @@
     "currencies": [
       "BAM"
     ],
+    "ioc": "BIH",
     "name": "Bosnia & Herzegovina",
     "status": "assigned"
   },
@@ -211,6 +227,7 @@
     "currencies": [
       "BBD"
     ],
+    "ioc": "BAR",
     "name": "Barbados",
     "status": "assigned"
   },
@@ -223,6 +240,7 @@
     "currencies": [
       "BDT"
     ],
+    "ioc": "BAN",
     "name": "Bangladesh",
     "status": "assigned"
   },
@@ -235,6 +253,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "BEL",
     "name": "Belgium",
     "status": "assigned"
   },
@@ -247,6 +266,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "BUR",
     "name": "Burkina Faso",
     "status": "assigned"
   },
@@ -259,6 +279,7 @@
     "currencies": [
       "BGN"
     ],
+    "ioc": "BUL",
     "name": "Bulgaria",
     "status": "assigned"
   },
@@ -271,6 +292,7 @@
     "currencies": [
       "BHD"
     ],
+    "ioc": "BRN",
     "name": "Bahrain",
     "status": "assigned"
   },
@@ -283,6 +305,7 @@
     "currencies": [
       "BIF"
     ],
+    "ioc": "BDI",
     "name": "Burundi",
     "status": "assigned"
   },
@@ -295,6 +318,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "BEN",
     "name": "Benin",
     "status": "assigned"
   },
@@ -307,6 +331,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Saint Barthélemy",
     "status": "assigned"
   },
@@ -319,6 +344,7 @@
     "currencies": [
       "BMD"
     ],
+    "ioc": "BER",
     "name": "Bermuda",
     "status": "assigned"
   },
@@ -331,6 +357,7 @@
     "currencies": [
       "BND"
     ],
+    "ioc": "BRU",
     "name": "Brunei Darussalam",
     "status": "assigned"
   },
@@ -344,6 +371,7 @@
       "BOB",
       "BOV"
     ],
+    "ioc": "BOL",
     "name": "Bolivia, Plurinational State Of",
     "status": "assigned"
   },
@@ -356,6 +384,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "Bonaire, Saint Eustatius And Saba",
     "status": "assigned"
   },
@@ -368,6 +397,7 @@
     "currencies": [
       "BRL"
     ],
+    "ioc": "BRA",
     "name": "Brazil",
     "status": "assigned"
   },
@@ -380,6 +410,7 @@
     "currencies": [
       "BSD"
     ],
+    "ioc": "BAH",
     "name": "Bahamas",
     "status": "assigned"
   },
@@ -393,6 +424,7 @@
       "INR",
       "BTN"
     ],
+    "ioc": "BHU",
     "name": "Bhutan",
     "status": "assigned"
   },
@@ -403,6 +435,7 @@
     "currencies": [
       "NOK"
     ],
+    "ioc": "",
     "name": "Bouvet Island",
     "status": "assigned"
   },
@@ -415,6 +448,7 @@
     "currencies": [
       "BWP"
     ],
+    "ioc": "BOT",
     "name": "Botswana",
     "status": "assigned"
   },
@@ -427,6 +461,7 @@
     "currencies": [
       "BYR"
     ],
+    "ioc": "BLR",
     "name": "Belarus",
     "status": "assigned"
   },
@@ -439,6 +474,7 @@
     "currencies": [
       "BZD"
     ],
+    "ioc": "BIZ",
     "name": "Belize",
     "status": "assigned"
   },
@@ -451,6 +487,7 @@
     "currencies": [
       "CAD"
     ],
+    "ioc": "CAN",
     "name": "Canada",
     "status": "assigned"
   },
@@ -463,6 +500,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "",
     "name": "Cocos (Keeling) Islands",
     "status": "assigned"
   },
@@ -475,6 +513,7 @@
     "currencies": [
       "CDF"
     ],
+    "ioc": "COD",
     "name": "Democratic Republic Of Congo",
     "status": "assigned"
   },
@@ -487,6 +526,7 @@
     "currencies": [
       "XAF"
     ],
+    "ioc": "CAF",
     "name": "Central African Republic",
     "status": "assigned"
   },
@@ -499,6 +539,7 @@
     "currencies": [
       "XAF"
     ],
+    "ioc": "CGO",
     "name": "Republic Of Congo",
     "status": "assigned"
   },
@@ -513,6 +554,7 @@
       "CHE",
       "CHW"
     ],
+    "ioc": "SUI",
     "name": "Switzerland",
     "status": "assigned"
   },
@@ -525,6 +567,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "CIV",
     "name": "Cote d'Ivoire",
     "status": "assigned"
   },
@@ -537,6 +580,7 @@
     "currencies": [
       "NZD"
     ],
+    "ioc": "COK",
     "name": "Cook Islands",
     "status": "assigned"
   },
@@ -550,6 +594,7 @@
       "CLP",
       "CLF"
     ],
+    "ioc": "CHI",
     "name": "Chile",
     "status": "assigned"
   },
@@ -562,6 +607,7 @@
     "currencies": [
       "XAF"
     ],
+    "ioc": "CMR",
     "name": "Cameroon",
     "status": "assigned"
   },
@@ -574,6 +620,7 @@
     "currencies": [
       "CNY"
     ],
+    "ioc": "CHN",
     "name": "China",
     "status": "assigned"
   },
@@ -587,6 +634,7 @@
       "COP",
       "COU"
     ],
+    "ioc": "COL",
     "name": "Colombia",
     "status": "assigned"
   },
@@ -597,6 +645,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Clipperton Island",
     "status": "reserved"
   },
@@ -609,6 +658,7 @@
     "currencies": [
       "CRC"
     ],
+    "ioc": "CRC",
     "name": "Costa Rica",
     "status": "assigned"
   },
@@ -622,6 +672,7 @@
       "CUP",
       "CUC"
     ],
+    "ioc": "CUB",
     "name": "Cuba",
     "status": "assigned"
   },
@@ -634,6 +685,7 @@
     "currencies": [
       "CVE"
     ],
+    "ioc": "CPV",
     "name": "Cape Verde",
     "status": "assigned"
   },
@@ -646,6 +698,7 @@
     "currencies": [
       "ANG"
     ],
+    "ioc": "",
     "name": "Curacao",
     "status": "assigned"
   },
@@ -658,6 +711,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "",
     "name": "Christmas Island",
     "status": "assigned"
   },
@@ -670,6 +724,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "CYP",
     "name": "Cyprus",
     "status": "assigned"
   },
@@ -682,6 +737,7 @@
     "currencies": [
       "CZK"
     ],
+    "ioc": "CZE",
     "name": "Czech Republic",
     "status": "assigned"
   },
@@ -694,6 +750,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "GER",
     "name": "Germany",
     "status": "assigned"
   },
@@ -704,6 +761,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "Diego Garcia",
     "status": "reserved"
   },
@@ -716,6 +774,7 @@
     "currencies": [
       "DJF"
     ],
+    "ioc": "DJI",
     "name": "Djibouti",
     "status": "assigned"
   },
@@ -728,6 +787,7 @@
     "currencies": [
       "DKK"
     ],
+    "ioc": "DEN",
     "name": "Denmark",
     "status": "assigned"
   },
@@ -740,6 +800,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "DMA",
     "name": "Dominica",
     "status": "assigned"
   },
@@ -754,6 +815,7 @@
     "currencies": [
       "DOP"
     ],
+    "ioc": "DOM",
     "name": "Dominican Republic",
     "status": "assigned"
   },
@@ -766,6 +828,7 @@
     "currencies": [
       "DZD"
     ],
+    "ioc": "ALG",
     "name": "Algeria",
     "status": "assigned"
   },
@@ -776,6 +839,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Ceuta, Mulilla",
     "status": "reserved"
   },
@@ -788,6 +852,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "ECU",
     "name": "Ecuador",
     "status": "assigned"
   },
@@ -800,6 +865,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "EST",
     "name": "Estonia",
     "status": "assigned"
   },
@@ -812,6 +878,7 @@
     "currencies": [
       "EGP"
     ],
+    "ioc": "EGY",
     "name": "Egypt",
     "status": "assigned"
   },
@@ -824,6 +891,7 @@
     "currencies": [
       "MAD"
     ],
+    "ioc": "",
     "name": "Western Sahara",
     "status": "assigned"
   },
@@ -836,6 +904,7 @@
     "currencies": [
       "ERN"
     ],
+    "ioc": "ERI",
     "name": "Eritrea",
     "status": "assigned"
   },
@@ -848,6 +917,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "ESP",
     "name": "Spain",
     "status": "assigned"
   },
@@ -860,6 +930,7 @@
     "currencies": [
       "ETB"
     ],
+    "ioc": "ETH",
     "name": "Ethiopia",
     "status": "assigned"
   },
@@ -872,6 +943,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "European Union",
     "status": "reserved"
   },
@@ -884,6 +956,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "FIN",
     "name": "Finland",
     "status": "assigned"
   },
@@ -896,6 +969,7 @@
     "currencies": [
       "FJD"
     ],
+    "ioc": "FIJ",
     "name": "Fiji",
     "status": "assigned"
   },
@@ -908,6 +982,7 @@
     "currencies": [
       "FKP"
     ],
+    "ioc": "",
     "name": "Falkland Islands",
     "status": "assigned"
   },
@@ -920,6 +995,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "Micronesia, Federated States Of",
     "status": "assigned"
   },
@@ -932,6 +1008,7 @@
     "currencies": [
       "DKK"
     ],
+    "ioc": "FAI",
     "name": "Faroe Islands",
     "status": "assigned"
   },
@@ -944,6 +1021,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "FRA",
     "name": "France",
     "status": "assigned"
   },
@@ -956,6 +1034,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "France, Metropolitan",
     "status": "reserved"
   },
@@ -968,6 +1047,7 @@
     "currencies": [
       "XAF"
     ],
+    "ioc": "GAB",
     "name": "Gabon",
     "status": "assigned"
   },
@@ -980,6 +1060,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "GBR",
     "name": "United Kingdom",
     "status": "assigned"
   },
@@ -992,6 +1073,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "GRN",
     "name": "Grenada",
     "status": "assigned"
   },
@@ -1004,6 +1086,7 @@
     "currencies": [
       "GEL"
     ],
+    "ioc": "GEO",
     "name": "Georgia",
     "status": "assigned"
   },
@@ -1016,6 +1099,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "French Guiana",
     "status": "assigned"
   },
@@ -1028,6 +1112,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "GCI",
     "name": "Guernsey",
     "status": "assigned"
   },
@@ -1040,6 +1125,7 @@
     "currencies": [
       "GHS"
     ],
+    "ioc": "GHA",
     "name": "Ghana",
     "status": "assigned"
   },
@@ -1052,6 +1138,7 @@
     "currencies": [
       "GIP"
     ],
+    "ioc": "",
     "name": "Gibraltar",
     "status": "assigned"
   },
@@ -1064,6 +1151,7 @@
     "currencies": [
       "DKK"
     ],
+    "ioc": "",
     "name": "Greenland",
     "status": "assigned"
   },
@@ -1076,6 +1164,7 @@
     "currencies": [
       "GMD"
     ],
+    "ioc": "GAM",
     "name": "Gambia",
     "status": "assigned"
   },
@@ -1088,6 +1177,7 @@
     "currencies": [
       "GNF"
     ],
+    "ioc": "GUI",
     "name": "Guinea",
     "status": "assigned"
   },
@@ -1100,6 +1190,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Guadeloupe",
     "status": "assigned"
   },
@@ -1112,6 +1203,7 @@
     "currencies": [
       "XAF"
     ],
+    "ioc": "GEQ",
     "name": "Equatorial Guinea",
     "status": "assigned"
   },
@@ -1124,6 +1216,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "GRE",
     "name": "Greece",
     "status": "assigned"
   },
@@ -1134,6 +1227,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "",
     "name": "South Georgia And The South Sandwich Islands",
     "status": "assigned"
   },
@@ -1146,6 +1240,7 @@
     "currencies": [
       "GTQ"
     ],
+    "ioc": "GUA",
     "name": "Guatemala",
     "status": "assigned"
   },
@@ -1158,6 +1253,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "GUM",
     "name": "Guam",
     "status": "assigned"
   },
@@ -1170,6 +1266,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "GBS",
     "name": "Guinea-bissau",
     "status": "assigned"
   },
@@ -1182,6 +1279,7 @@
     "currencies": [
       "GYD"
     ],
+    "ioc": "GUY",
     "name": "Guyana",
     "status": "assigned"
   },
@@ -1194,6 +1292,7 @@
     "currencies": [
       "HKD"
     ],
+    "ioc": "HKG",
     "name": "Hong Kong",
     "status": "assigned"
   },
@@ -1204,6 +1303,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "",
     "name": "Heard Island And McDonald Islands",
     "status": "assigned"
   },
@@ -1216,6 +1316,7 @@
     "currencies": [
       "HNL"
     ],
+    "ioc": "HON",
     "name": "Honduras",
     "status": "assigned"
   },
@@ -1228,6 +1329,7 @@
     "currencies": [
       "HRK"
     ],
+    "ioc": "CRO",
     "name": "Croatia",
     "status": "assigned"
   },
@@ -1241,6 +1343,7 @@
       "HTG",
       "USD"
     ],
+    "ioc": "HAI",
     "name": "Haiti",
     "status": "assigned"
   },
@@ -1253,6 +1356,7 @@
     "currencies": [
       "HUF"
     ],
+    "ioc": "HUN",
     "name": "Hungary",
     "status": "assigned"
   },
@@ -1263,6 +1367,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Canary Islands",
     "status": "reserved"
   },
@@ -1275,6 +1380,7 @@
     "currencies": [
       "IDR"
     ],
+    "ioc": "INA",
     "name": "Indonesia",
     "status": "assigned"
   },
@@ -1287,6 +1393,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "IRL",
     "name": "Ireland",
     "status": "assigned"
   },
@@ -1299,6 +1406,7 @@
     "currencies": [
       "ILS"
     ],
+    "ioc": "ISR",
     "name": "Israel",
     "status": "assigned"
   },
@@ -1311,6 +1419,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "",
     "name": "Isle Of Man",
     "status": "assigned"
   },
@@ -1323,6 +1432,7 @@
     "currencies": [
       "INR"
     ],
+    "ioc": "IND",
     "name": "India",
     "status": "assigned"
   },
@@ -1335,6 +1445,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "British Indian Ocean Territory",
     "status": "assigned"
   },
@@ -1347,6 +1458,7 @@
     "currencies": [
       "IQD"
     ],
+    "ioc": "IRQ",
     "name": "Iraq",
     "status": "assigned"
   },
@@ -1359,6 +1471,7 @@
     "currencies": [
       "IRR"
     ],
+    "ioc": "IRI",
     "name": "Iran, Islamic Republic Of",
     "status": "assigned"
   },
@@ -1371,6 +1484,7 @@
     "currencies": [
       "ISK"
     ],
+    "ioc": "ISL",
     "name": "Iceland",
     "status": "assigned"
   },
@@ -1383,6 +1497,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "ITA",
     "name": "Italy",
     "status": "assigned"
   },
@@ -1395,6 +1510,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "JCI",
     "name": "Jersey",
     "status": "assigned"
   },
@@ -1407,6 +1523,7 @@
     "currencies": [
       "JMD"
     ],
+    "ioc": "JAM",
     "name": "Jamaica",
     "status": "assigned"
   },
@@ -1419,6 +1536,7 @@
     "currencies": [
       "JOD"
     ],
+    "ioc": "JOR",
     "name": "Jordan",
     "status": "assigned"
   },
@@ -1431,6 +1549,7 @@
     "currencies": [
       "JPY"
     ],
+    "ioc": "JPN",
     "name": "Japan",
     "status": "assigned"
   },
@@ -1443,6 +1562,7 @@
     "currencies": [
       "KES"
     ],
+    "ioc": "KEN",
     "name": "Kenya",
     "status": "assigned"
   },
@@ -1455,6 +1575,7 @@
     "currencies": [
       "KGS"
     ],
+    "ioc": "KGZ",
     "name": "Kyrgyzstan",
     "status": "assigned"
   },
@@ -1467,6 +1588,7 @@
     "currencies": [
       "KHR"
     ],
+    "ioc": "CAM",
     "name": "Cambodia",
     "status": "assigned"
   },
@@ -1479,6 +1601,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "KIR",
     "name": "Kiribati",
     "status": "assigned"
   },
@@ -1491,6 +1614,7 @@
     "currencies": [
       "KMF"
     ],
+    "ioc": "COM",
     "name": "Comoros",
     "status": "assigned"
   },
@@ -1503,6 +1627,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "SKN",
     "name": "Saint Kitts And Nevis",
     "status": "assigned"
   },
@@ -1515,6 +1640,7 @@
     "currencies": [
       "KPW"
     ],
+    "ioc": "PRK",
     "name": "Korea, Democratic People's Republic Of",
     "status": "assigned"
   },
@@ -1527,6 +1653,7 @@
     "currencies": [
       "KRW"
     ],
+    "ioc": "KOR",
     "name": "Korea, Republic Of",
     "status": "assigned"
   },
@@ -1539,6 +1666,7 @@
     "currencies": [
       "KWD"
     ],
+    "ioc": "KUW",
     "name": "Kuwait",
     "status": "assigned"
   },
@@ -1551,6 +1679,7 @@
     "currencies": [
       "KYD"
     ],
+    "ioc": "CAY",
     "name": "Cayman Islands",
     "status": "assigned"
   },
@@ -1565,6 +1694,7 @@
     "currencies": [
       "KZT"
     ],
+    "ioc": "KAZ",
     "name": "Kazakhstan",
     "status": "assigned"
   },
@@ -1577,6 +1707,7 @@
     "currencies": [
       "LAK"
     ],
+    "ioc": "LAO",
     "name": "Lao People's Democratic Republic",
     "status": "assigned"
   },
@@ -1589,6 +1720,7 @@
     "currencies": [
       "LBP"
     ],
+    "ioc": "LIB",
     "name": "Lebanon",
     "status": "assigned"
   },
@@ -1601,6 +1733,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "LCA",
     "name": "Saint Lucia",
     "status": "assigned"
   },
@@ -1613,6 +1746,7 @@
     "currencies": [
       "CHF"
     ],
+    "ioc": "LIE",
     "name": "Liechtenstein",
     "status": "assigned"
   },
@@ -1625,6 +1759,7 @@
     "currencies": [
       "LKR"
     ],
+    "ioc": "SRI",
     "name": "Sri Lanka",
     "status": "assigned"
   },
@@ -1637,6 +1772,7 @@
     "currencies": [
       "LRD"
     ],
+    "ioc": "LBR",
     "name": "Liberia",
     "status": "assigned"
   },
@@ -1650,6 +1786,7 @@
       "LSL",
       "ZAR"
     ],
+    "ioc": "LES",
     "name": "Lesotho",
     "status": "assigned"
   },
@@ -1662,6 +1799,7 @@
     "currencies": [
       "LTL"
     ],
+    "ioc": "LTU",
     "name": "Lithuania",
     "status": "assigned"
   },
@@ -1674,6 +1812,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "LUX",
     "name": "Luxembourg",
     "status": "assigned"
   },
@@ -1686,6 +1825,7 @@
     "currencies": [
       "LVL"
     ],
+    "ioc": "LAT",
     "name": "Latvia",
     "status": "assigned"
   },
@@ -1698,6 +1838,7 @@
     "currencies": [
       "LYD"
     ],
+    "ioc": "LBA",
     "name": "Libya",
     "status": "assigned"
   },
@@ -1710,6 +1851,7 @@
     "currencies": [
       "MAD"
     ],
+    "ioc": "MAR",
     "name": "Morocco",
     "status": "assigned"
   },
@@ -1722,6 +1864,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "MON",
     "name": "Monaco",
     "status": "assigned"
   },
@@ -1734,6 +1877,7 @@
     "currencies": [
       "MDL"
     ],
+    "ioc": "MDA",
     "name": "Moldova",
     "status": "assigned"
   },
@@ -1746,6 +1890,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "MNE",
     "name": "Montenegro",
     "status": "assigned"
   },
@@ -1758,6 +1903,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Saint Martin",
     "status": "assigned"
   },
@@ -1770,6 +1916,7 @@
     "currencies": [
       "MGA"
     ],
+    "ioc": "MAD",
     "name": "Madagascar",
     "status": "assigned"
   },
@@ -1782,6 +1929,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "MHL",
     "name": "Marshall Islands",
     "status": "assigned"
   },
@@ -1794,6 +1942,7 @@
     "currencies": [
       "MKD"
     ],
+    "ioc": "MKD",
     "name": "Macedonia, The Former Yugoslav Republic Of",
     "status": "assigned"
   },
@@ -1806,6 +1955,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "MLI",
     "name": "Mali",
     "status": "assigned"
   },
@@ -1818,6 +1968,7 @@
     "currencies": [
       "MMK"
     ],
+    "ioc": "MYA",
     "name": "Myanmar",
     "status": "assigned"
   },
@@ -1830,6 +1981,7 @@
     "currencies": [
       "MNT"
     ],
+    "ioc": "MGL",
     "name": "Mongolia",
     "status": "assigned"
   },
@@ -1842,6 +1994,7 @@
     "currencies": [
       "MOP"
     ],
+    "ioc": "MAC",
     "name": "Macao",
     "status": "assigned"
   },
@@ -1854,6 +2007,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "Northern Mariana Islands",
     "status": "assigned"
   },
@@ -1866,6 +2020,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Martinique",
     "status": "assigned"
   },
@@ -1878,6 +2033,7 @@
     "currencies": [
       "MRO"
     ],
+    "ioc": "MTN",
     "name": "Mauritania",
     "status": "assigned"
   },
@@ -1890,6 +2046,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "",
     "name": "Montserrat",
     "status": "assigned"
   },
@@ -1902,6 +2059,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "MLT",
     "name": "Malta",
     "status": "assigned"
   },
@@ -1914,6 +2072,7 @@
     "currencies": [
       "MUR"
     ],
+    "ioc": "MRI",
     "name": "Mauritius",
     "status": "assigned"
   },
@@ -1926,6 +2085,7 @@
     "currencies": [
       "MVR"
     ],
+    "ioc": "MDV",
     "name": "Maldives",
     "status": "assigned"
   },
@@ -1938,6 +2098,7 @@
     "currencies": [
       "MWK"
     ],
+    "ioc": "MAW",
     "name": "Malawi",
     "status": "assigned"
   },
@@ -1951,6 +2112,7 @@
       "MXN",
       "MXV"
     ],
+    "ioc": "MEX",
     "name": "Mexico",
     "status": "assigned"
   },
@@ -1963,6 +2125,7 @@
     "currencies": [
       "MYR"
     ],
+    "ioc": "MAS",
     "name": "Malaysia",
     "status": "assigned"
   },
@@ -1975,6 +2138,7 @@
     "currencies": [
       "MZN"
     ],
+    "ioc": "MOZ",
     "name": "Mozambique",
     "status": "assigned"
   },
@@ -1988,6 +2152,7 @@
       "NAD",
       "ZAR"
     ],
+    "ioc": "NAM",
     "name": "Namibia",
     "status": "assigned"
   },
@@ -2000,6 +2165,7 @@
     "currencies": [
       "XPF"
     ],
+    "ioc": "",
     "name": "New Caledonia",
     "status": "assigned"
   },
@@ -2012,6 +2178,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "NIG",
     "name": "Niger",
     "status": "assigned"
   },
@@ -2024,6 +2191,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "",
     "name": "Norfolk Island",
     "status": "assigned"
   },
@@ -2036,6 +2204,7 @@
     "currencies": [
       "NGN"
     ],
+    "ioc": "NGR",
     "name": "Nigeria",
     "status": "assigned"
   },
@@ -2048,6 +2217,7 @@
     "currencies": [
       "NIO"
     ],
+    "ioc": "NCA",
     "name": "Nicaragua",
     "status": "assigned"
   },
@@ -2060,6 +2230,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "NED",
     "name": "Netherlands",
     "status": "assigned"
   },
@@ -2072,6 +2243,7 @@
     "currencies": [
       "NOK"
     ],
+    "ioc": "NOR",
     "name": "Norway",
     "status": "assigned"
   },
@@ -2084,6 +2256,7 @@
     "currencies": [
       "NPR"
     ],
+    "ioc": "NEP",
     "name": "Nepal",
     "status": "assigned"
   },
@@ -2096,6 +2269,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "NRU",
     "name": "Nauru",
     "status": "assigned"
   },
@@ -2108,6 +2282,7 @@
     "currencies": [
       "NZD"
     ],
+    "ioc": "",
     "name": "Niue",
     "status": "assigned"
   },
@@ -2120,6 +2295,7 @@
     "currencies": [
       "NZD"
     ],
+    "ioc": "NZL",
     "name": "New Zealand",
     "status": "assigned"
   },
@@ -2132,6 +2308,7 @@
     "currencies": [
       "OMR"
     ],
+    "ioc": "OMA",
     "name": "Oman",
     "status": "assigned"
   },
@@ -2145,6 +2322,7 @@
       "PAB",
       "USD"
     ],
+    "ioc": "PAN",
     "name": "Panama",
     "status": "assigned"
   },
@@ -2157,6 +2335,7 @@
     "currencies": [
       "PEN"
     ],
+    "ioc": "PER",
     "name": "Peru",
     "status": "assigned"
   },
@@ -2169,6 +2348,7 @@
     "currencies": [
       "XPF"
     ],
+    "ioc": "",
     "name": "French Polynesia",
     "status": "assigned"
   },
@@ -2181,6 +2361,7 @@
     "currencies": [
       "PGK"
     ],
+    "ioc": "PNG",
     "name": "Papua New Guinea",
     "status": "assigned"
   },
@@ -2193,6 +2374,7 @@
     "currencies": [
       "PHP"
     ],
+    "ioc": "PHI",
     "name": "Philippines",
     "status": "assigned"
   },
@@ -2205,6 +2387,7 @@
     "currencies": [
       "PKR"
     ],
+    "ioc": "PAK",
     "name": "Pakistan",
     "status": "assigned"
   },
@@ -2217,6 +2400,7 @@
     "currencies": [
       "PLN"
     ],
+    "ioc": "POL",
     "name": "Poland",
     "status": "assigned"
   },
@@ -2229,6 +2413,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Saint Pierre And Miquelon",
     "status": "assigned"
   },
@@ -2239,6 +2424,7 @@
     "currencies": [
       "NZD"
     ],
+    "ioc": "",
     "name": "Pitcairn",
     "status": "assigned"
   },
@@ -2252,6 +2438,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "PUR",
     "name": "Puerto Rico",
     "status": "assigned"
   },
@@ -2266,6 +2453,7 @@
       "EGP",
       "ILS"
     ],
+    "ioc": "PLE",
     "name": "Palestinian Territory, Occupied",
     "status": "assigned"
   },
@@ -2278,6 +2466,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "POR",
     "name": "Portugal",
     "status": "assigned"
   },
@@ -2290,6 +2479,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "PLW",
     "name": "Palau",
     "status": "assigned"
   },
@@ -2302,6 +2492,7 @@
     "currencies": [
       "PYG"
     ],
+    "ioc": "PAR",
     "name": "Paraguay",
     "status": "assigned"
   },
@@ -2314,6 +2505,7 @@
     "currencies": [
       "QAR"
     ],
+    "ioc": "QAT",
     "name": "Qatar",
     "status": "assigned"
   },
@@ -2326,6 +2518,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Reunion",
     "status": "assigned"
   },
@@ -2338,6 +2531,7 @@
     "currencies": [
       "RON"
     ],
+    "ioc": "ROU",
     "name": "Romania",
     "status": "assigned"
   },
@@ -2350,6 +2544,7 @@
     "currencies": [
       "RSD"
     ],
+    "ioc": "SRB",
     "name": "Serbia",
     "status": "assigned"
   },
@@ -2365,6 +2560,7 @@
     "currencies": [
       "RUB"
     ],
+    "ioc": "RUS",
     "name": "Russian Federation",
     "status": "assigned"
   },
@@ -2377,6 +2573,7 @@
     "currencies": [
       "RWF"
     ],
+    "ioc": "RWA",
     "name": "Rwanda",
     "status": "assigned"
   },
@@ -2389,6 +2586,7 @@
     "currencies": [
       "SAR"
     ],
+    "ioc": "KSA",
     "name": "Saudi Arabia",
     "status": "assigned"
   },
@@ -2401,6 +2599,7 @@
     "currencies": [
       "SBD"
     ],
+    "ioc": "SOL",
     "name": "Solomon Islands",
     "status": "assigned"
   },
@@ -2413,6 +2612,7 @@
     "currencies": [
       "SCR"
     ],
+    "ioc": "SEY",
     "name": "Seychelles",
     "status": "assigned"
   },
@@ -2425,6 +2625,7 @@
     "currencies": [
       "SDG"
     ],
+    "ioc": "SUD",
     "name": "Sudan",
     "status": "assigned"
   },
@@ -2437,6 +2638,7 @@
     "currencies": [
       "SEK"
     ],
+    "ioc": "SWE",
     "name": "Sweden",
     "status": "assigned"
   },
@@ -2449,6 +2651,7 @@
     "currencies": [
       "SGD"
     ],
+    "ioc": "SIN",
     "name": "Singapore",
     "status": "assigned"
   },
@@ -2461,6 +2664,7 @@
     "currencies": [
       "SHP"
     ],
+    "ioc": "",
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
     "status": "assigned"
   },
@@ -2473,6 +2677,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "SLO",
     "name": "Slovenia",
     "status": "assigned"
   },
@@ -2485,6 +2690,7 @@
     "currencies": [
       "NOK"
     ],
+    "ioc": "",
     "name": "Svalbard And Jan Mayen",
     "status": "assigned"
   },
@@ -2497,6 +2703,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "SVK",
     "name": "Slovakia",
     "status": "assigned"
   },
@@ -2509,6 +2716,7 @@
     "currencies": [
       "SLL"
     ],
+    "ioc": "SLE",
     "name": "Sierra Leone",
     "status": "assigned"
   },
@@ -2521,6 +2729,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "SMR",
     "name": "San Marino",
     "status": "assigned"
   },
@@ -2533,6 +2742,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "SEN",
     "name": "Senegal",
     "status": "assigned"
   },
@@ -2545,6 +2755,7 @@
     "currencies": [
       "SOS"
     ],
+    "ioc": "SOM",
     "name": "Somalia",
     "status": "assigned"
   },
@@ -2557,6 +2768,7 @@
     "currencies": [
       "SRD"
     ],
+    "ioc": "SUR",
     "name": "Suriname",
     "status": "assigned"
   },
@@ -2569,6 +2781,7 @@
     "currencies": [
       "STD"
     ],
+    "ioc": "STP",
     "name": "Sao Tome And Principe",
     "status": "assigned"
   },
@@ -2579,6 +2792,7 @@
     "currencies": [
       "RUB"
     ],
+    "ioc": "",
     "name": "USSR",
     "status": "reserved"
   },
@@ -2591,6 +2805,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "ESA",
     "name": "El Salvador",
     "status": "assigned"
   },
@@ -2603,6 +2818,7 @@
     "currencies": [
       "ANG"
     ],
+    "ioc": "",
     "name": "Sint Maarten",
     "status": "assigned"
   },
@@ -2615,6 +2831,7 @@
     "currencies": [
       "SYP"
     ],
+    "ioc": "SYR",
     "name": "Syrian Arab Republic",
     "status": "assigned"
   },
@@ -2627,6 +2844,7 @@
     "currencies": [
       "SZL"
     ],
+    "ioc": "SWZ",
     "name": "Swaziland",
     "status": "assigned"
   },
@@ -2639,6 +2857,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "",
     "name": "Tristan de Cunha",
     "status": "reserved"
   },
@@ -2651,6 +2870,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "Turks And Caicos Islands",
     "status": "assigned"
   },
@@ -2663,6 +2883,7 @@
     "currencies": [
       "XAF"
     ],
+    "ioc": "CHA",
     "name": "Chad",
     "status": "assigned"
   },
@@ -2673,6 +2894,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "French Southern Territories",
     "status": "assigned"
   },
@@ -2685,6 +2907,7 @@
     "currencies": [
       "XOF"
     ],
+    "ioc": "TOG",
     "name": "Togo",
     "status": "assigned"
   },
@@ -2697,6 +2920,7 @@
     "currencies": [
       "THB"
     ],
+    "ioc": "THA",
     "name": "Thailand",
     "status": "assigned"
   },
@@ -2709,6 +2933,7 @@
     "currencies": [
       "TJS"
     ],
+    "ioc": "TJK",
     "name": "Tajikistan",
     "status": "assigned"
   },
@@ -2721,6 +2946,7 @@
     "currencies": [
       "NZD"
     ],
+    "ioc": "",
     "name": "Tokelau",
     "status": "assigned"
   },
@@ -2733,6 +2959,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "TLS",
     "name": "East Timor",
     "status": "assigned"
   },
@@ -2745,6 +2972,7 @@
     "currencies": [
       "TMT"
     ],
+    "ioc": "TKM",
     "name": "Turkmenistan",
     "status": "assigned"
   },
@@ -2757,6 +2985,7 @@
     "currencies": [
       "TND"
     ],
+    "ioc": "TUN",
     "name": "Tunisia",
     "status": "assigned"
   },
@@ -2769,6 +2998,7 @@
     "currencies": [
       "TOP"
     ],
+    "ioc": "TGA",
     "name": "Tonga",
     "status": "assigned"
   },
@@ -2781,6 +3011,7 @@
     "currencies": [
       "TRY"
     ],
+    "ioc": "TUR",
     "name": "Turkey",
     "status": "assigned"
   },
@@ -2793,6 +3024,7 @@
     "currencies": [
       "TTD"
     ],
+    "ioc": "TRI",
     "name": "Trinidad And Tobago",
     "status": "assigned"
   },
@@ -2805,6 +3037,7 @@
     "currencies": [
       "AUD"
     ],
+    "ioc": "TUV",
     "name": "Tuvalu",
     "status": "assigned"
   },
@@ -2817,6 +3050,7 @@
     "currencies": [
       "TWD"
     ],
+    "ioc": "TPE",
     "name": "Taiwan, Province Of China",
     "status": "assigned"
   },
@@ -2829,6 +3063,7 @@
     "currencies": [
       "TZS"
     ],
+    "ioc": "TAN",
     "name": "Tanzania, United Republic Of",
     "status": "assigned"
   },
@@ -2841,6 +3076,7 @@
     "currencies": [
       "UAH"
     ],
+    "ioc": "UKR",
     "name": "Ukraine",
     "status": "assigned"
   },
@@ -2853,6 +3089,7 @@
     "currencies": [
       "UGX"
     ],
+    "ioc": "UGA",
     "name": "Uganda",
     "status": "assigned"
   },
@@ -2863,6 +3100,7 @@
     "currencies": [
       "GBP"
     ],
+    "ioc": "",
     "name": "United Kingdom",
     "status": "reserved"
   },
@@ -2873,6 +3111,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "",
     "name": "United States Minor Outlying Islands",
     "status": "assigned"
   },
@@ -2885,6 +3124,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "USA",
     "name": "United States",
     "status": "assigned"
   },
@@ -2898,6 +3138,7 @@
       "UYU",
       "UYI"
     ],
+    "ioc": "URU",
     "name": "Uruguay",
     "status": "assigned"
   },
@@ -2910,6 +3151,7 @@
     "currencies": [
       "UZS"
     ],
+    "ioc": "UZB",
     "name": "Uzbekistan",
     "status": "assigned"
   },
@@ -2923,6 +3165,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Vatican City State",
     "status": "assigned"
   },
@@ -2935,6 +3178,7 @@
     "currencies": [
       "XCD"
     ],
+    "ioc": "VIN",
     "name": "Saint Vincent And The Grenadines",
     "status": "assigned"
   },
@@ -2947,6 +3191,7 @@
     "currencies": [
       "VEF"
     ],
+    "ioc": "VEN",
     "name": "Venezuela, Bolivarian Republic Of",
     "status": "assigned"
   },
@@ -2959,6 +3204,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "ISV",
     "name": "Virgin Islands (British)",
     "status": "assigned"
   },
@@ -2971,6 +3217,7 @@
     "currencies": [
       "USD"
     ],
+    "ioc": "ISV",
     "name": "Virgin Islands (US)",
     "status": "assigned"
   },
@@ -2983,6 +3230,7 @@
     "currencies": [
       "VND"
     ],
+    "ioc": "VIE",
     "name": "Viet Nam",
     "status": "assigned"
   },
@@ -2995,6 +3243,7 @@
     "currencies": [
       "VUV"
     ],
+    "ioc": "VAN",
     "name": "Vanuatu",
     "status": "assigned"
   },
@@ -3007,6 +3256,7 @@
     "currencies": [
       "XPF"
     ],
+    "ioc": "",
     "name": "Wallis And Futuna",
     "status": "assigned"
   },
@@ -3019,6 +3269,7 @@
     "currencies": [
       "WST"
     ],
+    "ioc": "SAM",
     "name": "Samoa",
     "status": "assigned"
   },
@@ -3031,6 +3282,7 @@
     "currencies": [
       "YER"
     ],
+    "ioc": "YEM",
     "name": "Yemen",
     "status": "assigned"
   },
@@ -3043,6 +3295,7 @@
     "currencies": [
       "EUR"
     ],
+    "ioc": "",
     "name": "Mayotte",
     "status": "assigned"
   },
@@ -3055,6 +3308,7 @@
     "currencies": [
       "ZAR"
     ],
+    "ioc": "RSA",
     "name": "South Africa",
     "status": "assigned"
   },
@@ -3067,6 +3321,7 @@
     "currencies": [
       "ZMW"
     ],
+    "ioc": "ZAM",
     "name": "Zambia",
     "status": "assigned"
   },
@@ -3083,6 +3338,7 @@
       "GBP",
       "EUR"
     ],
+    "ioc": "ZIM",
     "name": "Zimbabwe",
     "status": "assigned"
   }
