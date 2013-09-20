@@ -1,258 +1,258 @@
-name,alpha2,countryCallingCodes,alpha3,currencies,ccTLD,status
-Ascension Island,AC,+247,,"SHP,USD",.ac,reserved
-Andorra,AD,+376,AND,EUR,,assigned
-United Arab Emirates,AE,+971,ARE,AED,,assigned
-Afghanistan,AF,+93,AFG,AFN,,assigned
-Antigua And Barbuda,AG,+1 268,ATG,XCD,,assigned
-Anguilla,AI,+1 264,AIA,XCD,,assigned
-Albania,AL,+355,ALB,ALL,,assigned
-Armenia,AM,+374,ARM,AMD,,assigned
-Angola,AO,+244,AGO,AOA,,assigned
-Antarctica,AQ,+672,ATA,,,assigned
-Argentina,AR,+54,ARG,ARS,,assigned
-American Samoa,AS,+1 684,ASM,USD,,assigned
-Austria,AT,+43,AUT,EUR,,assigned
-Australia,AU,+61,AUS,AUD,,assigned
-Aruba,AW,+297,ABW,AWG,,assigned
-Azerbaijan,AZ,+994,AZE,AZN,,assigned
-Bosnia & Herzegovina,BA,+387,BIH,BAM,,assigned
-Barbados,BB,+1 246,BRB,BBD,,assigned
-Bangladesh,BD,+880,BGD,BDT,,assigned
-Belgium,BE,+32,BEL,EUR,,assigned
-Burkina Faso,BF,+226,BFA,XOF,,assigned
-Bulgaria,BG,+359,BGR,BGN,,assigned
-Bahrain,BH,+973,BHR,BHD,,assigned
-Burundi,BI,+257,BDI,BIF,,assigned
-Benin,BJ,+229,BEN,XOF,,assigned
-Saint Barthélemy,BL,+590,BLM,EUR,,assigned
-Bermuda,BM,+1 441,BMU,BMD,,assigned
-Brunei Darussalam,BN,+673,BRN,BND,,assigned
-"Bolivia, Plurinational State Of",BO,+591,BOL,"BOB,BOV",,assigned
-"Bonaire, Saint Eustatius And Saba",BQ,+599,BES,USD,,assigned
-Brazil,BR,+55,BRA,BRL,,assigned
-Bahamas,BS,+1 242,BHS,BSD,,assigned
-Bhutan,BT,+975,BTN,"INR,BTN",,assigned
-Bouvet Island,BV,,BVT,NOK,,assigned
-Botswana,BW,+267,BWA,BWP,,assigned
-Belarus,BY,+375,BLR,BYR,,assigned
-Belize,BZ,+501,BLZ,BZD,,assigned
-Canada,CA,+1,CAN,CAD,,assigned
-Cocos (Keeling) Islands,CC,+61,CCK,AUD,,assigned
-Democratic Republic Of Congo,CD,+243,COD,CDF,,assigned
-Central African Republic,CF,+236,CAF,XAF,,assigned
-Republic Of Congo,CG,+242,COG,XAF,,assigned
-Switzerland,CH,+41,CHE,"CHF,CHE,CHW",,assigned
-Cote d'Ivoire,CI,+225,CIV,XOF,,assigned
-Cook Islands,CK,+682,COK,NZD,,assigned
-Chile,CL,+56,CHL,"CLP,CLF",,assigned
-Cameroon,CM,+237,CMR,XAF,,assigned
-China,CN,+86,CHN,CNY,,assigned
-Colombia,CO,+57,COL,"COP,COU",,assigned
-Clipperton Island,CP,,,EUR,,reserved
-Costa Rica,CR,+506,CRI,CRC,,assigned
-Cuba,CU,+53,CUB,"CUP,CUC",,assigned
-Cape Verde,CV,+238,CPV,CVE,,assigned
-Curacao,CW,+599,CUW,ANG,,assigned
-Christmas Island,CX,+61,CXR,AUD,,assigned
-Cyprus,CY,+357,CYP,EUR,,assigned
-Czech Republic,CZ,+420,CZE,CZK,,assigned
-Germany,DE,+49,DEU,EUR,,assigned
-Diego Garcia,DG,,,USD,,reserved
-Djibouti,DJ,+253,DJI,DJF,,assigned
-Denmark,DK,+45,DNK,DKK,,assigned
-Dominica,DM,+1 767,DMA,XCD,,assigned
-Dominican Republic,DO,"+1 809,+1 829,+1 849",DOM,DOP,,assigned
-Algeria,DZ,+213,DZA,DZD,,assigned
-"Ceuta, Mulilla",EA,,,EUR,,reserved
-Ecuador,EC,+593,ECU,USD,,assigned
-Estonia,EE,+372,EST,EUR,,assigned
-Egypt,EG,+20,EGY,EGP,,assigned
-Western Sahara,EH,+212,ESH,MAD,,assigned
-Eritrea,ER,+291,ERI,ERN,,assigned
-Spain,ES,+34,ESP,EUR,,assigned
-Ethiopia,ET,+251,ETH,ETB,,assigned
-European Union,EU,+388,,EUR,.eu,reserved
-Finland,FI,+358,FIN,EUR,,assigned
-Fiji,FJ,+679,FJI,FJD,,assigned
-Falkland Islands,FK,+500,FLK,FKP,,assigned
-"Micronesia, Federated States Of",FM,+691,FSM,USD,,assigned
-Faroe Islands,FO,+298,FRO,DKK,,assigned
-France,FR,+33,FRA,EUR,,assigned
-"France, Metropolitan",FX,+241,,EUR,,reserved
-Gabon,GA,+241,GAB,XAF,,assigned
-United Kingdom,GB,+44,GBR,GBP,,assigned
-Grenada,GD,+995,GRD,XCD,,assigned
-Georgia,GE,+594,GEO,GEL,,assigned
-French Guiana,GF,+594,GUF,EUR,,assigned
-Guernsey,GG,+44,GGY,GBP,,assigned
-Ghana,GH,+233,GHA,GHS,,assigned
-Gibraltar,GI,+350,GIB,GIP,,assigned
-Greenland,GL,+299,GRL,DKK,,assigned
-Gambia,GM,+220,GMB,GMD,,assigned
-Guinea,GN,+224,GIN,GNF,,assigned
-Guadeloupe,GP,+590,GLP,EUR,,assigned
-Equatorial Guinea,GQ,+240,GNQ,XAF,,assigned
-Greece,GR,+30,GRC,EUR,,assigned
-South Georgia And The South Sandwich Islands,GS,,SGS,GBP,,assigned
-Guatemala,GT,+502,GTM,GTQ,,assigned
-Guam,GU,+1 671,GUM,USD,,assigned
-Guinea-bissau,GW,+245,GNB,XOF,,assigned
-Guyana,GY,+592,GUY,GYD,,assigned
-Hong Kong,HK,+852,HKG,HKD,,assigned
-Heard Island And McDonald Islands,HM,,HMD,AUD,,assigned
-Honduras,HN,+504,HND,HNL,,assigned
-Croatia,HR,+385,HRV,HRK,,assigned
-Haiti,HT,+509,HTI,"HTG,USD",,assigned
-Hungary,HU,+36,HUN,HUF,,assigned
-Canary Islands,IC,,,EUR,,reserved
-Indonesia,ID,+62,IDN,IDR,,assigned
-Ireland,IE,+353,IRL,EUR,,assigned
-Israel,IL,+972,ISR,ILS,,assigned
-Isle Of Man,IM,+44,IMN,GBP,,assigned
-India,IN,+91,IND,INR,,assigned
-British Indian Ocean Territory,IO,+246,IOT,USD,,assigned
-Iraq,IQ,+964,IRQ,IQD,,assigned
-"Iran, Islamic Republic Of",IR,+98,IRN,IRR,,assigned
-Iceland,IS,+354,ISL,ISK,,assigned
-Italy,IT,+39,ITA,EUR,,assigned
-Jersey,JE,+44,JEY,GBP,,assigned
-Jamaica,JM,+1 876,JAM,JMD,,assigned
-Jordan,JO,+962,JOR,JOD,,assigned
-Japan,JP,+81,JPN,JPY,,assigned
-Kenya,KE,+254,KEN,KES,,assigned
-Kyrgyzstan,KG,+996,KGZ,KGS,,assigned
-Cambodia,KH,+855,KHM,KHR,,assigned
-Kiribati,KI,+686,KIR,AUD,,assigned
-Comoros,KM,+269,COM,KMF,,assigned
-Saint Kitts And Nevis,KN,+1 869,KNA,XCD,,assigned
-"Korea, Democratic People's Republic Of",KP,+850,PRK,KPW,,assigned
-"Korea, Republic Of",KR,+82,KOR,KRW,,assigned
-Kuwait,KW,+965,KWT,KWD,,assigned
-Cayman Islands,KY,+1 345,CYM,KYD,,assigned
-Kazakhstan,KZ,"+7,+7 6,+7 7",KAZ,KZT,,assigned
-Lao People's Democratic Republic,LA,+856,LAO,LAK,,assigned
-Lebanon,LB,+961,LBN,LBP,,assigned
-Saint Lucia,LC,+1 758,LCA,XCD,,assigned
-Liechtenstein,LI,+423,LIE,CHF,,assigned
-Sri Lanka,LK,+94,LKA,LKR,,assigned
-Liberia,LR,+231,LBR,LRD,,assigned
-Lesotho,LS,+266,LSO,"LSL,ZAR",,assigned
-Lithuania,LT,+370,LTU,LTL,,assigned
-Luxembourg,LU,+352,LUX,EUR,,assigned
-Latvia,LV,+371,LVA,LVL,,assigned
-Libya,LY,+218,LBY,LYD,,assigned
-Morocco,MA,+212,MAR,MAD,,assigned
-Monaco,MC,+377,MCO,EUR,,assigned
-Moldova,MD,+373,MDA,MDL,,assigned
-Montenegro,ME,+382,MNE,EUR,,assigned
-Saint Martin,MF,+590,MAF,EUR,,assigned
-Madagascar,MG,+261,MDG,MGA,,assigned
-Marshall Islands,MH,+692,MHL,USD,,assigned
-"Macedonia, The Former Yugoslav Republic Of",MK,+389,MKD,MKD,,assigned
-Mali,ML,+223,MLI,XOF,,assigned
-Myanmar,MM,+95,MMR,MMK,,assigned
-Mongolia,MN,+976,MNG,MNT,,assigned
-Macao,MO,+853,MAC,MOP,,assigned
-Northern Mariana Islands,MP,+1 670,MNP,USD,,assigned
-Martinique,MQ,+596,MTQ,EUR,,assigned
-Mauritania,MR,+222,MRT,MRO,,assigned
-Montserrat,MS,+1 664,MSR,XCD,,assigned
-Malta,MT,+356,MLT,EUR,,assigned
-Mauritius,MU,+230,MUS,MUR,,assigned
-Maldives,MV,+960,MDV,MVR,,assigned
-Malawi,MW,+265,MWI,MWK,,assigned
-Mexico,MX,+52,MEX,"MXN,MXV",,assigned
-Malaysia,MY,+60,MYS,MYR,,assigned
-Mozambique,MZ,+258,MOZ,MZN,,assigned
-Namibia,NA,+264,NAM,"NAD,ZAR",,assigned
-New Caledonia,NC,+687,NCL,XPF,,assigned
-Niger,NE,+227,NER,XOF,,assigned
-Norfolk Island,NF,+672,NFK,AUD,,assigned
-Nigeria,NG,+234,NGA,NGN,,assigned
-Nicaragua,NI,+505,NIC,NIO,,assigned
-Netherlands,NL,+31,NLD,EUR,,assigned
-Norway,NO,+47,NOR,NOK,,assigned
-Nepal,NP,+977,NPL,NPR,,assigned
-Nauru,NR,+674,NRU,AUD,,assigned
-Niue,NU,+683,NIU,NZD,,assigned
-New Zealand,NZ,+64,NZL,NZD,,assigned
-Oman,OM,+968,OMN,OMR,,assigned
-Panama,PA,+507,PAN,"PAB,USD",,assigned
-Peru,PE,+51,PER,PEN,,assigned
-French Polynesia,PF,+689,PYF,XPF,,assigned
-Papua New Guinea,PG,+675,PNG,PGK,,assigned
-Philippines,PH,+63,PHL,PHP,,assigned
-Pakistan,PK,+92,PAK,PKR,,assigned
-Poland,PL,+48,POL,PLN,,assigned
-Saint Pierre And Miquelon,PM,+508,SPM,EUR,,assigned
-Pitcairn,PN,,PCN,NZD,,assigned
-Puerto Rico,PR,"+1 787,+1 939",PRI,USD,,assigned
-"Palestinian Territory, Occupied",PS,+970,PSE,"JOD,EGP,ILS",,assigned
-Portugal,PT,+351,PRT,EUR,,assigned
-Palau,PW,+680,PLW,USD,,assigned
-Paraguay,PY,+595,PRY,PYG,,assigned
-Qatar,QA,+974,QAT,QAR,,assigned
-Reunion,RE,+262,REU,EUR,,assigned
-Romania,RO,+40,ROU,RON,,assigned
-Serbia,RS,+381,SRB,RSD,,assigned
-Russian Federation,RU,"+7,+7 3,+7 4,+7 8",RUS,RUB,,assigned
-Rwanda,RW,+250,RWA,RWF,,assigned
-Saudi Arabia,SA,+966,SAU,SAR,,assigned
-Solomon Islands,SB,+677,SLB,SBD,,assigned
-Seychelles,SC,+248,SYC,SCR,,assigned
-Sudan,SD,+249,SDN,SDG,,assigned
-Sweden,SE,+46,SWE,SEK,,assigned
-Singapore,SG,+65,SGP,SGD,,assigned
-"Saint Helena, Ascension And Tristan Da Cunha",SH,+290,SHN,SHP,,assigned
-Slovenia,SI,+386,SVN,EUR,,assigned
-Svalbard And Jan Mayen,SJ,+47,SJM,NOK,,assigned
-Slovakia,SK,+421,SVK,EUR,,assigned
-Sierra Leone,SL,+232,SLE,SLL,,assigned
-San Marino,SM,+378,SMR,EUR,,assigned
-Senegal,SN,+221,SEN,XOF,,assigned
-Somalia,SO,+252,SOM,SOS,,assigned
-Suriname,SR,+597,SUR,SRD,,assigned
-Sao Tome And Principe,ST,+239,STP,STD,,assigned
-USSR,SU,,,RUB,.su,reserved
-El Salvador,SV,+503,SLV,USD,,assigned
-Sint Maarten,SX,+1 721,SXM,ANG,,assigned
-Syrian Arab Republic,SY,+963,SYR,SYP,,assigned
-Swaziland,SZ,+268,SWZ,SZL,,assigned
-Tristan de Cunha,TA,+290,,GBP,,reserved
-Turks And Caicos Islands,TC,+1 649,TCA,USD,,assigned
-Chad,TD,+235,TCD,XAF,,assigned
-French Southern Territories,TF,,ATF,EUR,,assigned
-Togo,TG,+228,TGO,XOF,,assigned
-Thailand,TH,+66,THA,THB,,assigned
-Tajikistan,TJ,+992,TJK,TJS,,assigned
-Tokelau,TK,+690,TKL,NZD,,assigned
-East Timor,TL,+670,TLS,USD,,assigned
-Turkmenistan,TM,+993,TKM,TMT,,assigned
-Tunisia,TN,+216,TUN,TND,,assigned
-Tonga,TO,+676,TON,TOP,,assigned
-Turkey,TR,+90,TUR,TRY,,assigned
-Trinidad And Tobago,TT,+1 868,TTO,TTD,,assigned
-Tuvalu,TV,+688,TUV,AUD,,assigned
-"Taiwan, Province Of China",TW,+886,TWN,TWD,,assigned
-"Tanzania, United Republic Of",TZ,+255,TZA,TZS,,assigned
-Ukraine,UA,+380,UKR,UAH,,assigned
-Uganda,UG,+256,UGA,UGX,,assigned
-United Kingdom,UK,,,GBP,.uk,reserved
-United States Minor Outlying Islands,UM,,UMI,USD,,assigned
-United States,US,+1,USA,USD,,assigned
-Uruguay,UY,+598,URY,"UYU,UYI",,assigned
-Uzbekistan,UZ,+998,UZB,UZS,,assigned
-Vatican City State,VA,"+379,+39",VAT,EUR,,assigned
-Saint Vincent And The Grenadines,VC,+1 784,VCT,XCD,,assigned
-"Venezuela, Bolivarian Republic Of",VE,+58,VEN,VEF,,assigned
-Virgin Islands (British),VG,+1 284,VGB,USD,,assigned
-Virgin Islands (US),VI,+1 340,VIR,USD,,assigned
-Viet Nam,VN,+84,VNM,VND,,assigned
-Vanuatu,VU,+678,VUT,VUV,,assigned
-Wallis And Futuna,WF,+681,WLF,XPF,,assigned
-Samoa,WS,+685,WSM,WST,,assigned
-Yemen,YE,+967,YEM,YER,,assigned
-Mayotte,YT,+262,MYT,EUR,,assigned
-South Africa,ZA,+27,ZAF,ZAR,,assigned
-Zambia,ZM,+260,ZMB,ZMW,,assigned
-Zimbabwe,ZW,+263,ZWE,"USD,ZAR,BWP,GBP,EUR",,assigned
+name,alpha2,countryCallingCodes,alpha3,ioc,currencies,ccTLD,status
+Ascension Island,AC,+247,,,SHP,USD,.ac
+Andorra,AD,+376,AND,AND,EUR,,assigned
+United Arab Emirates,AE,+971,ARE,UAE,AED,,assigned
+Afghanistan,AF,+93,AFG,AFG,AFN,,assigned
+Antigua And Barbuda,AG,+1 268,ATG,ANT,XCD,,assigned
+Anguilla,AI,+1 264,AIA,,XCD,,assigned
+Albania,AL,+355,ALB,ALB,ALL,,assigned
+Armenia,AM,+374,ARM,ARM,AMD,,assigned
+Angola,AO,+244,AGO,ANG,AOA,,assigned
+Antarctica,AQ,+672,ATA,,,,assigned
+Argentina,AR,+54,ARG,ARG,ARS,,assigned
+American Samoa,AS,+1 684,ASM,ASA,USD,,assigned
+Austria,AT,+43,AUT,AUT,EUR,,assigned
+Australia,AU,+61,AUS,AUS,AUD,,assigned
+Aruba,AW,+297,ABW,ARU,AWG,,assigned
+Azerbaijan,AZ,+994,AZE,AZE,AZN,,assigned
+Bosnia & Herzegovina,BA,+387,BIH,BIH,BAM,,assigned
+Barbados,BB,+1 246,BRB,BAR,BBD,,assigned
+Bangladesh,BD,+880,BGD,BAN,BDT,,assigned
+Belgium,BE,+32,BEL,BEL,EUR,,assigned
+Burkina Faso,BF,+226,BFA,BUR,XOF,,assigned
+Bulgaria,BG,+359,BGR,BUL,BGN,,assigned
+Bahrain,BH,+973,BHR,BRN,BHD,,assigned
+Burundi,BI,+257,BDI,BDI,BIF,,assigned
+Benin,BJ,+229,BEN,BEN,XOF,,assigned
+Saint Barthélemy,BL,+590,BLM,,EUR,,assigned
+Bermuda,BM,+1 441,BMU,BER,BMD,,assigned
+Brunei Darussalam,BN,+673,BRN,BRU,BND,,assigned
+"Bolivia, Plurinational State Of",BO,+591,BOL,BOL,"BOB,BOV",,assigned
+"Bonaire, Saint Eustatius And Saba",BQ,+599,BES,,USD,,assigned
+Brazil,BR,+55,BRA,BRA,BRL,,assigned
+Bahamas,BS,+1 242,BHS,BAH,BSD,,assigned
+Bhutan,BT,+975,BTN,BHU,"INR,BTN",,assigned
+Bouvet Island,BV,,BVT,,NOK,,assigned
+Botswana,BW,+267,BWA,BOT,BWP,,assigned
+Belarus,BY,+375,BLR,BLR,BYR,,assigned
+Belize,BZ,+501,BLZ,BIZ,BZD,,assigned
+Canada,CA,+1,CAN,CAN,CAD,,assigned
+Cocos (Keeling) Islands,CC,+61,CCK,,AUD,,assigned
+Democratic Republic Of Congo,CD,+243,COD,COD,CDF,,assigned
+Central African Republic,CF,+236,CAF,CAF,XAF,,assigned
+Republic Of Congo,CG,+242,COG,CGO,XAF,,assigned
+Switzerland,CH,+41,CHE,SUI,"CHF,CHE,CHW",,assigned
+Cote d'Ivoire,CI,+225,CIV,CIV,XOF,,assigned
+Cook Islands,CK,+682,COK,COK,NZD,,assigned
+Chile,CL,+56,CHL,CHI,"CLP,CLF",,assigned
+Cameroon,CM,+237,CMR,CMR,XAF,,assigned
+China,CN,+86,CHN,CHN,CNY,,assigned
+Colombia,CO,+57,COL,COL,"COP,COU",,assigned
+Clipperton Island,CP,,,,EUR,,reserved
+Costa Rica,CR,+506,CRI,CRC,CRC,,assigned
+Cuba,CU,+53,CUB,CUB,"CUP,CUC",,assigned
+Cape Verde,CV,+238,CPV,CPV,CVE,,assigned
+Curacao,CW,+599,CUW,,ANG,,assigned
+Christmas Island,CX,+61,CXR,,AUD,,assigned
+Cyprus,CY,+357,CYP,CYP,EUR,,assigned
+Czech Republic,CZ,+420,CZE,CZE,CZK,,assigned
+Germany,DE,+49,DEU,GER,EUR,,assigned
+Diego Garcia,DG,,,,USD,,reserved
+Djibouti,DJ,+253,DJI,DJI,DJF,,assigned
+Denmark,DK,+45,DNK,DEN,DKK,,assigned
+Dominica,DM,+1 767,DMA,DMA,XCD,,assigned
+Dominican Republic,DO,"+1 809,+1 829,+1 849",DOM,DOM,DOP,,assigned
+Algeria,DZ,+213,DZA,ALG,DZD,,assigned
+"Ceuta, Mulilla",EA,,,,EUR,,reserved
+Ecuador,EC,+593,ECU,ECU,USD,,assigned
+Estonia,EE,+372,EST,EST,EUR,,assigned
+Egypt,EG,+20,EGY,EGY,EGP,,assigned
+Western Sahara,EH,+212,ESH,,MAD,,assigned
+Eritrea,ER,+291,ERI,ERI,ERN,,assigned
+Spain,ES,+34,ESP,ESP,EUR,,assigned
+Ethiopia,ET,+251,ETH,ETH,ETB,,assigned
+European Union,EU,+388,,,EUR,.eu,reserved
+Finland,FI,+358,FIN,FIN,EUR,,assigned
+Fiji,FJ,+679,FJI,FIJ,FJD,,assigned
+Falkland Islands,FK,+500,FLK,,FKP,,assigned
+"Micronesia, Federated States Of",FM,+691,FSM,,USD,,assigned
+Faroe Islands,FO,+298,FRO,FAI,DKK,,assigned
+France,FR,+33,FRA,FRA,EUR,,assigned
+"France, Metropolitan",FX,+241,,,EUR,,reserved
+Gabon,GA,+241,GAB,GAB,XAF,,assigned
+United Kingdom,GB,+44,GBR,GBR,GBP,,assigned
+Grenada,GD,+995,GRD,GRN,XCD,,assigned
+Georgia,GE,+594,GEO,GEO,GEL,,assigned
+French Guiana,GF,+594,GUF,,EUR,,assigned
+Guernsey,GG,+44,GGY,GCI,GBP,,assigned
+Ghana,GH,+233,GHA,GHA,GHS,,assigned
+Gibraltar,GI,+350,GIB,,GIP,,assigned
+Greenland,GL,+299,GRL,,DKK,,assigned
+Gambia,GM,+220,GMB,GAM,GMD,,assigned
+Guinea,GN,+224,GIN,GUI,GNF,,assigned
+Guadeloupe,GP,+590,GLP,,EUR,,assigned
+Equatorial Guinea,GQ,+240,GNQ,GEQ,XAF,,assigned
+Greece,GR,+30,GRC,GRE,EUR,,assigned
+South Georgia And The South Sandwich Islands,GS,,SGS,,GBP,,assigned
+Guatemala,GT,+502,GTM,GUA,GTQ,,assigned
+Guam,GU,+1 671,GUM,GUM,USD,,assigned
+Guinea-bissau,GW,+245,GNB,GBS,XOF,,assigned
+Guyana,GY,+592,GUY,GUY,GYD,,assigned
+Hong Kong,HK,+852,HKG,HKG,HKD,,assigned
+Heard Island And McDonald Islands,HM,,HMD,,AUD,,assigned
+Honduras,HN,+504,HND,HON,HNL,,assigned
+Croatia,HR,+385,HRV,CRO,HRK,,assigned
+Haiti,HT,+509,HTI,HAI,"HTG,USD",,assigned
+Hungary,HU,+36,HUN,HUN,HUF,,assigned
+Canary Islands,IC,,,,EUR,,reserved
+Indonesia,ID,+62,IDN,INA,IDR,,assigned
+Ireland,IE,+353,IRL,IRL,EUR,,assigned
+Israel,IL,+972,ISR,ISR,ILS,,assigned
+Isle Of Man,IM,+44,IMN,,GBP,,assigned
+India,IN,+91,IND,IND,INR,,assigned
+British Indian Ocean Territory,IO,+246,IOT,,USD,,assigned
+Iraq,IQ,+964,IRQ,IRQ,IQD,,assigned
+"Iran, Islamic Republic Of",IR,+98,IRN,IRI,IRR,,assigned
+Iceland,IS,+354,ISL,ISL,ISK,,assigned
+Italy,IT,+39,ITA,ITA,EUR,,assigned
+Jersey,JE,+44,JEY,JCI,GBP,,assigned
+Jamaica,JM,+1 876,JAM,JAM,JMD,,assigned
+Jordan,JO,+962,JOR,JOR,JOD,,assigned
+Japan,JP,+81,JPN,JPN,JPY,,assigned
+Kenya,KE,+254,KEN,KEN,KES,,assigned
+Kyrgyzstan,KG,+996,KGZ,KGZ,KGS,,assigned
+Cambodia,KH,+855,KHM,CAM,KHR,,assigned
+Kiribati,KI,+686,KIR,KIR,AUD,,assigned
+Comoros,KM,+269,COM,COM,KMF,,assigned
+Saint Kitts And Nevis,KN,+1 869,KNA,SKN,XCD,,assigned
+"Korea, Democratic People's Republic Of",KP,+850,PRK,PRK,KPW,,assigned
+"Korea, Republic Of",KR,+82,KOR,KOR,KRW,,assigned
+Kuwait,KW,+965,KWT,KUW,KWD,,assigned
+Cayman Islands,KY,+1 345,CYM,CAY,KYD,,assigned
+Kazakhstan,KZ,"+7,+7 6,+7 7",KAZ,KAZ,KZT,,assigned
+Lao People's Democratic Republic,LA,+856,LAO,LAO,LAK,,assigned
+Lebanon,LB,+961,LBN,LIB,LBP,,assigned
+Saint Lucia,LC,+1 758,LCA,LCA,XCD,,assigned
+Liechtenstein,LI,+423,LIE,LIE,CHF,,assigned
+Sri Lanka,LK,+94,LKA,SRI,LKR,,assigned
+Liberia,LR,+231,LBR,LBR,LRD,,assigned
+Lesotho,LS,+266,LSO,LES,"LSL,ZAR",,assigned
+Lithuania,LT,+370,LTU,LTU,LTL,,assigned
+Luxembourg,LU,+352,LUX,LUX,EUR,,assigned
+Latvia,LV,+371,LVA,LAT,LVL,,assigned
+Libya,LY,+218,LBY,LBA,LYD,,assigned
+Morocco,MA,+212,MAR,MAR,MAD,,assigned
+Monaco,MC,+377,MCO,MON,EUR,,assigned
+Moldova,MD,+373,MDA,MDA,MDL,,assigned
+Montenegro,ME,+382,MNE,MNE,EUR,,assigned
+Saint Martin,MF,+590,MAF,,EUR,,assigned
+Madagascar,MG,+261,MDG,MAD,MGA,,assigned
+Marshall Islands,MH,+692,MHL,MHL,USD,,assigned
+"Macedonia, The Former Yugoslav Republic Of",MK,+389,MKD,MKD,MKD,,assigned
+Mali,ML,+223,MLI,MLI,XOF,,assigned
+Myanmar,MM,+95,MMR,MYA,MMK,,assigned
+Mongolia,MN,+976,MNG,MGL,MNT,,assigned
+Macao,MO,+853,MAC,MAC,MOP,,assigned
+Northern Mariana Islands,MP,+1 670,MNP,,USD,,assigned
+Martinique,MQ,+596,MTQ,,EUR,,assigned
+Mauritania,MR,+222,MRT,MTN,MRO,,assigned
+Montserrat,MS,+1 664,MSR,,XCD,,assigned
+Malta,MT,+356,MLT,MLT,EUR,,assigned
+Mauritius,MU,+230,MUS,MRI,MUR,,assigned
+Maldives,MV,+960,MDV,MDV,MVR,,assigned
+Malawi,MW,+265,MWI,MAW,MWK,,assigned
+Mexico,MX,+52,MEX,MEX,"MXN,MXV",,assigned
+Malaysia,MY,+60,MYS,MAS,MYR,,assigned
+Mozambique,MZ,+258,MOZ,MOZ,MZN,,assigned
+Namibia,NA,+264,NAM,NAM,"NAD,ZAR",,assigned
+New Caledonia,NC,+687,NCL,,XPF,,assigned
+Niger,NE,+227,NER,NIG,XOF,,assigned
+Norfolk Island,NF,+672,NFK,,AUD,,assigned
+Nigeria,NG,+234,NGA,NGR,NGN,,assigned
+Nicaragua,NI,+505,NIC,NCA,NIO,,assigned
+Netherlands,NL,+31,NLD,NED,EUR,,assigned
+Norway,NO,+47,NOR,NOR,NOK,,assigned
+Nepal,NP,+977,NPL,NEP,NPR,,assigned
+Nauru,NR,+674,NRU,NRU,AUD,,assigned
+Niue,NU,+683,NIU,,NZD,,assigned
+New Zealand,NZ,+64,NZL,NZL,NZD,,assigned
+Oman,OM,+968,OMN,OMA,OMR,,assigned
+Panama,PA,+507,PAN,PAN,"PAB,USD",,assigned
+Peru,PE,+51,PER,PER,PEN,,assigned
+French Polynesia,PF,+689,PYF,,XPF,,assigned
+Papua New Guinea,PG,+675,PNG,PNG,PGK,,assigned
+Philippines,PH,+63,PHL,PHI,PHP,,assigned
+Pakistan,PK,+92,PAK,PAK,PKR,,assigned
+Poland,PL,+48,POL,POL,PLN,,assigned
+Saint Pierre And Miquelon,PM,+508,SPM,,EUR,,assigned
+Pitcairn,PN,,PCN,,NZD,,assigned
+Puerto Rico,PR,"+1 787,+1 939",PRI,PUR,USD,,assigned
+"Palestinian Territory, Occupied",PS,+970,PSE,PLE,"JOD,EGP,ILS",,assigned
+Portugal,PT,+351,PRT,POR,EUR,,assigned
+Palau,PW,+680,PLW,PLW,USD,,assigned
+Paraguay,PY,+595,PRY,PAR,PYG,,assigned
+Qatar,QA,+974,QAT,QAT,QAR,,assigned
+Reunion,RE,+262,REU,,EUR,,assigned
+Romania,RO,+40,ROU,ROU,RON,,assigned
+Serbia,RS,+381,SRB,SRB,RSD,,assigned
+Russian Federation,RU,"+7,+7 3,+7 4,+7 8",RUS,RUS,RUB,,assigned
+Rwanda,RW,+250,RWA,RWA,RWF,,assigned
+Saudi Arabia,SA,+966,SAU,KSA,SAR,,assigned
+Solomon Islands,SB,+677,SLB,SOL,SBD,,assigned
+Seychelles,SC,+248,SYC,SEY,SCR,,assigned
+Sudan,SD,+249,SDN,SUD,SDG,,assigned
+Sweden,SE,+46,SWE,SWE,SEK,,assigned
+Singapore,SG,+65,SGP,SIN,SGD,,assigned
+"Saint Helena, Ascension And Tristan Da Cunha",SH,+290,SHN,,SHP,,assigned
+Slovenia,SI,+386,SVN,SLO,EUR,,assigned
+Svalbard And Jan Mayen,SJ,+47,SJM,,NOK,,assigned
+Slovakia,SK,+421,SVK,SVK,EUR,,assigned
+Sierra Leone,SL,+232,SLE,SLE,SLL,,assigned
+San Marino,SM,+378,SMR,SMR,EUR,,assigned
+Senegal,SN,+221,SEN,SEN,XOF,,assigned
+Somalia,SO,+252,SOM,SOM,SOS,,assigned
+Suriname,SR,+597,SUR,SUR,SRD,,assigned
+Sao Tome And Principe,ST,+239,STP,STP,STD,,assigned
+USSR,SU,,,,RUB,.su,reserved
+El Salvador,SV,+503,SLV,ESA,USD,,assigned
+Sint Maarten,SX,+1 721,SXM,,ANG,,assigned
+Syrian Arab Republic,SY,+963,SYR,SYR,SYP,,assigned
+Swaziland,SZ,+268,SWZ,SWZ,SZL,,assigned
+Tristan de Cunha,TA,+290,,,GBP,,reserved
+Turks And Caicos Islands,TC,+1 649,TCA,,USD,,assigned
+Chad,TD,+235,TCD,CHA,XAF,,assigned
+French Southern Territories,TF,,ATF,,EUR,,assigned
+Togo,TG,+228,TGO,TOG,XOF,,assigned
+Thailand,TH,+66,THA,THA,THB,,assigned
+Tajikistan,TJ,+992,TJK,TJK,TJS,,assigned
+Tokelau,TK,+690,TKL,,NZD,,assigned
+East Timor,TL,+670,TLS,TLS,USD,,assigned
+Turkmenistan,TM,+993,TKM,TKM,TMT,,assigned
+Tunisia,TN,+216,TUN,TUN,TND,,assigned
+Tonga,TO,+676,TON,TGA,TOP,,assigned
+Turkey,TR,+90,TUR,TUR,TRY,,assigned
+Trinidad And Tobago,TT,+1 868,TTO,TRI,TTD,,assigned
+Tuvalu,TV,+688,TUV,TUV,AUD,,assigned
+"Taiwan, Province Of China",TW,+886,TWN,TPE,TWD,,assigned
+"Tanzania, United Republic Of",TZ,+255,TZA,TAN,TZS,,assigned
+Ukraine,UA,+380,UKR,UKR,UAH,,assigned
+Uganda,UG,+256,UGA,UGA,UGX,,assigned
+United Kingdom,UK,,,,GBP,.uk,reserved
+United States Minor Outlying Islands,UM,,UMI,,USD,,assigned
+United States,US,+1,USA,USA,USD,,assigned
+Uruguay,UY,+598,URY,URU,"UYU,UYI",,assigned
+Uzbekistan,UZ,+998,UZB,UZB,UZS,,assigned
+Vatican City State,VA,"+379,+39",VAT,,EUR,,assigned
+Saint Vincent And The Grenadines,VC,+1 784,VCT,VIN,XCD,,assigned
+"Venezuela, Bolivarian Republic Of",VE,+58,VEN,"VEN,VEF",,,assigned
+Virgin Islands (British),VG,+1 284,VGB,ISV,USD,,assigned
+Virgin Islands (US),VI,+1 340,VIR,ISV,USD,,assigned
+Viet Nam,VN,+84,VNM,VIE,VND,,assigned
+Vanuatu,VU,+678,VUT,VAN,VUV,,assigned
+Wallis And Futuna,WF,+681,WLF,,XPF,,assigned
+Samoa,WS,+685,WSM,SAM,WST,,assigned
+Yemen,YE,+967,YEM,YEM,YER,,assigned
+Mayotte,YT,+262,MYT,,EUR,,assigned
+South Africa,ZA,+27,ZAF,RSA,ZAR,,assigned
+Zambia,ZM,+260,ZMB,ZAM,ZMW,,assigned
+Zimbabwe,ZW,+263,ZWE,ZIM,"USD,ZAR,BWP,GBP,EUR",,assigned
