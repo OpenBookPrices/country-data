@@ -6,11 +6,11 @@
       "+247"
     ],
     "currencies": [
-      "SHP"
+      "USD"
     ],
-    "ioc": "",
+    "ioc": "SHP",
     "name": "Ascension Island",
-    "status": ".ac"
+    "status": "reserved"
   },
   {
     "alpha2": "AD",
@@ -3188,8 +3188,10 @@
     "countryCallingCodes": [
       "+58"
     ],
-    "currencies": [],
-    "ioc": "VEN,VEF",
+    "currencies": [
+      "VEF"
+    ],
+    "ioc": "VEN",
     "name": "Venezuela, Bolivarian Republic Of",
     "status": "assigned"
   },

@@ -1,5 +1,5 @@
 name,alpha2,countryCallingCodes,alpha3,ioc,currencies,ccTLD,status
-Ascension Island,AC,+247,,,SHP,USD,.ac
+Ascension Island,AC,+247,,SHP,USD,.ac,reserved
 Andorra,AD,+376,AND,AND,EUR,,assigned
 United Arab Emirates,AE,+971,ARE,UAE,AED,,assigned
 Afghanistan,AF,+93,AFG,AFG,AFN,,assigned
@@ -244,7 +244,7 @@ Uruguay,UY,+598,URY,URU,"UYU,UYI",,assigned
 Uzbekistan,UZ,+998,UZB,UZB,UZS,,assigned
 Vatican City State,VA,"+379,+39",VAT,,EUR,,assigned
 Saint Vincent And The Grenadines,VC,+1 784,VCT,VIN,XCD,,assigned
-"Venezuela, Bolivarian Republic Of",VE,+58,VEN,"VEN,VEF",,,assigned
+"Venezuela, Bolivarian Republic Of",VE,+58,VEN,VEN,VEF,,assigned
 Virgin Islands (British),VG,+1 284,VGB,ISV,USD,,assigned
 Virgin Islands (US),VI,+1 340,VIR,ISV,USD,,assigned
 Viet Nam,VN,+84,VNM,VIE,VND,,assigned
