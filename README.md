@@ -22,6 +22,7 @@ The data currently provided for each country is:
   * `status`: The ISO status of the entry: either 'assigned' or 'reserved'.
   * `currencies` An array of [ISO 4217 currency codes](http://en.wikipedia.org/wiki/ISO_4217) with the primary one first
   * `countryCallingCodes` An array of the international call prefixes for this country.
+  * `ioc` The [International Olympic Committee country code](http://en.wikipedia.org/wiki/List_of_IOC_country_codes)
 
 ## Currencies
 

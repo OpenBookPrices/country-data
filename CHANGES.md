@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.8
+
+  * Added IOC country codes (thanks fnogatz)
+
 ## v0.0.7
 
   * Corrected several calling codes (GB, GA, GF, GG)
