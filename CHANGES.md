@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.9
+
+  * Added `country-data.regions`
+
 ## v0.0.8
 
   * Added IOC country codes (thanks fnogatz)

@@ -24,6 +24,12 @@ The data currently provided for each country is:
   * `countryCallingCodes` An array of the international call prefixes for this country.
   * `ioc` The [International Olympic Committee country code](http://en.wikipedia.org/wiki/List_of_IOC_country_codes)
 
+## Regions
+
+Countries are ofter grouped into regions. The list of regions is by no means exhaustive, pull requests very welcome for additions.
+
+  * `countries` An array of `alpha2` codes for the countries in this region.
+
 ## Currencies
 
 It is not that useful to just have the currency code(s) for a country, so included is currency data too:
@@ -45,7 +51,8 @@ npm install country-data
 
 ``` javascript
 var countries  = require('country-data').countries,
-    currencies = require('country-data').currencies;
+    currencies = require('country-data').currencies,
+    regions    = regions('country-data').regions;
 
 // .all gives you an array of all entries
 console.log( countries.all );
@@ -57,6 +64,9 @@ console.log( countries.FRA.currencies ); // ['EUR']
 
 // currencies are accessed by their code (uppercase)
 console.log( currencies.USD.name ); // 'United States dollar'
+
+// regions are accessed using a camel case name
+console.log( regions.europe.countries )
 ```
 
 It is very simple for now - feel free to contribute more helpful accessors.
