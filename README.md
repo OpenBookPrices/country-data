@@ -113,11 +113,10 @@ cd country-data
 npm install .
 
 # Edit the countries.csv
-open countries.csv
+open data/countries.csv
 
-# Convert the CSV to JSON
-node data/country_csv_to_json.js  > data/countries.json
-node data/currency_csv_to_json.js > data/currencies.json
+# Convert the raw data (CSV or JS files) to JSON
+make
 
 # Run the tests
 mocha
