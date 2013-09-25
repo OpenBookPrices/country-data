@@ -1,6 +1,6 @@
 var countriesAll  = require('./data/countries.json'),
     currenciesAll = require('./data/currencies.json'),
-    regions       = require('./data/regions.json'),
+    regions       = require('./data/regions'),
     _             = require('underscore');
 
 exports.countries = {
