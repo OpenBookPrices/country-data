@@ -67,4 +67,27 @@ module.exports = {
       'SJ', // Svalbard and Jan Mayen (Norway)
     ],
   },
+
+  "middleEast": {
+    countries: [
+      // source is http://en.wikipedia.org/wiki/Middle_east
+      'BH', // Bahrain
+      'CY', // Cyprus
+      'EG', // Egypt
+      'IR', // Iran
+      'IQ', // Iraq
+      'IL', // Israel
+      'JO', // Jordan
+      'KW', // Kuwait
+      'LB', // Lebanon
+      'OM', // Oman
+      'PS', // Palestine
+      'QA', // Qatar
+      'SA', // Saudi Arabia
+      'SY', // Syria
+      'TR', // Turkey
+      'AE', // United Arab Emirates
+      'YE', // Yemen
+    ]
+  }
 };

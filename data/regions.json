@@ -58,5 +58,26 @@
       "JE",
       "SJ"
     ]
+  },
+  "middleEast": {
+    "countries": [
+      "BH",
+      "CY",
+      "EG",
+      "IR",
+      "IQ",
+      "IL",
+      "JO",
+      "KW",
+      "LB",
+      "OM",
+      "PS",
+      "QA",
+      "SA",
+      "SY",
+      "TR",
+      "AE",
+      "YE"
+    ]
   }
 }
