@@ -2773,6 +2773,19 @@
     "status": "assigned"
   },
   {
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "countryCallingCodes": [
+      "+211"
+    ],
+    "currencies": [
+      "SSP"
+    ],
+    "ioc": "",
+    "name": "South Sudan",
+    "status": "assigned"
+  },
+  {
     "alpha2": "ST",
     "alpha3": "STP",
     "countryCallingCodes": [

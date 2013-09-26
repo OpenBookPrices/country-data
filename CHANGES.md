@@ -3,6 +3,7 @@
 ## v0.0.9
 
   * Added `country-data.regions`
+  * Added South Sudan
 
 ## v0.0.8
 
