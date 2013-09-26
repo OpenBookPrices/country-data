@@ -4,6 +4,7 @@
 
   * Added `country-data.regions`
   * Added South Sudan
+  * Added proper accents to São Tomé and Príncipe
 
 ## v0.0.8
 
