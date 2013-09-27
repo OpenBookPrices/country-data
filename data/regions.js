@@ -302,3 +302,41 @@ regions.asia = {
   ]
 };
 
+regions.caribbeanAndAtlanticIslands = {
+  countries: [
+    // source is http://www.infoplease.com/ipa/A0877690.html
+    'AI', // Anguilla
+    'AG', // Antigua and Barbuda
+    'BS', // Bahamas
+    'BB', // Barbados
+    'BM', // Bermuda
+    'VG', // British Virgin Islands
+    'KY', // Cayman Islands
+    'DO', // Dominican Republic
+    'DM', // Dominica
+    'GD', // Grenada
+    'JM', // Jamaica
+    'MS', // Montserrat
+    'KN', // St. Kitts & Nevis
+    'LC', // St. Lucia
+    'VC', // St. Vincent & the Grenadines
+    'TT', // Trinidad & Tobago
+    'TC', // Turks & Caicos
+  ]
+};
+
+regions.pacificIslands = {
+  countries: [
+    // source is http://data.worldbank.org/region/PSS
+    'FJ', // Fiji
+    'KI', // Kiribati
+    'MH', // Marshall Islands
+    'FM', // Micronesia, Fed. Sts.
+    'PW', // Palau
+    'WS', // Samoa
+    'SB', // Solomon Islands
+    'TO', // Tonga
+    'TV', // Tuvalu
+    'VU', // Vanuatu
+  ]
+};
