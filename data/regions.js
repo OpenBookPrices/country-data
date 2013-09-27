@@ -90,3 +90,212 @@ regions.middleEast = {
     'YE', // Yemen
   ]
 };
+
+regions.latinAmerica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Latin_America
+    'AR', // Argentina
+    'BO', // Bolivia
+    'BR', // Brazil
+    'CL', // Chile
+    'CO', // Colombia
+    'CR', // Costa Rica
+    'CU', // Cuba
+    'DO', // Dominican Republic
+    'EC', // Ecuador
+    'SV', // El Salvador
+    'GT', // Guatemala
+    'HT', // Haiti
+    'HN', // Honduras
+    'MX', // Mexico
+    'NI', // Nicaragua
+    'PA', // Panama
+    'PY', // Paraguay
+    'PE', // Peru
+    'PR', // Puerto Rico
+    'UY', // Uruguay
+    'VE', // Venezuela
+  ]
+};
+
+regions.southAmerica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/South_America
+    'AR', // Argentina
+    'BO', // Bolivia
+    'BR', // Brazil
+    'CL', // Chile
+    'CO', // Colombia
+    'EC', // Ecuador
+    'FK', // Falkland Islands (United Kingdom)
+    'GF', // French Guiana (France)
+    'GY', // Guyana
+    'PY', // Paraguay
+    'PE', // Peru
+    'GS', // South Georgia and the South Sandwich Islands
+    'SR', // Suriname
+    'TT', // Trinidad and Tobago
+    'UY', // Uruguay
+    'VE', // Venezuela
+  ]
+};
+
+regions.easternAfrica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Africa
+    'BI', // Burundi
+    'KM', // Comoros
+    'DJ', // Djibouti
+    'ER', // Eritrea
+    'ET', // Ethiopia
+    'KE', // Kenya
+    'MG', // Madagascar
+    'MW', // Malawi
+    'MU', // Mauritius
+    'YT', // Mayotte (France)
+    'MZ', // Mozambique
+    'RE', // Réunion (France)
+    'RW', // Rwanda
+    'SC', // Seychelles
+    'SO', // Somalia
+    'SS', // South Sudan
+    'TZ', // Tanzania
+    'UG', // Uganda
+    'ZM', // Zambia
+    'ZW', // Zimbabwe
+  ]
+};
+
+regions.centralAfrica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Africa
+    'AO', // Angola
+    'CM', // Cameroon
+    'CF', // Central African Republic
+    'TD', // Chad
+    'CG', // Republic of the Congo
+    'CD', // Democratic Republic of the Congo
+    'GQ', // Equatorial Guinea
+    'GA', // Gabon
+    'ST', // São Tomé and Príncipe
+  ]
+};
+
+regions.northernAfrica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Africa
+    'DZ', // Algeria
+    'IC', // Canary Islands (Spain)
+          // Santa Cruz de Tenerife
+    'EA', // Ceuta (Spain)
+    'EG', // Egypt
+    'LY', // Libya
+          // Madeira (Portugal)
+          // Melilla (Spain)
+    'MA', // Morocco
+    'SD', // Sudan
+    'TN', // Tunisia
+    'EH', // Western Sahara
+  ]
+};
+
+regions.southernAfrica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Africa
+    'BW', // Botswana
+    'LS', // Lesotho
+    'NA', // Namibia
+    'ZA', // South Africa
+    'SZ', // Swaziland
+  ]
+};
+
+regions.westernAfrica = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Africa
+    'BJ', // Benin
+    'BF', // Burkina Faso
+    'CV', // Cape Verde
+    'CI', // Côte d'Ivoire
+    'GM', // Gambia
+    'GH', // Ghana
+    'GN', // Guinea
+    'GW', // Guinea-Bissau
+    'LR', // Liberia
+    'ML', // Mali
+    'MR', // Mauritania
+    'NE', // Niger
+    'NG', // Nigeria
+    'SH', // Saint Helena, Ascension and Tristan da Cunha (United Kingdom)
+    'SN', // Senegal
+    'SL', // Sierra Leone
+    'TG', // Togo
+  ]
+};
+
+regions.africa = {
+  countries: _.flatten([
+    regions.easternAfrica,
+    regions.centralAfrica,
+    regions.northernAfrica,
+    regions.southernAfrica,
+    regions.westernAfrica
+  ]).sort()
+};
+
+regions.asia = {
+  countries: [
+    // source is http://en.wikipedia.org/wiki/Asia
+    'AF', // Afghanistan
+    'AM', // Armenia
+    'AZ', // Azerbaijan
+    'BH', // Bahrain
+    'BD', // Bangladesh
+    'BT', // Bhutan
+    'BN', // Brunei
+    'KH', // Cambodia
+    'CN', // China
+    'CY', // Cyprus
+    'TL', // East Timor
+    'GE', // Georgia (country)
+    'IN', // India
+    'ID', // Indonesia
+    'IR', // Iran
+    'IQ', // Iraq
+    'IR', // Israel
+    'JP', // Japan
+    'JO', // Jordan
+    'KZ', // Kazakhstan
+    'KW', // Kuwait
+    'KG', // Kyrgyzstan
+    'LA', // Laos
+    'LB', // Lebanon
+    'MY', // Malaysia
+    'BV', // Maldives
+    'MN', // Mongolia
+    'MM', // Myanmar (Burma)
+    'NP', // Nepal
+    'KP', // North Korea
+    'OM', // Oman
+    'PK', // Pakistan
+    'PS', // Palestinian territories
+    'PH', // Philippines
+    'QA', // Qatar
+    'RU', // Russia
+    'SA', // Saudi Arabia
+    'SG', // Singapore
+    'LK', // Sri Lanka
+    'KR', // South Korea
+    'SY', // Syria
+    'TW', // Taiwan
+    'TJ', // Tajikistan
+    'TH', // Thailand
+    'TR', // Turkey
+    'TM', // Turkmenistan
+    'AE', // United Arab Emirates
+    'UZ', // Uzbekistan
+    'VN', // Vietnam
+    'YE', // Yemen
+  ]
+};
+
