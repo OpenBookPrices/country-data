@@ -1,5 +1,7 @@
 "use strict";
 
+var _ = require("underscore");
+
 var regions = {};
 module.exports = regions;
 
@@ -235,12 +237,13 @@ regions.westernAfrica = {
 
 regions.africa = {
   countries: _.flatten([
-    regions.easternAfrica,
-    regions.centralAfrica,
-    regions.northernAfrica,
-    regions.southernAfrica,
-    regions.westernAfrica
-  ]).sort()
+    regions.easternAfrica.countries,
+    regions.centralAfrica.countries,
+    regions.northernAfrica.countries,
+    regions.southernAfrica.countries,
+    regions.westernAfrica.countries,
+  ])
+  .sort()
 };
 
 regions.asia = {
