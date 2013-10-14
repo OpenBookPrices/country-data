@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.10
+
+  * Corrected Grenada calling code (thanks niftylettuce)
+
 ## v0.0.9
 
   * Added `country-data.regions`
