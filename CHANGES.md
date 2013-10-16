@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.11
+
+  * Corrected Georgia calling code (thanks niftylettuce)
+
 ## v0.0.10
 
   * Corrected Grenada calling code (thanks niftylettuce)
