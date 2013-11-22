@@ -11,7 +11,11 @@ function init(o) {
 
             return countries.filter(function(country) {
                 return q.filter(function(v) {
-                    return country[v[0]].indexOf(v[1]) >= 0;
+                    var prop = country[v[0]];
+
+                    if(_.isArray(prop)) return prop.indexOf(v[1]) >= 0;
+
+                    return prop == v[1];
                 }).length == q.length;
             });
         }

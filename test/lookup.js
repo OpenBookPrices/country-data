@@ -17,4 +17,14 @@ describe('lookup', function () {
     });
   });
 
+  describe("check countries by name", function () {
+    _.each( countries, function (country, name) {
+      describe(name, function () {
+        it(name, function () {
+          if(country.name) assert.include( lookup.countries({name: country.name}), country );
+        });
+      });
+    });
+  });
+
 });
