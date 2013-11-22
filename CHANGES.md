@@ -1,9 +1,12 @@
 # Changes
 
+## v0.0.12
+
+  * @bebrow contributed `lookup()`
+
 ## v0.0.11
 
   * Corrected Georgia calling code (thanks niftylettuce)
-  * @bebrow contributed `lookup()`
 
 ## v0.0.10
 
