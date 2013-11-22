@@ -39,6 +39,10 @@ It is not that useful to just have the currency code(s) for a country, so includ
   * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
   * `decimals` The number of decimal digits conventionally shown
 
+## Lookup
+
+To make finding easier there are utility methods that can search the countries and currencies. See examples below.
+
 
 ## Installing
 
@@ -67,6 +71,16 @@ console.log( currencies.USD.name ); // 'United States dollar'
 
 // regions are accessed using a camel case name
 console.log( regions.europe.countries )
+```
+
+``` javascript
+var lookup = require('country-data').lookup;
+
+// Match a value (grab first from array)
+var france = lookup.countries({name: 'France'})[0];
+
+// Or match one of several possible values.
+var eurozone_countries = lookup.countries({currencies: 'EUR'});
 ```
 
 It is very simple for now - feel free to contribute more helpful accessors.
