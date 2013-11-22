@@ -1,7 +1,8 @@
-var lookup    = require('..').lookup,
-    countries = require('..').countries,
-    assert    = require('chai').assert,
-    _         = require('underscore');
+var lookup     = require('..').lookup,
+    countries  = require('..').countries,
+    currencies = require('..').currencies,
+    assert     = require('chai').assert,
+    _          = require('underscore');
 
 describe('lookup', function () {
 
@@ -22,6 +23,16 @@ describe('lookup', function () {
       describe(name, function () {
         it(name, function () {
           if(country.name) assert.include( lookup.countries({name: country.name}), country );
+        });
+      });
+    });
+  });
+
+  describe("check currencies by code", function () {
+    _.each( currencies, function (currency, name) {
+      describe(name, function () {
+        it(name, function () {
+          if(currency.code) assert.include( lookup.currencies({code: currency.code}), currency );
         });
       });
     });
