@@ -1,6 +1,7 @@
 var countriesAll  = require('./data/countries.json'),
     currenciesAll = require('./data/currencies.json'),
     regions       = require('./data/regions'),
+    lookup        = require('./lookup'),
     _             = require('underscore');
 
 exports.countries = {
@@ -22,3 +23,6 @@ _.each(currenciesAll, function (currency) {
 
 
 exports.regions = regions;
+exports.lookup = lookup({
+    countries: countriesAll
+});
