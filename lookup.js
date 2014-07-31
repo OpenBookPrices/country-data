@@ -5,7 +5,8 @@ module.exports = init;
 function init(o) {
   return {
     countries: search.bind(null, o.countries),
-    currencies: search.bind(null, o.currencies)
+    currencies: search.bind(null, o.currencies),
+    languages: search.bind(null, o.languages)
   };
 }
 

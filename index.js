@@ -34,5 +34,6 @@ _.each(languagesAll, function (language) {
 exports.regions = regions;
 exports.lookup = lookup({
     countries: countriesAll,
-    currencies: currenciesAll
+    currencies: currenciesAll,
+    languages: languagesAll
 });
