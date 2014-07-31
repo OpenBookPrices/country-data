@@ -1,5 +1,6 @@
 var countriesAll  = require('./data/countries.json'),
     currenciesAll = require('./data/currencies.json'),
+    languagesAll  = require('./data/languages.json'),
     regions       = require('./data/regions'),
     lookup        = require('./lookup'),
     _             = require('underscore');
@@ -19,6 +20,14 @@ exports.currencies = {
 
 _.each(currenciesAll, function (currency) {
   exports.currencies[currency.code] = currency;
+});
+
+exports.languages = {
+  all: languagesAll,
+};
+
+_.each(languagesAll, function (language) {
+  exports.languages[language.alpha2] = language;
 });
 
 
