@@ -28,7 +28,7 @@ csv()
 
 
     // change the appropriate fields to be an array
-    _.each(['currencies', 'countryCallingCodes'], function(key) {
+    _.each(['currencies', 'countryCallingCodes', 'languages'], function(key) {
       _.each(countries, function (country) {
         country[key] = country[key] ? country[key].split(',') : [];
       });
