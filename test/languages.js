@@ -17,4 +17,13 @@ describe('languages', function () {
       assert.equal( languages.de.name, 'German');
     });
   });
+
+  describe('alpha3', function () {
+    it('should find English and German', function () {
+      assert.equal( languages.eng.name, 'English');
+      assert.equal( languages.deu.name, 'German');
+      assert.equal( languages.ger.name, 'German');
+    });
+  });
+
 });

@@ -28,6 +28,10 @@ exports.languages = {
 
 _.each(languagesAll, function (language) {
   exports.languages[language.alpha2] = language;
+  _.each(language.alpha3, function (alpha3) {
+    exports.languages[alpha3] = language;
+  });
+  exports.language
 });
 
 

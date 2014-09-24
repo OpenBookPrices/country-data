@@ -17,8 +17,13 @@ csv()
   })
   .on('end', function () {
 
-    // sort by alpha2
-    languages = _.sortBy(languages, function (i) { return i.alpha2;} );
+    // sort by alpha3
+    languages = _.sortBy(languages, function (i) { return i.alpha3;} );
+
+    // make the alpha3 into an array
+    _.each(languages, function (language) {
+      language.alpha3 = language.alpha3 ? language.alpha3.split(',') : [];
+    });
 
     // print out results to stdout
     console.log( canonicalJSON( languages, null, 2 ));
