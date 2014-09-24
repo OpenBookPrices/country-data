@@ -1,6 +1,7 @@
 var lookup     = require('..').lookup,
     countries  = require('..').countries,
     currencies = require('..').currencies,
+    languages  = require('..').languages,
     assert     = require('chai').assert,
     _          = require('underscore');
 
@@ -33,6 +34,16 @@ describe('lookup', function () {
       describe(name, function () {
         it(name, function () {
           if(currency.code) assert.include( lookup.currencies({code: currency.code}), currency );
+        });
+      });
+    });
+  });
+
+  describe("check languages by name", function () {
+    _.each( languages, function (language, name) {
+      describe(name, function () {
+        it(name, function () {
+          if(language.name) assert.include( lookup.languages({name: language.name}), language );
         });
       });
     });
