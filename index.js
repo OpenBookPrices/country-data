@@ -26,12 +26,13 @@ exports.languages = {
   all: languagesAll,
 };
 
+// Note that for the languages there are several entries with the same alpha3 -
+// eg Dutch and Flemish. Not sure how to best deal with that - here whichever
+// comes last wins.
 _.each(languagesAll, function (language) {
   exports.languages[language.alpha2] = language;
-  _.each(language.alpha3, function (alpha3) {
-    exports.languages[alpha3] = language;
-  });
-  exports.language
+  exports.languages[language.bibliographic] = language;
+  exports.languages[language.alpha3] = language;
 });
 
 
