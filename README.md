@@ -21,6 +21,7 @@ The data currently provided for each country is:
   * `alpha3` The [ISO 3166-1 alpha 3](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) code
   * `status`: The ISO status of the entry: either 'assigned' or 'reserved'.
   * `currencies` An array of [ISO 4217 currency codes](http://en.wikipedia.org/wiki/ISO_4217) with the primary one first
+  * `languages` An array of [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2) codes for languages (may not be complete).
   * `countryCallingCodes` An array of the international call prefixes for this country.
   * `ioc` The [International Olympic Committee country code](http://en.wikipedia.org/wiki/List_of_IOC_country_codes)
 
@@ -39,6 +40,15 @@ It is not that useful to just have the currency code(s) for a country, so includ
   * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
   * `decimals` The number of decimal digits conventionally shown
 
+## Languages
+
+A list of languages provided by [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2);
+
+  * `name` The english name for the language
+  * `alpha2` The two letter [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) code for the language (may be blank).
+  * `alpha3` The three letter terminological [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2) code for the language (may be blank).
+  * `bibliograpic` The three letter bibliographic [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2) code for the language (may be blank).
+
 ## Lookup
 
 To make finding easier there are utility methods that can search the countries and currencies. See examples below.
@@ -56,7 +66,8 @@ npm install country-data
 ``` javascript
 var countries  = require('country-data').countries,
     currencies = require('country-data').currencies,
-    regions    = regions('country-data').regions;
+    regions    = regions('country-data').regions,
+    languages  = require('country-data').languages;
 
 // .all gives you an array of all entries
 console.log( countries.all );
