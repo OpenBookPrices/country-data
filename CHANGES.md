@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.14
+
+  * Added languages - many thanks to Moritz Lawitschka (@lawitschka) for doing the initial work.
+
 ## v0.0.13
 
   * @carlosleopoldo added 521 calling code to Mexico
