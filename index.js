@@ -42,3 +42,42 @@ exports.lookup = lookup({
     currencies: currenciesAll,
     languages: languagesAll
 });
+
+var callingCodesAll = _.reduce(countriesAll, function (codes, country) {
+  if (country.countryCallingCodes && country.countryCallingCodes.length) {
+    _.each(country.countryCallingCodes, function (code) {
+      if (codes.indexOf(code) == -1) {
+        codes.push(code);
+      }
+    });
+  }
+  return codes;
+}, []);
+
+callingCodesAll.sort(function (a, b) {
+  var splitA = _.map(a.split(' '), parseInt)
+  var splitB = _.map(b.split(' '), parseInt)
+
+  if (splitA[0] < splitB[0]) {
+    return -1;
+  } else if (splitA[0] > splitB[0]) {
+    return 1;
+  } else {
+    // Same - check split[1]
+    if (splitA[1] === undefined && splitB[1] !== undefined) {
+      return -1;
+    } else if (splitA[1] !== undefined && splitB[1] === undefined) {
+      return 1;
+    } else if (splitA[1] < splitB[1]) {
+      return -1;
+    } else if (splitA[1] > splitB[1]) {
+      return 1;
+    } else {
+      return 0;
+    }
+  }
+});
+
+exports.callingCodes = {
+  all: callingCodesAll
+};
