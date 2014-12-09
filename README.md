@@ -66,7 +66,7 @@ npm install country-data
 ``` javascript
 var countries  = require('country-data').countries,
     currencies = require('country-data').currencies,
-    regions    = regions('country-data').regions,
+    regions    = require('country-data').regions,
     languages  = require('country-data').languages;
 
 // .all gives you an array of all entries
