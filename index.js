@@ -55,8 +55,9 @@ var callingCodesAll = _.reduce(countriesAll, function (codes, country) {
 }, []);
 
 callingCodesAll.sort(function (a, b) {
-  var splitA = _.map(a.split(' '), parseInt)
-  var splitB = _.map(b.split(' '), parseInt)
+  var parse = function (str) { return parseInt(str) };
+  var splitA = _.map(a.split(' '), parse);
+  var splitB = _.map(b.split(' '), parse);
 
   if (splitA[0] < splitB[0]) {
     return -1;
