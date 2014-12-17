@@ -38,6 +38,12 @@ describe('countries', function () {
     });
   });
 
+  describe('check specific country currencies', function () {
+    it('Latvian currency should be EUR', function () {
+      assert.deepEqual( countries.LV.currencies, ['EUR']);
+    });
+  });
+
   describe('check languages for each country', function () {
     _.each( countries.all, function (country) {
       describe(country.alpha2, function () {
