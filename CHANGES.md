@@ -1,5 +1,17 @@
 # Changes
 
+## v0.0.17
+
+  * changed Latvian and Lithuanian currencies to EUR - thanks @gytisgreitai
+
+## v0.0.16
+
+  * minor bug fix - thanks @alanshaw
+
+## v0.0.15
+
+  * List all calling codes in an expected order - thanks @alanshaw
+
 ## v0.0.14
 
   * Added languages - many thanks to Moritz Lawitschka (@lawitschka) for doing the initial work.
