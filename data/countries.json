@@ -1,7 +1,7 @@
 [
   {
     "alpha2": "AC",
-    "alpha3": "",
+    "alpha3": "ASC",
     "countryCallingCodes": [
       "+247"
     ],
@@ -89,7 +89,9 @@
       "XCD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Anguilla",
     "status": "assigned"
   },
@@ -234,6 +236,22 @@
     ],
     "name": "Aruba",
     "status": "assigned"
+  },
+  {
+    "alpha2": "AX",
+    "alpha3": "ALA",
+    "countryCallingCodes": [
+      "+358"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "swe"
+    ],
+    "name": "Åland Islands",
+    "status": ""
   },
   {
     "alpha2": "AZ",
@@ -409,7 +427,9 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "Saint Barthélemy",
     "status": "assigned"
   },
@@ -423,7 +443,9 @@
       "BMD"
     ],
     "ioc": "BER",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Bermuda",
     "status": "assigned"
   },
@@ -617,7 +639,9 @@
       "AUD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Cocos (Keeling) Islands",
     "status": "assigned"
   },
@@ -803,7 +827,9 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "Clipperton Island",
     "status": "reserved"
   },
@@ -853,7 +879,7 @@
     "languages": [
       "por"
     ],
-    "name": "Cape Verde",
+    "name": "Cabo Verde",
     "status": "assigned"
   },
   {
@@ -882,7 +908,9 @@
       "AUD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Christmas Island",
     "status": "assigned"
   },
@@ -937,13 +965,17 @@
   },
   {
     "alpha2": "DG",
-    "alpha3": "",
-    "countryCallingCodes": [],
+    "alpha3": "DGA",
+    "countryCallingCodes": [
+      "+246 "
+    ],
     "currencies": [
       "USD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Diego Garcia",
     "status": "reserved"
   },
@@ -1033,12 +1065,16 @@
   {
     "alpha2": "EA",
     "alpha3": "",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+34"
+    ],
     "currencies": [
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "name": "Ceuta, Mulilla",
     "status": "reserved"
   },
@@ -1213,7 +1249,9 @@
       "FKP"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Falkland Islands",
     "status": "assigned"
   },
@@ -1268,7 +1306,7 @@
   },
   {
     "alpha2": "FX",
-    "alpha3": "",
+    "alpha3": "FXX",
     "countryCallingCodes": [
       "+241"
     ],
@@ -1408,7 +1446,9 @@
       "GIP"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Gibraltar",
     "status": "assigned"
   },
@@ -1470,7 +1510,9 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "Guadeloupe",
     "status": "assigned"
   },
@@ -1516,7 +1558,9 @@
       "GBP"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "South Georgia And The South Sandwich Islands",
     "status": "assigned"
   },
@@ -1546,7 +1590,9 @@
       "USD"
     ],
     "ioc": "GUM",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Guam",
     "status": "assigned"
   },
@@ -1680,12 +1726,16 @@
   {
     "alpha2": "IC",
     "alpha3": "",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+34"
+    ],
     "currencies": [
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "name": "Canary Islands",
     "status": "reserved"
   },
@@ -1784,7 +1834,9 @@
       "USD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "British Indian Ocean Territory",
     "status": "assigned"
   },
@@ -2339,7 +2391,9 @@
       "EUR"
     ],
     "ioc": "MNE",
-    "languages": [],
+    "languages": [
+      "mot"
+    ],
     "name": "Montenegro",
     "status": "assigned"
   },
@@ -2353,7 +2407,9 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "Saint Martin",
     "status": "assigned"
   },
@@ -2482,7 +2538,9 @@
       "USD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Northern Mariana Islands",
     "status": "assigned"
   },
@@ -2675,7 +2733,9 @@
       "XPF"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "New Caledonia",
     "status": "assigned"
   },
@@ -2705,7 +2765,9 @@
       "AUD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Norfolk Island",
     "status": "assigned"
   },
@@ -2899,7 +2961,9 @@
       "XPF"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "French Polynesia",
     "status": "assigned"
   },
@@ -2978,14 +3042,18 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Saint Pierre And Miquelon",
     "status": "assigned"
   },
   {
     "alpha2": "PN",
     "alpha3": "PCN",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+872"
+    ],
     "currencies": [
       "NZD"
     ],
@@ -3106,7 +3174,9 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "Reunion",
     "status": "assigned"
   },
@@ -3290,7 +3360,9 @@
       "SHP"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
     "status": "assigned"
   },
@@ -3446,23 +3518,11 @@
       "STD"
     ],
     "ioc": "STP",
-    "languages": [],
+    "languages": [
+      "por"
+    ],
     "name": "São Tomé and Príncipe",
     "status": "assigned"
-  },
-  {
-    "alpha2": "SU",
-    "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
-      "RUB"
-    ],
-    "ioc": "",
-    "languages": [
-      "rus"
-    ],
-    "name": "USSR",
-    "status": "reserved"
   },
   {
     "alpha2": "SV",
@@ -3490,7 +3550,9 @@
       "ANG"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "dut"
+    ],
     "name": "Sint Maarten",
     "status": "assigned"
   },
@@ -3528,20 +3590,6 @@
     "status": "assigned"
   },
   {
-    "alpha2": "TA",
-    "alpha3": "",
-    "countryCallingCodes": [
-      "+290"
-    ],
-    "currencies": [
-      "GBP"
-    ],
-    "ioc": "",
-    "languages": [],
-    "name": "Tristan de Cunha",
-    "status": "reserved"
-  },
-  {
     "alpha2": "TC",
     "alpha3": "TCA",
     "countryCallingCodes": [
@@ -3551,7 +3599,9 @@
       "USD"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "name": "Turks And Caicos Islands",
     "status": "assigned"
   },
@@ -3832,27 +3882,11 @@
     "status": "assigned"
   },
   {
-    "alpha2": "UK",
-    "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
-      "GBP"
-    ],
-    "ioc": "",
-    "languages": [
-      "eng",
-      "cor",
-      "gle",
-      "gla",
-      "wel"
-    ],
-    "name": "United Kingdom",
-    "status": "reserved"
-  },
-  {
     "alpha2": "UM",
     "alpha3": "UMI",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+1"
+    ],
     "currencies": [
       "USD"
     ],
@@ -4087,7 +4121,9 @@
       "EUR"
     ],
     "ioc": "",
-    "languages": [],
+    "languages": [
+      "fre"
+    ],
     "name": "Mayotte",
     "status": "assigned"
   },
