@@ -55,7 +55,7 @@ regions.eastAsia = {
   countries: [
     // source is http://en.wikipedia.org/wiki/East_Asia
     'CN', // China
-    'HK' // Hong Kong
+    'HK', // Hong Kong
     'JP', // Japan
     'KP', // North Korea
     'KR', // South Korea
@@ -65,7 +65,7 @@ regions.eastAsia = {
   ]
 }
 
-resions.westernAsia = {
+regions.westernAsia = {
   countries: [
     // source is http://en.wikipedia.org/wiki/Western_Asia
     'AM', // Armenia
@@ -416,7 +416,7 @@ regions.micronesia = {
     'MH', // Marshall Islands
     'FM', // Micronesia, Fed. Sts.
     'NR', // Nauru
-    'MP' // Northern Mariana Islands
+    'MP', // Northern Mariana Islands
     'PW', // Palau
     'UM', // United States Minor Outlying Islands
   ]
@@ -429,7 +429,7 @@ regions.polynesia = {
     'CK', // Cook Islands
     'CL', // Easter Island
     'PF', // French Polynesia
-    'NU' //  Niue
+    'NU', //  Niue
     'PN', // Pitcairn Islands
     'WS', // Samoa
     'TK', // Tokelau
@@ -441,7 +441,7 @@ regions.polynesia = {
 
 regions.oceania = {
   countries: _.flatten([
-    regions.australasia.countries,
+    regions.australia.countries,
     regions.melanesia.countries,
     regions.micronesia.countries,
     regions.polynesia.countries,
