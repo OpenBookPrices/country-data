@@ -90,6 +90,12 @@
     "name": "Algonquian languages"
   },
   {
+    "alpha2": "alpha2",
+    "alpha3": "alpha3",
+    "bibliographic": "bibliographic",
+    "name": "name"
+  },
+  {
     "alpha2": "",
     "alpha3": "alt",
     "bibliographic": "",
@@ -1944,6 +1950,12 @@
     "name": "Mossi"
   },
   {
+    "alpha2": "",
+    "alpha3": "mot",
+    "bibliographic": "",
+    "name": "Montenegrin"
+  },
+  {
     "alpha2": "mi",
     "alpha3": "mri",
     "bibliographic": "mao",
@@ -2512,12 +2524,6 @@
     "alpha3": "ron",
     "bibliographic": "rum",
     "name": "Moldavian"
-  },
-  {
-    "alpha2": "ro",
-    "alpha3": "ron",
-    "bibliographic": "rum",
-    "name": "Moldovan"
   },
   {
     "alpha2": "ro",
