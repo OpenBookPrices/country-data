@@ -1,20 +1,70 @@
-var countries = require('..').countries,
-    regions   = require('..').regions,
-    assert    = require('assert'),
-    _         = require('underscore');
+'use strict';
+
+var countries = require('..').countries;
+var regions = require('..').regions;
+var assert = require('assert');
+var _ = require('underscore');
 
 describe('regions', function () {
 
   describe("check region's countries are known", function () {
-    _.each( regions, function (region, name) {
+    _.each(regions, function (region, name) {
       describe(name, function () {
-        _.each( region.countries, function (country) {
+        _.each(region.countries, function (country) {
           it(country, function () {
-            assert( countries[country] );
+            assert(countries[country]);
           });
         });
       });
     });
   });
 
+  describe("check countries", function () {
+    var countriesAssigned = [];
+    
+    _.each(regions, function (region, name) {
+      describe(name, function () {
+        if (!region.countries) {
+         _.each(region[name].countries, function (country) {
+            countriesAssigned.push(country);
+          });
+        }
+      });
+    });
+    countriesAssigned = countriesAssigned.sort();
+    var duplicate = countriesAssigned.filter(function (value, index, array) {
+      delete array[index];
+      return array.indexOf(value) !== -1
+    })
+    if (duplicate.length > 0) { console.log('duplicated: ', duplicate); }
+    
+    it("are not duplicated", function () {
+      assert(duplicate.length === 0);
+    });
+  });
+
+  describe("check countries", function() {
+    var countriesAssigned = [];
+    var countriesAvailable = [];
+    
+    _.each(regions, function (region, name) {
+      if (!region.countries) {
+        _.each(region[name].countries, function (country) {
+          countriesAssigned.push(country);
+        });
+      }
+    });
+    
+    _.each(countries.all, function(country) {
+      countriesAvailable.push(country.alpha2);
+    });
+    
+    var difference = _.difference(countriesAvailable, countriesAssigned);
+    if (difference.length > 0) { console.log('unused: ', difference); }
+  
+    it("are all used", function () {
+      assert(difference.length === 0);
+    });
+
+  });
 });
