@@ -12,7 +12,6 @@ Antigua And Barbuda,AG,ATG,+1 268,XCD,eng,ANT,,assigned
 Argentina,AR,ARG,+54,ARS,spa,ARG,,assigned
 Armenia,AM,ARM,+374,AMD,"arm,rus",ARM,,assigned
 Aruba,AW,ABW,+297,AWG,dut,ARU,,assigned
-Ascension Island,AC,ASC,+247,USD,eng,SHP,.ac,reserved
 Australia,AU,AUS,+61,AUD,eng,AUS,,assigned
 Austria,AT,AUT,+43,EUR,ger,AUT,,assigned
 Azerbaijan,AZ,AZE,+994,AZN,aze,AZE,,assigned
@@ -40,16 +39,13 @@ Burundi,BI,BDI,+257,BIF,fre,BDI,,assigned
 Cambodia,KH,KHM,+855,KHR,khm,CAM,,assigned
 Cameroon,CM,CMR,+237,XAF,"eng,fre",CMR,,assigned
 Canada,CA,CAN,+1,CAD,"eng,fre",CAN,,assigned
-Canary Islands,IC,,+34,EUR,spa,,,reserved
 Cabo Verde,CV,CPV,+238,CVE,por,CPV,,assigned
 Cayman Islands,KY,CYM,+1 345,KYD,eng,CAY,,assigned
 Central African Republic,CF,CAF,+236,XAF,"fre,sag",CAF,,assigned
-"Ceuta, Mulilla",EA,,+34,EUR,spa,,,reserved
 Chad,TD,TCD,+235,XAF,"ara,fre",CHA,,assigned
 Chile,CL,CHL,+56,"CLP,CLF",spa,CHI,,assigned
 China,CN,CHN,+86,CNY,chi,CHN,,assigned
 Christmas Island,CX,CXR,+61,AUD,eng,,,assigned
-Clipperton Island,CP,,,EUR,fre,,,reserved
 Cocos (Keeling) Islands,CC,CCK,+61,AUD,eng,,,assigned
 Colombia,CO,COL,+57,"COP,COU",spa,COL,,assigned
 Comoros,KM,COM,+269,KMF,"ara,fre",COM,,assigned
@@ -63,7 +59,6 @@ Cyprus,CY,CYP,+357,EUR,"gre,tur",CYP,,assigned
 Czech Republic,CZ,CZE,+420,CZK,cze,CZE,,assigned
 Democratic Republic Of Congo,CD,COD,+243,CDF,"fre,lin,kon,swa",COD,,assigned
 Denmark,DK,DNK,+45,DKK,dan,DEN,,assigned
-Diego Garcia,DG,DGA,+246 ,USD,eng,,,reserved
 Djibouti,DJ,DJI,+253,DJF,"ara,fre",DJI,,assigned
 Dominica,DM,DMA,+1 767,XCD,eng,DMA,,assigned
 Dominican Republic,DO,DOM,"+1 809,+1 829,+1 849",DOP,spa,DOM,,assigned
@@ -75,13 +70,11 @@ Equatorial Guinea,GQ,GNQ,+240,XAF,"spa,fre,por",GEQ,,assigned
 Eritrea,ER,ERI,+291,ERN,"eng,ara,tir",ERI,,assigned
 Estonia,EE,EST,+372,EUR,est,EST,,assigned
 Ethiopia,ET,ETH,+251,ETB,amh,ETH,,assigned
-European Union,EU,,+388,EUR,,,.eu,reserved
 Falkland Islands,FK,FLK,+500,FKP,eng,,,assigned
 Faroe Islands,FO,FRO,+298,DKK,"fao,dan",FAI,,assigned
 Fiji,FJ,FJI,+679,FJD,"eng,fij",FIJ,,assigned
 Finland,FI,FIN,+358,EUR,"fin,swe",FIN,,assigned
 France,FR,FRA,+33,EUR,fre,FRA,,assigned
-"France, Metropolitan",FX,FXX,+241,EUR,fre,,,reserved
 French Guiana,GF,GUF,+594,EUR,fre,,,assigned
 French Polynesia,PF,PYF,+689,XPF,fre,,,assigned
 French Southern Territories,TF,ATF,,EUR,fre,,,assigned
