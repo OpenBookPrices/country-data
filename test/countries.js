@@ -1,8 +1,10 @@
-var countries  = require('..').countries,
-    currencies = require('..').currencies,
-    languages  = require('..').languages,
-    assert     = require('assert'),
-    _          = require('underscore');
+'use strict';
+
+var countries  = require('..').countries;
+var currencies = require('..').currencies;
+var languages  = require('..').languages;
+var  assert = require('assert');
+var _ = require('underscore');
 
 describe('countries', function () {
 
