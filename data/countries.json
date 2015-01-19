@@ -1,21 +1,5 @@
 [
   {
-    "alpha2": "AC",
-    "alpha3": "ASC",
-    "countryCallingCodes": [
-      "+247"
-    ],
-    "currencies": [
-      "USD"
-    ],
-    "ioc": "SHP",
-    "languages": [
-      "eng"
-    ],
-    "name": "Ascension Island",
-    "status": "reserved"
-  },
-  {
     "alpha2": "AD",
     "alpha3": "AND",
     "countryCallingCodes": [
@@ -820,20 +804,6 @@
     "status": "assigned"
   },
   {
-    "alpha2": "CP",
-    "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
-      "EUR"
-    ],
-    "ioc": "",
-    "languages": [
-      "fre"
-    ],
-    "name": "Clipperton Island",
-    "status": "reserved"
-  },
-  {
     "alpha2": "CR",
     "alpha3": "CRI",
     "countryCallingCodes": [
@@ -964,22 +934,6 @@
     "status": "assigned"
   },
   {
-    "alpha2": "DG",
-    "alpha3": "DGA",
-    "countryCallingCodes": [
-      "+246 "
-    ],
-    "currencies": [
-      "USD"
-    ],
-    "ioc": "",
-    "languages": [
-      "eng"
-    ],
-    "name": "Diego Garcia",
-    "status": "reserved"
-  },
-  {
     "alpha2": "DJ",
     "alpha3": "DJI",
     "countryCallingCodes": [
@@ -1061,22 +1015,6 @@
     ],
     "name": "Algeria",
     "status": "assigned"
-  },
-  {
-    "alpha2": "EA",
-    "alpha3": "",
-    "countryCallingCodes": [
-      "+34"
-    ],
-    "currencies": [
-      "EUR"
-    ],
-    "ioc": "",
-    "languages": [
-      "spa"
-    ],
-    "name": "Ceuta, Mulilla",
-    "status": "reserved"
   },
   {
     "alpha2": "EC",
@@ -1192,20 +1130,6 @@
     "status": "assigned"
   },
   {
-    "alpha2": "EU",
-    "alpha3": "",
-    "countryCallingCodes": [
-      "+388"
-    ],
-    "currencies": [
-      "EUR"
-    ],
-    "ioc": "",
-    "languages": [],
-    "name": "European Union",
-    "status": "reserved"
-  },
-  {
     "alpha2": "FI",
     "alpha3": "FIN",
     "countryCallingCodes": [
@@ -1303,22 +1227,6 @@
     ],
     "name": "France",
     "status": "assigned"
-  },
-  {
-    "alpha2": "FX",
-    "alpha3": "FXX",
-    "countryCallingCodes": [
-      "+241"
-    ],
-    "currencies": [
-      "EUR"
-    ],
-    "ioc": "",
-    "languages": [
-      "fre"
-    ],
-    "name": "France, Metropolitan",
-    "status": "reserved"
   },
   {
     "alpha2": "GA",
@@ -1722,22 +1630,6 @@
     ],
     "name": "Hungary",
     "status": "assigned"
-  },
-  {
-    "alpha2": "IC",
-    "alpha3": "",
-    "countryCallingCodes": [
-      "+34"
-    ],
-    "currencies": [
-      "EUR"
-    ],
-    "ioc": "",
-    "languages": [
-      "spa"
-    ],
-    "name": "Canary Islands",
-    "status": "reserved"
   },
   {
     "alpha2": "ID",
