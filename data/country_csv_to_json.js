@@ -1,11 +1,11 @@
+'use strict';
+
 // Take the csv and convert to json and tidy it up so that it is consistent.
 
-var csv           = require('csv')
-    _             = require('underscore'),
-    canonicalJSON = require('canonical-json'),
-    path          = require('path');
-
-
+var path = require('path');
+var _ = require('underscore');
+var csv = require('csv');
+var canonicalJSON = require('canonical-json');
 var csvFile = path.join( __dirname, 'countries.csv' );
 var countries = [];
 
@@ -25,8 +25,6 @@ csv()
       delete country.ccTLD;
     });
 
-
-
     // change the appropriate fields to be an array
     _.each(['currencies', 'countryCallingCodes', 'languages'], function(key) {
       _.each(countries, function (country) {
@@ -36,5 +34,4 @@ csv()
 
     // print out results to stdout
     console.log( canonicalJSON( countries, null, 2 ));
-
   });
