@@ -1,9 +1,11 @@
-var countriesAll  = require('./data/countries.json'),
-    currenciesAll = require('./data/currencies.json'),
-    languagesAll  = require('./data/languages.json'),
-    regions       = require('./data/regions'),
-    lookup        = require('./lookup'),
-    _             = require('underscore');
+'use strict';
+
+var _ = require('underscore');
+var regions = require('./data/regions');
+var countriesAll = require('./data/countries.json');
+var currenciesAll = require('./data/currencies.json');
+var languagesAll = require('./data/languages.json');
+var lookup = require('./lookup');
 
 exports.countries = {
   all: countriesAll,
@@ -35,8 +37,8 @@ _.each(languagesAll, function (language) {
   exports.languages[language.alpha3] = language;
 });
 
-
 exports.regions = regions;
+
 exports.lookup = lookup({
     countries: countriesAll,
     currencies: currenciesAll,
