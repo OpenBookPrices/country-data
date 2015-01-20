@@ -19,9 +19,9 @@ describe('regions', function () {
     });
   });
 
-  describe("check countries", function () {
+  describe("check region countries exist", function () {
     var countriesAssigned = [];
-    
+
     _.each(regions, function (region, name) {
       describe(name, function () {
         if (!region.countries) {
@@ -37,16 +37,16 @@ describe('regions', function () {
       return array.indexOf(value) !== -1
     })
     if (duplicate.length > 0) { console.log('duplicated: ', duplicate); }
-    
+
     it("are not duplicated", function () {
       assert(duplicate.length === 0);
     });
   });
 
-  describe("check countries", function() {
+  describe("check all assigned countries are in regions", function() {
     var countriesAssigned = [];
     var countriesAvailable = [];
-    
+
     _.each(regions, function (region, name) {
       if (!region.countries) {
         _.each(region[name].countries, function (country) {
@@ -54,14 +54,16 @@ describe('regions', function () {
         });
       }
     });
-    
+
     _.each(countries.all, function(country) {
-      countriesAvailable.push(country.alpha2);
+      if (country.status == "assigned") {
+        countriesAvailable.push(country.alpha2);
+      }
     });
-    
+
     var difference = _.difference(countriesAvailable, countriesAssigned);
     if (difference.length > 0) { console.log('unused: ', difference); }
-  
+
     it("are all used", function () {
       assert(difference.length === 0);
     });

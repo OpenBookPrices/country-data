@@ -1,5 +1,21 @@
 [
   {
+    "alpha2": "AC",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+247"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "SHP",
+    "languages": [
+      "eng"
+    ],
+    "name": "Ascension Island",
+    "status": "reserved"
+  },
+  {
     "alpha2": "AD",
     "alpha3": "AND",
     "countryCallingCodes": [
@@ -804,6 +820,18 @@
     "status": "assigned"
   },
   {
+    "alpha2": "CP",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Clipperton Island",
+    "status": "reserved"
+  },
+  {
     "alpha2": "CR",
     "alpha3": "CRI",
     "countryCallingCodes": [
@@ -934,6 +962,18 @@
     "status": "assigned"
   },
   {
+    "alpha2": "DG",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Diego Garcia",
+    "status": "reserved"
+  },
+  {
     "alpha2": "DJ",
     "alpha3": "DJI",
     "countryCallingCodes": [
@@ -1015,6 +1055,18 @@
     ],
     "name": "Algeria",
     "status": "assigned"
+  },
+  {
+    "alpha2": "EA",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Ceuta, Mulilla",
+    "status": "reserved"
   },
   {
     "alpha2": "EC",
@@ -1130,6 +1182,20 @@
     "status": "assigned"
   },
   {
+    "alpha2": "EU",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+388"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "European Union",
+    "status": "reserved"
+  },
+  {
     "alpha2": "FI",
     "alpha3": "FIN",
     "countryCallingCodes": [
@@ -1227,6 +1293,22 @@
     ],
     "name": "France",
     "status": "assigned"
+  },
+  {
+    "alpha2": "FX",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+241"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fre"
+    ],
+    "name": "France, Metropolitan",
+    "status": "reserved"
   },
   {
     "alpha2": "GA",
@@ -1630,6 +1712,18 @@
     ],
     "name": "Hungary",
     "status": "assigned"
+  },
+  {
+    "alpha2": "IC",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Canary Islands",
+    "status": "reserved"
   },
   {
     "alpha2": "ID",
@@ -3417,6 +3511,20 @@
     "status": "assigned"
   },
   {
+    "alpha2": "SU",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "RUB"
+    ],
+    "ioc": "",
+    "languages": [
+      "rus"
+    ],
+    "name": "USSR",
+    "status": "reserved"
+  },
+  {
     "alpha2": "SV",
     "alpha3": "SLV",
     "countryCallingCodes": [
@@ -3480,6 +3588,20 @@
     ],
     "name": "Swaziland",
     "status": "assigned"
+  },
+  {
+    "alpha2": "TA",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+290"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Tristan de Cunha",
+    "status": "reserved"
   },
   {
     "alpha2": "TC",
@@ -3772,6 +3894,24 @@
     ],
     "name": "Uganda",
     "status": "assigned"
+  },
+  {
+    "alpha2": "UK",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng",
+      "cor",
+      "gle",
+      "gla",
+      "wel"
+    ],
+    "name": "United Kingdom",
+    "status": "reserved"
   },
   {
     "alpha2": "UM",

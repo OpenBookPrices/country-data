@@ -1,4 +1,5 @@
 name,alpha2,countryCallingCodes,alpha3,ioc,currencies,languages,ccTLD,status
+Ascension Island,AC,+247,,SHP,USD,eng,.ac,reserved
 Andorra,AD,+376,AND,AND,EUR,cat,,assigned
 United Arab Emirates,AE,+971,ARE,UAE,AED,ara,,assigned
 Afghanistan,AF,+93,AFG,AFG,AFN,pus,,assigned
@@ -48,6 +49,7 @@ Chile,CL,+56,CHL,CHI,"CLP,CLF",spa,,assigned
 Cameroon,CM,+237,CMR,CMR,XAF,"eng,fre",,assigned
 China,CN,+86,CHN,CHN,CNY,chi,,assigned
 Colombia,CO,+57,COL,COL,"COP,COU",spa,,assigned
+Clipperton Island,CP,,,,EUR,,,reserved
 Costa Rica,CR,+506,CRI,CRC,CRC,spa,,assigned
 Cuba,CU,+53,CUB,CUB,"CUP,CUC",spa,,assigned
 Cabo Verde,CV,+238,CPV,CPV,CVE,por,,assigned
@@ -56,11 +58,13 @@ Christmas Island,CX,+61,CXR,,AUD,eng,,assigned
 Cyprus,CY,+357,CYP,CYP,EUR,"gre,tur",,assigned
 Czech Republic,CZ,+420,CZE,CZE,CZK,cze,,assigned
 Germany,DE,+49,DEU,GER,EUR,ger,,assigned
+Diego Garcia,DG,,,,USD,,,reserved
 Djibouti,DJ,+253,DJI,DJI,DJF,"ara,fre",,assigned
 Denmark,DK,+45,DNK,DEN,DKK,dan,,assigned
 Dominica,DM,+1 767,DMA,DMA,XCD,eng,,assigned
 Dominican Republic,DO,"+1 809,+1 829,+1 849",DOM,DOM,DOP,spa,,assigned
 Algeria,DZ,+213,DZA,ALG,DZD,ara,,assigned
+"Ceuta, Mulilla",EA,,,,EUR,,,reserved
 Ecuador,EC,+593,ECU,ECU,USD,"spa,que",,assigned
 Estonia,EE,+372,EST,EST,EUR,est,,assigned
 Egypt,EG,+20,EGY,EGY,EGP,ara,,assigned
@@ -68,12 +72,14 @@ Western Sahara,EH,+212,ESH,,MAD,,,assigned
 Eritrea,ER,+291,ERI,ERI,ERN,"eng,ara,tir",,assigned
 Spain,ES,+34,ESP,ESP,EUR,spa,,assigned
 Ethiopia,ET,+251,ETH,ETH,ETB,amh,,assigned
+European Union,EU,+388,,,EUR,,.eu,reserved
 Finland,FI,+358,FIN,FIN,EUR,"fin,swe",,assigned
 Fiji,FJ,+679,FJI,FIJ,FJD,"eng,fij",,assigned
 Falkland Islands,FK,+500,FLK,,FKP,eng,,assigned
 "Micronesia, Federated States Of",FM,+691,FSM,,USD,eng,,assigned
 Faroe Islands,FO,+298,FRO,FAI,DKK,"fao,dan",,assigned
 France,FR,+33,FRA,FRA,EUR,fre,,assigned
+"France, Metropolitan",FX,+241,,,EUR,fre,,reserved
 Gabon,GA,+241,GAB,GAB,XAF,fre,,assigned
 United Kingdom,GB,+44,GBR,GBR,GBP,"eng,cor,gle,gla,wel",,assigned
 Grenada,GD,+473,GRD,GRN,XCD,eng,,assigned
@@ -99,6 +105,7 @@ Honduras,HN,+504,HND,HON,HNL,spa,,assigned
 Croatia,HR,+385,HRV,CRO,HRK,hrv,,assigned
 Haiti,HT,+509,HTI,HAI,"HTG,USD","fre,hat",,assigned
 Hungary,HU,+36,HUN,HUN,HUF,hun,,assigned
+Canary Islands,IC,,,,EUR,,,reserved
 Indonesia,ID,+62,IDN,INA,IDR,ind,,assigned
 Ireland,IE,+353,IRL,IRL,EUR,"eng,gle",,assigned
 Israel,IL,+972,ISR,ISR,ILS,"heb,ara,eng",,assigned
@@ -208,11 +215,13 @@ Somalia,SO,+252,SOM,SOM,SOS,som,,assigned
 Suriname,SR,+597,SUR,SUR,SRD,dut,,assigned
 South Sudan,SS,+211,SSD,,SSP,eng,.ss,assigned
 São Tomé and Príncipe,ST,+239,STP,STP,STD,por,,assigned
+USSR,SU,,,,RUB,rus,.su,reserved
 El Salvador,SV,+503,SLV,ESA,USD,spa,,assigned
 Sint Maarten,SX,+1 721,SXM,,ANG,dut,,assigned
 Syrian Arab Republic,SY,+963,SYR,SYR,SYP,ara,,assigned
 Swaziland,SZ,+268,SWZ,SWZ,SZL,"eng,ssw",,assigned
 Turks And Caicos Islands,TC,+1 649,TCA,,USD,eng,,assigned
+Tristan de Cunha,TA,+290,,,GBP,,,reserved
 Chad,TD,+235,TCD,CHA,XAF,"ara,fre",,assigned
 French Southern Territories,TF,,ATF,,EUR,fre,,assigned
 Togo,TG,+228,TGO,TOG,XOF,fre,,assigned
@@ -231,6 +240,7 @@ Tuvalu,TV,+688,TUV,TUV,AUD,eng,,assigned
 Ukraine,UA,+380,UKR,UKR,UAH,"ukr,rus",,assigned
 Uganda,UG,+256,UGA,UGA,UGX,"eng,swa",,assigned
 United States Minor Outlying Islands,UM,+1,UMI,,USD,eng,,assigned
+United Kingdom,UK,,,,GBP,"eng,cor,gle,gla,wel",.uk,reserved
 United States,US,+1,USA,USA,USD,eng,,assigned
 Uruguay,UY,+598,URY,URU,"UYU,UYI",spa,,assigned
 Uzbekistan,UZ,+998,UZB,UZB,UZS,"uzb,rus",,assigned
