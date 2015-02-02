@@ -106,7 +106,7 @@
     ],
     "ioc": "ALB",
     "languages": [
-      "alb"
+      "sqi"
     ],
     "name": "Albania",
     "status": "assigned"
@@ -122,7 +122,7 @@
     ],
     "ioc": "ARM",
     "languages": [
-      "arm",
+      "hye",
       "rus"
     ],
     "name": "Armenia",
@@ -200,7 +200,7 @@
     ],
     "ioc": "AUT",
     "languages": [
-      "ger"
+      "deu"
     ],
     "name": "Austria",
     "status": "assigned"
@@ -232,7 +232,7 @@
     ],
     "ioc": "ARU",
     "languages": [
-      "dut"
+      "nld"
     ],
     "name": "Aruba",
     "status": "assigned"
@@ -330,9 +330,9 @@
     ],
     "ioc": "BEL",
     "languages": [
-      "dut",
-      "fre",
-      "ger"
+      "nld",
+      "fra",
+      "deu"
     ],
     "name": "Belgium",
     "status": "assigned"
@@ -348,7 +348,7 @@
     ],
     "ioc": "BUR",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Burkina Faso",
     "status": "assigned"
@@ -396,7 +396,7 @@
     ],
     "ioc": "BDI",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Burundi",
     "status": "assigned"
@@ -412,7 +412,7 @@
     ],
     "ioc": "BEN",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Benin",
     "status": "assigned"
@@ -428,7 +428,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Saint Barthélemy",
     "status": "assigned"
@@ -460,7 +460,7 @@
     ],
     "ioc": "BRU",
     "languages": [
-      "may",
+      "msa",
       "eng"
     ],
     "name": "Brunei Darussalam",
@@ -496,7 +496,7 @@
     ],
     "ioc": "",
     "languages": [
-      "dut"
+      "nld"
     ],
     "name": "Bonaire, Saint Eustatius And Saba",
     "status": "assigned"
@@ -624,7 +624,7 @@
     "ioc": "CAN",
     "languages": [
       "eng",
-      "fre"
+      "fra"
     ],
     "name": "Canada",
     "status": "assigned"
@@ -656,7 +656,7 @@
     ],
     "ioc": "COD",
     "languages": [
-      "fre",
+      "fra",
       "lin",
       "kon",
       "swa"
@@ -675,7 +675,7 @@
     ],
     "ioc": "CAF",
     "languages": [
-      "fre",
+      "fra",
       "sag"
     ],
     "name": "Central African Republic",
@@ -692,7 +692,7 @@
     ],
     "ioc": "CGO",
     "languages": [
-      "fre",
+      "fra",
       "lin"
     ],
     "name": "Republic Of Congo",
@@ -711,8 +711,8 @@
     ],
     "ioc": "SUI",
     "languages": [
-      "ger",
-      "fre",
+      "deu",
+      "fra",
       "ita",
       "roh"
     ],
@@ -730,7 +730,7 @@
     ],
     "ioc": "CIV",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Cote d'Ivoire",
     "status": "assigned"
@@ -747,7 +747,7 @@
     "ioc": "COK",
     "languages": [
       "eng",
-      "mao"
+      "mri"
     ],
     "name": "Cook Islands",
     "status": "assigned"
@@ -781,7 +781,7 @@
     "ioc": "CMR",
     "languages": [
       "eng",
-      "fre"
+      "fra"
     ],
     "name": "Cameroon",
     "status": "assigned"
@@ -797,7 +797,7 @@
     ],
     "ioc": "CHN",
     "languages": [
-      "chi"
+      "zho"
     ],
     "name": "China",
     "status": "assigned"
@@ -891,7 +891,7 @@
     ],
     "ioc": "",
     "languages": [
-      "dut"
+      "nld"
     ],
     "name": "Curacao",
     "status": "assigned"
@@ -923,7 +923,7 @@
     ],
     "ioc": "CYP",
     "languages": [
-      "gre",
+      "ell",
       "tur"
     ],
     "name": "Cyprus",
@@ -940,7 +940,7 @@
     ],
     "ioc": "CZE",
     "languages": [
-      "cze"
+      "ces"
     ],
     "name": "Czech Republic",
     "status": "assigned"
@@ -956,7 +956,7 @@
     ],
     "ioc": "GER",
     "languages": [
-      "ger"
+      "deu"
     ],
     "name": "Germany",
     "status": "assigned"
@@ -985,7 +985,7 @@
     "ioc": "DJI",
     "languages": [
       "ara",
-      "fre"
+      "fra"
     ],
     "name": "Djibouti",
     "status": "assigned"
@@ -1289,7 +1289,7 @@
     ],
     "ioc": "FRA",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "France",
     "status": "assigned"
@@ -1305,7 +1305,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "France, Metropolitan",
     "status": "reserved"
@@ -1321,7 +1321,7 @@
     ],
     "ioc": "GAB",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Gabon",
     "status": "assigned"
@@ -1341,7 +1341,7 @@
       "cor",
       "gle",
       "gla",
-      "wel"
+      "cym"
     ],
     "name": "United Kingdom",
     "status": "assigned"
@@ -1373,7 +1373,7 @@
     ],
     "ioc": "GEO",
     "languages": [
-      "geo"
+      "kat"
     ],
     "name": "Georgia",
     "status": "assigned"
@@ -1389,7 +1389,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "French Guiana",
     "status": "assigned"
@@ -1405,7 +1405,7 @@
     ],
     "ioc": "GCI",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Guernsey",
     "status": "assigned"
@@ -1485,7 +1485,7 @@
     ],
     "ioc": "GUI",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Guinea",
     "status": "assigned"
@@ -1501,7 +1501,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Guadeloupe",
     "status": "assigned"
@@ -1518,7 +1518,7 @@
     "ioc": "GEQ",
     "languages": [
       "spa",
-      "fre",
+      "fra",
       "por"
     ],
     "name": "Equatorial Guinea",
@@ -1535,7 +1535,7 @@
     ],
     "ioc": "GRE",
     "languages": [
-      "gre"
+      "ell"
     ],
     "name": "Greece",
     "status": "assigned"
@@ -1629,7 +1629,7 @@
     ],
     "ioc": "HKG",
     "languages": [
-      "chi",
+      "zho",
       "eng"
     ],
     "name": "Hong Kong",
@@ -1691,7 +1691,7 @@
     ],
     "ioc": "HAI",
     "languages": [
-      "fre",
+      "fra",
       "hat"
     ],
     "name": "Haiti",
@@ -1854,7 +1854,7 @@
     ],
     "ioc": "IRI",
     "languages": [
-      "per"
+      "fas"
     ],
     "name": "Iran, Islamic Republic Of",
     "status": "assigned"
@@ -1870,7 +1870,7 @@
     ],
     "ioc": "ISL",
     "languages": [
-      "ice"
+      "isl"
     ],
     "name": "Iceland",
     "status": "assigned"
@@ -1903,7 +1903,7 @@
     "ioc": "JCI",
     "languages": [
       "eng",
-      "fre"
+      "fra"
     ],
     "name": "Jersey",
     "status": "assigned"
@@ -2033,7 +2033,7 @@
     "ioc": "COM",
     "languages": [
       "ara",
-      "fre"
+      "fra"
     ],
     "name": "Comoros",
     "status": "assigned"
@@ -2165,7 +2165,7 @@
     "ioc": "LIB",
     "languages": [
       "ara",
-      "arm"
+      "hye"
     ],
     "name": "Lebanon",
     "status": "assigned"
@@ -2197,7 +2197,7 @@
     ],
     "ioc": "LIE",
     "languages": [
-      "ger"
+      "deu"
     ],
     "name": "Liechtenstein",
     "status": "assigned"
@@ -2280,8 +2280,8 @@
     ],
     "ioc": "LUX",
     "languages": [
-      "fre",
-      "ger",
+      "fra",
+      "deu",
       "ltz"
     ],
     "name": "Luxembourg",
@@ -2346,7 +2346,7 @@
     ],
     "ioc": "MON",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Monaco",
     "status": "assigned"
@@ -2362,7 +2362,7 @@
     ],
     "ioc": "MDA",
     "languages": [
-      "rum"
+      "ron"
     ],
     "name": "Moldova",
     "status": "assigned"
@@ -2394,7 +2394,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Saint Martin",
     "status": "assigned"
@@ -2410,7 +2410,7 @@
     ],
     "ioc": "MAD",
     "languages": [
-      "fre",
+      "fra",
       "mlg"
     ],
     "name": "Madagascar",
@@ -2444,7 +2444,7 @@
     ],
     "ioc": "MKD",
     "languages": [
-      "mac"
+      "mkd"
     ],
     "name": "Macedonia, The Former Yugoslav Republic Of",
     "status": "assigned"
@@ -2460,7 +2460,7 @@
     ],
     "ioc": "MLI",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Mali",
     "status": "assigned"
@@ -2476,7 +2476,7 @@
     ],
     "ioc": "MYA",
     "languages": [
-      "bur"
+      "mya"
     ],
     "name": "Myanmar",
     "status": "assigned"
@@ -2508,7 +2508,7 @@
     ],
     "ioc": "MAC",
     "languages": [
-      "chi",
+      "zho",
       "por"
     ],
     "name": "Macao",
@@ -2556,7 +2556,7 @@
     "ioc": "MTN",
     "languages": [
       "ara",
-      "fre"
+      "fra"
     ],
     "name": "Mauritania",
     "status": "assigned"
@@ -2604,7 +2604,7 @@
     "ioc": "MRI",
     "languages": [
       "eng",
-      "fre"
+      "fra"
     ],
     "name": "Mauritius",
     "status": "assigned"
@@ -2720,7 +2720,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "New Caledonia",
     "status": "assigned"
@@ -2736,7 +2736,7 @@
     ],
     "ioc": "NIG",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Niger",
     "status": "assigned"
@@ -2800,7 +2800,7 @@
     ],
     "ioc": "NED",
     "languages": [
-      "dut"
+      "nld"
     ],
     "name": "Netherlands",
     "status": "assigned"
@@ -2948,7 +2948,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "French Polynesia",
     "status": "assigned"
@@ -3161,7 +3161,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Reunion",
     "status": "assigned"
@@ -3177,7 +3177,7 @@
     ],
     "ioc": "ROU",
     "languages": [
-      "rum"
+      "ron"
     ],
     "name": "Romania",
     "status": "assigned"
@@ -3229,7 +3229,7 @@
     "ioc": "RWA",
     "languages": [
       "eng",
-      "fre",
+      "fra",
       "kin"
     ],
     "name": "Rwanda",
@@ -3279,7 +3279,7 @@
     "ioc": "SEY",
     "languages": [
       "eng",
-      "fre"
+      "fra"
     ],
     "name": "Seychelles",
     "status": "assigned"
@@ -3329,8 +3329,8 @@
     "ioc": "SIN",
     "languages": [
       "eng",
-      "chi",
-      "may",
+      "zho",
+      "msa",
       "tam"
     ],
     "name": "Singapore",
@@ -3393,7 +3393,7 @@
     ],
     "ioc": "SVK",
     "languages": [
-      "slo"
+      "slk"
     ],
     "name": "Slovakia",
     "status": "assigned"
@@ -3441,7 +3441,7 @@
     ],
     "ioc": "SEN",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Senegal",
     "status": "assigned"
@@ -3473,7 +3473,7 @@
     ],
     "ioc": "SUR",
     "languages": [
-      "dut"
+      "nld"
     ],
     "name": "Suriname",
     "status": "assigned"
@@ -3551,7 +3551,7 @@
     ],
     "ioc": "",
     "languages": [
-      "dut"
+      "nld"
     ],
     "name": "Sint Maarten",
     "status": "assigned"
@@ -3631,7 +3631,7 @@
     "ioc": "CHA",
     "languages": [
       "ara",
-      "fre"
+      "fra"
     ],
     "name": "Chad",
     "status": "assigned"
@@ -3645,7 +3645,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "French Southern Territories",
     "status": "assigned"
@@ -3661,7 +3661,7 @@
     ],
     "ioc": "TOG",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Togo",
     "status": "assigned"
@@ -3839,7 +3839,7 @@
     ],
     "ioc": "TPE",
     "languages": [
-      "chi"
+      "zho"
     ],
     "name": "Taiwan, Province Of China",
     "status": "assigned"
@@ -3908,7 +3908,7 @@
       "cor",
       "gle",
       "gla",
-      "wel"
+      "cym"
     ],
     "name": "United Kingdom",
     "status": "reserved"
@@ -4089,7 +4089,7 @@
     "languages": [
       "bis",
       "eng",
-      "fre"
+      "fra"
     ],
     "name": "Vanuatu",
     "status": "assigned"
@@ -4105,7 +4105,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Wallis And Futuna",
     "status": "assigned"
@@ -4154,7 +4154,7 @@
     ],
     "ioc": "",
     "languages": [
-      "fre"
+      "fra"
     ],
     "name": "Mayotte",
     "status": "assigned"
