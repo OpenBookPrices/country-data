@@ -28,6 +28,14 @@ describe('countries', function () {
     });
   });
 
+  describe('check all countries have a status', function () {
+    _.each( countries.all, function (country) {
+      it(country, function () {
+        assert( country.status );
+      });
+    });
+  });
+
   describe('check currencies for each country', function () {
     _.each( countries.all, function (country) {
       describe(country.alpha2, function () {

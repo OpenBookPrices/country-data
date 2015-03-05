@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.18
+
+  * updated several languages, country names and added many regions - thanks to @iancrowther
+
 ## v0.0.17
 
   * changed Latvian and Lithuanian currencies to EUR - thanks @gytisgreitai
