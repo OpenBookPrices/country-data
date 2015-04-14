@@ -1,5 +1,10 @@
 # Changes
 
+## v0.0.19
+
+  * Added Malay as a language for Malaysia (thanks to @lpsBetty)
+
+
 ## v0.0.18
 
   * updated several languages, country names and added many regions - thanks to @iancrowther
