@@ -1,5 +1,11 @@
 # Changes
 
+## v0.0.19
+
+  * Added Malay as a language for Malaysia (thanks to @lpsBetty)
+  * Removed redundant calling code +521 from Mexico (thanks to @spmarin)
+
+
 ## v0.0.18
 
   * updated several languages, country names and added many regions - thanks to @iancrowther
