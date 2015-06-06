@@ -5,6 +5,7 @@ var regions = require('./data/regions');
 var countriesAll = require('./data/countries.json');
 var currenciesAll = require('./data/currencies.json');
 var languagesAll = require('./data/languages.json');
+var currency_symbols = require('./data/currency_symbols');
 var lookup = require('./lookup');
 
 exports.countries = {
@@ -21,7 +22,10 @@ exports.currencies = {
 };
 
 _.each(currenciesAll, function (currency) {
+  //If the symbol isn't available, default to the currency code
+  currency.symbol = currency_symbols[currency.code]? currency_symbols[currency.code] : currency.code;
   exports.currencies[currency.code] = currency;
+
 });
 
 exports.languages = {
