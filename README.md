@@ -39,6 +39,8 @@ It is not that useful to just have the currency code(s) for a country, so includ
   * `code` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) code
   * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
   * `decimals` The number of decimal digits conventionally shown
+  * `symbol` The currency symbol for the currency (e.g. ¥, $ etc.). Some symbols are not available, in which case 
+    `symbol` contains the ISO 4217 code.
 
 ## Languages
 
