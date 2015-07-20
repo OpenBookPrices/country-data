@@ -1,9 +1,9 @@
-'use strict';
+"use strict";
 
+var _ = require("underscore");
 var regions = {};
 
 regions.centralAsia = {
-  name: 'Central Asia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Central_Asia
     'KZ', // Kazakhstan
@@ -15,7 +15,6 @@ regions.centralAsia = {
 }
 
 regions.southernAsia = {
-  name: 'Southern Asia',
   countries: [
     // source is http://en.wikipedia.org/wiki/South_Asia
     'AF', // Afghanistan
@@ -32,7 +31,6 @@ regions.southernAsia = {
 }
 
 regions.southeastAsia = {
-  name: 'Southeast Asia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Southeast_Asia
     'BN', // Brunei
@@ -52,7 +50,6 @@ regions.southeastAsia = {
 }
 
 regions.eastAsia = {
-  name: 'East Asia',
   countries: [
     // source is http://en.wikipedia.org/wiki/East_Asia
     'CN', // China
@@ -67,7 +64,6 @@ regions.eastAsia = {
 }
 
 regions.westernAsia = {
-  name: 'Western Asia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Western_Asia
     'AM', // Armenia
@@ -89,8 +85,20 @@ regions.westernAsia = {
   ]
 }
 
+regions.asia = {
+  'asia': {
+    countries: _.flatten([
+      regions.centralAsia.countries,
+      regions.southernAsia.countries,
+      regions.southeastAsia.countries,
+      regions.eastAsia.countries,
+      regions.westernAsia.countries,
+    ])
+    .sort()
+  }
+};
+
 regions.centralAfrica = {
-  name: 'Central Aftrica',
   countries: [
     // source is http://en.wikipedia.org/wiki/Central_Africa
     'AO', // Angola
@@ -106,7 +114,6 @@ regions.centralAfrica = {
 };
 
 regions.northAfrica = {
-  name: 'North Africa',
   countries: [
     // source is http://en.wikipedia.org/wiki/North_Africa
     'DZ', // Algeria
@@ -120,7 +127,6 @@ regions.northAfrica = {
 };
 
 regions.southernAfrica = {
-  name: 'Southern Africa',
   countries: [
     // source is http://en.wikipedia.org/wiki/Southern_Africa
     'BW', // Botswana
@@ -132,7 +138,6 @@ regions.southernAfrica = {
 };
 
 regions.eastAfrica = {
-  name: 'East Africa',
   countries: [
     // source is http://en.wikipedia.org/wiki/East_Africa
     'BI', // Burundi
@@ -159,7 +164,6 @@ regions.eastAfrica = {
 };
 
 regions.westAfrica = {
-  name: 'West Africa',
   countries: [
     // source is http://en.wikipedia.org/wiki/West_Africa
     'BJ', // Benin
@@ -182,8 +186,20 @@ regions.westAfrica = {
   ]
 };
 
+regions.africa = {
+  'africa': {
+    countries: _.flatten([
+        regions.centralAfrica.countries,
+        regions.northAfrica.countries,
+        regions.southernAfrica.countries,
+        regions.eastAfrica.countries,
+        regions.westAfrica.countries
+    ])
+    .sort()
+  }
+};
+
 regions.centralAmerica = {
-  name: 'Central America',
   countries: [
     // source is http://en.wikipedia.org/wiki/Central_America
     'BZ', // Belize
@@ -197,7 +213,6 @@ regions.centralAmerica = {
 }
 
 regions.northernAmerica = {
-  name: 'Northern America',
   countries: [
     // source is http://en.wikipedia.org/wiki/Northern_America
     'BM', // Bermuda
@@ -210,7 +225,6 @@ regions.northernAmerica = {
 }
 
 regions.caribbean = {
-  name: 'Caribbean',
   countries: [
     // source is http://en.wikipedia.org/wiki/Caribbean
     'AI', // Anguilla
@@ -244,41 +258,53 @@ regions.caribbean = {
   ]
 }
 
+regions.northAmerica = {
+  'northAmerica': {
+    countries: _.flatten([
+      regions.centralAmerica.countries,
+      regions.northernAmerica.countries,
+      regions.caribbean.countries
+    ])
+    .sort()
+  }
+};
+
 regions.southAmerica = {
-  name: 'South America',
-  countries: [
-    // source is http://en.wikipedia.org/wiki/South_America
-    'AR', // Argentina
-    'BO', // Bolivia
-    'BR', // Brazil
-    'CL', // Chile
-    'CO', // Colombia
-    'EC', // Ecuador
-    'FK', // Falkland Islands
-    'GF', // French Guiana
-    'GY', // Guyana
-    'PY', // Paraguay
-    'PE', // Peru
-    'SR', // Suriname
-    'UY', // Uruguay
-    'VE', // Venezuela
-  ]
+  'southAmerica': {    
+    countries: [
+      // source is http://en.wikipedia.org/wiki/South_America
+      'AR', // Argentina
+      'BO', // Bolivia
+      'BR', // Brazil
+      // 'CL', // Chile
+      'CO', // Colombia
+      'EC', // Ecuador
+      'FK', // Falkland Islands
+      'GF', // French Guiana
+      'GY', // Guyana
+      'PY', // Paraguay
+      'PE', // Peru
+      'SR', // Suriname
+      'UY', // Uruguay
+      'VE', // Venezuela
+    ].sort()
+  }
 }
 
 regions.antartica = {
-  name: 'Antartica',
-  countries: [
-    // source is http://en.wikipedia.org/wiki/Antarctica
-    'AQ', // Antarctica
-    'BV', // Bouvet Island
-    'TF', // French Southern Territories
-    'HM', // Heard Island and McDonald Islands
-    'GS', // South Georgia and the South Sandwich Islands
-  ]
+  'antartica': {
+    countries: [
+      // source is http://en.wikipedia.org/wiki/Antarctica
+      'AQ', // Antarctica
+      'BV', // Bouvet Island
+      'TF', // French Southern Territories
+      'HM', // Heard Island and McDonald Islands
+      'GS', // South Georgia and the South Sandwich Islands
+    ].sort()
+  }
 }
 
 regions.northernEurope = {
-  name: 'Northern Europe',
   countries: [
     // source is http://en.wikipedia.org/wiki/Northern_Europe
     'AX', // Åland
@@ -301,7 +327,6 @@ regions.northernEurope = {
 }
 
 regions.southernEurope = {
-  name: 'Southern Europe',
   countries: [
     // source is http://en.wikipedia.org/wiki/Southern_Europe
     'AL', // Albania
@@ -325,7 +350,6 @@ regions.southernEurope = {
 }
 
 regions.easternEurope = {
-  name: 'Eastern Europe',
   countries: [
     // source is http://en.wikipedia.org/wiki/Eastern_Europe
     'BY', // Belarus
@@ -343,7 +367,6 @@ regions.easternEurope = {
 }
 
 regions.westernEurope = {
-  name: 'Western Europe',
   countries: [
     // source is http://en.wikipedia.org/wiki/Western_Europe
     'AT', // Austria
@@ -357,9 +380,20 @@ regions.westernEurope = {
     'CH', // Switzerland
   ],
 };
+
+regions.europe = {
+  'europe': {
+    countries: _.flatten([
+      regions.northernEurope.countries,
+      regions.southernEurope.countries,
+      regions.easternEurope.countries,
+      regions.westernEurope.countries,
+    ])
+    .sort()
+  }
+}
  
 regions.australia = {
-  name: 'Australia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Oceania
     'AU', // Australia
@@ -369,7 +403,6 @@ regions.australia = {
 };
 
 regions.melanesia = {
-  name: 'Melanesia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Oceania
     'FJ', // Fiji
@@ -381,7 +414,6 @@ regions.melanesia = {
 };    
 
 regions.micronesia = {
-  name: 'Micronesia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Oceania
     'GU', // Guam
@@ -396,11 +428,11 @@ regions.micronesia = {
 };    
 
 regions.polynesia = {
-  name: 'Polynesia',
   countries: [
     // source is http://en.wikipedia.org/wiki/Oceania
     'AS', // American Samoa
     'CK', // Cook Islands
+    'CL', // Easter Island (Chile)
     'PF', // French Polynesia
     'NU', // Niue
     'PN', // Pitcairn Islands
@@ -410,6 +442,18 @@ regions.polynesia = {
     'TV', // Tuvalu
     'WF', // Wallis and Futuna
   ]
+};
+
+regions.oceania = {
+  'oceania': {
+    countries: _.flatten([
+      regions.australia.countries,
+      regions.melanesia.countries,
+      regions.micronesia.countries,
+      regions.polynesia.countries,
+    ])
+    .sort()
+  }
 };
 
 module.exports = regions;
