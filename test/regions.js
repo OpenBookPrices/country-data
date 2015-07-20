@@ -48,9 +48,11 @@ describe('regions', function () {
     var countriesAvailable = [];
 
     _.each(regions, function (region, name) {
-      _.each(region.countries, function (country) {
-        countriesAssigned.push(country);
-      });
+      if (!region.countries) {
+        _.each(region[name].countries, function (country) {
+          countriesAssigned.push(country);
+        });
+      }
     });
 
     _.each(countries.all, function(country) {
