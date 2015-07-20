@@ -5,6 +5,7 @@
   * Fix to some language references - thanks @jussi-kalliokoski
   * Added csv normalizing utility - so csv diffs should be easy in future
   * Fix to East Timor and continent groupings - thanks #iancrowther
+  * Added currency symbols - thanks @CjS77
 
 ## v0.0.19
 
