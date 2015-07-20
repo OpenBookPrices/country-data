@@ -18,7 +18,7 @@ describe('currencies', function () {
 
   describe('formatting', function () {
     it("decimals should be numbers", function () {
-      assert(_.isNumber(currencies.USD.decimals));      
+      assert(_.isNumber(currencies.USD.decimals));
     });
   });
 
@@ -32,6 +32,11 @@ describe('currencies', function () {
     it('should find R', function () {
       assert.equal( currencies.ZAR.symbol, 'R');
     });
+
+    it('should find AED (has no symbol)', function () {
+      assert.equal( currencies.AED.symbol, 'AED');
+    });
+
   });
 
 });
