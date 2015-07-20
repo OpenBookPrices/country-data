@@ -21,9 +21,9 @@
   "author": "Edmund von der Burg",
   "license": "AGPL",
   "devDependencies": {
-    "canonical-json": "0.0.1",
+    "canonical-json": "~0.0.4",
     "csv": "~0.4",
-    "mocha": "~1.9.0",
+    "mocha": "~2.2",
     "chai": "~1.8.1"
   },
   "dependencies": {
