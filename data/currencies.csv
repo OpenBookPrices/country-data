@@ -1,179 +1,179 @@
-code,number,decimals,name
-AED,784,2,United Arab Emirates dirham
-AFN,971,2,Afghan afghani
-ALL,8,2,Albanian lek
-AMD,51,2,Armenian dram
-ANG,532,2,Netherlands Antillean guilder
-AOA,973,2,Angolan kwanza
-ARS,32,2,Argentine peso
-AUD,36,2,Australian dollar
-AWG,533,2,Aruban florin
-AZN,944,2,Azerbaijani manat
-BAM,977,2,Bosnia and Herzegovina convertible mark
-BBD,52,2,Barbados dollar
-BDT,50,2,Bangladeshi taka
-BGN,975,2,Bulgarian lev
-BHD,48,3,Bahraini dinar
-BIF,108,0,Burundian franc
-BMD,60,2,Bermudian dollar (customarily known as Bermuda dollar)
-BND,96,2,Brunei dollar
-BOB,68,2,Boliviano
-BOV,984,2,Bolivian Mvdol (funds code)
-BRL,986,2,Brazilian real
-BSD,44,2,Bahamian dollar
-BTN,64,2,Bhutanese ngultrum
-BWP,72,2,Botswana pula
-BYR,974,0,Belarusian ruble
-BZD,84,2,Belize dollar
-CAD,124,2,Canadian dollar
-CDF,976,2,Congolese franc
-CHE,947,2,WIR Euro (complementary currency)
-CHF,756,2,Swiss franc
-CHW,948,2,WIR Franc (complementary currency)
-CLF,990,0,Unidad de Fomento (funds code)
-CLP,152,0,Chilean peso
-CNY,156,2,Chinese yuan
-COP,170,2,Colombian peso
-COU,970,2,Unidad de Valor Real
-CRC,188,2,Costa Rican colon
-CUC,931,2,Cuban convertible peso
-CUP,192,2,Cuban peso
-CVE,132,0,Cape Verde escudo
-CZK,203,2,Czech koruna
-DJF,262,0,Djiboutian franc
-DKK,208,2,Danish krone
-DOP,214,2,Dominican peso
-DZD,12,2,Algerian dinar
-EGP,818,2,Egyptian pound
-ERN,232,2,Eritrean nakfa
-ETB,230,2,Ethiopian birr
-EUR,978,2,Euro
-FJD,242,2,Fiji dollar
-FKP,238,2,Falkland Islands pound
-GBP,826,2,Pound sterling
-GEL,981,2,Georgian lari
-GHS,936,2,Ghanaian cedi
-GIP,292,2,Gibraltar pound
-GMD,270,2,Gambian dalasi
-GNF,324,0,Guinean franc
-GTQ,320,2,Guatemalan quetzal
-GYD,328,2,Guyanese dollar
-HKD,344,2,Hong Kong dollar
-HNL,340,2,Honduran lempira
-HRK,191,2,Croatian kuna
-HTG,332,2,Haitian gourde
-HUF,348,2,Hungarian forint
-IDR,360,2,Indonesian rupiah
-ILS,376,2,Israeli new shekel
-INR,356,2,Indian rupee
-IQD,368,3,Iraqi dinar
-IRR,364,0,Iranian rial
-ISK,352,0,Icelandic króna
-JMD,388,2,Jamaican dollar
-JOD,400,3,Jordanian dinar
-JPY,392,0,Japanese yen
-KES,404,2,Kenyan shilling
-KGS,417,2,Kyrgyzstani som
-KHR,116,2,Cambodian riel
-KMF,174,0,Comoro franc
-KPW,408,0,North Korean won
-KRW,410,0,South Korean won
-KWD,414,3,Kuwaiti dinar
-KYD,136,2,Cayman Islands dollar
-KZT,398,2,Kazakhstani tenge
-LAK,418,0,Lao kip
-LBP,422,0,Lebanese pound
-LKR,144,2,Sri Lankan rupee
-LRD,430,2,Liberian dollar
-LSL,426,2,Lesotho loti
-LTL,440,2,Lithuanian litas
-LVL,428,2,Latvian lats
-LYD,434,3,Libyan dinar
-MAD,504,2,Moroccan dirham
-MDL,498,2,Moldovan leu
-MGA,969,0.7[8],Malagasy ariary
-MKD,807,0,Macedonian denar
-MMK,104,0,Myanma kyat
-MNT,496,2,Mongolian tugrik
-MOP,446,2,Macanese pataca
-MRO,478,0.7[8],Mauritanian ouguiya
-MUR,480,2,Mauritian rupee
-MVR,462,2,Maldivian rufiyaa
-MWK,454,2,Malawian kwacha
-MXN,484,2,Mexican peso
-MXV,979,2,Mexican Unidad de Inversion (UDI) (funds code)
-MYR,458,2,Malaysian ringgit
-MZN,943,2,Mozambican metical
-NAD,516,2,Namibian dollar
-NGN,566,2,Nigerian naira
-NIO,558,2,Nicaraguan córdoba
-NOK,578,2,Norwegian krone
-NPR,524,2,Nepalese rupee
-NZD,554,2,New Zealand dollar
-OMR,512,3,Omani rial
-PAB,590,2,Panamanian balboa
-PEN,604,2,Peruvian nuevo sol
-PGK,598,2,Papua New Guinean kina
-PHP,608,2,Philippine peso
-PKR,586,2,Pakistani rupee
-PLN,985,2,Polish złoty
-PYG,600,0,Paraguayan guaraní
-QAR,634,2,Qatari riyal
-RON,946,2,Romanian new leu
-RSD,941,2,Serbian dinar
-RUB,643,2,Russian rouble
-RWF,646,0,Rwandan franc
-SAR,682,2,Saudi riyal
-SBD,90,2,Solomon Islands dollar
-SCR,690,2,Seychelles rupee
-SDG,938,2,Sudanese pound
-SEK,752,2,Swedish krona/kronor
-SGD,702,2,Singapore dollar
-SHP,654,2,Saint Helena pound
-SLL,694,0,Sierra Leonean leone
-SOS,706,2,Somali shilling
-SRD,968,2,Surinamese dollar
-SSP,728,2,South Sudanese pound
-STD,678,0,São Tomé and Príncipe dobra
-SYP,760,2,Syrian pound
-SZL,748,2,Swazi lilangeni
-THB,764,2,Thai baht
-TJS,972,2,Tajikistani somoni
-TMT,934,2,Turkmenistani manat
-TND,788,3,Tunisian dinar
-TOP,776,2,Tongan paʻanga
-TRY,949,2,Turkish lira
-TTD,780,2,Trinidad and Tobago dollar
-TWD,901,2,New Taiwan dollar
-TZS,834,2,Tanzanian shilling
-UAH,980,2,Ukrainian hryvnia
-UGX,800,2,Ugandan shilling
-USD,840,2,United States dollar
-USN,997,2,United States dollar (next day) (funds code)
-USS,998,2,"United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)"
-UYI,940,0,Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)
-UYU,858,2,Uruguayan peso
-UZS,860,2,Uzbekistan som
-VEF,937,2,Venezuelan bolívar fuerte
-VND,704,0,Vietnamese dong
-VUV,548,0,Vanuatu vatu
-WST,882,2,Samoan tala
-XAF,950,0,CFA franc BEAC
-XAG,961,.,Silver (one troy ounce)
-XAU,959,.,Gold (one troy ounce)
-XBA,955,.,European Composite Unit (EURCO) (bond market unit)
-XBB,956,.,European Monetary Unit (E.M.U.-6) (bond market unit)
-XBC,957,.,European Unit of Account 9 (E.U.A.-9) (bond market unit)
-XBD,958,.,European Unit of Account 17 (E.U.A.-17) (bond market unit)
-XCD,951,2,East Caribbean dollar
-XDR,960,.,Special drawing rights
-XFU,Nil,.,UIC franc (special settlement currency)
-XOF,952,0,CFA franc BCEAO
-XPD,964,.,Palladium (one troy ounce)
-XPF,953,0,CFP franc
-XPT,962,.,Platinum (one troy ounce)
-XTS,963,.,Code reserved for testing purposes
-XXX,999,.,No currency
-YER,886,2,Yemeni rial
-ZAR,710,2,South African rand
-ZMW,967,2,Zambian kwacha
+code,decimals,name,number
+AED,2,United Arab Emirates dirham,784
+AFN,2,Afghan afghani,971
+ALL,2,Albanian lek,8
+AMD,2,Armenian dram,51
+ANG,2,Netherlands Antillean guilder,532
+AOA,2,Angolan kwanza,973
+ARS,2,Argentine peso,32
+AUD,2,Australian dollar,36
+AWG,2,Aruban florin,533
+AZN,2,Azerbaijani manat,944
+BAM,2,Bosnia and Herzegovina convertible mark,977
+BBD,2,Barbados dollar,52
+BDT,2,Bangladeshi taka,50
+BGN,2,Bulgarian lev,975
+BHD,3,Bahraini dinar,48
+BIF,0,Burundian franc,108
+BMD,2,Bermudian dollar (customarily known as Bermuda dollar),60
+BND,2,Brunei dollar,96
+BOB,2,Boliviano,68
+BOV,2,Bolivian Mvdol (funds code),984
+BRL,2,Brazilian real,986
+BSD,2,Bahamian dollar,44
+BTN,2,Bhutanese ngultrum,64
+BWP,2,Botswana pula,72
+BYR,0,Belarusian ruble,974
+BZD,2,Belize dollar,84
+CAD,2,Canadian dollar,124
+CDF,2,Congolese franc,976
+CHE,2,WIR Euro (complementary currency),947
+CHF,2,Swiss franc,756
+CHW,2,WIR Franc (complementary currency),948
+CLF,0,Unidad de Fomento (funds code),990
+CLP,0,Chilean peso,152
+CNY,2,Chinese yuan,156
+COP,2,Colombian peso,170
+COU,2,Unidad de Valor Real,970
+CRC,2,Costa Rican colon,188
+CUC,2,Cuban convertible peso,931
+CUP,2,Cuban peso,192
+CVE,0,Cape Verde escudo,132
+CZK,2,Czech koruna,203
+DJF,0,Djiboutian franc,262
+DKK,2,Danish krone,208
+DOP,2,Dominican peso,214
+DZD,2,Algerian dinar,12
+EGP,2,Egyptian pound,818
+ERN,2,Eritrean nakfa,232
+ETB,2,Ethiopian birr,230
+EUR,2,Euro,978
+FJD,2,Fiji dollar,242
+FKP,2,Falkland Islands pound,238
+GBP,2,Pound sterling,826
+GEL,2,Georgian lari,981
+GHS,2,Ghanaian cedi,936
+GIP,2,Gibraltar pound,292
+GMD,2,Gambian dalasi,270
+GNF,0,Guinean franc,324
+GTQ,2,Guatemalan quetzal,320
+GYD,2,Guyanese dollar,328
+HKD,2,Hong Kong dollar,344
+HNL,2,Honduran lempira,340
+HRK,2,Croatian kuna,191
+HTG,2,Haitian gourde,332
+HUF,2,Hungarian forint,348
+IDR,2,Indonesian rupiah,360
+ILS,2,Israeli new shekel,376
+INR,2,Indian rupee,356
+IQD,3,Iraqi dinar,368
+IRR,0,Iranian rial,364
+ISK,0,Icelandic króna,352
+JMD,2,Jamaican dollar,388
+JOD,3,Jordanian dinar,400
+JPY,0,Japanese yen,392
+KES,2,Kenyan shilling,404
+KGS,2,Kyrgyzstani som,417
+KHR,2,Cambodian riel,116
+KMF,0,Comoro franc,174
+KPW,0,North Korean won,408
+KRW,0,South Korean won,410
+KWD,3,Kuwaiti dinar,414
+KYD,2,Cayman Islands dollar,136
+KZT,2,Kazakhstani tenge,398
+LAK,0,Lao kip,418
+LBP,0,Lebanese pound,422
+LKR,2,Sri Lankan rupee,144
+LRD,2,Liberian dollar,430
+LSL,2,Lesotho loti,426
+LTL,2,Lithuanian litas,440
+LVL,2,Latvian lats,428
+LYD,3,Libyan dinar,434
+MAD,2,Moroccan dirham,504
+MDL,2,Moldovan leu,498
+MGA,0.7[8],Malagasy ariary,969
+MKD,0,Macedonian denar,807
+MMK,0,Myanma kyat,104
+MNT,2,Mongolian tugrik,496
+MOP,2,Macanese pataca,446
+MRO,0.7[8],Mauritanian ouguiya,478
+MUR,2,Mauritian rupee,480
+MVR,2,Maldivian rufiyaa,462
+MWK,2,Malawian kwacha,454
+MXN,2,Mexican peso,484
+MXV,2,Mexican Unidad de Inversion (UDI) (funds code),979
+MYR,2,Malaysian ringgit,458
+MZN,2,Mozambican metical,943
+NAD,2,Namibian dollar,516
+NGN,2,Nigerian naira,566
+NIO,2,Nicaraguan córdoba,558
+NOK,2,Norwegian krone,578
+NPR,2,Nepalese rupee,524
+NZD,2,New Zealand dollar,554
+OMR,3,Omani rial,512
+PAB,2,Panamanian balboa,590
+PEN,2,Peruvian nuevo sol,604
+PGK,2,Papua New Guinean kina,598
+PHP,2,Philippine peso,608
+PKR,2,Pakistani rupee,586
+PLN,2,Polish złoty,985
+PYG,0,Paraguayan guaraní,600
+QAR,2,Qatari riyal,634
+RON,2,Romanian new leu,946
+RSD,2,Serbian dinar,941
+RUB,2,Russian rouble,643
+RWF,0,Rwandan franc,646
+SAR,2,Saudi riyal,682
+SBD,2,Solomon Islands dollar,90
+SCR,2,Seychelles rupee,690
+SDG,2,Sudanese pound,938
+SEK,2,Swedish krona/kronor,752
+SGD,2,Singapore dollar,702
+SHP,2,Saint Helena pound,654
+SLL,0,Sierra Leonean leone,694
+SOS,2,Somali shilling,706
+SRD,2,Surinamese dollar,968
+SSP,2,South Sudanese pound,728
+STD,0,São Tomé and Príncipe dobra,678
+SYP,2,Syrian pound,760
+SZL,2,Swazi lilangeni,748
+THB,2,Thai baht,764
+TJS,2,Tajikistani somoni,972
+TMT,2,Turkmenistani manat,934
+TND,3,Tunisian dinar,788
+TOP,2,Tongan paʻanga,776
+TRY,2,Turkish lira,949
+TTD,2,Trinidad and Tobago dollar,780
+TWD,2,New Taiwan dollar,901
+TZS,2,Tanzanian shilling,834
+UAH,2,Ukrainian hryvnia,980
+UGX,2,Ugandan shilling,800
+USD,2,United States dollar,840
+USN,2,United States dollar (next day) (funds code),997
+USS,2,"United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)",998
+UYI,0,Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code),940
+UYU,2,Uruguayan peso,858
+UZS,2,Uzbekistan som,860
+VEF,2,Venezuelan bolívar fuerte,937
+VND,0,Vietnamese dong,704
+VUV,0,Vanuatu vatu,548
+WST,2,Samoan tala,882
+XAF,0,CFA franc BEAC,950
+XAG,.,Silver (one troy ounce),961
+XAU,.,Gold (one troy ounce),959
+XBA,.,European Composite Unit (EURCO) (bond market unit),955
+XBB,.,European Monetary Unit (E.M.U.-6) (bond market unit),956
+XBC,.,European Unit of Account 9 (E.U.A.-9) (bond market unit),957
+XBD,.,European Unit of Account 17 (E.U.A.-17) (bond market unit),958
+XCD,2,East Caribbean dollar,951
+XDR,.,Special drawing rights,960
+XFU,.,UIC franc (special settlement currency),Nil
+XOF,0,CFA franc BCEAO,952
+XPD,.,Palladium (one troy ounce),964
+XPF,0,CFP franc,953
+XPT,.,Platinum (one troy ounce),962
+XTS,.,Code reserved for testing purposes,963
+XXX,.,No currency,999
+YER,2,Yemeni rial,886
+ZAR,2,South African rand,710
+ZMW,2,Zambian kwacha,967
