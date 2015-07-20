@@ -22,4 +22,16 @@ describe('currencies', function () {
     });
   });
 
+  describe('symbols', function () {
+    it('should find $', function () {
+      assert.equal( currencies.USD.symbol, '$');
+    });
+    it('should find ¥', function () {
+      assert.equal( currencies.JPY.symbol, '¥');
+    });
+    it('should find R', function () {
+      assert.equal( currencies.ZAR.symbol, 'R');
+    });
+  });
+
 });
