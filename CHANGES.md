@@ -1,10 +1,15 @@
 # Changes
 
+## v0.0.20
+
+  * Fix to some language references - thanks @jussi-kalliokoski
+  * Added csv normalizing utility - so csv diffs should be easy in future
+  * Fix to East Timor and continent groupings - thanks #iancrowther
+
 ## v0.0.19
 
   * Added Malay as a language for Malaysia (thanks to @lpsBetty)
   * Removed redundant calling code +521 from Mexico (thanks to @spmarin)
-
 
 ## v0.0.18
 
