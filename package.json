@@ -24,10 +24,10 @@
     "canonical-json": "~0.0.4",
     "csv": "~0.4",
     "mocha": "~2.2",
-    "chai": "~1.8.1"
+    "chai": ">1.8.1"
   },
   "dependencies": {
-    "underscore": "~1.4.4",
+    "underscore": ">1.4.4",
     "currency-symbol-map": "~2"
   }
 }
