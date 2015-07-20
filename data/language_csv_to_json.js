@@ -6,20 +6,32 @@ var path = require('path');
 var _ = require('underscore');
 var csv = require('csv');
 var canonicalJSON = require('canonical-json');
-var csvFile = path.join( __dirname, 'languages.csv' );
-var languages = [];
+var fs = require('fs');
+
+var output = [];
 
 // read in the CSV
-csv()
-  .from.path(csvFile, { columns: true })
-  .on('record', function (row) {
-    languages.push(row);
-  })
-  .on('end', function () {
+var csvFile = path.join( __dirname, 'languages.csv' );
+var input = fs.createReadStream(csvFile);
 
-    // sort by alpha3
-    languages = _.sortBy(languages, function (i) { return i.alpha3;} );
 
-    // print out results to stdout
-    console.log( canonicalJSON( languages, null, 2 ));
-  });
+var parser = csv.parse({"columns": true});
+
+parser.on('readable', function () {
+  var record = null;
+  while(record = parser.read()){
+     output.push(record);
+  }
+});
+
+parser.on('finish', function(){
+
+  // sort by alpha3
+  output = _.sortBy(output, function (i) { return i.alpha3;} );
+
+  // print out results to stdout
+  console.log( canonicalJSON( output, null, 2 ));
+});
+
+
+input.pipe(parser);

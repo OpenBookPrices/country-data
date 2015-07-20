@@ -6,32 +6,43 @@ var path = require('path');
 var _ = require('underscore');
 var csv = require('csv');
 var canonicalJSON = require('canonical-json');
-var csvFile = path.join( __dirname, 'countries.csv' );
-var countries = [];
+var fs = require('fs');
+
+var output = [];
 
 // read in the CSV
-csv()
-  .from.path(csvFile, { columns: true })
-  .on('record', function (row) {
-    countries.push(row);
-  })
-  .on('end', function () {
+var csvFile = path.join( __dirname, 'countries.csv' );
+var input = fs.createReadStream(csvFile);
 
-    // sort by alpha2
-    countries = _.sortBy(countries, function (i) { return i.alpha2;} );
 
-    // strip out fields that are not ready yet
-    _.each(countries, function (country) {
-      delete country.ccTLD;
-    });
+var parser = csv.parse({"columns": true});
 
-    // change the appropriate fields to be an array
-    _.each(['currencies', 'countryCallingCodes', 'languages'], function(key) {
-      _.each(countries, function (country) {
-        country[key] = country[key] ? country[key].split(',') : [];
-      });
-    });
+parser.on('readable', function () {
+  var record = null;
+  while(record = parser.read()){
+     output.push(record);
+  }
+});
 
-    // print out results to stdout
-    console.log( canonicalJSON( countries, null, 2 ));
+parser.on('finish', function(){
+  // sort by alpha2
+  output = _.sortBy(output, function (i) { return i.alpha2;} );
+
+  // strip out fields that are not ready yet
+  _.each(output, function (country) {
+    delete country.ccTLD;
   });
+
+  // change the appropriate fields to be an array
+  _.each(['currencies', 'countryCallingCodes', 'languages'], function(key) {
+    _.each(output, function (country) {
+      country[key] = country[key] ? country[key].split(',') : [];
+    });
+  });
+
+  // print out results to stdout
+  console.log( canonicalJSON( output, null, 2 ));
+});
+
+
+input.pipe(parser);

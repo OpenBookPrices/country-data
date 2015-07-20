@@ -22,7 +22,7 @@
   "license": "AGPL",
   "devDependencies": {
     "canonical-json": "0.0.1",
-    "csv": "~0.2.9",
+    "csv": "~0.4",
     "mocha": "~1.9.0",
     "chai": "~1.8.1"
   },
