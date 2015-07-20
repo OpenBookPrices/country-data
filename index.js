@@ -1,11 +1,15 @@
 'use strict';
 
 var _ = require('underscore');
+var continents = require('./data/continents');
 var regions = require('./data/regions');
 var countriesAll = require('./data/countries.json');
 var currenciesAll = require('./data/currencies.json');
 var languagesAll = require('./data/languages.json');
 var lookup = require('./lookup');
+
+exports.continents = continents;
+exports.regions = regions;
 
 exports.countries = {
   all: countriesAll,
@@ -36,8 +40,6 @@ _.each(languagesAll, function (language) {
   exports.languages[language.bibliographic] = language;
   exports.languages[language.alpha3] = language;
 });
-
-exports.regions = regions;
 
 exports.lookup = lookup({
     countries: countriesAll,
