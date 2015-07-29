@@ -56,8 +56,15 @@ exports.lookup = lookup({
     languages: languagesAll
 });
 
+var callingCountries = {all: []};
+
 var callingCodesAll = _.reduce(countriesAll, function (codes, country) {
   if (country.countryCallingCodes && country.countryCallingCodes.length) {
+    callingCountries.all.push(country);
+
+    callingCountries[country.alpha2] = country;
+    callingCountries[country.alpha3] = country;
+
     _.each(country.countryCallingCodes, function (code) {
       if (codes.indexOf(code) == -1) {
         codes.push(code);
@@ -66,6 +73,8 @@ var callingCodesAll = _.reduce(countriesAll, function (codes, country) {
   }
   return codes;
 }, []);
+
+exports.callingCountries = callingCountries;
 
 callingCodesAll.sort(function (a, b) {
   var parse = function (str) { return parseInt(str) };
