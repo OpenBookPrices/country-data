@@ -39,7 +39,7 @@ It is not that useful to just have the currency code(s) for a country, so includ
   * `code` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) code
   * `number` The [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) number
   * `decimals` The number of decimal digits conventionally shown
-  * `symbol` The currency symbol for the currency (e.g. ¥, $ etc.). Some symbols are not available, in which case 
+  * `symbol` The currency symbol for the currency (e.g. ¥, $ etc.). Some symbols are not available, in which case
     `symbol` contains the ISO 4217 code.  Credit to [bengourley/currency-symbol-map](https://github.com/bengourley/currency-symbol-map)
     for the symbol database.
 
@@ -67,10 +67,11 @@ npm install country-data
 ## Example usage
 
 ``` javascript
-var countries  = require('country-data').countries,
-    currencies = require('country-data').currencies,
-    regions    = require('country-data').regions,
-    languages  = require('country-data').languages;
+var countries        = require('country-data').countries,
+    currencies       = require('country-data').currencies,
+    regions          = require('country-data').regions,
+    languages        = require('country-data').languages,
+    callingCountries = require('country-data').callingCountries;
 
 // .all gives you an array of all entries
 console.log( countries.all );
@@ -79,6 +80,8 @@ console.log( currencies.all );
 // countries are found using alpha2 or alpha3 (both uppercase)
 console.log( countries.BE.name );        // 'Belgium'
 console.log( countries.FRA.currencies ); // ['EUR']
+
+// callingCountries is like countries but only has entries with dialing codes.
 
 // currencies are accessed by their code (uppercase)
 console.log( currencies.USD.name ); // 'United States dollar'

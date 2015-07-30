@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.21
+
+  * Added callingCountries - thanks @chemerisuk
+
 ## v0.0.20
 
   * Fix to some language references - thanks @jussi-kalliokoski
