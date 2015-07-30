@@ -74,6 +74,7 @@ var callingCodesAll = _.reduce(countriesAll, function (codes, country) {
   return codes;
 }, []);
 
+delete callingCountries['']; // remove empty alpha3s
 exports.callingCountries = callingCountries;
 
 callingCodesAll.sort(function (a, b) {

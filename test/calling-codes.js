@@ -1,5 +1,6 @@
 var callingCodes = require('..').callingCodes.all,
     countries    = require('..').countries.all,
+    callingCountries = require('..').callingCountries,
     assert       = require('assert'),
     _            = require('underscore');
 
@@ -17,6 +18,21 @@ describe('calling codes', function () {
         });
       }
     });
+  });
+
+  describe('callingCountries', function () {
+
+    // console.log(callingCountries);
+
+    it('should contain countries with calling codes', function () {
+      assert( callingCountries.BE );
+    });
+
+    it('should not contain countries without calling codes', function () {
+      assert( !callingCountries.CP, 'Clipperton Island');
+      assert( !callingCountries[''], 'empty string' );
+    });
+
   });
 
 });
