@@ -110,15 +110,11 @@ to add are:
 
 ### Countries
 
-  * Top level domains
   * Wikipedia links
   * Coordinates (centroid, bounding box, etc)
-  * International dialling codes
-  * Languages spoken - most common first
 
 ### Currencies
 
-  * currency symbols
   * other currency that it is [pegged](http://en.wikipedia.org/wiki/Fixed_exchange_rate) to
 
 

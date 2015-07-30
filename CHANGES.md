@@ -3,6 +3,7 @@
 ## v0.0.21
 
   * Added callingCountries - thanks @chemerisuk
+  * Updated docs to remove things that have been implemented from future additions list
 
 ## v0.0.20
 
