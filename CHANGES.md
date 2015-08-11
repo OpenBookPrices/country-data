@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.22
+
+  * changed "Taiwan, Province Of China" to just "Taiwan" - thanks @azai-yahoo
+
 ## v0.0.21
 
   * Added callingCountries - thanks @chemerisuk
