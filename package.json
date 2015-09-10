@@ -19,7 +19,7 @@
     "country"
   ],
   "author": "Edmund von der Burg",
-  "license": "AGPL",
+  "license": "MIT",
   "devDependencies": {
     "canonical-json": "~0.0.4",
     "csv": "~0.4",
