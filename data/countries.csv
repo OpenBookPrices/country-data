@@ -1,260 +1,260 @@
-name,alpha2,alpha3,bounds,ccTLD,countryCallingCodes,currencies,ioc,languages,status
-Afghanistan,AF,AFG,"60.433,29.15,75.033,38.484",,+93,AFN,AFG,pus,assigned
-Albania,AL,ALB,"19,39.583,21.05,42.659",,+355,ALL,ALB,sqi,assigned
-Algeria,DZ,DZA,"-8.7,18.027,70.554,37.203",,+213,DZD,ALG,ara,assigned
-American Samoa,AS,ASM,,,+1 684,USD,ASA,"eng,smo",assigned
-Andorra,AD,AND,"1.417,42.433,1.783,42.65",,+376,EUR,AND,cat,assigned
-Angola,AO,AGO,"10,-33.806,24.35,-3.033",,+244,AOA,ANG,por,assigned
-Anguilla,AI,AIA,,,+1 264,XCD,,eng,assigned
-Antarctica,AQ,ATA,,,+672,,,,assigned
-Antigua And Barbuda,AG,ATG,,,+1 268,XCD,ANT,eng,assigned
-Argentina,AR,ARG,"-73.533,-58.583,-53.367,-21.783",,+54,ARS,ARG,spa,assigned
-Armenia,AM,ARM,"43.443,38.857,46.589,41.3",,+374,AMD,ARM,"hye,rus",assigned
-Aruba,AW,ABW,"-70.983,12.4,-69.85,12.617",,+297,AWG,ARU,nld,assigned
-Ascension Island,AC,,,.ac,+247,USD,SHP,eng,reserved
-Australia,AU,AUS,"112.467,-55.05,168,-9.133",,+61,AUD,AUS,eng,assigned
-Austria,AT,AUT,"1.2,46.373,19,49.017",,+43,EUR,AUT,deu,assigned
-Azerbaijan,AZ,AZE,"44.783,38.417,50.858,41.911",,+994,AZN,AZE,aze,assigned
-Bahamas,BS,BHS,"-86,20,-70,29.547",,+1 242,BSD,BAH,eng,assigned
-Bahrain,BH,BHR,"45,25,50.954,26.566",,+973,BHD,BRN,ara,assigned
-Bangladesh,BD,BGD,"84,20.6,92.683,26.817",,+880,BDT,BAN,ben,assigned
-Barbados,BB,BRB,"-59.667,12.967,-59.383,13.333",,+1 246,BBD,BAR,eng,assigned
-Belarus,BY,BLR,"22.55,50.717,32.85,56.133",,+375,BYR,BLR,"bel,rus",assigned
-Belgium,BE,BEL,"2.367,49.5,6.4,51.683",,+32,EUR,BEL,"nld,fra,deu",assigned
-Belize,BZ,BLZ,"-89.95,15,-75,18.483",,+501,BZD,BIZ,eng,assigned
-Benin,BJ,BEN,"-4,5,92.219,21.322",,+229,XOF,BEN,fra,assigned
-Bermuda,BM,BMU,,,+1 441,BMD,BER,eng,assigned
-Bhutan,BT,BTN,"80,26.217,92.717,30",,+975,"INR,BTN",BHU,dzo,assigned
-"Bolivia, Plurinational State Of",BO,BOL,,,+591,"BOB,BOV",BOL,"spa,aym,que",assigned
-"Bonaire, Saint Eustatius And Saba",BQ,BES,,,+599,USD,,nld,assigned
-Bosnia & Herzegovina,BA,BIH,,,+387,BAM,BIH,"bos,cre,srp",assigned
-Botswana,BW,BWA,"20,-28.517,29.35,24.583",,+267,BWP,BOT,"eng,tsn",assigned
-Bouvet Island,BV,BVT,,,,NOK,,,assigned
-Brazil,BR,BRA,"-73.817,-33.733,-28.85,16.8",,+55,BRL,BRA,por,assigned
-British Indian Ocean Territory,IO,IOT,,,+246,USD,,eng,assigned
-Brunei Darussalam,BN,BRN,,,+673,BND,BRU,"msa,eng",assigned
-Bulgaria,BG,BGR,"22.371,41,28.6,44.215",,+359,BGN,BUL,bul,assigned
-Burkina Faso,BF,BFA,"-5.483,9.4,20,14.983",,+226,XOF,BUR,fra,assigned
-Burundi,BI,BDI,"29.018,-4.455,31.783,-0.95",,+257,BIF,BDI,fra,assigned
-Cabo Verde,CV,CPV,,,+238,CVE,CPV,por,assigned
-Cambodia,KH,KHM,"14.869,9.917,107.567,17.483",,+855,KHR,CAM,khm,assigned
-Cameroon,CM,CMR,"8.467,1.417,20,16",,+237,XAF,CMR,"eng,fra",assigned
-Canada,CA,CAN,"-163.9,39,-52.083,83.133",,+1,CAD,CAN,"eng,fra",assigned
-Canary Islands,IC,,,,,EUR,,,reserved
-Cayman Islands,KY,CYM,,,+1 345,KYD,CAY,eng,assigned
-Central African Republic,CF,CAF,,,+236,XAF,CAF,"fra,sag",assigned
-"Ceuta, Mulilla",EA,,,,,EUR,,,reserved
-Chad,TD,TCD,"2,7.483,27.133,26",,+235,XAF,CHA,"ara,fra",assigned
-Chile,CL,CHL,"-109.467,-64.05,-8.847,42.583",,+56,"CLP,CLF",CHI,spa,assigned
-China,CN,CHN,"74.167,18.163,135.078,53.5",,+86,CNY,CHN,zho,assigned
-Christmas Island,CX,CXR,,,+61,AUD,,eng,assigned
-Clipperton Island,CP,,,,,EUR,,,reserved
-Cocos (Keeling) Islands,CC,CCK,,,+61,AUD,,eng,assigned
-Colombia,CO,COL,"-81.85,-5,76.833,15",,+57,"COP,COU",COL,spa,assigned
-Comoros,KM,COM,"43.067,-13,45.317,-11.35",,+269,KMF,COM,"ara,fra",assigned
-Cook Islands,CK,COK,,,+682,NZD,COK,"eng,mri",assigned
-Costa Rica,CR,CRI,"-87.1,-0.792,-46.633,15",,+506,CRC,CRC,spa,assigned
-Cote d'Ivoire,CI,CIV,,,+225,XOF,CIV,fra,assigned
-Croatia,HR,HRV,"13.484,42.367,19.391,46.527",,+385,HRK,CRO,hrv,assigned
-Cuba,CU,CUB,"-90,15,83.917,25",,+53,"CUP,CUC",CUB,spa,assigned
-Curacao,CW,CUW,,,+599,ANG,,nld,assigned
-Cyprus,CY,CYP,"32.271,34.567,34.6,35.7",,+357,EUR,CYP,"ell,tur",assigned
-Czech Republic,CZ,CZE,,,+420,CZK,CZE,ces,assigned
-Democratic Republic Of Congo,CD,COD,,,+243,CDF,COD,"fra,lin,kon,swa",assigned
-Denmark,DK,DNK,"4.517,53.583,18,64",,+45,DKK,DEN,dan,assigned
-Diego Garcia,DG,,,,,USD,,,reserved
-Djibouti,DJ,DJI,"39.5,10.267,43.452,19",,+253,DJF,DJI,"ara,fra",assigned
-Dominica,DM,DMA,"-61.55,15.167,-61.25,15.633",,+1 767,XCD,DMA,eng,assigned
-Dominican Republic,DO,DOM,,,"+1 809,+1 829,+1 849",DOP,DOM,spa,assigned
-Ecuador,EC,ECU,"-92,-4.967,-75.2,1.65",,+593,USD,ECU,"spa,que",assigned
-Egypt,EG,EGY,"13,5,37,50.861",,+20,EGP,EGY,ara,assigned
-El Salvador,SV,SLV,"-90.184,13.15,-87.644,14.45",,+503,USD,ESA,spa,assigned
-Equatorial Guinea,GQ,GNQ,,,+240,XAF,GEQ,"spa,fra,por",assigned
-Eritrea,ER,ERI,"20,0,43.417,18.033",,+291,ERN,ERI,"eng,ara,tir",assigned
-Estonia,EE,EST,"21.781,57.521,28.883,59.983",,+372,EUR,EST,est,assigned
-Ethiopia,ET,ETH,"33.017,3.233,47.783,19",,+251,ETB,ETH,amh,assigned
-European Union,EU,,,.eu,+388,EUR,,,reserved
-Falkland Islands,FK,FLK,,,+500,FKP,,eng,assigned
-Faroe Islands,FO,FRO,,,+298,DKK,FAI,"fao,dan",assigned
-Fiji,FJ,FJI,"-179.983,-45,180,-11.167",,+679,FJD,FIJ,"eng,fij",assigned
-Finland,FI,FIN,"18,0,60.203,70.083",,+358,EUR,FIN,"fin,swe",assigned
-France,FR,FRA,"-5.225,41.333,9.55,51.2",,+33,EUR,FRA,fra,assigned
-"France, Metropolitan",FX,,,,+241,EUR,,fra,reserved
-French Guiana,GF,GUF,,,+594,EUR,,fra,assigned
-French Polynesia,PF,PYF,,,+689,XPF,,fra,assigned
-French Southern Territories,TF,ATF,,,,EUR,,fra,assigned
-Gabon,GA,GAB,"8.7,-3.95,14.533,5.983",,+241,XAF,GAB,fra,assigned
-Gambia,GM,GMB,"-16.817,5,20,13.817",,+220,GMD,GAM,eng,assigned
-Georgia,GE,GEO,"40.009,41.15,46.659,43.582",,+995,GEL,GEO,kat,assigned
-Germany,DE,DEU,"5.867,45.967,15.033,55.133",,+49,EUR,GER,deu,assigned
-Ghana,GH,GHA,"-4,4.733,20,11.167",,+233,GHS,GHA,eng,assigned
-Gibraltar,GI,GIB,,,+350,GIP,,eng,assigned
-Greece,GR,GRC,"19.382,34.8,29.667,44",,+30,EUR,GRE,ell,assigned
-Greenland,GL,GRL,,,+299,DKK,,kal,assigned
-Grenada,GD,GRD,"-61.8,11.983,-61.25,12.667",,+473,XCD,GRN,eng,assigned
-Guadeloupe,GP,GLP,,,+590,EUR,,fra,assigned
-Guam,GU,GUM,,,+1 671,USD,GUM,eng,assigned
-Guatemala,GT,GTM,"-92.583,13.749,-75,17.817",,+502,GTQ,GUA,spa,assigned
-Guernsey,GG,GGY,,,+44,GBP,GCI,fra,assigned
-Guinea,GN,GIN,"-15.417,4.367,20,13.3",,+224,GNF,GUI,fra,assigned
-Guinea-bissau,GW,GNB,,,+245,XOF,GBS,por,assigned
-Guyana,GY,GUY,"-61.283,1.25,-56,8.433",,+592,GYD,GUY,eng,assigned
-Haiti,HT,HTI,"-86,8.547,72.296,21",,+509,"HTG,USD",HAI,"fra,hat",assigned
-Heard Island And McDonald Islands,HM,HMD,,,,AUD,,,assigned
-Honduras,HN,HND,"-89.967,13,-75,17.45",,+504,HNL,HON,spa,assigned
-Hong Kong,HK,HKG,,,+852,HKD,HKG,"zho,eng",assigned
-Hungary,HU,HUN,"16.133,45.75,22.867,48.983",,+36,HUF,HUN,hun,assigned
-Iceland,IS,ISL,"-26,62,-6,67.117",,+354,ISK,ISL,isl,assigned
-India,IN,IND,"65,6,97.35,35.956",,+91,INR,IND,"eng,hin",assigned
-Indonesia,ID,IDN,"0,-11.983,141.033,15",,+62,IDR,INA,ind,assigned
-"Iran, Islamic Republic Of",IR,IRN,,,+98,IRR,IRI,fas,assigned
-Iraq,IQ,IRQ,"38.782,28.833,49.433,37.358",,+964,IQD,IRQ,"ara,kur",assigned
-Ireland,IE,IRL,"-10.683,51.367,-4,55.433",,+353,EUR,IRL,"eng,gle",assigned
-Isle Of Man,IM,IMN,,,+44,GBP,,"eng,glv",assigned
-Israel,IL,ISR,"34.282,29,35.667,33.286",,+972,ILS,ISR,"heb,ara,eng",assigned
-Italy,IT,ITA,"1.133,28.969,54.824,49.2",,+39,EUR,ITA,ita,assigned
-Jamaica,JM,JAM,"-78.667,15,-70,18.533",,+1 876,JMD,JAM,eng,assigned
-Japan,JP,JPN,"122.933,20.417,156.067,50.617",,+81,JPY,JPN,jpn,assigned
-Jersey,JE,JEY,,,+44,GBP,JCI,"eng,fra",assigned
-Jordan,JO,JOR,"34.783,29,39.1,33.333",,+962,JOD,JOR,ara,assigned
-Kazakhstan,KZ,KAZ,"46.583,40.417,90,55.428",,"+7,+7 6,+7 7",KZT,KAZ,"kaz,rus",assigned
-Kenya,KE,KEN,"24.283,-5.083,41.878,4.883",,+254,KES,KEN,"eng,swa",assigned
-Kiribati,KI,KIR,"-179.217,-45,180,30",,+686,AUD,KIR,eng,assigned
-"Korea, Democratic People's Republic Of",KP,PRK,,,+850,KPW,PRK,kor,assigned
-"Korea, Republic Of",KR,KOR,,,+82,KRW,KOR,kor,assigned
-Kuwait,KW,KWT,"45,25,49.411,30.083",,+965,KWD,KUW,ara,assigned
-Kyrgyzstan,KG,KGZ,"69.333,39.183,80.116,43.833",,+996,KGS,KGZ,rus,assigned
-Lao People's Democratic Republic,LA,LAO,,,+856,LAK,LAO,lao,assigned
-Latvia,LV,LVA,"20.967,55.667,28.233,58.067",,+371,EUR,LAT,lav,assigned
-Lebanon,LB,LBN,"35.104,33.067,36.623,34.691",,+961,LBP,LIB,"ara,hye",assigned
-Lesotho,LS,LSO,"24,-30.667,29.483,-28.567",,+266,"LSL,ZAR",LES,"eng,sot",assigned
-Liberia,LR,LBR,"-11.598,4.328,-4,9.5",,+231,LRD,LBR,eng,assigned
-Libya,LY,LBY,"5,20.25,25.5,33.15",,+218,LYD,LBA,ara,assigned
-Liechtenstein,LI,LIE,,,+423,CHF,LIE,deu,assigned
-Lithuania,LT,LTU,"20.991,53,28.233,56.467",,+370,EUR,LTU,lit,assigned
-Luxembourg,LU,LUX,"5.743,49.45,6.517,50.182",,+352,EUR,LUX,"fra,deu,ltz",assigned
-Macao,MO,MAC,,,+853,MOP,MAC,"zho,por",assigned
-"Macedonia, The Former Yugoslav Republic Of",MK,MKD,,,+389,MKD,MKD,mkd,assigned
-Madagascar,MG,MDG,"42.4,-25.9,50.483,-11.95",,+261,MGA,MAD,"fra,mlg",assigned
-Malawi,MW,MWI,"32.717,-17.15,37,-5",,+265,MWK,MAW,"eng,nya",assigned
-Malaysia,MY,MYS,"98.933,0,124.125,15",,+60,MYR,MAS,"msa,eng",assigned
-Maldives,MV,MDV,"61.5,-10.5,75,20",,+960,MVR,MDV,div,assigned
-Mali,ML,MLI,"-13.75,4.318,20,26",,+223,XOF,MLI,fra,assigned
-Malta,MT,MLT,"14.184,35.782,15,36.333",,+356,EUR,MLT,"mlt,eng",assigned
-Marshall Islands,MH,MHL,,,+692,USD,MHL,"eng,mah",assigned
-Martinique,MQ,MTQ,,,+596,EUR,,,assigned
-Mauritania,MR,MRT,"-17.117,10,20,27.117",,+222,MRO,MTN,"ara,fra",assigned
-Mauritius,MU,MUS,"56.567,-20.522,73.567,10.4",,+230,MUR,MRI,"eng,fra",assigned
-Mayotte,YT,MYT,,,+262,EUR,,fra,assigned
-Mexico,MX,MEX,"-119.922,0,110.75,45",,+52,"MXN,MXV",MEX,spa,assigned
-"Micronesia, Federated States Of",FM,FSM,,,+691,USD,,eng,assigned
-Moldova,MD,MDA,"26.672,45.482,30.096,48.467",,+373,MDL,MDA,ron,assigned
-Monaco,MC,MCO,"7.4,43.717,7.439,43.746",,+377,EUR,MON,fra,assigned
-Mongolia,MN,MNG,"87.783,41.55,119.917,52.1",,+976,MNT,MGL,mon,assigned
-Montenegro,ME,MNE,"18.438,41.864,20.345,43.548",,+382,EUR,MNE,mot,assigned
-Montserrat,MS,MSR,,,+1 664,XCD,,,assigned
-Morocco,MA,MAR,"-13.1,3.36,9.542,36.61",,+212,MAD,MAR,ara,assigned
-Mozambique,MZ,MOZ,"4.017,-26.867,43,15.033",,+258,MZN,MOZ,por,assigned
-Myanmar,MM,MMR,,,+95,MMK,MYA,mya,assigned
-Namibia,NA,NAM,"11.75,-32,36.283,-16.983",,+264,"NAD,ZAR",NAM,eng,assigned
-Nauru,NR,NRU,"166.917,-0.55,166.95,-0.5",,+674,AUD,NRU,"eng,nau",assigned
-Nepal,NP,NPL,"80,25.767,88.183,30.45",,+977,NPR,NEP,nep,assigned
-Netherlands,NL,NLD,"3.133,50.75,7.217,53.683",,+31,EUR,NED,nld,assigned
-New Caledonia,NC,NCL,,,+687,XPF,,fra,assigned
-New Zealand,NZ,NZL,"-179,-52.617,179.067,36.783",,+64,NZD,NZL,eng,assigned
-Nicaragua,NI,NIC,"-87.7,0,0,15",,+505,NIO,NCA,spa,assigned
-Niger,NE,NER,"0.183,1.617,20,26",,+227,XOF,NIG,fra,assigned
-Nigeria,NG,NGA,"2.483,3.883,20,13.867",,+234,NGN,NGR,eng,assigned
-Niue,NU,NIU,,,+683,NZD,,eng,assigned
-Norfolk Island,NF,NFK,,,+672,AUD,,eng,assigned
-Northern Mariana Islands,MP,MNP,,,+1 670,USD,,eng,assigned
-Norway,NO,NOR,"2.553,56.15,31.833,71.5",,+47,NOK,NOR,nor,assigned
-Oman,OM,OMN,"5.1,15.083,65,26.567",,+968,OMR,OMA,ara,assigned
-Pakistan,PK,PAK,"17.899,23.733,77.8,43.713",,+92,PKR,PAK,"urd,eng",assigned
-Palau,PW,PLW,"131.175,2.874,134.716,8.342",,+680,USD,PLW,eng,assigned
-"Palestinian Territory, Occupied",PS,PSE,,,+970,"JOD,EGP,ILS",PLE,ara,assigned
-Panama,PA,PAN,"-83.65,7.2,-8.433,15",,+507,"PAB,USD",PAN,spa,assigned
-Papua New Guinea,PG,PNG,,,+675,PGK,PNG,eng,assigned
-Paraguay,PY,PRY,"-62.633,-27.55,-54.267,-19.317",,+595,PYG,PAR,spa,assigned
-Peru,PE,PER,"-81.458,-18.357,74.35,11.371",,+51,PEN,PER,"spa,aym,que",assigned
-Philippines,PH,PHL,"63.295,4.444,130.5,34.434",,+63,PHP,PHI,eng,assigned
-Pitcairn,PN,PCN,,,+872,NZD,,eng,assigned
-Poland,PL,POL,"-21.583,45.5,26.5,55.183",,+48,PLN,POL,pol,assigned
-Portugal,PT,PRT,"-73.15,8.496,8.683,42.15",,+351,EUR,POR,por,assigned
-Puerto Rico,PR,PRI,,,"+1 787,+1 939",USD,PUR,"spa,eng",assigned
-Qatar,QA,QAT,"50.644,24.285,52.75,26.441",,+974,QAR,QAT,ara,assigned
-Republic Of Congo,CG,COG,,,+242,XAF,CGO,"fra,lin",assigned
-Reunion,RE,REU,,,+262,EUR,,fra,assigned
-Romania,RO,ROU,"19,43.517,29.967,48.25",,+40,RON,ROU,ron,assigned
-Russian Federation,RU,RUS,,,"+7,+7 3,+7 4,+7 8",RUB,RUS,rus,assigned
-Rwanda,RW,RWA,"28.867,-3.317,37,5",,+250,RWF,RWA,"eng,fra,kin",assigned
-Saint Barthélemy,BL,BLM,,,+590,EUR,,fra,assigned
-"Saint Helena, Ascension And Tristan Da Cunha",SH,SHN,,,+290,SHP,,eng,assigned
-Saint Kitts And Nevis,KN,KNA,,,+1 869,XCD,SKN,eng,assigned
-Saint Lucia,LC,LCA,"-61.083,13.5,-60.867,14.15",,+1 758,XCD,LCA,eng,assigned
-Saint Martin,MF,MAF,,,+590,EUR,,fra,assigned
-Saint Pierre And Miquelon,PM,SPM,,,+508,EUR,,eng,assigned
-Saint Vincent And The Grenadines,VC,VCT,,,+1 784,XCD,VIN,eng,assigned
-Samoa,WS,WSM,"-172.867,-14.05,-171,-13.417",,+685,WST,SAM,"eng,smo",assigned
-San Marino,SM,SMR,"12.417,43.908,12.5,43.983",,+378,EUR,SMR,ita,assigned
-Saudi Arabia,SA,SAU,"24.08,5,55.5,48.555",,+966,SAR,KSA,ara,assigned
-Senegal,SN,SEN,"-17.683,12.267,-11.357,16.681",,+221,XOF,SEN,fra,assigned
-Serbia,RS,SRB,"18.859,41.844,22.967,46.167",,+381,RSD,SRB,srp,assigned
-Seychelles,SC,SYC,"20.462,-10.217,57.083,42.641",,+248,SCR,SEY,"eng,fra",assigned
-Sierra Leone,SL,SLE,"-13.417,5,-4,10",,+232,SLL,SLE,eng,assigned
-Singapore,SG,SGP,"101.333,1.083,104.412,4",,+65,SGD,SIN,"eng,zho,msa,tam",assigned
-Sint Maarten,SX,SXM,,,+1 721,ANG,,nld,assigned
-Slovakia,SK,SVK,"16.967,45.5,26.5,49.85",,+421,EUR,SVK,slk,assigned
-Slovenia,SI,SVN,"13.427,44.083,17.467,46.933",,+386,EUR,SLO,slv,assigned
-Solomon Islands,SB,SLB,,,+677,SBD,SOL,eng,assigned
-Somalia,SO,SOM,"20,-1.659,65,20",,+252,SOS,SOM,som,assigned
-South Africa,ZA,ZAF,"16.45,-35.5,33.533,-22.133",,+27,ZAR,RSA,"afr,eng,nbl,som,tso,ven,xho,zul",assigned
-South Georgia And The South Sandwich Islands,GS,SGS,,,,GBP,,eng,assigned
-South Sudan,SS,SSD,,.ss,+211,SSP,,eng,assigned
-Spain,ES,ESP,"-18.167,27.633,6.033,44",,+34,EUR,ESP,spa,assigned
-Sri Lanka,LK,LKA,"75,5.9,81.917,10.083",,+94,LKR,SRI,"sin,tam",assigned
-Sudan,SD,SDN,"18.783,3.517,38.833,27.167",,+249,SDG,SUD,"ara,eng",assigned
-Suriname,SR,SUR,"-60,2,-53.967,6.017",,+597,SRD,SUR,nld,assigned
-Svalbard And Jan Mayen,SJ,SJM,,,+47,NOK,,,assigned
-Swaziland,SZ,SWZ,"30.35,-27.417,32.333,-25.75",,+268,SZL,SWZ,"eng,ssw",assigned
-Sweden,SE,SWE,"1.3,16.693,60.717,69.033",,+46,SEK,SWE,swe,assigned
-Switzerland,CH,CHE,"5.967,45.15,12.467,52.883",,+41,"CHF,CHE,CHW",SUI,"deu,fra,ita,roh",assigned
-Syrian Arab Republic,SY,SYR,,,+963,SYP,SYR,ara,assigned
-São Tomé and Príncipe,ST,STP,,,+239,STD,STP,por,assigned
-Taiwan,TW,TWN,"118.115,21,125,29",,+886,TWD,TPE,zho,assigned
-Tajikistan,TJ,TJK,"67.417,36.717,75,40.933",,+992,TJS,TJK,"tgk,rus",assigned
-"Tanzania, United Republic Of",TZ,TZA,,,+255,TZS,TAN,"swa,eng",assigned
-Thailand,TH,THA,"95,4.15,139.183,20.445",,+66,THB,THA,tha,assigned
-"Timor-Leste, Democratic Republic of",TL,TLS,,,+670,USD,TLS,por,assigned
-Togo,TG,TGO,"-4,5,20,11.133",,+228,XOF,TOG,fra,assigned
-Tokelau,TK,TKL,,,+690,NZD,,eng,assigned
-Tonga,TO,TON,"-179.117,-45,180,0",,+676,TOP,TGA,eng,assigned
-Trinidad And Tobago,TT,TTO,,,+1 868,TTD,TRI,eng,assigned
-Tristan de Cunha,TA,,,,+290,GBP,,,reserved
-Tunisia,TN,TUN,"4,23.717,13,37.667",,+216,TND,TUN,ara,assigned
-Turkey,TR,TUR,"25,35.819,44.85,42.1",,+90,TRY,TUR,tur,assigned
-Turkmenistan,TM,TKM,"52.117,35.212,66.65,42.633",,+993,TMT,TKM,"tuk,rus",assigned
-Turks And Caicos Islands,TC,TCA,,,+1 649,USD,,eng,assigned
-Tuvalu,TV,TUV,"176.1,-10.75,179.883,-5.65",,+688,AUD,TUV,eng,assigned
-Uganda,UG,UGA,"29.467,-1.483,34.967,4.55",,+256,UGX,UGA,"eng,swa",assigned
-Ukraine,UA,UKR,"18.85,37.8,76.1,64.95",,+380,UAH,UKR,"ukr,rus",assigned
-United Arab Emirates,AE,ARE,"45,22.167,59.25,26.133",,+971,AED,UAE,ara,assigned
-United Kingdom,GB,GBR,,,+44,GBP,GBR,"eng,cor,gle,gla,cym",assigned
-United Kingdom,UK,,,.uk,,GBP,,"eng,cor,gle,gla,cym",reserved
-United States,US,USA,,,+1,USD,USA,eng,assigned
-United States Minor Outlying Islands,UM,UMI,,,+1,USD,,eng,assigned
-Uruguay,UY,URY,"-58.5,-35.783,-51.283,-30.117",,+598,"UYU,UYI",URU,spa,assigned
-USSR,SU,,,.su,,RUB,,rus,reserved
-Uzbekistan,UZ,UZB,"44.517,35.267,92.2,66.15",,+998,UZS,UZB,"uzb,rus",assigned
-Vanuatu,VU,VUT,"-130,-45,180,0",,+678,VUV,VAN,"bis,eng,fra",assigned
-Vatican City State,VA,VAT,,,"+379,+39",EUR,,ita,assigned
-"Venezuela, Bolivarian Republic Of",VE,VEN,,,+58,VEF,VEN,spa,assigned
-Viet Nam,VN,VNM,,,+84,VND,VIE,vie,assigned
-Virgin Islands (British),VG,VGB,,,+1 284,USD,ISV,eng,assigned
-Virgin Islands (US),VI,VIR,,,+1 340,USD,ISV,eng,assigned
-Wallis And Futuna,WF,WLF,,,+681,XPF,,fra,assigned
-Western Sahara,EH,ESH,,,+212,MAD,,,assigned
-Yemen,YE,YEM,"39.5,12.1,65,27.695",,+967,YER,YEM,ara,assigned
-Zambia,ZM,ZMB,"2.983,-18.05,39.283,5",,+260,ZMW,ZAM,eng,assigned
-Zimbabwe,ZW,ZWE,"18,-32,33.8,-13.633",,+263,"USD,ZAR,BWP,GBP,EUR",ZIM,"eng,sna,nde",assigned
-Åland Islands,AX,ALA,,,+358,EUR,,swe,assigned
+name,alpha2,alpha3,bounds,ccTLD,countryCallingCodes,currencies,ioc,languages,status,subunits
+Afghanistan,AF,AFG,"60.4857421875,29.3919433594,74.8913085938,38.4563964844",,+93,AFN,AFG,pus,assigned,
+Albania,AL,ALB,"19.2806640625,39.653515625,21.0310546875,42.6479492188",,+355,ALL,ALB,sqi,assigned,
+Algeria,DZ,DZA,"-8.68334960938,18.9866210938,11.9678710938,37.0923828125",,+213,DZD,ALG,ara,assigned,
+American Samoa,AS,ASM,"-170.820507813,-14.359765625,-170.568115234,-14.257421875",,+1 684,USD,ASA,"eng,smo",assigned,
+Andorra,AD,AND,"1.41484375,42.4344726562,1.740234375,42.6427246094",,+376,EUR,AND,cat,assigned,
+Angola,AO,AGO,"11.7430664063,-18.0197265625,24.0466796875,-4.42890625",,+244,AOA,ANG,por,assigned,
+Anguilla,AI,AIA,"-63.1600097656,18.1713867188,-62.9795898437,18.2697265625",,+1 264,XCD,,eng,assigned,
+Antarctica,AQ,ATA,"5.68434188608,-89.9989257812,180,-65.1296875;-90.6520507812,-68.8032226562,-90.5146972656,-68.712109375;-45.9562988281,-60.7330078125,-45.1728515625,-60.5208984375;-180,-89.9989257812,-0.1845703125,-61.07265625",,+672,,,,assigned,"Antarctica,Peter I I.,S. Orkney Is.,Antarctica"
+Antigua And Barbuda,AG,ATG,"-61.86875,17.5486816406,-61.7471191406,17.7140625;-61.887109375,16.9971679687,-61.6860351562,17.1689453125",,+1 268,XCD,ANT,eng,assigned,"Barbuda,Antigua"
+Argentina,AR,ARG,"-73.5762695312,-55.0321289062,-53.6685546875,-21.8025390625",,+54,ARS,ARG,spa,assigned,
+Armenia,AM,ARM,"43.439453125,38.8690429688,46.584765625,41.2909667969",,+374,AMD,ARM,"hye,rus",assigned,
+Aruba,AW,ABW,"-70.0661132812,12.4229980469,-69.895703125,12.6141113281",,+297,AWG,ARU,nld,assigned,
+Ascension Island,AC,,,.ac,+247,USD,SHP,eng,reserved,
+Australia,AU,AUS,"123.572460938,-12.4359375,123.595214844,-12.4239257813;143.838574219,-43.6193359375,148.47421875,-39.5801757813;158.8359375,-54.74921875,158.958886719,-54.4723632813;112.908203125,-39.1455078125,153.616894531,-10.0517578125",,+61,AUD,AUS,eng,assigned,"Ashmore and Cartier Is.,Tasmania,Macquarie I.,Australia"
+Austria,AT,AUT,"9.5240234375,46.3997070312,17.1473632813,49.0011230469",,+43,EUR,AUT,deu,assigned,
+Azerbaijan,AZ,AZE,"44.7682617188,38.3987304687,50.3659179688,41.8909667969",,+994,AZN,AZE,aze,assigned,
+Bahamas,BS,BHS,"-78.9856445312,20.9374023438,-72.747265625,26.9400878906",,+1 242,BSD,BAH,eng,assigned,
+Bahrain,BH,BHR,"50.4524414063,25.8067871094,50.6174804688,26.2464355469",,+973,BHD,BRN,ara,assigned,
+Bangladesh,BD,BGD,"88.0234375,20.7904296875,92.631640625,26.5715332031",,+880,BDT,BAN,ben,assigned,
+Barbados,BB,BRB,"-59.6466796875,13.0622070312,-59.4276367187,13.3176757813",,+1 246,BBD,BAR,eng,assigned,
+Belarus,BY,BLR,"23.1750976563,51.2650390625,32.7102539063,56.1458007812",,+375,BYR,BLR,"bel,rus",assigned,
+Belgium,BE,BEL,"4.2146484375,50.7760253906,4.44169921875,50.900390625;2.52490234375,50.6976074219,5.89248046875,51.4911132813;2.85546875,49.5108886719,6.364453125,50.8059570312",,+32,EUR,BEL,"nld,fra,deu",assigned,"Brussels,Flemish,Walloon"
+Belize,BZ,BLZ,"-89.2375,15.888671875,-87.7886230469,18.4823242188",,+501,BZD,BIZ,eng,assigned,
+Benin,BJ,BEN,"0.76337890625,6.216796875,3.83447265625,12.3838378906",,+229,XOF,BEN,fra,assigned,
+Bermuda,BM,BMU,"-64.8628417969,32.2596191406,-64.6683105469,32.3869140625",,+1 441,BMD,BER,eng,assigned,
+Bhutan,BT,BTN,"88.7387695312,26.7015625,92.0833984375,28.3111816406",,+975,"INR,BTN",BHU,dzo,assigned,
+"Bolivia, Plurinational State Of",BO,BOL,"-69.645703125,-22.8916992188,-57.4956542969,-9.71044921875",,+591,"BOB,BOV",BOL,"spa,aym,que",assigned,
+"Bonaire, Saint Eustatius And Saba",BQ,BES,"-68.37109375,12.0320800781,-68.2058105469,12.301953125",,+599,USD,,nld,assigned,
+Bosnia & Herzegovina,BA,BIH,"16.2263671875,42.5597167969,19.5837890625,45.2765625;15.7366210938,42.5866699219,19.0412109375,45.2157226563",,+387,BAM,BIH,"bos,cre,srp",assigned,"Rep. Srpska,Fed. of Bos. & Herz."
+Botswana,BW,BWA,"19.97734375,-26.8541992188,29.36484375,-17.7875976562",,+267,BWP,BOT,"eng,tsn",assigned,
+Bouvet Island,BV,BVT,,,,NOK,,,assigned,
+Brazil,BR,BRA,"-74.0020507813,-33.7421875,-34.80546875,5.25795898437",,+55,BRL,BRA,por,assigned,
+British Indian Ocean Territory,IO,IOT,"72.3497070313,-7.4353515625,72.4985351562,-7.22041015625",,+246,USD,,eng,assigned,
+Brunei Darussalam,BN,BRN,"114.063867187,4.02397460938,115.326757813,5.02236328125",,+673,BND,BRU,"msa,eng",assigned,
+Bulgaria,BG,BGR,"22.3440429688,41.2435546875,28.5853515625,44.2377929688",,+359,BGN,BUL,bul,assigned,
+Burkina Faso,BF,BFA,"-5.52353515625,9.42470703125,2.38916015625,15.0778808594",,+226,XOF,BUR,fra,assigned,
+Burundi,BI,BDI,"29.0141601562,-4.455859375,30.8114257813,-2.31298828125",,+257,BIF,BDI,fra,assigned,
+Cabo Verde,CV,CPV,"-25.3415527344,14.8182128906,-22.6818847656,17.1936523438",,+238,CVE,CPV,por,assigned,
+Cambodia,KH,KHM,"102.319726563,10.4112304687,107.60546875,14.705078125",,+855,KHR,CAM,khm,assigned,
+Cameroon,CM,CMR,"8.5328125,1.67622070312,16.1833984375,13.078515625",,+237,XAF,CMR,"eng,fra",assigned,
+Canada,CA,CAN,"-141.002148438,41.6748535156,-52.6536621094,83.1161132813",,+1,CAD,CAN,"eng,fra",assigned,
+Canary Islands,IC,,,,,EUR,,,reserved,
+Cayman Islands,KY,CYM,"-81.4190917969,19.271875,-79.7422851563,19.7657226563",,+1 345,KYD,CAY,eng,assigned,
+Central African Republic,CF,CAF,"14.4311523438,2.27006835937,27.4033203125,10.9962402344",,+236,XAF,CAF,"fra,sag",assigned,
+"Ceuta, Mulilla",EA,,,,,EUR,,,reserved,
+Chad,TD,TCD,"13.4482421875,7.47529296875,23.9833984375,23.4452148437",,+235,XAF,CHA,"ara,fra",assigned,
+Chile,CL,CHL,"-75.7081054687,-55.8916992188,-66.4357910156,-17.5060546875;-109.434130859,-27.1712890625,-109.222851562,-27.068359375;-78.989453125,-33.6677734375,-78.7689453125,-33.5751953125",,+56,"CLP,CLF",CHI,spa,assigned,"Chile,Easter I.,Isla Sala y Gomez"
+China,CN,CHN,"108.635644531,18.2182617188,111.013671875,20.1377441406;73.6073242187,20.2637207031,134.75234375,53.5556152344",,+86,CNY,CHN,zho,assigned,"Hainan,China"
+Christmas Island,CX,CXR,"105.584082031,-10.5641601563,105.725390625,-10.4306640625",,+61,AUD,,eng,assigned,
+Clipperton Island,CP,,,,,EUR,,,reserved,
+Cocos (Keeling) Islands,CC,CCK,"96.8258789063,-12.1998046875,96.9252929687,-12.126171875",,+61,AUD,,eng,assigned,
+Colombia,CO,COL,"-79.0254394531,-4.2359375,-66.8760253906,12.434375;-82.39,11.16,-79.6,15.33",,+57,"COP,COU",COL,spa,assigned,"Colombia,Colombia"
+Comoros,KM,COM,"43.2266601563,-12.3682617187,44.5267578125,-11.3684570312",,+269,KMF,COM,"ara,fra",assigned,
+Cook Islands,CK,COK,"-159.842480469,-21.2495117188,-159.736865234,-21.1864257813",,+682,NZD,COK,"eng,mri",assigned,
+Costa Rica,CR,CRI,"-85.9080078125,8.07065429687,-82.5635742187,11.189453125",,+506,CRC,CRC,spa,assigned,
+Cote d'Ivoire,CI,CIV,"-8.60356445312,4.35131835938,-2.505859375,10.7240722656",,+225,XOF,CIV,fra,assigned,
+Croatia,HR,HRV,"13.5171875,42.4329101562,19.4009765625,46.5346191406",,+385,HRK,CRO,hrv,assigned,
+Cuba,CU,CUB,"-84.8872070313,19.85546875,-74.1368164063,23.1904296875",,+53,"CUP,CUC",CUB,spa,assigned,
+Curacao,CW,CUW,"-69.1588867187,12.0454589844,-68.7510742187,12.3802734375",,+599,ANG,,nld,assigned,
+Cyprus,CY,CYP,"32.3009765625,34.5695800781,34.0501953125,35.1826660156;32.7126953125,35.0003417969,34.5560546875,35.6620605469",,+357,EUR,CYP,"ell,tur",assigned,"Cyprus,N. Cyprus"
+Czech Republic,CZ,CZE,"12.0897460938,48.5762207031,18.8322265625,51.0377929687",,+420,CZK,CZE,ces,assigned,
+Democratic Republic Of Congo,CD,COD,"12.213671875,-13.4538085938,31.2740234375,5.312109375",,+243,CDF,COD,"fra,lin,kon,swa",assigned,
+Denmark,DK,DNK,"8.121484375,54.6288574219,12.6657226563,57.7369140625;14.6841796875,55.0049316406,15.137109375,55.2967285156",,+45,DKK,DEN,dan,assigned,"Denmark,Bornholm"
+Diego Garcia,DG,,,,,USD,,,reserved,
+Djibouti,DJ,DJI,"41.7646484375,10.941015625,43.409765625,12.70859375",,+253,DJF,DJI,"ara,fra",assigned,
+Dominica,DM,DMA,"-61.4811523437,15.2272949219,-61.2510742187,15.6331054688",,+1 767,XCD,DMA,eng,assigned,
+Dominican Republic,DO,DOM,"-72.000390625,17.6355957031,-68.3391601562,19.9139648437",,"+1 809,+1 829,+1 849",DOP,DOM,spa,assigned,
+Ecuador,EC,ECU,"-80.9627929687,-4.990625,-75.249609375,1.45537109375;-91.6541503906,-1.3419921875,-89.259375,0.125830078125",,+593,USD,ECU,"spa,que",assigned,"Ecuador,Galápagos Is."
+Egypt,EG,EGY,"24.7032226563,21.9948730469,36.8713867188,31.6549804687",,+20,EGP,EGY,ara,assigned,
+El Salvador,SV,SLV,"-90.1059082031,13.1640136719,-87.7153320312,14.4311035156",,+503,USD,ESA,spa,assigned,
+Equatorial Guinea,GQ,GNQ,"8.43427734375,3.21708984375,8.95068359375,3.75830078125;9.3859375,0.960107421875,11.3353515625,2.30444335938",,+240,XAF,GEQ,"spa,fra,por",assigned,"Bioko,Río Muni"
+Eritrea,ER,ERI,"36.4267578125,12.3765625,43.1166992187,18.005078125",,+291,ERN,ERI,"eng,ara,tir",assigned,
+Estonia,EE,EST,"21.8544921875,57.5254882812,28.1510742188,59.6390136719",,+372,EUR,EST,est,assigned,
+Ethiopia,ET,ETH,"32.9989257813,3.45610351562,47.9782226563,14.8522949219",,+251,ETB,ETH,amh,assigned,
+European Union,EU,,,.eu,+388,EUR,,,reserved,
+Falkland Islands,FK,FLK,"-61.1450195313,-52.3080078125,-57.791796875,-51.269921875",,+500,FKP,,eng,assigned,
+Faroe Islands,FO,FRO,"-7.42260742188,61.4143066406,-6.4060546875,62.3556640625",,+298,DKK,FAI,"fao,dan",assigned,
+Fiji,FJ,FJI,"-180,-20.6705078125,-178.251123047,-16.1260742188;174.587207031,-21.705859375,180,-12.476953125",,+679,FJD,FIJ,"eng,fij",assigned,"Fiji,Fiji"
+Finland,FI,FIN,"20.6221679688,59.816015625,31.5365234375,70.06484375",,+358,EUR,FIN,"fin,swe",assigned,
+France,FR,FRA,"8.565625,41.3849121094,9.5564453125,43.021484375;-4.7625,42.3404785156,8.14033203125,51.0971191406",,+33,EUR,FRA,fra,assigned,"Corsica,France"
+"France, Metropolitan",FX,,,,+241,EUR,,fra,reserved,
+French Guiana,GF,GUF,"-54.6162597656,2.12104492187,-51.6525390625,5.7822265625",,+594,EUR,,fra,assigned,
+French Polynesia,PF,PYF,"-151.512402344,-20.8758789063,-136.293896484,-8.78154296875",,+689,XPF,,fra,assigned,
+French Southern Territories,TF,ATF,"51.6592773438,-49.7098632812,70.55546875,-46.3268554687",,,EUR,,fra,assigned,
+Gabon,GA,GAB,"8.703125,-3.91630859375,14.4805664063,2.30219726562",,+241,XAF,GAB,fra,assigned,
+Gambia,GM,GMB,"-16.8248046875,13.0641601562,-13.8267089844,13.812109375",,+220,GMD,GAM,eng,assigned,
+Georgia,GE,GEO,"39.9783203125,41.0702148437,46.6725585938,43.5697753906",,+995,GEL,GEO,kat,assigned,
+Germany,DE,DEU,"5.85751953125,47.2788085938,15.0166015625,55.0587402344",,+49,EUR,GER,deu,assigned,
+Ghana,GH,GHA,"-3.24389648438,4.76245117188,1.18720703125,11.1668945312",,+233,GHS,GHA,eng,assigned,
+Gibraltar,GI,GIB,"-5.368,36.108618,-5.336,36.155",,+350,GIP,,eng,assigned,
+Greece,GR,GRC,"19.646484375,34.9344726563,28.2318359375,41.7437988281",,+30,EUR,GRE,ell,assigned,
+Greenland,GL,GRL,"-72.8180664062,59.8154785156,-11.4255371094,83.599609375",,+299,DKK,,kal,assigned,
+Grenada,GD,GRD,"-61.7821777344,12.0084472656,-61.60703125,12.2370117187",,+473,XCD,GRN,eng,assigned,
+Guadeloupe,GP,GLP,"-61.7940917969,15.8860351562,-61.1726074219,16.506640625",,+590,EUR,,fra,assigned,
+Guam,GU,GUM,"144.649316406,13.2575195312,144.940820313,13.6223632813",,+1 671,USD,GUM,eng,assigned,
+Guatemala,GT,GTM,"-92.23515625,13.7365234375,-88.2283203125,17.81640625",,+502,GTQ,GUA,spa,assigned,
+Guernsey,GG,GGY,"-2.64614257812,49.4287109375,-2.5123046875,49.5065917969",,+44,GBP,GCI,fra,assigned,
+Guinea,GN,GIN,"-15.0512207031,7.21591796875,-7.68120117187,12.6739257812",,+224,GNF,GUI,fra,assigned,
+Guinea-bissau,GW,GNB,"-16.7118164062,10.9401367188,-13.6735351562,12.6799316406",,+245,XOF,GBS,por,assigned,
+Guyana,GY,GUY,"-61.3908203125,1.20122070312,-56.4828125,8.54931640625",,+592,GYD,GUY,eng,assigned,
+Haiti,HT,HTI,"-74.478125,18.0391601563,-71.6453125,20.0936523438",,+509,"HTG,USD",HAI,"fra,hat",assigned,
+Heard Island And McDonald Islands,HM,HMD,"73.251171875,-53.1845703125,73.8377929688,-52.9663085938",,,AUD,,,assigned,
+Honduras,HN,HND,"-89.3625976562,12.9792480469,-83.1575195312,16.5139648438",,+504,HNL,HON,spa,assigned,
+Hong Kong,HK,HKG,"113.838867187,22.1951660156,114.335253906,22.5649902344",,+852,HKD,HKG,"zho,eng",assigned,
+Hungary,HU,HUN,"16.0930664063,45.7530273437,22.8766601563,48.5534667969",,+36,HUF,HUN,hun,assigned,
+Iceland,IS,ISL,"-24.4756835937,63.4066894531,-13.5561035156,66.5260742187",,+354,ISK,ISL,isl,assigned,
+India,IN,IND,"92.3528320313,10.5207519531,93.0766601563,13.5454589844;72.7724609375,8.251953125,73.08359375,11.2627441406;92.71328125,6.74868164062,93.9295898438,9.24389648438;68.1650390625,8.0783203125,97.3435546875,35.4958984375",,+91,INR,IND,"eng,hin",assigned,"Andaman Is.,Lakshadweep,Nicobar Is.,India"
+Indonesia,ID,IDN,"95.206640625,-10.9096679688,140.976171875,5.90703125",,+62,IDR,INA,ind,assigned,
+"Iran, Islamic Republic Of",IR,IRN,"44.0232421875,25.1020996094,63.3051757812,39.7685546875",,+98,IRR,IRI,fas,assigned,
+Iraq,IQ,IRQ,"38.7735351563,29.063671875,48.546484375,37.371875",,+964,IQD,IRQ,"ara,kur",assigned,
+Ireland,IE,IRL,"-10.390234375,51.4737304688,-6.02739257812,55.3658203125",,+353,EUR,IRL,"eng,gle",assigned,
+Isle Of Man,IM,IMN,"-4.7853515625,54.0586914062,-4.33798828125,54.4071777344",,+44,GBP,,"eng,glv",assigned,
+Israel,IL,ISR,"34.2453125,29.47734375,35.9134765625,33.4317382812",,+972,ILS,ISR,"heb,ara,eng",assigned,
+Italy,IT,ITA,"6.627734375,37.9391113281,18.4858398438,47.0821289063;12.435546875,36.6878417969,15.6346679688,38.2958984375;8.180859375,38.9096679688,9.8052734375,41.2570800781;11.9364257813,36.7459960937,12.0512695312,36.8430664062;12.315,35.487,12.893,35.885",,+39,EUR,ITA,ita,assigned,"Italy,Sicily,Sardinia,Pantelleria,Pelagie Islands"
+Jamaica,JM,JAM,"-78.3395019531,17.7149414062,-76.2107910156,18.5222167969",,+1 876,JMD,JAM,eng,assigned,
+Japan,JP,JPN,"130.889257813,33.4869628906,141.993164062,41.5055664062;128.649121094,30.24140625,141.329199219,45.4654785156;139.820898438,41.4232421875,145.833007812,45.5095214844;129.580078125,31.0151367188,132.00859375,33.9277832031;139.768945313,33.0454589844,139.873632813,33.1292480469;123.679785156,24.2660644531,129.714648438,28.5174804688;142.107128906,26.6156738281,142.202148438,26.7264648437;132.032617188,32.7520019531,134.738867188,34.3583984375",,+81,JPY,JPN,jpn,assigned,"Honshu,Japan,Hokkaido,Kyushu,Izu-shoto,Nansei-shoto,Bonin Is.,Shikoku"
+Jersey,JE,JEY,"-2.23583984375,49.1698242187,-2.00991210937,49.2663574219",,+44,GBP,JCI,"eng,fra",assigned,
+Jordan,JO,JOR,"34.95078125,29.1904785156,39.2927734375,33.3722167969",,+962,JOD,JOR,ara,assigned,
+Kazakhstan,KZ,KAZ,"46.6091796875,40.6086425781,87.3228515625,55.3895996094",,"+7,+7 6,+7 7",KZT,KAZ,"kaz,rus",assigned,
+Kenya,KE,KEN,"33.9,-4.6923828125,41.883984375,5.49228515625",,+254,KES,KEN,"eng,swa",assigned,
+Kiribati,KI,KIR,"-174.540820313,-11.4568359375,-151.782617188,3.92353515625;169.522949219,-1.26337890625,174.77890625,3.14877929687",,+686,AUD,KIR,eng,assigned,"Kiribati,Kiribati"
+"Korea, Democratic People's Republic Of",KP,PRK,"124.348632812,37.7190429687,130.687304688,42.9981445313",,+850,KPW,PRK,kor,assigned,
+"Korea, Republic Of",KR,KOR,"130.810253906,37.4487304688,130.934277344,37.5537109375;126.007519531,34.2964355469,129.572851563,38.6234375;126.165625,33.2015136719,126.93125,33.5532226562",,+82,KRW,KOR,kor,assigned,"Ulleungdo,Korea,Jejudo"
+Kuwait,KW,KWT,"46.5314453125,28.5331542969,48.4424804688,30.0973144531",,+965,KWD,KUW,ara,assigned,
+Kyrgyzstan,KG,KGZ,"69.2291015625,39.2075195312,80.2461914063,43.2403808594",,+996,KGS,KGZ,rus,assigned,
+Lao People's Democratic Republic,LA,LAO,"100.114941406,13.9211914063,107.653125,22.4952636719",,+856,LAK,LAO,lao,assigned,
+Latvia,LV,LVA,"21.0149414063,55.6675292969,28.2020507813,58.0634277344",,+371,EUR,LAT,lav,assigned,
+Lebanon,LB,LBN,"35.10859375,33.0756835938,36.5849609375,34.6787109375",,+961,LBP,LIB,"ara,hye",assigned,
+Lesotho,LS,LSO,"27.0517578125,-30.6422851563,29.3907226563,-28.5817382813",,+266,"LSL,ZAR",LES,"eng,sot",assigned,
+Liberia,LR,LBR,"-11.5075195312,4.35131835938,-7.39990234375,8.5376953125",,+231,LRD,LBR,eng,assigned,
+Libya,LY,LBY,"9.31025390625,19.4966308594,25.1504882813,33.1819335937",,+218,LYD,LBA,ara,assigned,
+Liechtenstein,LI,LIE,"9.4794921875,47.0573730469,9.610546875,47.2707519531",,+423,CHF,LIE,deu,assigned,
+Lithuania,LT,LTU,"20.8998046875,53.89296875,26.7756835938,56.4111816406",,+370,EUR,LTU,lit,assigned,
+Luxembourg,LU,LUX,"5.725,49.4454589844,6.49375,50.1671875",,+352,EUR,LUX,"fra,deu,ltz",assigned,
+Macao,MO,MAC,"113.47890625,22.1955566406,113.548144531,22.2459472656",,+853,MOP,MAC,"zho,por",assigned,
+"Macedonia, The Former Yugoslav Republic Of",MK,MKD,"20.4486328125,40.8499023437,23.0056640625,42.3581542969",,+389,MKD,MKD,mkd,assigned,
+Madagascar,MG,MDG,"43.2571289063,-25.5705078125,50.4827148438,-12.0795898437",,+261,MGA,MAD,"fra,mlg",assigned,
+Malawi,MW,MWI,"32.6704101562,-17.1310546875,35.8927734375,-9.39501953125",,+265,MWK,MAW,"eng,nya",assigned,
+Malaysia,MY,MYS,"99.6462890625,0.861962890625,119.266308594,7.35166015625",,+60,MYR,MAS,"msa,eng",assigned,
+Maldives,MV,MDV,"73.38203125,3.22939453125,73.5283203125,4.24765625",,+960,MVR,MDV,div,assigned,
+Mali,ML,MLI,"-12.2806152344,10.1432617187,4.23466796875,24.9956054688",,+223,XOF,MLI,fra,assigned,
+Malta,MT,MLT,"14.1803710938,35.8202148437,14.5662109375,36.07578125",,+356,EUR,MLT,"mlt,eng",assigned,
+Marshall Islands,MH,MHL,"166.844726563,5.7998046875,171.756835937,11.1686523438",,+692,USD,MHL,"eng,mah",assigned,
+Martinique,MQ,MTQ,"-61.2197265625,14.4262695312,-60.8262695312,14.8752929688",,+596,EUR,,,assigned,
+Mauritania,MR,MRT,"-17.0639648438,14.7453613281,-4.82260742187,27.2859375",,+222,MRO,MTN,"ara,fra",assigned,
+Mauritius,MU,MUS,"57.3176757813,-20.5131835938,57.7919921875,-19.9899414063",,+230,MUR,MRI,"eng,fra",assigned,
+Mayotte,YT,MYT,"45.042578125,-12.9849609375,45.2231445312,-12.6530273438",,+262,EUR,,fra,assigned,
+Mexico,MX,MEX,"-118.401367187,14.5454101562,-86.6962890625,32.7153320313",,+52,"MXN,MXV",MEX,spa,assigned,
+"Micronesia, Federated States Of",FM,FSM,"138.061914063,5.27724609375,162.993457031,9.59331054687",,+691,USD,,eng,assigned,
+Moldova,MD,MDA,"26.6189453125,45.4504394531,30.1310546875,48.477734375",,+373,MDL,MDA,ron,assigned,
+Monaco,MC,MCO,"7.377734375,43.7317382812,7.438671875,43.7708984375",,+377,EUR,MON,fra,assigned,
+Mongolia,MN,MNG,"87.7431640625,41.5955078125,119.897851563,52.1172851562",,+976,MNT,MGL,mon,assigned,
+Montenegro,ME,MNE,"18.436328125,41.8690917969,20.34765625,43.5423339844",,+382,EUR,MNE,mot,assigned,
+Montserrat,MS,MSR,"-62.223046875,16.6812011719,-62.1484375,16.8095703125",,+1 664,XCD,,,assigned,
+Morocco,MA,MAR,"-17.0030761719,21.420703125,-1.06552734375,35.9298828125",,+212,MAD,MAR,ara,assigned,
+Mozambique,MZ,MOZ,"30.2217773438,-26.8616210938,40.84453125,-10.4643554688",,+258,MZN,MOZ,por,assigned,
+Myanmar,MM,MMR,"92.1795898438,9.875390625,101.147265625,28.5170410156",,+95,MMK,MYA,mya,assigned,
+Namibia,NA,NAM,"11.7216796875,-28.9387695313,25.2587890625,-16.9676757813",,+264,"NAD,ZAR",NAM,eng,assigned,
+Nauru,NR,NRU,"166.90703125,-0.55078125,166.958398438,-0.48935546875",,+674,AUD,NRU,"eng,nau",assigned,
+Nepal,NP,NPL,"80.0516601563,26.3603027344,88.1615234375,30.3875",,+977,NPR,NEP,nep,assigned,
+Netherlands,NL,NLD,"3.133,50.75,7.217,53.683",,+31,EUR,NED,nld,assigned,
+New Caledonia,NC,NCL,"159.928222656,-22.6611328125,168.1390625,-19.1146484375",,+687,XPF,,fra,assigned,
+New Zealand,NZ,NZL,"172.705957031,-41.6106445312,178.536230469,-34.4291015625;166.477636719,-47.263671875,174.370117188,-40.4900390625;165.889160156,-52.5703125,169.233496094,-50.5309570312;-176.84765625,-44.3305664062,-176.122558594,-43.717578125",,+64,NZD,NZL,eng,assigned,"North I.,South I.,N.Z. SubAntarctic Is.,Chatham Is."
+Nicaragua,NI,NIC,"-87.6701660156,10.7353515625,-83.1575195312,15.0080566406",,+505,NIO,NCA,spa,assigned,
+Niger,NE,NER,"0.1638671875,11.6962890625,15.9631835938,23.5178710938",,+227,XOF,NIG,fra,assigned,
+Nigeria,NG,NGA,"2.68603515625,4.27739257813,14.6271484375,13.8728515625",,+234,NGN,NGR,eng,assigned,
+Niue,NU,NIU,"-169.948339844,-19.137890625,-169.793408203,-18.966015625",,+683,NZD,,eng,assigned,
+Norfolk Island,NF,NFK,"167.906152344,-29.0962890625,167.990429688,-29.0139648438",,+672,AUD,,eng,assigned,
+Northern Mariana Islands,MP,MNP,"145.152148438,14.111328125,145.835449219,18.8067871094",,+1 670,USD,,eng,assigned,
+Norway,NO,NOR,"-9.09887695312,70.8326660156,-7.97880859375,71.1776855469;4.7990234375,58.0209472656,30.9606445313,71.1420898438",,+47,NOK,NOR,nor,assigned,"Jan Mayen I.,Norway"
+Oman,OM,OMN,"51.9776367188,16.6483886719,59.8375,26.3563476563",,+968,OMR,OMA,ara,assigned,
+Pakistan,PK,PAK,"60.843359375,23.7533691406,77.0486328125,37.0366699219",,+92,PKR,PAK,"urd,eng",assigned,
+Palau,PW,PLW,"131.134960938,3.021875,134.659570313,7.712109375",,+680,USD,PLW,eng,assigned,
+"Palestinian Territory, Occupied",PS,PSE,"34.1981445313,31.2083007812,34.5255859375,31.5848632812;34.8727539063,31.3513183594,35.5720703125,32.5344238281",,+970,"JOD,EGP,ILS",PLE,ara,assigned,"Gaza,West Bank"
+Panama,PA,PAN,"-83.02734375,7.22006835938,-77.1959960937,9.5978515625",,+507,"PAB,USD",PAN,spa,assigned,
+Papua New Guinea,PG,PNG,"154.540039063,-6.86279296875,155.957617188,-5.0138671875;140.862304687,-11.6305664062,154.280761719,-1.35322265625",,+675,PGK,PNG,eng,assigned,"Bougainville,Papua New Guinea"
+Paraguay,PY,PRY,"-62.6509765625,-27.5538085938,-54.241796875,-19.2862304688",,+595,PYG,PAR,spa,assigned,
+Peru,PE,PER,"-81.3366210937,-18.3456054688,-68.6852539062,-0.041748046875",,+51,PEN,PER,"spa,aym,que",assigned,
+Philippines,PH,PHL,"116.96953125,5.06020507812,126.593359375,20.8412597656",,+63,PHP,PHI,eng,assigned,
+Pitcairn,PN,PCN,"-128.350195313,-24.4125976562,-128.290087891,-24.3232421875",,+872,NZD,,eng,assigned,
+Poland,PL,POL,"14.1286132813,49.0207519531,24.1057617188,54.8381835937",,+48,PLN,POL,pol,assigned,
+Portugal,PT,PRT,"-31.2829589844,36.9415527344,-25.02734375,39.5208496094;-17.3,32.4,-16.25,33.15;-9.47973632812,37.0054199219,-6.2125,42.1374023437",,+351,EUR,POR,por,assigned,"Azores,Madeira,Portugal"
+Puerto Rico,PR,PRI,"-67.9370605469,17.947265625,-65.2948730469,18.5221679687",,"+1 787,+1 939",USD,PUR,"spa,eng",assigned,
+Qatar,QA,QAT,"50.7545898438,24.5646484375,51.6088867188,26.1532714844",,+974,QAR,QAT,ara,assigned,
+Republic Of Congo,CG,COG,"11.1301757813,-5.004296875,18.6221679688,3.6873046875",,+242,XAF,CGO,"fra,lin",assigned,
+Reunion,RE,REU,"55.2328125,-21.3690429688,55.8390625,-20.8651367188",,+262,EUR,,fra,assigned,
+Romania,RO,ROU,"20.241796875,43.6708007812,29.705859375,48.2634765625",,+40,RON,ROU,ron,assigned,
+Russian Federation,RU,RUS,"27.351953125,41.1992675781,68.9416992188,81.8541992187;19.6043945313,54.3500976562,22.83125,55.2866699219;-180,64.2797363281,-169.729150391,71.5961914063;52.7350585938,42.3025390625,180,81.28046875",,"+7,+7 3,+7 4,+7 8",RUB,RUS,rus,assigned,"Russia,Kaliningrad,Russia,Russia"
+Rwanda,RW,RWA,"28.8576171875,-2.80859375,30.8765625,-1.0630859375",,+250,RWF,RWA,"eng,fra,kin",assigned,
+Saint Barthélemy,BL,BLM,"-62.8754394531,17.8751953125,-62.7997070312,17.922265625",,+590,EUR,,fra,assigned,
+"Saint Helena, Ascension And Tristan Da Cunha",SH,SHN,"-14.4149414062,-7.97578125,-14.3025390625,-7.8826171875;-5.78251953125,-16.0040039063,-5.65971679687,-15.9061523438",,+290,SHP,,eng,assigned,"Ascension,Saint Helena"
+Saint Kitts And Nevis,KN,KNA,"-62.8404785156,17.1005859375,-62.5322265625,17.4025878906",,+1 869,XCD,SKN,eng,assigned,
+Saint Lucia,LC,LCA,"-61.0731445312,13.717578125,-60.8867675781,14.093359375",,+1 758,XCD,LCA,eng,assigned,
+Saint Martin,MF,MAF,"-63.123046875,18.0689453125,-63.0094238281,18.1153320312",,+590,EUR,,fra,assigned,
+Saint Pierre And Miquelon,PM,SPM,"-56.3869140625,46.7528320312,-56.1373535156,47.0989746094",,+508,EUR,,eng,assigned,
+Saint Vincent And The Grenadines,VC,VCT,"-61.353515625,12.6947265625,-61.1240234375,13.3587402344",,+1 784,XCD,VIN,eng,assigned,
+Samoa,WS,WSM,"-172.778515625,-14.047265625,-171.449560547,-13.465234375",,+685,WST,SAM,"eng,smo",assigned,
+San Marino,SM,SMR,"12.396875,43.8940917969,12.5146484375,43.9897460938",,+378,EUR,SMR,ita,assigned,
+Saudi Arabia,SA,SAU,"34.6162109375,16.3717773438,55.641015625,32.1245117188",,+966,SAR,KSA,ara,assigned,
+Senegal,SN,SEN,"-17.5356445312,12.3280273437,-11.382421875,16.67890625",,+221,XOF,SEN,fra,assigned,
+Serbia,RS,SRB,"18.8390625,44.6326171875,21.533203125,46.1691894531;20.0294921875,41.8538085937,21.7529296875,43.2610839844;19.1184570313,42.2421386719,22.9768554688,45.0977050781",,+381,RSD,SRB,srp,assigned,"Vojvodina,Kosovo,Serbia"
+Seychelles,SC,SYC,"55.3833984375,-4.785546875,55.54296875,-4.5587890625",,+248,SCR,SEY,"eng,fra",assigned,
+Sierra Leone,SL,SLE,"-13.2926757812,6.90654296875,-10.283203125,9.99653320312",,+232,SLL,SLE,eng,assigned,
+Singapore,SG,SGP,"103.650195312,1.26538085938,103.996386719,1.4470703125",,+65,SGD,SIN,"eng,zho,msa,tam",assigned,
+Sint Maarten,SX,SXM,"-63.1247070312,18.0191894531,-63.0111816406,18.0689453125",,+1 721,ANG,,nld,assigned,
+Slovakia,SK,SVK,"16.8626953125,47.7634277344,22.538671875,49.5977050781",,+421,EUR,SVK,slk,assigned,
+Slovenia,SI,SVN,"13.3782226563,45.4283691406,16.5162109375,46.86328125",,+386,EUR,SLO,slv,assigned,
+Solomon Islands,SB,SLB,"155.677539063,-11.8322265625,166.929199219,-6.60888671875",,+677,SBD,SOL,eng,assigned,
+Somalia,SO,SOM,"40.964453125,-1.6953125,51.390234375,11.9836914062;42.6564453125,7.9970703125,48.9385742188,11.4998046875",,+252,SOS,SOM,som,assigned,"Somalia,Somaliland"
+South Africa,ZA,ZAF,"37.5900390625,-46.962890625,37.8876953125,-46.8240234375;16.4475585938,-34.7857421875,32.8861328125,-22.1462890625",,+27,ZAR,RSA,"afr,eng,nbl,som,tso,ven,xho,zul",assigned,"Prince Edward Is.,South Africa"
+South Georgia And The South Sandwich Islands,GS,SGS,"-38.0174316406,-54.866796875,-35.7985839844,-53.9840820313;-26.4510253906,-58.4922851563,-26.2598632812,-58.3822265625",,,GBP,,eng,assigned,"S. Georgia,S. Sandwich Is."
+South Sudan,SS,SSD,"24.1473632813,3.49072265625,35.268359375,12.2230957031",.ss,+211,SSP,,eng,assigned,
+Spain,ES,ESP,"-18.160546875,27.6463867188,-13.4229492187,29.2372070313;1.22333984375,38.6588378906,4.3220703125,40.0750976562;-9.23564453125,36.0259277344,3.30673828125,43.7645507812",,+34,EUR,ESP,spa,assigned,"Canary Is.,Balearic Is.,Spain"
+Sri Lanka,LK,LKA,"79.7078125,5.94936523438,81.876953125,9.8126953125",,+94,LKR,SRI,"sin,tam",assigned,
+Sudan,SD,SDN,"21.8252929688,8.665625,38.6094726563,22.2024414063",,+249,SDG,SUD,"ara,eng",assigned,
+Suriname,SR,SUR,"-58.0544921875,1.84223632812,-53.9904785156,5.99345703125",,+597,SRD,SUR,nld,assigned,
+Svalbard And Jan Mayen,SJ,SJM,"10.5576171875,74.3521484375,33.629296875,80.4778320312",,+47,NOK,,,assigned,
+Swaziland,SZ,SWZ,"30.7875,-27.3099609375,32.112890625,-25.74296875",,+268,SZL,SWZ,"eng,ssw",assigned,
+Sweden,SE,SWE,"11.1471679688,55.3463867188,24.15546875,69.0368652344",,+46,SEK,SWE,swe,assigned,
+Switzerland,CH,CHE,"5.97001953125,45.8300292969,10.4545898438,47.7756347656",,+41,"CHF,CHE,CHW",SUI,"deu,fra,ita,roh",assigned,
+Syrian Arab Republic,SY,SYR,"35.764453125,32.3172851562,42.3590820313,37.297265625",,+963,SYP,SYR,ara,assigned,
+São Tomé and Príncipe,ST,STP,"7.3306640625,1.54155273437,7.45234375,1.69912109375;6.4681640625,0.04736328125,6.75,0.40439453125",,+239,STD,STP,por,assigned,"Principe,Sao Tome"
+Taiwan,TW,TWN,"118.287304688,21.925,121.929003906,25.2769042969",,+886,TWD,TPE,zho,assigned,
+Tajikistan,TJ,TJK,"67.349609375,36.6840332031,75.11875,41.0351074219",,+992,TJS,TJK,"tgk,rus",assigned,
+"Tanzania, United Republic Of",TZ,TZA,"29.3234375,-11.7162109375,40.4635742188,-0.994921875;39.1823242188,-6.4537109375,39.8709960937,-4.90615234375",,+255,TZS,TAN,"swa,eng",assigned,"Tanzania,Zanzibar"
+Thailand,TH,THA,"97.3739257812,5.63676757813,105.641015625,20.4244140625",,+66,THB,THA,tha,assigned,
+"Timor-Leste, Democratic Republic of",TL,TLS,"124.036328125,-9.4279296875,124.444433594,-9.19033203125;124.915039062,-9.5119140625,127.29609375,-8.13994140625",,+670,USD,TLS,por,assigned,"Pante Makasar,Timor-Leste"
+Togo,TG,TGO,"-0.090185546875,6.08940429687,1.7779296875,11.115625",,+228,XOF,TOG,fra,assigned,
+Tokelau,TK,TKL,"-172.498681641,-9.35830078125,-171.186425781,-8.546484375",,+690,NZD,,eng,assigned,
+Tonga,TO,TON,"-175.362353516,-21.4505859375,-173.921875,-18.5653320313",,+676,TOP,TGA,eng,assigned,
+Trinidad And Tobago,TT,TTO,"-61.9061035156,10.0646484375,-60.9176269531,10.840234375;-60.8106445312,11.1686035156,-60.5254882812,11.325390625",,+1 868,TTD,TRI,eng,assigned,"Trinidad,Tobago"
+Tristan de Cunha,TA,,,,+290,GBP,,,reserved,
+Tunisia,TN,TUN,"7.49560546875,30.2293945312,11.5359375,37.3403808594",,+216,TND,TUN,ara,assigned,
+Turkey,TR,TUR,"25.6689453125,35.8314453125,44.8171875,42.0932617188",,+90,TRY,TUR,tur,assigned,
+Turkmenistan,TM,TKM,"52.4938476563,35.1708007813,66.629296875,42.7784667969",,+993,TMT,TKM,"tuk,rus",assigned,
+Turks And Caicos Islands,TC,TCA,"-72.3423828125,21.7517089844,-71.6369140625,21.9519042969",,+1 649,USD,,eng,assigned,
+Tuvalu,TV,TUV,"176.7,-12.7,180,-5.4",,+688,AUD,TUV,eng,assigned,
+Uganda,UG,UGA,"29.5619140625,-1.469921875,34.9782226563,4.22021484375",,+256,UGX,UGA,"eng,swa",assigned,
+Ukraine,UA,UKR,"22.1318359375,44.3875976562,40.1283203125,52.3535644531",,+380,UAH,UKR,"ukr,rus",assigned,
+United Arab Emirates,AE,ARE,"51.568359375,22.621484375,56.3879882813,26.0681640625",,+971,AED,UAE,ara,assigned,
+United Kingdom,GB,GBR,"-5.65625,50.0213867188,1.74658203125,55.8079589844;-7.54296875,54.689453125,-0.774267578125,60.8318847656;-5.2623046875,51.3904296875,-2.6623046875,53.4192871094;-8.14482421875,54.0512695312,-5.47041015625,55.241796875",,+44,GBP,GBR,"eng,cor,gle,gla,cym",assigned,"England,Scotland,Wales,N. Ireland"
+United Kingdom,UK,,,.uk,,GBP,,"eng,cor,gle,gla,cym",reserved,
+United States,US,USA,"-124.709960938,24.5423339844,-66.9870117187,49.3696777344;172.494824219,51.3722167969,179.779980469,53.0129882813;-178.19453125,51.6036621094,-130.0140625,71.4076660156;-160.243457031,18.9639160156,-154.804199219,22.2231445312",,+1,USD,USA,eng,assigned,"U.S.A.,Alaska,Alaska,Hawaii"
+United States Minor Outlying Islands,UM,UMI,,,+1,USD,,eng,assigned,
+Uruguay,UY,URY,"-58.4381347656,-34.9328125,-53.1255859375,-30.1010742188",,+598,"UYU,UYI",URU,spa,assigned,
+USSR,SU,,,.su,,RUB,,rus,reserved,
+Uzbekistan,UZ,UZB,"55.9756835938,37.1722167969,73.1369140625,45.5553710938",,+998,UZS,UZB,"uzb,rus",assigned,
+Vanuatu,VU,VUT,"166.526074219,-20.241796875,169.896289063,-13.7094726563",,+678,VUV,VAN,"bis,eng,fra",assigned,
+Vatican City State,VA,VAT,"12.4275390625,41.8975585937,12.4391601563,41.9062011719",,"+379,+39",EUR,,ita,assigned,
+"Venezuela, Bolivarian Republic Of",VE,VEN,"-73.3662109375,0.68798828125,-59.82890625,12.1778808594",,+58,VEF,VEN,spa,assigned,
+Viet Nam,VN,VNM,"102.127441406,8.58325195312,109.444921875,23.3452148438",,+84,VND,VIE,vie,assigned,
+Virgin Islands (British),VG,VGB,"-64.6951171875,18.3991210938,-64.2735839844,18.7526855469",,+1 284,USD,ISV,eng,assigned,
+Virgin Islands (US),VI,VIR,"-65.0236328125,17.7017089844,-64.58046875,18.3852050781",,+1 340,USD,ISV,eng,assigned,
+Wallis And Futuna,WF,WLF,"-178.194384766,-14.3249023437,-176.128076172,-13.2216796875",,+681,XPF,,fra,assigned,
+Western Sahara,EH,ESH,"-17.0987792969,20.8061523438,-8.68212890625,27.6564453125",,+212,MAD,,,assigned,
+Yemen,YE,YEM,"42.5490234375,12.6076660156,53.0856445313,18.9961425781;53.3158203125,12.3189941406,54.5111328125,12.7157714844",,+967,YER,YEM,ara,assigned,"Yemen,Socotra"
+Zambia,ZM,ZMB,"21.97890625,-18.0415039062,33.6615234375,-8.19365234375",,+260,ZMW,ZAM,eng,assigned,
+Zimbabwe,ZW,ZWE,"25.2240234375,-22.4020507813,33.0067382813,-15.6430664062",,+263,"USD,ZAR,BWP,GBP,EUR",ZIM,"eng,sna,nde",assigned,
+Åland Islands,AX,ALA,"19.5190429688,60.0116699219,20.611328125,60.4058105469",,+358,EUR,,swe,assigned,
