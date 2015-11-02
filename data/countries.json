@@ -2,6 +2,7 @@
   {
     "alpha2": "AC",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [
       "+247"
     ],
@@ -18,6 +19,7 @@
   {
     "alpha2": "AD",
     "alpha3": "AND",
+    "bounds": "1.417,42.433,1.783,42.65",
     "countryCallingCodes": [
       "+376"
     ],
@@ -34,6 +36,7 @@
   {
     "alpha2": "AE",
     "alpha3": "ARE",
+    "bounds": "45,22.167,59.25,26.133",
     "countryCallingCodes": [
       "+971"
     ],
@@ -50,6 +53,7 @@
   {
     "alpha2": "AF",
     "alpha3": "AFG",
+    "bounds": "60.433,29.15,75.033,38.484",
     "countryCallingCodes": [
       "+93"
     ],
@@ -66,6 +70,7 @@
   {
     "alpha2": "AG",
     "alpha3": "ATG",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 268"
     ],
@@ -82,6 +87,7 @@
   {
     "alpha2": "AI",
     "alpha3": "AIA",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 264"
     ],
@@ -98,6 +104,7 @@
   {
     "alpha2": "AL",
     "alpha3": "ALB",
+    "bounds": "19,39.583,21.05,42.659",
     "countryCallingCodes": [
       "+355"
     ],
@@ -114,6 +121,7 @@
   {
     "alpha2": "AM",
     "alpha3": "ARM",
+    "bounds": "43.443,38.857,46.589,41.3",
     "countryCallingCodes": [
       "+374"
     ],
@@ -131,6 +139,7 @@
   {
     "alpha2": "AO",
     "alpha3": "AGO",
+    "bounds": "10,-33.806,24.35,-3.033",
     "countryCallingCodes": [
       "+244"
     ],
@@ -147,6 +156,7 @@
   {
     "alpha2": "AQ",
     "alpha3": "ATA",
+    "bounds": "",
     "countryCallingCodes": [
       "+672"
     ],
@@ -159,6 +169,7 @@
   {
     "alpha2": "AR",
     "alpha3": "ARG",
+    "bounds": "-73.533,-58.583,-53.367,-21.783",
     "countryCallingCodes": [
       "+54"
     ],
@@ -175,6 +186,7 @@
   {
     "alpha2": "AS",
     "alpha3": "ASM",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 684"
     ],
@@ -192,6 +204,7 @@
   {
     "alpha2": "AT",
     "alpha3": "AUT",
+    "bounds": "1.2,46.373,19,49.017",
     "countryCallingCodes": [
       "+43"
     ],
@@ -208,6 +221,7 @@
   {
     "alpha2": "AU",
     "alpha3": "AUS",
+    "bounds": "112.467,-55.05,168,-9.133",
     "countryCallingCodes": [
       "+61"
     ],
@@ -224,6 +238,7 @@
   {
     "alpha2": "AW",
     "alpha3": "ABW",
+    "bounds": "-70.983,12.4,-69.85,12.617",
     "countryCallingCodes": [
       "+297"
     ],
@@ -240,6 +255,7 @@
   {
     "alpha2": "AX",
     "alpha3": "ALA",
+    "bounds": "",
     "countryCallingCodes": [
       "+358"
     ],
@@ -256,6 +272,7 @@
   {
     "alpha2": "AZ",
     "alpha3": "AZE",
+    "bounds": "44.783,38.417,50.858,41.911",
     "countryCallingCodes": [
       "+994"
     ],
@@ -272,6 +289,7 @@
   {
     "alpha2": "BA",
     "alpha3": "BIH",
+    "bounds": "",
     "countryCallingCodes": [
       "+387"
     ],
@@ -290,6 +308,7 @@
   {
     "alpha2": "BB",
     "alpha3": "BRB",
+    "bounds": "-59.667,12.967,-59.383,13.333",
     "countryCallingCodes": [
       "+1 246"
     ],
@@ -306,6 +325,7 @@
   {
     "alpha2": "BD",
     "alpha3": "BGD",
+    "bounds": "84,20.6,92.683,26.817",
     "countryCallingCodes": [
       "+880"
     ],
@@ -322,6 +342,7 @@
   {
     "alpha2": "BE",
     "alpha3": "BEL",
+    "bounds": "2.367,49.5,6.4,51.683",
     "countryCallingCodes": [
       "+32"
     ],
@@ -340,6 +361,7 @@
   {
     "alpha2": "BF",
     "alpha3": "BFA",
+    "bounds": "-5.483,9.4,20,14.983",
     "countryCallingCodes": [
       "+226"
     ],
@@ -356,6 +378,7 @@
   {
     "alpha2": "BG",
     "alpha3": "BGR",
+    "bounds": "22.371,41,28.6,44.215",
     "countryCallingCodes": [
       "+359"
     ],
@@ -372,6 +395,7 @@
   {
     "alpha2": "BH",
     "alpha3": "BHR",
+    "bounds": "45,25,50.954,26.566",
     "countryCallingCodes": [
       "+973"
     ],
@@ -388,6 +412,7 @@
   {
     "alpha2": "BI",
     "alpha3": "BDI",
+    "bounds": "29.018,-4.455,31.783,-0.95",
     "countryCallingCodes": [
       "+257"
     ],
@@ -404,6 +429,7 @@
   {
     "alpha2": "BJ",
     "alpha3": "BEN",
+    "bounds": "-4,5,92.219,21.322",
     "countryCallingCodes": [
       "+229"
     ],
@@ -420,6 +446,7 @@
   {
     "alpha2": "BL",
     "alpha3": "BLM",
+    "bounds": "",
     "countryCallingCodes": [
       "+590"
     ],
@@ -436,6 +463,7 @@
   {
     "alpha2": "BM",
     "alpha3": "BMU",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 441"
     ],
@@ -452,6 +480,7 @@
   {
     "alpha2": "BN",
     "alpha3": "BRN",
+    "bounds": "",
     "countryCallingCodes": [
       "+673"
     ],
@@ -469,6 +498,7 @@
   {
     "alpha2": "BO",
     "alpha3": "BOL",
+    "bounds": "",
     "countryCallingCodes": [
       "+591"
     ],
@@ -488,6 +518,7 @@
   {
     "alpha2": "BQ",
     "alpha3": "BES",
+    "bounds": "",
     "countryCallingCodes": [
       "+599"
     ],
@@ -504,6 +535,7 @@
   {
     "alpha2": "BR",
     "alpha3": "BRA",
+    "bounds": "-73.817,-33.733,-28.85,16.8",
     "countryCallingCodes": [
       "+55"
     ],
@@ -520,6 +552,7 @@
   {
     "alpha2": "BS",
     "alpha3": "BHS",
+    "bounds": "-86,20,-70,29.547",
     "countryCallingCodes": [
       "+1 242"
     ],
@@ -536,6 +569,7 @@
   {
     "alpha2": "BT",
     "alpha3": "BTN",
+    "bounds": "80,26.217,92.717,30",
     "countryCallingCodes": [
       "+975"
     ],
@@ -553,6 +587,7 @@
   {
     "alpha2": "BV",
     "alpha3": "BVT",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "NOK"
@@ -565,6 +600,7 @@
   {
     "alpha2": "BW",
     "alpha3": "BWA",
+    "bounds": "20,-28.517,29.35,24.583",
     "countryCallingCodes": [
       "+267"
     ],
@@ -582,6 +618,7 @@
   {
     "alpha2": "BY",
     "alpha3": "BLR",
+    "bounds": "22.55,50.717,32.85,56.133",
     "countryCallingCodes": [
       "+375"
     ],
@@ -599,6 +636,7 @@
   {
     "alpha2": "BZ",
     "alpha3": "BLZ",
+    "bounds": "-89.95,15,-75,18.483",
     "countryCallingCodes": [
       "+501"
     ],
@@ -615,6 +653,7 @@
   {
     "alpha2": "CA",
     "alpha3": "CAN",
+    "bounds": "-163.9,39,-52.083,83.133",
     "countryCallingCodes": [
       "+1"
     ],
@@ -632,6 +671,7 @@
   {
     "alpha2": "CC",
     "alpha3": "CCK",
+    "bounds": "",
     "countryCallingCodes": [
       "+61"
     ],
@@ -648,6 +688,7 @@
   {
     "alpha2": "CD",
     "alpha3": "COD",
+    "bounds": "",
     "countryCallingCodes": [
       "+243"
     ],
@@ -667,6 +708,7 @@
   {
     "alpha2": "CF",
     "alpha3": "CAF",
+    "bounds": "",
     "countryCallingCodes": [
       "+236"
     ],
@@ -684,6 +726,7 @@
   {
     "alpha2": "CG",
     "alpha3": "COG",
+    "bounds": "",
     "countryCallingCodes": [
       "+242"
     ],
@@ -701,6 +744,7 @@
   {
     "alpha2": "CH",
     "alpha3": "CHE",
+    "bounds": "5.967,45.15,12.467,52.883",
     "countryCallingCodes": [
       "+41"
     ],
@@ -722,6 +766,7 @@
   {
     "alpha2": "CI",
     "alpha3": "CIV",
+    "bounds": "",
     "countryCallingCodes": [
       "+225"
     ],
@@ -738,6 +783,7 @@
   {
     "alpha2": "CK",
     "alpha3": "COK",
+    "bounds": "",
     "countryCallingCodes": [
       "+682"
     ],
@@ -755,6 +801,7 @@
   {
     "alpha2": "CL",
     "alpha3": "CHL",
+    "bounds": "-109.467,-64.05,-8.847,42.583",
     "countryCallingCodes": [
       "+56"
     ],
@@ -772,6 +819,7 @@
   {
     "alpha2": "CM",
     "alpha3": "CMR",
+    "bounds": "8.467,1.417,20,16",
     "countryCallingCodes": [
       "+237"
     ],
@@ -789,6 +837,7 @@
   {
     "alpha2": "CN",
     "alpha3": "CHN",
+    "bounds": "74.167,18.163,135.078,53.5",
     "countryCallingCodes": [
       "+86"
     ],
@@ -805,6 +854,7 @@
   {
     "alpha2": "CO",
     "alpha3": "COL",
+    "bounds": "-81.85,-5,76.833,15",
     "countryCallingCodes": [
       "+57"
     ],
@@ -822,6 +872,7 @@
   {
     "alpha2": "CP",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -834,6 +885,7 @@
   {
     "alpha2": "CR",
     "alpha3": "CRI",
+    "bounds": "-87.1,-0.792,-46.633,15",
     "countryCallingCodes": [
       "+506"
     ],
@@ -850,6 +902,7 @@
   {
     "alpha2": "CU",
     "alpha3": "CUB",
+    "bounds": "-90,15,83.917,25",
     "countryCallingCodes": [
       "+53"
     ],
@@ -867,6 +920,7 @@
   {
     "alpha2": "CV",
     "alpha3": "CPV",
+    "bounds": "",
     "countryCallingCodes": [
       "+238"
     ],
@@ -883,6 +937,7 @@
   {
     "alpha2": "CW",
     "alpha3": "CUW",
+    "bounds": "",
     "countryCallingCodes": [
       "+599"
     ],
@@ -899,6 +954,7 @@
   {
     "alpha2": "CX",
     "alpha3": "CXR",
+    "bounds": "",
     "countryCallingCodes": [
       "+61"
     ],
@@ -915,6 +971,7 @@
   {
     "alpha2": "CY",
     "alpha3": "CYP",
+    "bounds": "32.271,34.567,34.6,35.7",
     "countryCallingCodes": [
       "+357"
     ],
@@ -932,6 +989,7 @@
   {
     "alpha2": "CZ",
     "alpha3": "CZE",
+    "bounds": "",
     "countryCallingCodes": [
       "+420"
     ],
@@ -948,6 +1006,7 @@
   {
     "alpha2": "DE",
     "alpha3": "DEU",
+    "bounds": "5.867,45.967,15.033,55.133",
     "countryCallingCodes": [
       "+49"
     ],
@@ -964,6 +1023,7 @@
   {
     "alpha2": "DG",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "USD"
@@ -976,6 +1036,7 @@
   {
     "alpha2": "DJ",
     "alpha3": "DJI",
+    "bounds": "39.5,10.267,43.452,19",
     "countryCallingCodes": [
       "+253"
     ],
@@ -993,6 +1054,7 @@
   {
     "alpha2": "DK",
     "alpha3": "DNK",
+    "bounds": "4.517,53.583,18,64",
     "countryCallingCodes": [
       "+45"
     ],
@@ -1009,6 +1071,7 @@
   {
     "alpha2": "DM",
     "alpha3": "DMA",
+    "bounds": "-61.55,15.167,-61.25,15.633",
     "countryCallingCodes": [
       "+1 767"
     ],
@@ -1025,6 +1088,7 @@
   {
     "alpha2": "DO",
     "alpha3": "DOM",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 809",
       "+1 829",
@@ -1043,6 +1107,7 @@
   {
     "alpha2": "DZ",
     "alpha3": "DZA",
+    "bounds": "-8.7,18.027,70.554,37.203",
     "countryCallingCodes": [
       "+213"
     ],
@@ -1059,6 +1124,7 @@
   {
     "alpha2": "EA",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -1071,6 +1137,7 @@
   {
     "alpha2": "EC",
     "alpha3": "ECU",
+    "bounds": "-92,-4.967,-75.2,1.65",
     "countryCallingCodes": [
       "+593"
     ],
@@ -1088,6 +1155,7 @@
   {
     "alpha2": "EE",
     "alpha3": "EST",
+    "bounds": "21.781,57.521,28.883,59.983",
     "countryCallingCodes": [
       "+372"
     ],
@@ -1104,6 +1172,7 @@
   {
     "alpha2": "EG",
     "alpha3": "EGY",
+    "bounds": "13,5,37,50.861",
     "countryCallingCodes": [
       "+20"
     ],
@@ -1120,6 +1189,7 @@
   {
     "alpha2": "EH",
     "alpha3": "ESH",
+    "bounds": "",
     "countryCallingCodes": [
       "+212"
     ],
@@ -1134,6 +1204,7 @@
   {
     "alpha2": "ER",
     "alpha3": "ERI",
+    "bounds": "20,0,43.417,18.033",
     "countryCallingCodes": [
       "+291"
     ],
@@ -1152,6 +1223,7 @@
   {
     "alpha2": "ES",
     "alpha3": "ESP",
+    "bounds": "-18.167,27.633,6.033,44",
     "countryCallingCodes": [
       "+34"
     ],
@@ -1168,6 +1240,7 @@
   {
     "alpha2": "ET",
     "alpha3": "ETH",
+    "bounds": "33.017,3.233,47.783,19",
     "countryCallingCodes": [
       "+251"
     ],
@@ -1184,6 +1257,7 @@
   {
     "alpha2": "EU",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [
       "+388"
     ],
@@ -1198,6 +1272,7 @@
   {
     "alpha2": "FI",
     "alpha3": "FIN",
+    "bounds": "18,0,60.203,70.083",
     "countryCallingCodes": [
       "+358"
     ],
@@ -1215,6 +1290,7 @@
   {
     "alpha2": "FJ",
     "alpha3": "FJI",
+    "bounds": "-179.983,-45,180,-11.167",
     "countryCallingCodes": [
       "+679"
     ],
@@ -1232,6 +1308,7 @@
   {
     "alpha2": "FK",
     "alpha3": "FLK",
+    "bounds": "",
     "countryCallingCodes": [
       "+500"
     ],
@@ -1248,6 +1325,7 @@
   {
     "alpha2": "FM",
     "alpha3": "FSM",
+    "bounds": "",
     "countryCallingCodes": [
       "+691"
     ],
@@ -1264,6 +1342,7 @@
   {
     "alpha2": "FO",
     "alpha3": "FRO",
+    "bounds": "",
     "countryCallingCodes": [
       "+298"
     ],
@@ -1281,6 +1360,7 @@
   {
     "alpha2": "FR",
     "alpha3": "FRA",
+    "bounds": "-5.225,41.333,9.55,51.2",
     "countryCallingCodes": [
       "+33"
     ],
@@ -1297,6 +1377,7 @@
   {
     "alpha2": "FX",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [
       "+241"
     ],
@@ -1313,6 +1394,7 @@
   {
     "alpha2": "GA",
     "alpha3": "GAB",
+    "bounds": "8.7,-3.95,14.533,5.983",
     "countryCallingCodes": [
       "+241"
     ],
@@ -1329,6 +1411,7 @@
   {
     "alpha2": "GB",
     "alpha3": "GBR",
+    "bounds": "",
     "countryCallingCodes": [
       "+44"
     ],
@@ -1349,6 +1432,7 @@
   {
     "alpha2": "GD",
     "alpha3": "GRD",
+    "bounds": "-61.8,11.983,-61.25,12.667",
     "countryCallingCodes": [
       "+473"
     ],
@@ -1365,6 +1449,7 @@
   {
     "alpha2": "GE",
     "alpha3": "GEO",
+    "bounds": "40.009,41.15,46.659,43.582",
     "countryCallingCodes": [
       "+995"
     ],
@@ -1381,6 +1466,7 @@
   {
     "alpha2": "GF",
     "alpha3": "GUF",
+    "bounds": "",
     "countryCallingCodes": [
       "+594"
     ],
@@ -1397,6 +1483,7 @@
   {
     "alpha2": "GG",
     "alpha3": "GGY",
+    "bounds": "",
     "countryCallingCodes": [
       "+44"
     ],
@@ -1413,6 +1500,7 @@
   {
     "alpha2": "GH",
     "alpha3": "GHA",
+    "bounds": "-4,4.733,20,11.167",
     "countryCallingCodes": [
       "+233"
     ],
@@ -1429,6 +1517,7 @@
   {
     "alpha2": "GI",
     "alpha3": "GIB",
+    "bounds": "",
     "countryCallingCodes": [
       "+350"
     ],
@@ -1445,6 +1534,7 @@
   {
     "alpha2": "GL",
     "alpha3": "GRL",
+    "bounds": "",
     "countryCallingCodes": [
       "+299"
     ],
@@ -1461,6 +1551,7 @@
   {
     "alpha2": "GM",
     "alpha3": "GMB",
+    "bounds": "-16.817,5,20,13.817",
     "countryCallingCodes": [
       "+220"
     ],
@@ -1477,6 +1568,7 @@
   {
     "alpha2": "GN",
     "alpha3": "GIN",
+    "bounds": "-15.417,4.367,20,13.3",
     "countryCallingCodes": [
       "+224"
     ],
@@ -1493,6 +1585,7 @@
   {
     "alpha2": "GP",
     "alpha3": "GLP",
+    "bounds": "",
     "countryCallingCodes": [
       "+590"
     ],
@@ -1509,6 +1602,7 @@
   {
     "alpha2": "GQ",
     "alpha3": "GNQ",
+    "bounds": "",
     "countryCallingCodes": [
       "+240"
     ],
@@ -1527,6 +1621,7 @@
   {
     "alpha2": "GR",
     "alpha3": "GRC",
+    "bounds": "19.382,34.8,29.667,44",
     "countryCallingCodes": [
       "+30"
     ],
@@ -1543,6 +1638,7 @@
   {
     "alpha2": "GS",
     "alpha3": "SGS",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "GBP"
@@ -1557,6 +1653,7 @@
   {
     "alpha2": "GT",
     "alpha3": "GTM",
+    "bounds": "-92.583,13.749,-75,17.817",
     "countryCallingCodes": [
       "+502"
     ],
@@ -1573,6 +1670,7 @@
   {
     "alpha2": "GU",
     "alpha3": "GUM",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 671"
     ],
@@ -1589,6 +1687,7 @@
   {
     "alpha2": "GW",
     "alpha3": "GNB",
+    "bounds": "",
     "countryCallingCodes": [
       "+245"
     ],
@@ -1605,6 +1704,7 @@
   {
     "alpha2": "GY",
     "alpha3": "GUY",
+    "bounds": "-61.283,1.25,-56,8.433",
     "countryCallingCodes": [
       "+592"
     ],
@@ -1621,6 +1721,7 @@
   {
     "alpha2": "HK",
     "alpha3": "HKG",
+    "bounds": "",
     "countryCallingCodes": [
       "+852"
     ],
@@ -1638,6 +1739,7 @@
   {
     "alpha2": "HM",
     "alpha3": "HMD",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "AUD"
@@ -1650,6 +1752,7 @@
   {
     "alpha2": "HN",
     "alpha3": "HND",
+    "bounds": "-89.967,13,-75,17.45",
     "countryCallingCodes": [
       "+504"
     ],
@@ -1666,6 +1769,7 @@
   {
     "alpha2": "HR",
     "alpha3": "HRV",
+    "bounds": "13.484,42.367,19.391,46.527",
     "countryCallingCodes": [
       "+385"
     ],
@@ -1682,6 +1786,7 @@
   {
     "alpha2": "HT",
     "alpha3": "HTI",
+    "bounds": "-86,8.547,72.296,21",
     "countryCallingCodes": [
       "+509"
     ],
@@ -1700,6 +1805,7 @@
   {
     "alpha2": "HU",
     "alpha3": "HUN",
+    "bounds": "16.133,45.75,22.867,48.983",
     "countryCallingCodes": [
       "+36"
     ],
@@ -1716,6 +1822,7 @@
   {
     "alpha2": "IC",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -1728,6 +1835,7 @@
   {
     "alpha2": "ID",
     "alpha3": "IDN",
+    "bounds": "0,-11.983,141.033,15",
     "countryCallingCodes": [
       "+62"
     ],
@@ -1744,6 +1852,7 @@
   {
     "alpha2": "IE",
     "alpha3": "IRL",
+    "bounds": "-10.683,51.367,-4,55.433",
     "countryCallingCodes": [
       "+353"
     ],
@@ -1761,6 +1870,7 @@
   {
     "alpha2": "IL",
     "alpha3": "ISR",
+    "bounds": "34.282,29,35.667,33.286",
     "countryCallingCodes": [
       "+972"
     ],
@@ -1779,6 +1889,7 @@
   {
     "alpha2": "IM",
     "alpha3": "IMN",
+    "bounds": "",
     "countryCallingCodes": [
       "+44"
     ],
@@ -1796,6 +1907,7 @@
   {
     "alpha2": "IN",
     "alpha3": "IND",
+    "bounds": "65,6,97.35,35.956",
     "countryCallingCodes": [
       "+91"
     ],
@@ -1813,6 +1925,7 @@
   {
     "alpha2": "IO",
     "alpha3": "IOT",
+    "bounds": "",
     "countryCallingCodes": [
       "+246"
     ],
@@ -1829,6 +1942,7 @@
   {
     "alpha2": "IQ",
     "alpha3": "IRQ",
+    "bounds": "38.782,28.833,49.433,37.358",
     "countryCallingCodes": [
       "+964"
     ],
@@ -1846,6 +1960,7 @@
   {
     "alpha2": "IR",
     "alpha3": "IRN",
+    "bounds": "",
     "countryCallingCodes": [
       "+98"
     ],
@@ -1862,6 +1977,7 @@
   {
     "alpha2": "IS",
     "alpha3": "ISL",
+    "bounds": "-26,62,-6,67.117",
     "countryCallingCodes": [
       "+354"
     ],
@@ -1878,6 +1994,7 @@
   {
     "alpha2": "IT",
     "alpha3": "ITA",
+    "bounds": "1.133,28.969,54.824,49.2",
     "countryCallingCodes": [
       "+39"
     ],
@@ -1894,6 +2011,7 @@
   {
     "alpha2": "JE",
     "alpha3": "JEY",
+    "bounds": "",
     "countryCallingCodes": [
       "+44"
     ],
@@ -1911,6 +2029,7 @@
   {
     "alpha2": "JM",
     "alpha3": "JAM",
+    "bounds": "-78.667,15,-70,18.533",
     "countryCallingCodes": [
       "+1 876"
     ],
@@ -1927,6 +2046,7 @@
   {
     "alpha2": "JO",
     "alpha3": "JOR",
+    "bounds": "34.783,29,39.1,33.333",
     "countryCallingCodes": [
       "+962"
     ],
@@ -1943,6 +2063,7 @@
   {
     "alpha2": "JP",
     "alpha3": "JPN",
+    "bounds": "122.933,20.417,156.067,50.617",
     "countryCallingCodes": [
       "+81"
     ],
@@ -1959,6 +2080,7 @@
   {
     "alpha2": "KE",
     "alpha3": "KEN",
+    "bounds": "24.283,-5.083,41.878,4.883",
     "countryCallingCodes": [
       "+254"
     ],
@@ -1976,6 +2098,7 @@
   {
     "alpha2": "KG",
     "alpha3": "KGZ",
+    "bounds": "69.333,39.183,80.116,43.833",
     "countryCallingCodes": [
       "+996"
     ],
@@ -1992,6 +2115,7 @@
   {
     "alpha2": "KH",
     "alpha3": "KHM",
+    "bounds": "14.869,9.917,107.567,17.483",
     "countryCallingCodes": [
       "+855"
     ],
@@ -2008,6 +2132,7 @@
   {
     "alpha2": "KI",
     "alpha3": "KIR",
+    "bounds": "-179.217,-45,180,30",
     "countryCallingCodes": [
       "+686"
     ],
@@ -2024,6 +2149,7 @@
   {
     "alpha2": "KM",
     "alpha3": "COM",
+    "bounds": "43.067,-13,45.317,-11.35",
     "countryCallingCodes": [
       "+269"
     ],
@@ -2041,6 +2167,7 @@
   {
     "alpha2": "KN",
     "alpha3": "KNA",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 869"
     ],
@@ -2057,6 +2184,7 @@
   {
     "alpha2": "KP",
     "alpha3": "PRK",
+    "bounds": "",
     "countryCallingCodes": [
       "+850"
     ],
@@ -2073,6 +2201,7 @@
   {
     "alpha2": "KR",
     "alpha3": "KOR",
+    "bounds": "",
     "countryCallingCodes": [
       "+82"
     ],
@@ -2089,6 +2218,7 @@
   {
     "alpha2": "KW",
     "alpha3": "KWT",
+    "bounds": "45,25,49.411,30.083",
     "countryCallingCodes": [
       "+965"
     ],
@@ -2105,6 +2235,7 @@
   {
     "alpha2": "KY",
     "alpha3": "CYM",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 345"
     ],
@@ -2121,6 +2252,7 @@
   {
     "alpha2": "KZ",
     "alpha3": "KAZ",
+    "bounds": "46.583,40.417,90,55.428",
     "countryCallingCodes": [
       "+7",
       "+7 6",
@@ -2140,6 +2272,7 @@
   {
     "alpha2": "LA",
     "alpha3": "LAO",
+    "bounds": "",
     "countryCallingCodes": [
       "+856"
     ],
@@ -2156,6 +2289,7 @@
   {
     "alpha2": "LB",
     "alpha3": "LBN",
+    "bounds": "35.104,33.067,36.623,34.691",
     "countryCallingCodes": [
       "+961"
     ],
@@ -2173,6 +2307,7 @@
   {
     "alpha2": "LC",
     "alpha3": "LCA",
+    "bounds": "-61.083,13.5,-60.867,14.15",
     "countryCallingCodes": [
       "+1 758"
     ],
@@ -2189,6 +2324,7 @@
   {
     "alpha2": "LI",
     "alpha3": "LIE",
+    "bounds": "",
     "countryCallingCodes": [
       "+423"
     ],
@@ -2205,6 +2341,7 @@
   {
     "alpha2": "LK",
     "alpha3": "LKA",
+    "bounds": "75,5.9,81.917,10.083",
     "countryCallingCodes": [
       "+94"
     ],
@@ -2222,6 +2359,7 @@
   {
     "alpha2": "LR",
     "alpha3": "LBR",
+    "bounds": "-11.598,4.328,-4,9.5",
     "countryCallingCodes": [
       "+231"
     ],
@@ -2238,6 +2376,7 @@
   {
     "alpha2": "LS",
     "alpha3": "LSO",
+    "bounds": "24,-30.667,29.483,-28.567",
     "countryCallingCodes": [
       "+266"
     ],
@@ -2256,6 +2395,7 @@
   {
     "alpha2": "LT",
     "alpha3": "LTU",
+    "bounds": "20.991,53,28.233,56.467",
     "countryCallingCodes": [
       "+370"
     ],
@@ -2272,6 +2412,7 @@
   {
     "alpha2": "LU",
     "alpha3": "LUX",
+    "bounds": "5.743,49.45,6.517,50.182",
     "countryCallingCodes": [
       "+352"
     ],
@@ -2290,6 +2431,7 @@
   {
     "alpha2": "LV",
     "alpha3": "LVA",
+    "bounds": "20.967,55.667,28.233,58.067",
     "countryCallingCodes": [
       "+371"
     ],
@@ -2306,6 +2448,7 @@
   {
     "alpha2": "LY",
     "alpha3": "LBY",
+    "bounds": "5,20.25,25.5,33.15",
     "countryCallingCodes": [
       "+218"
     ],
@@ -2322,6 +2465,7 @@
   {
     "alpha2": "MA",
     "alpha3": "MAR",
+    "bounds": "-13.1,3.36,9.542,36.61",
     "countryCallingCodes": [
       "+212"
     ],
@@ -2338,6 +2482,7 @@
   {
     "alpha2": "MC",
     "alpha3": "MCO",
+    "bounds": "7.4,43.717,7.439,43.746",
     "countryCallingCodes": [
       "+377"
     ],
@@ -2354,6 +2499,7 @@
   {
     "alpha2": "MD",
     "alpha3": "MDA",
+    "bounds": "26.672,45.482,30.096,48.467",
     "countryCallingCodes": [
       "+373"
     ],
@@ -2370,6 +2516,7 @@
   {
     "alpha2": "ME",
     "alpha3": "MNE",
+    "bounds": "18.438,41.864,20.345,43.548",
     "countryCallingCodes": [
       "+382"
     ],
@@ -2386,6 +2533,7 @@
   {
     "alpha2": "MF",
     "alpha3": "MAF",
+    "bounds": "",
     "countryCallingCodes": [
       "+590"
     ],
@@ -2402,6 +2550,7 @@
   {
     "alpha2": "MG",
     "alpha3": "MDG",
+    "bounds": "42.4,-25.9,50.483,-11.95",
     "countryCallingCodes": [
       "+261"
     ],
@@ -2419,6 +2568,7 @@
   {
     "alpha2": "MH",
     "alpha3": "MHL",
+    "bounds": "",
     "countryCallingCodes": [
       "+692"
     ],
@@ -2436,6 +2586,7 @@
   {
     "alpha2": "MK",
     "alpha3": "MKD",
+    "bounds": "",
     "countryCallingCodes": [
       "+389"
     ],
@@ -2452,6 +2603,7 @@
   {
     "alpha2": "ML",
     "alpha3": "MLI",
+    "bounds": "-13.75,4.318,20,26",
     "countryCallingCodes": [
       "+223"
     ],
@@ -2468,6 +2620,7 @@
   {
     "alpha2": "MM",
     "alpha3": "MMR",
+    "bounds": "",
     "countryCallingCodes": [
       "+95"
     ],
@@ -2484,6 +2637,7 @@
   {
     "alpha2": "MN",
     "alpha3": "MNG",
+    "bounds": "87.783,41.55,119.917,52.1",
     "countryCallingCodes": [
       "+976"
     ],
@@ -2500,6 +2654,7 @@
   {
     "alpha2": "MO",
     "alpha3": "MAC",
+    "bounds": "",
     "countryCallingCodes": [
       "+853"
     ],
@@ -2517,6 +2672,7 @@
   {
     "alpha2": "MP",
     "alpha3": "MNP",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 670"
     ],
@@ -2533,6 +2689,7 @@
   {
     "alpha2": "MQ",
     "alpha3": "MTQ",
+    "bounds": "",
     "countryCallingCodes": [
       "+596"
     ],
@@ -2547,6 +2704,7 @@
   {
     "alpha2": "MR",
     "alpha3": "MRT",
+    "bounds": "-17.117,10,20,27.117",
     "countryCallingCodes": [
       "+222"
     ],
@@ -2564,6 +2722,7 @@
   {
     "alpha2": "MS",
     "alpha3": "MSR",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 664"
     ],
@@ -2578,6 +2737,7 @@
   {
     "alpha2": "MT",
     "alpha3": "MLT",
+    "bounds": "14.184,35.782,15,36.333",
     "countryCallingCodes": [
       "+356"
     ],
@@ -2595,6 +2755,7 @@
   {
     "alpha2": "MU",
     "alpha3": "MUS",
+    "bounds": "56.567,-20.522,73.567,10.4",
     "countryCallingCodes": [
       "+230"
     ],
@@ -2612,6 +2773,7 @@
   {
     "alpha2": "MV",
     "alpha3": "MDV",
+    "bounds": "61.5,-10.5,75,20",
     "countryCallingCodes": [
       "+960"
     ],
@@ -2628,6 +2790,7 @@
   {
     "alpha2": "MW",
     "alpha3": "MWI",
+    "bounds": "32.717,-17.15,37,-5",
     "countryCallingCodes": [
       "+265"
     ],
@@ -2645,6 +2808,7 @@
   {
     "alpha2": "MX",
     "alpha3": "MEX",
+    "bounds": "-119.922,0,110.75,45",
     "countryCallingCodes": [
       "+52"
     ],
@@ -2662,6 +2826,7 @@
   {
     "alpha2": "MY",
     "alpha3": "MYS",
+    "bounds": "98.933,0,124.125,15",
     "countryCallingCodes": [
       "+60"
     ],
@@ -2679,6 +2844,7 @@
   {
     "alpha2": "MZ",
     "alpha3": "MOZ",
+    "bounds": "4.017,-26.867,43,15.033",
     "countryCallingCodes": [
       "+258"
     ],
@@ -2695,6 +2861,7 @@
   {
     "alpha2": "NA",
     "alpha3": "NAM",
+    "bounds": "11.75,-32,36.283,-16.983",
     "countryCallingCodes": [
       "+264"
     ],
@@ -2712,6 +2879,7 @@
   {
     "alpha2": "NC",
     "alpha3": "NCL",
+    "bounds": "",
     "countryCallingCodes": [
       "+687"
     ],
@@ -2728,6 +2896,7 @@
   {
     "alpha2": "NE",
     "alpha3": "NER",
+    "bounds": "0.183,1.617,20,26",
     "countryCallingCodes": [
       "+227"
     ],
@@ -2744,6 +2913,7 @@
   {
     "alpha2": "NF",
     "alpha3": "NFK",
+    "bounds": "",
     "countryCallingCodes": [
       "+672"
     ],
@@ -2760,6 +2930,7 @@
   {
     "alpha2": "NG",
     "alpha3": "NGA",
+    "bounds": "2.483,3.883,20,13.867",
     "countryCallingCodes": [
       "+234"
     ],
@@ -2776,6 +2947,7 @@
   {
     "alpha2": "NI",
     "alpha3": "NIC",
+    "bounds": "-87.7,0,0,15",
     "countryCallingCodes": [
       "+505"
     ],
@@ -2792,6 +2964,7 @@
   {
     "alpha2": "NL",
     "alpha3": "NLD",
+    "bounds": "3.133,50.75,7.217,53.683",
     "countryCallingCodes": [
       "+31"
     ],
@@ -2808,6 +2981,7 @@
   {
     "alpha2": "NO",
     "alpha3": "NOR",
+    "bounds": "2.553,56.15,31.833,71.5",
     "countryCallingCodes": [
       "+47"
     ],
@@ -2824,6 +2998,7 @@
   {
     "alpha2": "NP",
     "alpha3": "NPL",
+    "bounds": "80,25.767,88.183,30.45",
     "countryCallingCodes": [
       "+977"
     ],
@@ -2840,6 +3015,7 @@
   {
     "alpha2": "NR",
     "alpha3": "NRU",
+    "bounds": "166.917,-0.55,166.95,-0.5",
     "countryCallingCodes": [
       "+674"
     ],
@@ -2857,6 +3033,7 @@
   {
     "alpha2": "NU",
     "alpha3": "NIU",
+    "bounds": "",
     "countryCallingCodes": [
       "+683"
     ],
@@ -2873,6 +3050,7 @@
   {
     "alpha2": "NZ",
     "alpha3": "NZL",
+    "bounds": "-179,-52.617,179.067,36.783",
     "countryCallingCodes": [
       "+64"
     ],
@@ -2889,6 +3067,7 @@
   {
     "alpha2": "OM",
     "alpha3": "OMN",
+    "bounds": "5.1,15.083,65,26.567",
     "countryCallingCodes": [
       "+968"
     ],
@@ -2905,6 +3084,7 @@
   {
     "alpha2": "PA",
     "alpha3": "PAN",
+    "bounds": "-83.65,7.2,-8.433,15",
     "countryCallingCodes": [
       "+507"
     ],
@@ -2922,6 +3102,7 @@
   {
     "alpha2": "PE",
     "alpha3": "PER",
+    "bounds": "-81.458,-18.357,74.35,11.371",
     "countryCallingCodes": [
       "+51"
     ],
@@ -2940,6 +3121,7 @@
   {
     "alpha2": "PF",
     "alpha3": "PYF",
+    "bounds": "",
     "countryCallingCodes": [
       "+689"
     ],
@@ -2956,6 +3138,7 @@
   {
     "alpha2": "PG",
     "alpha3": "PNG",
+    "bounds": "",
     "countryCallingCodes": [
       "+675"
     ],
@@ -2972,6 +3155,7 @@
   {
     "alpha2": "PH",
     "alpha3": "PHL",
+    "bounds": "63.295,4.444,130.5,34.434",
     "countryCallingCodes": [
       "+63"
     ],
@@ -2988,6 +3172,7 @@
   {
     "alpha2": "PK",
     "alpha3": "PAK",
+    "bounds": "17.899,23.733,77.8,43.713",
     "countryCallingCodes": [
       "+92"
     ],
@@ -3005,6 +3190,7 @@
   {
     "alpha2": "PL",
     "alpha3": "POL",
+    "bounds": "-21.583,45.5,26.5,55.183",
     "countryCallingCodes": [
       "+48"
     ],
@@ -3021,6 +3207,7 @@
   {
     "alpha2": "PM",
     "alpha3": "SPM",
+    "bounds": "",
     "countryCallingCodes": [
       "+508"
     ],
@@ -3037,6 +3224,7 @@
   {
     "alpha2": "PN",
     "alpha3": "PCN",
+    "bounds": "",
     "countryCallingCodes": [
       "+872"
     ],
@@ -3053,6 +3241,7 @@
   {
     "alpha2": "PR",
     "alpha3": "PRI",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 787",
       "+1 939"
@@ -3071,6 +3260,7 @@
   {
     "alpha2": "PS",
     "alpha3": "PSE",
+    "bounds": "",
     "countryCallingCodes": [
       "+970"
     ],
@@ -3089,6 +3279,7 @@
   {
     "alpha2": "PT",
     "alpha3": "PRT",
+    "bounds": "-73.15,8.496,8.683,42.15",
     "countryCallingCodes": [
       "+351"
     ],
@@ -3105,6 +3296,7 @@
   {
     "alpha2": "PW",
     "alpha3": "PLW",
+    "bounds": "131.175,2.874,134.716,8.342",
     "countryCallingCodes": [
       "+680"
     ],
@@ -3121,6 +3313,7 @@
   {
     "alpha2": "PY",
     "alpha3": "PRY",
+    "bounds": "-62.633,-27.55,-54.267,-19.317",
     "countryCallingCodes": [
       "+595"
     ],
@@ -3137,6 +3330,7 @@
   {
     "alpha2": "QA",
     "alpha3": "QAT",
+    "bounds": "50.644,24.285,52.75,26.441",
     "countryCallingCodes": [
       "+974"
     ],
@@ -3153,6 +3347,7 @@
   {
     "alpha2": "RE",
     "alpha3": "REU",
+    "bounds": "",
     "countryCallingCodes": [
       "+262"
     ],
@@ -3169,6 +3364,7 @@
   {
     "alpha2": "RO",
     "alpha3": "ROU",
+    "bounds": "19,43.517,29.967,48.25",
     "countryCallingCodes": [
       "+40"
     ],
@@ -3185,6 +3381,7 @@
   {
     "alpha2": "RS",
     "alpha3": "SRB",
+    "bounds": "18.859,41.844,22.967,46.167",
     "countryCallingCodes": [
       "+381"
     ],
@@ -3201,6 +3398,7 @@
   {
     "alpha2": "RU",
     "alpha3": "RUS",
+    "bounds": "",
     "countryCallingCodes": [
       "+7",
       "+7 3",
@@ -3220,6 +3418,7 @@
   {
     "alpha2": "RW",
     "alpha3": "RWA",
+    "bounds": "28.867,-3.317,37,5",
     "countryCallingCodes": [
       "+250"
     ],
@@ -3238,6 +3437,7 @@
   {
     "alpha2": "SA",
     "alpha3": "SAU",
+    "bounds": "24.08,5,55.5,48.555",
     "countryCallingCodes": [
       "+966"
     ],
@@ -3254,6 +3454,7 @@
   {
     "alpha2": "SB",
     "alpha3": "SLB",
+    "bounds": "",
     "countryCallingCodes": [
       "+677"
     ],
@@ -3270,6 +3471,7 @@
   {
     "alpha2": "SC",
     "alpha3": "SYC",
+    "bounds": "20.462,-10.217,57.083,42.641",
     "countryCallingCodes": [
       "+248"
     ],
@@ -3287,6 +3489,7 @@
   {
     "alpha2": "SD",
     "alpha3": "SDN",
+    "bounds": "18.783,3.517,38.833,27.167",
     "countryCallingCodes": [
       "+249"
     ],
@@ -3304,6 +3507,7 @@
   {
     "alpha2": "SE",
     "alpha3": "SWE",
+    "bounds": "1.3,16.693,60.717,69.033",
     "countryCallingCodes": [
       "+46"
     ],
@@ -3320,6 +3524,7 @@
   {
     "alpha2": "SG",
     "alpha3": "SGP",
+    "bounds": "101.333,1.083,104.412,4",
     "countryCallingCodes": [
       "+65"
     ],
@@ -3339,6 +3544,7 @@
   {
     "alpha2": "SH",
     "alpha3": "SHN",
+    "bounds": "",
     "countryCallingCodes": [
       "+290"
     ],
@@ -3355,6 +3561,7 @@
   {
     "alpha2": "SI",
     "alpha3": "SVN",
+    "bounds": "13.427,44.083,17.467,46.933",
     "countryCallingCodes": [
       "+386"
     ],
@@ -3371,6 +3578,7 @@
   {
     "alpha2": "SJ",
     "alpha3": "SJM",
+    "bounds": "",
     "countryCallingCodes": [
       "+47"
     ],
@@ -3385,6 +3593,7 @@
   {
     "alpha2": "SK",
     "alpha3": "SVK",
+    "bounds": "16.967,45.5,26.5,49.85",
     "countryCallingCodes": [
       "+421"
     ],
@@ -3401,6 +3610,7 @@
   {
     "alpha2": "SL",
     "alpha3": "SLE",
+    "bounds": "-13.417,5,-4,10",
     "countryCallingCodes": [
       "+232"
     ],
@@ -3417,6 +3627,7 @@
   {
     "alpha2": "SM",
     "alpha3": "SMR",
+    "bounds": "12.417,43.908,12.5,43.983",
     "countryCallingCodes": [
       "+378"
     ],
@@ -3433,6 +3644,7 @@
   {
     "alpha2": "SN",
     "alpha3": "SEN",
+    "bounds": "-17.683,12.267,-11.357,16.681",
     "countryCallingCodes": [
       "+221"
     ],
@@ -3449,6 +3661,7 @@
   {
     "alpha2": "SO",
     "alpha3": "SOM",
+    "bounds": "20,-1.659,65,20",
     "countryCallingCodes": [
       "+252"
     ],
@@ -3465,6 +3678,7 @@
   {
     "alpha2": "SR",
     "alpha3": "SUR",
+    "bounds": "-60,2,-53.967,6.017",
     "countryCallingCodes": [
       "+597"
     ],
@@ -3481,6 +3695,7 @@
   {
     "alpha2": "SS",
     "alpha3": "SSD",
+    "bounds": "",
     "countryCallingCodes": [
       "+211"
     ],
@@ -3497,6 +3712,7 @@
   {
     "alpha2": "ST",
     "alpha3": "STP",
+    "bounds": "",
     "countryCallingCodes": [
       "+239"
     ],
@@ -3513,6 +3729,7 @@
   {
     "alpha2": "SU",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "RUB"
@@ -3527,6 +3744,7 @@
   {
     "alpha2": "SV",
     "alpha3": "SLV",
+    "bounds": "-90.184,13.15,-87.644,14.45",
     "countryCallingCodes": [
       "+503"
     ],
@@ -3543,6 +3761,7 @@
   {
     "alpha2": "SX",
     "alpha3": "SXM",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 721"
     ],
@@ -3559,6 +3778,7 @@
   {
     "alpha2": "SY",
     "alpha3": "SYR",
+    "bounds": "",
     "countryCallingCodes": [
       "+963"
     ],
@@ -3575,6 +3795,7 @@
   {
     "alpha2": "SZ",
     "alpha3": "SWZ",
+    "bounds": "30.35,-27.417,32.333,-25.75",
     "countryCallingCodes": [
       "+268"
     ],
@@ -3592,6 +3813,7 @@
   {
     "alpha2": "TA",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [
       "+290"
     ],
@@ -3606,6 +3828,7 @@
   {
     "alpha2": "TC",
     "alpha3": "TCA",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 649"
     ],
@@ -3622,6 +3845,7 @@
   {
     "alpha2": "TD",
     "alpha3": "TCD",
+    "bounds": "2,7.483,27.133,26",
     "countryCallingCodes": [
       "+235"
     ],
@@ -3639,6 +3863,7 @@
   {
     "alpha2": "TF",
     "alpha3": "ATF",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -3653,6 +3878,7 @@
   {
     "alpha2": "TG",
     "alpha3": "TGO",
+    "bounds": "-4,5,20,11.133",
     "countryCallingCodes": [
       "+228"
     ],
@@ -3669,6 +3895,7 @@
   {
     "alpha2": "TH",
     "alpha3": "THA",
+    "bounds": "95,4.15,139.183,20.445",
     "countryCallingCodes": [
       "+66"
     ],
@@ -3685,6 +3912,7 @@
   {
     "alpha2": "TJ",
     "alpha3": "TJK",
+    "bounds": "67.417,36.717,75,40.933",
     "countryCallingCodes": [
       "+992"
     ],
@@ -3702,6 +3930,7 @@
   {
     "alpha2": "TK",
     "alpha3": "TKL",
+    "bounds": "",
     "countryCallingCodes": [
       "+690"
     ],
@@ -3718,6 +3947,7 @@
   {
     "alpha2": "TL",
     "alpha3": "TLS",
+    "bounds": "",
     "countryCallingCodes": [
       "+670"
     ],
@@ -3734,6 +3964,7 @@
   {
     "alpha2": "TM",
     "alpha3": "TKM",
+    "bounds": "52.117,35.212,66.65,42.633",
     "countryCallingCodes": [
       "+993"
     ],
@@ -3751,6 +3982,7 @@
   {
     "alpha2": "TN",
     "alpha3": "TUN",
+    "bounds": "4,23.717,13,37.667",
     "countryCallingCodes": [
       "+216"
     ],
@@ -3767,6 +3999,7 @@
   {
     "alpha2": "TO",
     "alpha3": "TON",
+    "bounds": "-179.117,-45,180,0",
     "countryCallingCodes": [
       "+676"
     ],
@@ -3783,6 +4016,7 @@
   {
     "alpha2": "TR",
     "alpha3": "TUR",
+    "bounds": "25,35.819,44.85,42.1",
     "countryCallingCodes": [
       "+90"
     ],
@@ -3799,6 +4033,7 @@
   {
     "alpha2": "TT",
     "alpha3": "TTO",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 868"
     ],
@@ -3815,6 +4050,7 @@
   {
     "alpha2": "TV",
     "alpha3": "TUV",
+    "bounds": "176.1,-10.75,179.883,-5.65",
     "countryCallingCodes": [
       "+688"
     ],
@@ -3831,6 +4067,7 @@
   {
     "alpha2": "TW",
     "alpha3": "TWN",
+    "bounds": "118.115,21,125,29",
     "countryCallingCodes": [
       "+886"
     ],
@@ -3847,6 +4084,7 @@
   {
     "alpha2": "TZ",
     "alpha3": "TZA",
+    "bounds": "",
     "countryCallingCodes": [
       "+255"
     ],
@@ -3864,6 +4102,7 @@
   {
     "alpha2": "UA",
     "alpha3": "UKR",
+    "bounds": "18.85,37.8,76.1,64.95",
     "countryCallingCodes": [
       "+380"
     ],
@@ -3881,6 +4120,7 @@
   {
     "alpha2": "UG",
     "alpha3": "UGA",
+    "bounds": "29.467,-1.483,34.967,4.55",
     "countryCallingCodes": [
       "+256"
     ],
@@ -3898,6 +4138,7 @@
   {
     "alpha2": "UK",
     "alpha3": "",
+    "bounds": "",
     "countryCallingCodes": [],
     "currencies": [
       "GBP"
@@ -3916,6 +4157,7 @@
   {
     "alpha2": "UM",
     "alpha3": "UMI",
+    "bounds": "",
     "countryCallingCodes": [
       "+1"
     ],
@@ -3932,6 +4174,7 @@
   {
     "alpha2": "US",
     "alpha3": "USA",
+    "bounds": "",
     "countryCallingCodes": [
       "+1"
     ],
@@ -3948,6 +4191,7 @@
   {
     "alpha2": "UY",
     "alpha3": "URY",
+    "bounds": "-58.5,-35.783,-51.283,-30.117",
     "countryCallingCodes": [
       "+598"
     ],
@@ -3965,6 +4209,7 @@
   {
     "alpha2": "UZ",
     "alpha3": "UZB",
+    "bounds": "44.517,35.267,92.2,66.15",
     "countryCallingCodes": [
       "+998"
     ],
@@ -3982,6 +4227,7 @@
   {
     "alpha2": "VA",
     "alpha3": "VAT",
+    "bounds": "",
     "countryCallingCodes": [
       "+379",
       "+39"
@@ -3999,6 +4245,7 @@
   {
     "alpha2": "VC",
     "alpha3": "VCT",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 784"
     ],
@@ -4015,6 +4262,7 @@
   {
     "alpha2": "VE",
     "alpha3": "VEN",
+    "bounds": "",
     "countryCallingCodes": [
       "+58"
     ],
@@ -4031,6 +4279,7 @@
   {
     "alpha2": "VG",
     "alpha3": "VGB",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 284"
     ],
@@ -4047,6 +4296,7 @@
   {
     "alpha2": "VI",
     "alpha3": "VIR",
+    "bounds": "",
     "countryCallingCodes": [
       "+1 340"
     ],
@@ -4063,6 +4313,7 @@
   {
     "alpha2": "VN",
     "alpha3": "VNM",
+    "bounds": "",
     "countryCallingCodes": [
       "+84"
     ],
@@ -4079,6 +4330,7 @@
   {
     "alpha2": "VU",
     "alpha3": "VUT",
+    "bounds": "-130,-45,180,0",
     "countryCallingCodes": [
       "+678"
     ],
@@ -4097,6 +4349,7 @@
   {
     "alpha2": "WF",
     "alpha3": "WLF",
+    "bounds": "",
     "countryCallingCodes": [
       "+681"
     ],
@@ -4113,6 +4366,7 @@
   {
     "alpha2": "WS",
     "alpha3": "WSM",
+    "bounds": "-172.867,-14.05,-171,-13.417",
     "countryCallingCodes": [
       "+685"
     ],
@@ -4130,6 +4384,7 @@
   {
     "alpha2": "YE",
     "alpha3": "YEM",
+    "bounds": "39.5,12.1,65,27.695",
     "countryCallingCodes": [
       "+967"
     ],
@@ -4146,6 +4401,7 @@
   {
     "alpha2": "YT",
     "alpha3": "MYT",
+    "bounds": "",
     "countryCallingCodes": [
       "+262"
     ],
@@ -4162,6 +4418,7 @@
   {
     "alpha2": "ZA",
     "alpha3": "ZAF",
+    "bounds": "16.45,-35.5,33.533,-22.133",
     "countryCallingCodes": [
       "+27"
     ],
@@ -4185,6 +4442,7 @@
   {
     "alpha2": "ZM",
     "alpha3": "ZMB",
+    "bounds": "2.983,-18.05,39.283,5",
     "countryCallingCodes": [
       "+260"
     ],
@@ -4201,6 +4459,7 @@
   {
     "alpha2": "ZW",
     "alpha3": "ZWE",
+    "bounds": "18,-32,33.8,-13.633",
     "countryCallingCodes": [
       "+263"
     ],
