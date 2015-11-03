@@ -34,9 +34,13 @@ parser.on('finish', function(){
   });
 
   // change the appropriate fields to be an array
-  _.each(['currencies', 'countryCallingCodes', 'languages'], function(key) {
+  _.each(['currencies', 'countryCallingCodes', 'languages', 'bounds', 'subunits'], function(key) {
     _.each(output, function (country) {
-      country[key] = country[key] ? country[key].split(',') : [];
+      country[key] = country[key] ? (
+         key == 'bounds' ?
+         country[key].split(';').map(function(b) { return b.split(',').map(function(v) { if ( key == 'bounds' ) return parseFloat(v); return v; }) })
+         : country[key].split(',') ) : [];
+      if ( key == 'bounds' && country[key].length === 1 ) country[key] = country[key][0]
     });
   });
 

@@ -2,6 +2,7 @@
   {
     "alpha2": "AC",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [
       "+247"
     ],
@@ -13,11 +14,18 @@
       "eng"
     ],
     "name": "Ascension Island",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "AD",
     "alpha3": "AND",
+    "bounds": [
+      1.41484375,
+      42.4344726562,
+      1.740234375,
+      42.6427246094
+    ],
     "countryCallingCodes": [
       "+376"
     ],
@@ -29,11 +37,18 @@
       "cat"
     ],
     "name": "Andorra",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AE",
     "alpha3": "ARE",
+    "bounds": [
+      51.568359375,
+      22.621484375,
+      56.3879882813,
+      26.0681640625
+    ],
     "countryCallingCodes": [
       "+971"
     ],
@@ -45,11 +60,18 @@
       "ara"
     ],
     "name": "United Arab Emirates",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AF",
     "alpha3": "AFG",
+    "bounds": [
+      60.4857421875,
+      29.3919433594,
+      74.8913085938,
+      38.4563964844
+    ],
     "countryCallingCodes": [
       "+93"
     ],
@@ -61,11 +83,26 @@
       "pus"
     ],
     "name": "Afghanistan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AG",
     "alpha3": "ATG",
+    "bounds": [
+      [
+        -61.86875,
+        17.5486816406,
+        -61.7471191406,
+        17.7140625
+      ],
+      [
+        -61.887109375,
+        16.9971679687,
+        -61.6860351562,
+        17.1689453125
+      ]
+    ],
     "countryCallingCodes": [
       "+1 268"
     ],
@@ -77,11 +114,21 @@
       "eng"
     ],
     "name": "Antigua And Barbuda",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Barbuda",
+      "Antigua"
+    ]
   },
   {
     "alpha2": "AI",
     "alpha3": "AIA",
+    "bounds": [
+      -63.1600097656,
+      18.1713867188,
+      -62.9795898437,
+      18.2697265625
+    ],
     "countryCallingCodes": [
       "+1 264"
     ],
@@ -93,11 +140,18 @@
       "eng"
     ],
     "name": "Anguilla",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AL",
     "alpha3": "ALB",
+    "bounds": [
+      19.2806640625,
+      39.653515625,
+      21.0310546875,
+      42.6479492188
+    ],
     "countryCallingCodes": [
       "+355"
     ],
@@ -109,11 +163,18 @@
       "sqi"
     ],
     "name": "Albania",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AM",
     "alpha3": "ARM",
+    "bounds": [
+      43.439453125,
+      38.8690429688,
+      46.584765625,
+      41.2909667969
+    ],
     "countryCallingCodes": [
       "+374"
     ],
@@ -126,11 +187,18 @@
       "rus"
     ],
     "name": "Armenia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AO",
     "alpha3": "AGO",
+    "bounds": [
+      11.7430664063,
+      -18.0197265625,
+      24.0466796875,
+      -4.42890625
+    ],
     "countryCallingCodes": [
       "+244"
     ],
@@ -142,11 +210,38 @@
       "por"
     ],
     "name": "Angola",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AQ",
     "alpha3": "ATA",
+    "bounds": [
+      [
+        5.68434188608,
+        -89.9989257812,
+        180,
+        -65.1296875
+      ],
+      [
+        -90.6520507812,
+        -68.8032226562,
+        -90.5146972656,
+        -68.712109375
+      ],
+      [
+        -45.9562988281,
+        -60.7330078125,
+        -45.1728515625,
+        -60.5208984375
+      ],
+      [
+        -180,
+        -89.9989257812,
+        -0.1845703125,
+        -61.07265625
+      ]
+    ],
     "countryCallingCodes": [
       "+672"
     ],
@@ -154,11 +249,23 @@
     "ioc": "",
     "languages": [],
     "name": "Antarctica",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Antarctica",
+      "Peter I I.",
+      "S. Orkney Is.",
+      "Antarctica"
+    ]
   },
   {
     "alpha2": "AR",
     "alpha3": "ARG",
+    "bounds": [
+      -73.5762695312,
+      -55.0321289062,
+      -53.6685546875,
+      -21.8025390625
+    ],
     "countryCallingCodes": [
       "+54"
     ],
@@ -170,11 +277,18 @@
       "spa"
     ],
     "name": "Argentina",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AS",
     "alpha3": "ASM",
+    "bounds": [
+      -170.820507813,
+      -14.359765625,
+      -170.568115234,
+      -14.257421875
+    ],
     "countryCallingCodes": [
       "+1 684"
     ],
@@ -187,11 +301,18 @@
       "smo"
     ],
     "name": "American Samoa",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AT",
     "alpha3": "AUT",
+    "bounds": [
+      9.5240234375,
+      46.3997070312,
+      17.1473632813,
+      49.0011230469
+    ],
     "countryCallingCodes": [
       "+43"
     ],
@@ -203,11 +324,38 @@
       "deu"
     ],
     "name": "Austria",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AU",
     "alpha3": "AUS",
+    "bounds": [
+      [
+        123.572460938,
+        -12.4359375,
+        123.595214844,
+        -12.4239257813
+      ],
+      [
+        143.838574219,
+        -43.6193359375,
+        148.47421875,
+        -39.5801757813
+      ],
+      [
+        158.8359375,
+        -54.74921875,
+        158.958886719,
+        -54.4723632813
+      ],
+      [
+        112.908203125,
+        -39.1455078125,
+        153.616894531,
+        -10.0517578125
+      ]
+    ],
     "countryCallingCodes": [
       "+61"
     ],
@@ -219,11 +367,23 @@
       "eng"
     ],
     "name": "Australia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Ashmore and Cartier Is.",
+      "Tasmania",
+      "Macquarie I.",
+      "Australia"
+    ]
   },
   {
     "alpha2": "AW",
     "alpha3": "ABW",
+    "bounds": [
+      -70.0661132812,
+      12.4229980469,
+      -69.895703125,
+      12.6141113281
+    ],
     "countryCallingCodes": [
       "+297"
     ],
@@ -235,11 +395,18 @@
       "nld"
     ],
     "name": "Aruba",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AX",
     "alpha3": "ALA",
+    "bounds": [
+      19.5190429688,
+      60.0116699219,
+      20.611328125,
+      60.4058105469
+    ],
     "countryCallingCodes": [
       "+358"
     ],
@@ -251,11 +418,18 @@
       "swe"
     ],
     "name": "Åland Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "AZ",
     "alpha3": "AZE",
+    "bounds": [
+      44.7682617188,
+      38.3987304687,
+      50.3659179688,
+      41.8909667969
+    ],
     "countryCallingCodes": [
       "+994"
     ],
@@ -267,11 +441,26 @@
       "aze"
     ],
     "name": "Azerbaijan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BA",
     "alpha3": "BIH",
+    "bounds": [
+      [
+        16.2263671875,
+        42.5597167969,
+        19.5837890625,
+        45.2765625
+      ],
+      [
+        15.7366210938,
+        42.5866699219,
+        19.0412109375,
+        45.2157226563
+      ]
+    ],
     "countryCallingCodes": [
       "+387"
     ],
@@ -285,11 +474,21 @@
       "srp"
     ],
     "name": "Bosnia & Herzegovina",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Rep. Srpska",
+      "Fed. of Bos. & Herz."
+    ]
   },
   {
     "alpha2": "BB",
     "alpha3": "BRB",
+    "bounds": [
+      -59.6466796875,
+      13.0622070312,
+      -59.4276367187,
+      13.3176757813
+    ],
     "countryCallingCodes": [
       "+1 246"
     ],
@@ -301,11 +500,18 @@
       "eng"
     ],
     "name": "Barbados",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BD",
     "alpha3": "BGD",
+    "bounds": [
+      88.0234375,
+      20.7904296875,
+      92.631640625,
+      26.5715332031
+    ],
     "countryCallingCodes": [
       "+880"
     ],
@@ -317,11 +523,32 @@
       "ben"
     ],
     "name": "Bangladesh",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BE",
     "alpha3": "BEL",
+    "bounds": [
+      [
+        4.2146484375,
+        50.7760253906,
+        4.44169921875,
+        50.900390625
+      ],
+      [
+        2.52490234375,
+        50.6976074219,
+        5.89248046875,
+        51.4911132813
+      ],
+      [
+        2.85546875,
+        49.5108886719,
+        6.364453125,
+        50.8059570312
+      ]
+    ],
     "countryCallingCodes": [
       "+32"
     ],
@@ -335,11 +562,22 @@
       "deu"
     ],
     "name": "Belgium",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Brussels",
+      "Flemish",
+      "Walloon"
+    ]
   },
   {
     "alpha2": "BF",
     "alpha3": "BFA",
+    "bounds": [
+      -5.52353515625,
+      9.42470703125,
+      2.38916015625,
+      15.0778808594
+    ],
     "countryCallingCodes": [
       "+226"
     ],
@@ -351,11 +589,18 @@
       "fra"
     ],
     "name": "Burkina Faso",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BG",
     "alpha3": "BGR",
+    "bounds": [
+      22.3440429688,
+      41.2435546875,
+      28.5853515625,
+      44.2377929688
+    ],
     "countryCallingCodes": [
       "+359"
     ],
@@ -367,11 +612,18 @@
       "bul"
     ],
     "name": "Bulgaria",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BH",
     "alpha3": "BHR",
+    "bounds": [
+      50.4524414063,
+      25.8067871094,
+      50.6174804688,
+      26.2464355469
+    ],
     "countryCallingCodes": [
       "+973"
     ],
@@ -383,11 +635,18 @@
       "ara"
     ],
     "name": "Bahrain",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BI",
     "alpha3": "BDI",
+    "bounds": [
+      29.0141601562,
+      -4.455859375,
+      30.8114257813,
+      -2.31298828125
+    ],
     "countryCallingCodes": [
       "+257"
     ],
@@ -399,11 +658,18 @@
       "fra"
     ],
     "name": "Burundi",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BJ",
     "alpha3": "BEN",
+    "bounds": [
+      0.76337890625,
+      6.216796875,
+      3.83447265625,
+      12.3838378906
+    ],
     "countryCallingCodes": [
       "+229"
     ],
@@ -415,11 +681,18 @@
       "fra"
     ],
     "name": "Benin",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BL",
     "alpha3": "BLM",
+    "bounds": [
+      -62.8754394531,
+      17.8751953125,
+      -62.7997070312,
+      17.922265625
+    ],
     "countryCallingCodes": [
       "+590"
     ],
@@ -431,11 +704,18 @@
       "fra"
     ],
     "name": "Saint Barthélemy",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BM",
     "alpha3": "BMU",
+    "bounds": [
+      -64.8628417969,
+      32.2596191406,
+      -64.6683105469,
+      32.3869140625
+    ],
     "countryCallingCodes": [
       "+1 441"
     ],
@@ -447,11 +727,18 @@
       "eng"
     ],
     "name": "Bermuda",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BN",
     "alpha3": "BRN",
+    "bounds": [
+      114.063867187,
+      4.02397460938,
+      115.326757813,
+      5.02236328125
+    ],
     "countryCallingCodes": [
       "+673"
     ],
@@ -464,11 +751,18 @@
       "eng"
     ],
     "name": "Brunei Darussalam",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BO",
     "alpha3": "BOL",
+    "bounds": [
+      -69.645703125,
+      -22.8916992188,
+      -57.4956542969,
+      -9.71044921875
+    ],
     "countryCallingCodes": [
       "+591"
     ],
@@ -483,11 +777,18 @@
       "que"
     ],
     "name": "Bolivia, Plurinational State Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BQ",
     "alpha3": "BES",
+    "bounds": [
+      -68.37109375,
+      12.0320800781,
+      -68.2058105469,
+      12.301953125
+    ],
     "countryCallingCodes": [
       "+599"
     ],
@@ -499,11 +800,18 @@
       "nld"
     ],
     "name": "Bonaire, Saint Eustatius And Saba",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BR",
     "alpha3": "BRA",
+    "bounds": [
+      -74.0020507813,
+      -33.7421875,
+      -34.80546875,
+      5.25795898437
+    ],
     "countryCallingCodes": [
       "+55"
     ],
@@ -515,11 +823,18 @@
       "por"
     ],
     "name": "Brazil",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BS",
     "alpha3": "BHS",
+    "bounds": [
+      -78.9856445312,
+      20.9374023438,
+      -72.747265625,
+      26.9400878906
+    ],
     "countryCallingCodes": [
       "+1 242"
     ],
@@ -531,11 +846,18 @@
       "eng"
     ],
     "name": "Bahamas",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BT",
     "alpha3": "BTN",
+    "bounds": [
+      88.7387695312,
+      26.7015625,
+      92.0833984375,
+      28.3111816406
+    ],
     "countryCallingCodes": [
       "+975"
     ],
@@ -548,11 +870,13 @@
       "dzo"
     ],
     "name": "Bhutan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BV",
     "alpha3": "BVT",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "NOK"
@@ -560,11 +884,18 @@
     "ioc": "",
     "languages": [],
     "name": "Bouvet Island",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BW",
     "alpha3": "BWA",
+    "bounds": [
+      19.97734375,
+      -26.8541992188,
+      29.36484375,
+      -17.7875976562
+    ],
     "countryCallingCodes": [
       "+267"
     ],
@@ -577,11 +908,18 @@
       "tsn"
     ],
     "name": "Botswana",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BY",
     "alpha3": "BLR",
+    "bounds": [
+      23.1750976563,
+      51.2650390625,
+      32.7102539063,
+      56.1458007812
+    ],
     "countryCallingCodes": [
       "+375"
     ],
@@ -594,11 +932,18 @@
       "rus"
     ],
     "name": "Belarus",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "BZ",
     "alpha3": "BLZ",
+    "bounds": [
+      -89.2375,
+      15.888671875,
+      -87.7886230469,
+      18.4823242188
+    ],
     "countryCallingCodes": [
       "+501"
     ],
@@ -610,11 +955,18 @@
       "eng"
     ],
     "name": "Belize",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CA",
     "alpha3": "CAN",
+    "bounds": [
+      -141.002148438,
+      41.6748535156,
+      -52.6536621094,
+      83.1161132813
+    ],
     "countryCallingCodes": [
       "+1"
     ],
@@ -627,11 +979,18 @@
       "fra"
     ],
     "name": "Canada",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CC",
     "alpha3": "CCK",
+    "bounds": [
+      96.8258789063,
+      -12.1998046875,
+      96.9252929687,
+      -12.126171875
+    ],
     "countryCallingCodes": [
       "+61"
     ],
@@ -643,11 +1002,18 @@
       "eng"
     ],
     "name": "Cocos (Keeling) Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CD",
     "alpha3": "COD",
+    "bounds": [
+      12.213671875,
+      -13.4538085938,
+      31.2740234375,
+      5.312109375
+    ],
     "countryCallingCodes": [
       "+243"
     ],
@@ -662,11 +1028,18 @@
       "swa"
     ],
     "name": "Democratic Republic Of Congo",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CF",
     "alpha3": "CAF",
+    "bounds": [
+      14.4311523438,
+      2.27006835937,
+      27.4033203125,
+      10.9962402344
+    ],
     "countryCallingCodes": [
       "+236"
     ],
@@ -679,11 +1052,18 @@
       "sag"
     ],
     "name": "Central African Republic",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CG",
     "alpha3": "COG",
+    "bounds": [
+      11.1301757813,
+      -5.004296875,
+      18.6221679688,
+      3.6873046875
+    ],
     "countryCallingCodes": [
       "+242"
     ],
@@ -696,11 +1076,18 @@
       "lin"
     ],
     "name": "Republic Of Congo",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CH",
     "alpha3": "CHE",
+    "bounds": [
+      5.97001953125,
+      45.8300292969,
+      10.4545898438,
+      47.7756347656
+    ],
     "countryCallingCodes": [
       "+41"
     ],
@@ -717,11 +1104,18 @@
       "roh"
     ],
     "name": "Switzerland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CI",
     "alpha3": "CIV",
+    "bounds": [
+      -8.60356445312,
+      4.35131835938,
+      -2.505859375,
+      10.7240722656
+    ],
     "countryCallingCodes": [
       "+225"
     ],
@@ -733,11 +1127,18 @@
       "fra"
     ],
     "name": "Cote d'Ivoire",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CK",
     "alpha3": "COK",
+    "bounds": [
+      -159.842480469,
+      -21.2495117188,
+      -159.736865234,
+      -21.1864257813
+    ],
     "countryCallingCodes": [
       "+682"
     ],
@@ -750,11 +1151,32 @@
       "mri"
     ],
     "name": "Cook Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CL",
     "alpha3": "CHL",
+    "bounds": [
+      [
+        -75.7081054687,
+        -55.8916992188,
+        -66.4357910156,
+        -17.5060546875
+      ],
+      [
+        -109.434130859,
+        -27.1712890625,
+        -109.222851562,
+        -27.068359375
+      ],
+      [
+        -78.989453125,
+        -33.6677734375,
+        -78.7689453125,
+        -33.5751953125
+      ]
+    ],
     "countryCallingCodes": [
       "+56"
     ],
@@ -767,11 +1189,22 @@
       "spa"
     ],
     "name": "Chile",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Chile",
+      "Easter I.",
+      "Isla Sala y Gomez"
+    ]
   },
   {
     "alpha2": "CM",
     "alpha3": "CMR",
+    "bounds": [
+      8.5328125,
+      1.67622070312,
+      16.1833984375,
+      13.078515625
+    ],
     "countryCallingCodes": [
       "+237"
     ],
@@ -784,11 +1217,26 @@
       "fra"
     ],
     "name": "Cameroon",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CN",
     "alpha3": "CHN",
+    "bounds": [
+      [
+        108.635644531,
+        18.2182617188,
+        111.013671875,
+        20.1377441406
+      ],
+      [
+        73.6073242187,
+        20.2637207031,
+        134.75234375,
+        53.5556152344
+      ]
+    ],
     "countryCallingCodes": [
       "+86"
     ],
@@ -800,11 +1248,29 @@
       "zho"
     ],
     "name": "China",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Hainan",
+      "China"
+    ]
   },
   {
     "alpha2": "CO",
     "alpha3": "COL",
+    "bounds": [
+      [
+        -79.0254394531,
+        -4.2359375,
+        -66.8760253906,
+        12.434375
+      ],
+      [
+        -82.39,
+        11.16,
+        -79.6,
+        15.33
+      ]
+    ],
     "countryCallingCodes": [
       "+57"
     ],
@@ -817,11 +1283,16 @@
       "spa"
     ],
     "name": "Colombia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Colombia",
+      "Colombia"
+    ]
   },
   {
     "alpha2": "CP",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -829,11 +1300,18 @@
     "ioc": "",
     "languages": [],
     "name": "Clipperton Island",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "CR",
     "alpha3": "CRI",
+    "bounds": [
+      -85.9080078125,
+      8.07065429687,
+      -82.5635742187,
+      11.189453125
+    ],
     "countryCallingCodes": [
       "+506"
     ],
@@ -845,11 +1323,18 @@
       "spa"
     ],
     "name": "Costa Rica",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CU",
     "alpha3": "CUB",
+    "bounds": [
+      -84.8872070313,
+      19.85546875,
+      -74.1368164063,
+      23.1904296875
+    ],
     "countryCallingCodes": [
       "+53"
     ],
@@ -862,11 +1347,18 @@
       "spa"
     ],
     "name": "Cuba",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CV",
     "alpha3": "CPV",
+    "bounds": [
+      -25.3415527344,
+      14.8182128906,
+      -22.6818847656,
+      17.1936523438
+    ],
     "countryCallingCodes": [
       "+238"
     ],
@@ -878,11 +1370,18 @@
       "por"
     ],
     "name": "Cabo Verde",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CW",
     "alpha3": "CUW",
+    "bounds": [
+      -69.1588867187,
+      12.0454589844,
+      -68.7510742187,
+      12.3802734375
+    ],
     "countryCallingCodes": [
       "+599"
     ],
@@ -894,11 +1393,18 @@
       "nld"
     ],
     "name": "Curacao",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CX",
     "alpha3": "CXR",
+    "bounds": [
+      105.584082031,
+      -10.5641601563,
+      105.725390625,
+      -10.4306640625
+    ],
     "countryCallingCodes": [
       "+61"
     ],
@@ -910,11 +1416,26 @@
       "eng"
     ],
     "name": "Christmas Island",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "CY",
     "alpha3": "CYP",
+    "bounds": [
+      [
+        32.3009765625,
+        34.5695800781,
+        34.0501953125,
+        35.1826660156
+      ],
+      [
+        32.7126953125,
+        35.0003417969,
+        34.5560546875,
+        35.6620605469
+      ]
+    ],
     "countryCallingCodes": [
       "+357"
     ],
@@ -927,11 +1448,21 @@
       "tur"
     ],
     "name": "Cyprus",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Cyprus",
+      "N. Cyprus"
+    ]
   },
   {
     "alpha2": "CZ",
     "alpha3": "CZE",
+    "bounds": [
+      12.0897460938,
+      48.5762207031,
+      18.8322265625,
+      51.0377929687
+    ],
     "countryCallingCodes": [
       "+420"
     ],
@@ -943,11 +1474,18 @@
       "ces"
     ],
     "name": "Czech Republic",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "DE",
     "alpha3": "DEU",
+    "bounds": [
+      5.85751953125,
+      47.2788085938,
+      15.0166015625,
+      55.0587402344
+    ],
     "countryCallingCodes": [
       "+49"
     ],
@@ -959,11 +1497,13 @@
       "deu"
     ],
     "name": "Germany",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "DG",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "USD"
@@ -971,11 +1511,18 @@
     "ioc": "",
     "languages": [],
     "name": "Diego Garcia",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "DJ",
     "alpha3": "DJI",
+    "bounds": [
+      41.7646484375,
+      10.941015625,
+      43.409765625,
+      12.70859375
+    ],
     "countryCallingCodes": [
       "+253"
     ],
@@ -988,11 +1535,26 @@
       "fra"
     ],
     "name": "Djibouti",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "DK",
     "alpha3": "DNK",
+    "bounds": [
+      [
+        8.121484375,
+        54.6288574219,
+        12.6657226563,
+        57.7369140625
+      ],
+      [
+        14.6841796875,
+        55.0049316406,
+        15.137109375,
+        55.2967285156
+      ]
+    ],
     "countryCallingCodes": [
       "+45"
     ],
@@ -1004,11 +1566,21 @@
       "dan"
     ],
     "name": "Denmark",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Denmark",
+      "Bornholm"
+    ]
   },
   {
     "alpha2": "DM",
     "alpha3": "DMA",
+    "bounds": [
+      -61.4811523437,
+      15.2272949219,
+      -61.2510742187,
+      15.6331054688
+    ],
     "countryCallingCodes": [
       "+1 767"
     ],
@@ -1020,11 +1592,18 @@
       "eng"
     ],
     "name": "Dominica",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "DO",
     "alpha3": "DOM",
+    "bounds": [
+      -72.000390625,
+      17.6355957031,
+      -68.3391601562,
+      19.9139648437
+    ],
     "countryCallingCodes": [
       "+1 809",
       "+1 829",
@@ -1038,11 +1617,18 @@
       "spa"
     ],
     "name": "Dominican Republic",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "DZ",
     "alpha3": "DZA",
+    "bounds": [
+      -8.68334960938,
+      18.9866210938,
+      11.9678710938,
+      37.0923828125
+    ],
     "countryCallingCodes": [
       "+213"
     ],
@@ -1054,11 +1640,13 @@
       "ara"
     ],
     "name": "Algeria",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "EA",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -1066,11 +1654,26 @@
     "ioc": "",
     "languages": [],
     "name": "Ceuta, Mulilla",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "EC",
     "alpha3": "ECU",
+    "bounds": [
+      [
+        -80.9627929687,
+        -4.990625,
+        -75.249609375,
+        1.45537109375
+      ],
+      [
+        -91.6541503906,
+        -1.3419921875,
+        -89.259375,
+        0.125830078125
+      ]
+    ],
     "countryCallingCodes": [
       "+593"
     ],
@@ -1083,11 +1686,21 @@
       "que"
     ],
     "name": "Ecuador",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Ecuador",
+      "Galápagos Is."
+    ]
   },
   {
     "alpha2": "EE",
     "alpha3": "EST",
+    "bounds": [
+      21.8544921875,
+      57.5254882812,
+      28.1510742188,
+      59.6390136719
+    ],
     "countryCallingCodes": [
       "+372"
     ],
@@ -1099,11 +1712,18 @@
       "est"
     ],
     "name": "Estonia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "EG",
     "alpha3": "EGY",
+    "bounds": [
+      24.7032226563,
+      21.9948730469,
+      36.8713867188,
+      31.6549804687
+    ],
     "countryCallingCodes": [
       "+20"
     ],
@@ -1115,11 +1735,18 @@
       "ara"
     ],
     "name": "Egypt",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "EH",
     "alpha3": "ESH",
+    "bounds": [
+      -17.0987792969,
+      20.8061523438,
+      -8.68212890625,
+      27.6564453125
+    ],
     "countryCallingCodes": [
       "+212"
     ],
@@ -1129,11 +1756,18 @@
     "ioc": "",
     "languages": [],
     "name": "Western Sahara",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ER",
     "alpha3": "ERI",
+    "bounds": [
+      36.4267578125,
+      12.3765625,
+      43.1166992187,
+      18.005078125
+    ],
     "countryCallingCodes": [
       "+291"
     ],
@@ -1147,11 +1781,32 @@
       "tir"
     ],
     "name": "Eritrea",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ES",
     "alpha3": "ESP",
+    "bounds": [
+      [
+        -18.160546875,
+        27.6463867188,
+        -13.4229492187,
+        29.2372070313
+      ],
+      [
+        1.22333984375,
+        38.6588378906,
+        4.3220703125,
+        40.0750976562
+      ],
+      [
+        -9.23564453125,
+        36.0259277344,
+        3.30673828125,
+        43.7645507812
+      ]
+    ],
     "countryCallingCodes": [
       "+34"
     ],
@@ -1163,11 +1818,22 @@
       "spa"
     ],
     "name": "Spain",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Canary Is.",
+      "Balearic Is.",
+      "Spain"
+    ]
   },
   {
     "alpha2": "ET",
     "alpha3": "ETH",
+    "bounds": [
+      32.9989257813,
+      3.45610351562,
+      47.9782226563,
+      14.8522949219
+    ],
     "countryCallingCodes": [
       "+251"
     ],
@@ -1179,11 +1845,13 @@
       "amh"
     ],
     "name": "Ethiopia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "EU",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [
       "+388"
     ],
@@ -1193,11 +1861,18 @@
     "ioc": "",
     "languages": [],
     "name": "European Union",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "FI",
     "alpha3": "FIN",
+    "bounds": [
+      20.6221679688,
+      59.816015625,
+      31.5365234375,
+      70.06484375
+    ],
     "countryCallingCodes": [
       "+358"
     ],
@@ -1210,11 +1885,26 @@
       "swe"
     ],
     "name": "Finland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "FJ",
     "alpha3": "FJI",
+    "bounds": [
+      [
+        -180,
+        -20.6705078125,
+        -178.251123047,
+        -16.1260742188
+      ],
+      [
+        174.587207031,
+        -21.705859375,
+        180,
+        -12.476953125
+      ]
+    ],
     "countryCallingCodes": [
       "+679"
     ],
@@ -1227,11 +1917,21 @@
       "fij"
     ],
     "name": "Fiji",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Fiji",
+      "Fiji"
+    ]
   },
   {
     "alpha2": "FK",
     "alpha3": "FLK",
+    "bounds": [
+      -61.1450195313,
+      -52.3080078125,
+      -57.791796875,
+      -51.269921875
+    ],
     "countryCallingCodes": [
       "+500"
     ],
@@ -1243,11 +1943,18 @@
       "eng"
     ],
     "name": "Falkland Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "FM",
     "alpha3": "FSM",
+    "bounds": [
+      138.061914063,
+      5.27724609375,
+      162.993457031,
+      9.59331054687
+    ],
     "countryCallingCodes": [
       "+691"
     ],
@@ -1259,11 +1966,18 @@
       "eng"
     ],
     "name": "Micronesia, Federated States Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "FO",
     "alpha3": "FRO",
+    "bounds": [
+      -7.42260742188,
+      61.4143066406,
+      -6.4060546875,
+      62.3556640625
+    ],
     "countryCallingCodes": [
       "+298"
     ],
@@ -1276,11 +1990,26 @@
       "dan"
     ],
     "name": "Faroe Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "FR",
     "alpha3": "FRA",
+    "bounds": [
+      [
+        8.565625,
+        41.3849121094,
+        9.5564453125,
+        43.021484375
+      ],
+      [
+        -4.7625,
+        42.3404785156,
+        8.14033203125,
+        51.0971191406
+      ]
+    ],
     "countryCallingCodes": [
       "+33"
     ],
@@ -1292,11 +2021,16 @@
       "fra"
     ],
     "name": "France",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Corsica",
+      "France"
+    ]
   },
   {
     "alpha2": "FX",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [
       "+241"
     ],
@@ -1308,11 +2042,18 @@
       "fra"
     ],
     "name": "France, Metropolitan",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "GA",
     "alpha3": "GAB",
+    "bounds": [
+      8.703125,
+      -3.91630859375,
+      14.4805664063,
+      2.30219726562
+    ],
     "countryCallingCodes": [
       "+241"
     ],
@@ -1324,11 +2065,38 @@
       "fra"
     ],
     "name": "Gabon",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GB",
     "alpha3": "GBR",
+    "bounds": [
+      [
+        -5.65625,
+        50.0213867188,
+        1.74658203125,
+        55.8079589844
+      ],
+      [
+        -7.54296875,
+        54.689453125,
+        -0.774267578125,
+        60.8318847656
+      ],
+      [
+        -5.2623046875,
+        51.3904296875,
+        -2.6623046875,
+        53.4192871094
+      ],
+      [
+        -8.14482421875,
+        54.0512695312,
+        -5.47041015625,
+        55.241796875
+      ]
+    ],
     "countryCallingCodes": [
       "+44"
     ],
@@ -1344,11 +2112,23 @@
       "cym"
     ],
     "name": "United Kingdom",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "England",
+      "Scotland",
+      "Wales",
+      "N. Ireland"
+    ]
   },
   {
     "alpha2": "GD",
     "alpha3": "GRD",
+    "bounds": [
+      -61.7821777344,
+      12.0084472656,
+      -61.60703125,
+      12.2370117187
+    ],
     "countryCallingCodes": [
       "+473"
     ],
@@ -1360,11 +2140,18 @@
       "eng"
     ],
     "name": "Grenada",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GE",
     "alpha3": "GEO",
+    "bounds": [
+      39.9783203125,
+      41.0702148437,
+      46.6725585938,
+      43.5697753906
+    ],
     "countryCallingCodes": [
       "+995"
     ],
@@ -1376,11 +2163,18 @@
       "kat"
     ],
     "name": "Georgia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GF",
     "alpha3": "GUF",
+    "bounds": [
+      -54.6162597656,
+      2.12104492187,
+      -51.6525390625,
+      5.7822265625
+    ],
     "countryCallingCodes": [
       "+594"
     ],
@@ -1392,11 +2186,18 @@
       "fra"
     ],
     "name": "French Guiana",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GG",
     "alpha3": "GGY",
+    "bounds": [
+      -2.64614257812,
+      49.4287109375,
+      -2.5123046875,
+      49.5065917969
+    ],
     "countryCallingCodes": [
       "+44"
     ],
@@ -1408,11 +2209,18 @@
       "fra"
     ],
     "name": "Guernsey",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GH",
     "alpha3": "GHA",
+    "bounds": [
+      -3.24389648438,
+      4.76245117188,
+      1.18720703125,
+      11.1668945312
+    ],
     "countryCallingCodes": [
       "+233"
     ],
@@ -1424,11 +2232,18 @@
       "eng"
     ],
     "name": "Ghana",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GI",
     "alpha3": "GIB",
+    "bounds": [
+      -5.368,
+      36.108618,
+      -5.336,
+      36.155
+    ],
     "countryCallingCodes": [
       "+350"
     ],
@@ -1440,11 +2255,18 @@
       "eng"
     ],
     "name": "Gibraltar",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GL",
     "alpha3": "GRL",
+    "bounds": [
+      -72.8180664062,
+      59.8154785156,
+      -11.4255371094,
+      83.599609375
+    ],
     "countryCallingCodes": [
       "+299"
     ],
@@ -1456,11 +2278,18 @@
       "kal"
     ],
     "name": "Greenland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GM",
     "alpha3": "GMB",
+    "bounds": [
+      -16.8248046875,
+      13.0641601562,
+      -13.8267089844,
+      13.812109375
+    ],
     "countryCallingCodes": [
       "+220"
     ],
@@ -1472,11 +2301,18 @@
       "eng"
     ],
     "name": "Gambia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GN",
     "alpha3": "GIN",
+    "bounds": [
+      -15.0512207031,
+      7.21591796875,
+      -7.68120117187,
+      12.6739257812
+    ],
     "countryCallingCodes": [
       "+224"
     ],
@@ -1488,11 +2324,18 @@
       "fra"
     ],
     "name": "Guinea",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GP",
     "alpha3": "GLP",
+    "bounds": [
+      -61.7940917969,
+      15.8860351562,
+      -61.1726074219,
+      16.506640625
+    ],
     "countryCallingCodes": [
       "+590"
     ],
@@ -1504,11 +2347,26 @@
       "fra"
     ],
     "name": "Guadeloupe",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GQ",
     "alpha3": "GNQ",
+    "bounds": [
+      [
+        8.43427734375,
+        3.21708984375,
+        8.95068359375,
+        3.75830078125
+      ],
+      [
+        9.3859375,
+        0.960107421875,
+        11.3353515625,
+        2.30444335938
+      ]
+    ],
     "countryCallingCodes": [
       "+240"
     ],
@@ -1522,11 +2380,21 @@
       "por"
     ],
     "name": "Equatorial Guinea",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Bioko",
+      "Río Muni"
+    ]
   },
   {
     "alpha2": "GR",
     "alpha3": "GRC",
+    "bounds": [
+      19.646484375,
+      34.9344726563,
+      28.2318359375,
+      41.7437988281
+    ],
     "countryCallingCodes": [
       "+30"
     ],
@@ -1538,11 +2406,26 @@
       "ell"
     ],
     "name": "Greece",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GS",
     "alpha3": "SGS",
+    "bounds": [
+      [
+        -38.0174316406,
+        -54.866796875,
+        -35.7985839844,
+        -53.9840820313
+      ],
+      [
+        -26.4510253906,
+        -58.4922851563,
+        -26.2598632812,
+        -58.3822265625
+      ]
+    ],
     "countryCallingCodes": [],
     "currencies": [
       "GBP"
@@ -1552,11 +2435,21 @@
       "eng"
     ],
     "name": "South Georgia And The South Sandwich Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "S. Georgia",
+      "S. Sandwich Is."
+    ]
   },
   {
     "alpha2": "GT",
     "alpha3": "GTM",
+    "bounds": [
+      -92.23515625,
+      13.7365234375,
+      -88.2283203125,
+      17.81640625
+    ],
     "countryCallingCodes": [
       "+502"
     ],
@@ -1568,11 +2461,18 @@
       "spa"
     ],
     "name": "Guatemala",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GU",
     "alpha3": "GUM",
+    "bounds": [
+      144.649316406,
+      13.2575195312,
+      144.940820313,
+      13.6223632813
+    ],
     "countryCallingCodes": [
       "+1 671"
     ],
@@ -1584,11 +2484,18 @@
       "eng"
     ],
     "name": "Guam",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GW",
     "alpha3": "GNB",
+    "bounds": [
+      -16.7118164062,
+      10.9401367188,
+      -13.6735351562,
+      12.6799316406
+    ],
     "countryCallingCodes": [
       "+245"
     ],
@@ -1600,11 +2507,18 @@
       "por"
     ],
     "name": "Guinea-bissau",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "GY",
     "alpha3": "GUY",
+    "bounds": [
+      -61.3908203125,
+      1.20122070312,
+      -56.4828125,
+      8.54931640625
+    ],
     "countryCallingCodes": [
       "+592"
     ],
@@ -1616,11 +2530,18 @@
       "eng"
     ],
     "name": "Guyana",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "HK",
     "alpha3": "HKG",
+    "bounds": [
+      113.838867187,
+      22.1951660156,
+      114.335253906,
+      22.5649902344
+    ],
     "countryCallingCodes": [
       "+852"
     ],
@@ -1633,11 +2554,18 @@
       "eng"
     ],
     "name": "Hong Kong",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "HM",
     "alpha3": "HMD",
+    "bounds": [
+      73.251171875,
+      -53.1845703125,
+      73.8377929688,
+      -52.9663085938
+    ],
     "countryCallingCodes": [],
     "currencies": [
       "AUD"
@@ -1645,11 +2573,18 @@
     "ioc": "",
     "languages": [],
     "name": "Heard Island And McDonald Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "HN",
     "alpha3": "HND",
+    "bounds": [
+      -89.3625976562,
+      12.9792480469,
+      -83.1575195312,
+      16.5139648438
+    ],
     "countryCallingCodes": [
       "+504"
     ],
@@ -1661,11 +2596,18 @@
       "spa"
     ],
     "name": "Honduras",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "HR",
     "alpha3": "HRV",
+    "bounds": [
+      13.5171875,
+      42.4329101562,
+      19.4009765625,
+      46.5346191406
+    ],
     "countryCallingCodes": [
       "+385"
     ],
@@ -1677,11 +2619,18 @@
       "hrv"
     ],
     "name": "Croatia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "HT",
     "alpha3": "HTI",
+    "bounds": [
+      -74.478125,
+      18.0391601563,
+      -71.6453125,
+      20.0936523438
+    ],
     "countryCallingCodes": [
       "+509"
     ],
@@ -1695,11 +2644,18 @@
       "hat"
     ],
     "name": "Haiti",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "HU",
     "alpha3": "HUN",
+    "bounds": [
+      16.0930664063,
+      45.7530273437,
+      22.8766601563,
+      48.5534667969
+    ],
     "countryCallingCodes": [
       "+36"
     ],
@@ -1711,11 +2667,13 @@
       "hun"
     ],
     "name": "Hungary",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IC",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -1723,11 +2681,18 @@
     "ioc": "",
     "languages": [],
     "name": "Canary Islands",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "ID",
     "alpha3": "IDN",
+    "bounds": [
+      95.206640625,
+      -10.9096679688,
+      140.976171875,
+      5.90703125
+    ],
     "countryCallingCodes": [
       "+62"
     ],
@@ -1739,11 +2704,18 @@
       "ind"
     ],
     "name": "Indonesia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IE",
     "alpha3": "IRL",
+    "bounds": [
+      -10.390234375,
+      51.4737304688,
+      -6.02739257812,
+      55.3658203125
+    ],
     "countryCallingCodes": [
       "+353"
     ],
@@ -1756,11 +2728,18 @@
       "gle"
     ],
     "name": "Ireland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IL",
     "alpha3": "ISR",
+    "bounds": [
+      34.2453125,
+      29.47734375,
+      35.9134765625,
+      33.4317382812
+    ],
     "countryCallingCodes": [
       "+972"
     ],
@@ -1774,11 +2753,18 @@
       "eng"
     ],
     "name": "Israel",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IM",
     "alpha3": "IMN",
+    "bounds": [
+      -4.7853515625,
+      54.0586914062,
+      -4.33798828125,
+      54.4071777344
+    ],
     "countryCallingCodes": [
       "+44"
     ],
@@ -1791,11 +2777,38 @@
       "glv"
     ],
     "name": "Isle Of Man",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IN",
     "alpha3": "IND",
+    "bounds": [
+      [
+        92.3528320313,
+        10.5207519531,
+        93.0766601563,
+        13.5454589844
+      ],
+      [
+        72.7724609375,
+        8.251953125,
+        73.08359375,
+        11.2627441406
+      ],
+      [
+        92.71328125,
+        6.74868164062,
+        93.9295898438,
+        9.24389648438
+      ],
+      [
+        68.1650390625,
+        8.0783203125,
+        97.3435546875,
+        35.4958984375
+      ]
+    ],
     "countryCallingCodes": [
       "+91"
     ],
@@ -1808,11 +2821,23 @@
       "hin"
     ],
     "name": "India",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Andaman Is.",
+      "Lakshadweep",
+      "Nicobar Is.",
+      "India"
+    ]
   },
   {
     "alpha2": "IO",
     "alpha3": "IOT",
+    "bounds": [
+      72.3497070313,
+      -7.4353515625,
+      72.4985351562,
+      -7.22041015625
+    ],
     "countryCallingCodes": [
       "+246"
     ],
@@ -1824,11 +2849,18 @@
       "eng"
     ],
     "name": "British Indian Ocean Territory",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IQ",
     "alpha3": "IRQ",
+    "bounds": [
+      38.7735351563,
+      29.063671875,
+      48.546484375,
+      37.371875
+    ],
     "countryCallingCodes": [
       "+964"
     ],
@@ -1841,11 +2873,18 @@
       "kur"
     ],
     "name": "Iraq",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IR",
     "alpha3": "IRN",
+    "bounds": [
+      44.0232421875,
+      25.1020996094,
+      63.3051757812,
+      39.7685546875
+    ],
     "countryCallingCodes": [
       "+98"
     ],
@@ -1857,11 +2896,18 @@
       "fas"
     ],
     "name": "Iran, Islamic Republic Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IS",
     "alpha3": "ISL",
+    "bounds": [
+      -24.4756835937,
+      63.4066894531,
+      -13.5561035156,
+      66.5260742187
+    ],
     "countryCallingCodes": [
       "+354"
     ],
@@ -1873,11 +2919,44 @@
       "isl"
     ],
     "name": "Iceland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "IT",
     "alpha3": "ITA",
+    "bounds": [
+      [
+        6.627734375,
+        37.9391113281,
+        18.4858398438,
+        47.0821289063
+      ],
+      [
+        12.435546875,
+        36.6878417969,
+        15.6346679688,
+        38.2958984375
+      ],
+      [
+        8.180859375,
+        38.9096679688,
+        9.8052734375,
+        41.2570800781
+      ],
+      [
+        11.9364257813,
+        36.7459960937,
+        12.0512695312,
+        36.8430664062
+      ],
+      [
+        12.315,
+        35.487,
+        12.893,
+        35.885
+      ]
+    ],
     "countryCallingCodes": [
       "+39"
     ],
@@ -1889,11 +2968,24 @@
       "ita"
     ],
     "name": "Italy",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Italy",
+      "Sicily",
+      "Sardinia",
+      "Pantelleria",
+      "Pelagie Islands"
+    ]
   },
   {
     "alpha2": "JE",
     "alpha3": "JEY",
+    "bounds": [
+      -2.23583984375,
+      49.1698242187,
+      -2.00991210937,
+      49.2663574219
+    ],
     "countryCallingCodes": [
       "+44"
     ],
@@ -1906,11 +2998,18 @@
       "fra"
     ],
     "name": "Jersey",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "JM",
     "alpha3": "JAM",
+    "bounds": [
+      -78.3395019531,
+      17.7149414062,
+      -76.2107910156,
+      18.5222167969
+    ],
     "countryCallingCodes": [
       "+1 876"
     ],
@@ -1922,11 +3021,18 @@
       "eng"
     ],
     "name": "Jamaica",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "JO",
     "alpha3": "JOR",
+    "bounds": [
+      34.95078125,
+      29.1904785156,
+      39.2927734375,
+      33.3722167969
+    ],
     "countryCallingCodes": [
       "+962"
     ],
@@ -1938,11 +3044,62 @@
       "ara"
     ],
     "name": "Jordan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "JP",
     "alpha3": "JPN",
+    "bounds": [
+      [
+        130.889257813,
+        33.4869628906,
+        141.993164062,
+        41.5055664062
+      ],
+      [
+        128.649121094,
+        30.24140625,
+        141.329199219,
+        45.4654785156
+      ],
+      [
+        139.820898438,
+        41.4232421875,
+        145.833007812,
+        45.5095214844
+      ],
+      [
+        129.580078125,
+        31.0151367188,
+        132.00859375,
+        33.9277832031
+      ],
+      [
+        139.768945313,
+        33.0454589844,
+        139.873632813,
+        33.1292480469
+      ],
+      [
+        123.679785156,
+        24.2660644531,
+        129.714648438,
+        28.5174804688
+      ],
+      [
+        142.107128906,
+        26.6156738281,
+        142.202148438,
+        26.7264648437
+      ],
+      [
+        132.032617188,
+        32.7520019531,
+        134.738867188,
+        34.3583984375
+      ]
+    ],
     "countryCallingCodes": [
       "+81"
     ],
@@ -1954,11 +3111,27 @@
       "jpn"
     ],
     "name": "Japan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Honshu",
+      "Japan",
+      "Hokkaido",
+      "Kyushu",
+      "Izu-shoto",
+      "Nansei-shoto",
+      "Bonin Is.",
+      "Shikoku"
+    ]
   },
   {
     "alpha2": "KE",
     "alpha3": "KEN",
+    "bounds": [
+      33.9,
+      -4.6923828125,
+      41.883984375,
+      5.49228515625
+    ],
     "countryCallingCodes": [
       "+254"
     ],
@@ -1971,11 +3144,18 @@
       "swa"
     ],
     "name": "Kenya",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KG",
     "alpha3": "KGZ",
+    "bounds": [
+      69.2291015625,
+      39.2075195312,
+      80.2461914063,
+      43.2403808594
+    ],
     "countryCallingCodes": [
       "+996"
     ],
@@ -1987,11 +3167,18 @@
       "rus"
     ],
     "name": "Kyrgyzstan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KH",
     "alpha3": "KHM",
+    "bounds": [
+      102.319726563,
+      10.4112304687,
+      107.60546875,
+      14.705078125
+    ],
     "countryCallingCodes": [
       "+855"
     ],
@@ -2003,11 +3190,26 @@
       "khm"
     ],
     "name": "Cambodia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KI",
     "alpha3": "KIR",
+    "bounds": [
+      [
+        -174.540820313,
+        -11.4568359375,
+        -151.782617188,
+        3.92353515625
+      ],
+      [
+        169.522949219,
+        -1.26337890625,
+        174.77890625,
+        3.14877929687
+      ]
+    ],
     "countryCallingCodes": [
       "+686"
     ],
@@ -2019,11 +3221,21 @@
       "eng"
     ],
     "name": "Kiribati",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Kiribati",
+      "Kiribati"
+    ]
   },
   {
     "alpha2": "KM",
     "alpha3": "COM",
+    "bounds": [
+      43.2266601563,
+      -12.3682617187,
+      44.5267578125,
+      -11.3684570312
+    ],
     "countryCallingCodes": [
       "+269"
     ],
@@ -2036,11 +3248,18 @@
       "fra"
     ],
     "name": "Comoros",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KN",
     "alpha3": "KNA",
+    "bounds": [
+      -62.8404785156,
+      17.1005859375,
+      -62.5322265625,
+      17.4025878906
+    ],
     "countryCallingCodes": [
       "+1 869"
     ],
@@ -2052,11 +3271,18 @@
       "eng"
     ],
     "name": "Saint Kitts And Nevis",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KP",
     "alpha3": "PRK",
+    "bounds": [
+      124.348632812,
+      37.7190429687,
+      130.687304688,
+      42.9981445313
+    ],
     "countryCallingCodes": [
       "+850"
     ],
@@ -2068,11 +3294,32 @@
       "kor"
     ],
     "name": "Korea, Democratic People's Republic Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KR",
     "alpha3": "KOR",
+    "bounds": [
+      [
+        130.810253906,
+        37.4487304688,
+        130.934277344,
+        37.5537109375
+      ],
+      [
+        126.007519531,
+        34.2964355469,
+        129.572851563,
+        38.6234375
+      ],
+      [
+        126.165625,
+        33.2015136719,
+        126.93125,
+        33.5532226562
+      ]
+    ],
     "countryCallingCodes": [
       "+82"
     ],
@@ -2084,11 +3331,22 @@
       "kor"
     ],
     "name": "Korea, Republic Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Ulleungdo",
+      "Korea",
+      "Jejudo"
+    ]
   },
   {
     "alpha2": "KW",
     "alpha3": "KWT",
+    "bounds": [
+      46.5314453125,
+      28.5331542969,
+      48.4424804688,
+      30.0973144531
+    ],
     "countryCallingCodes": [
       "+965"
     ],
@@ -2100,11 +3358,18 @@
       "ara"
     ],
     "name": "Kuwait",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KY",
     "alpha3": "CYM",
+    "bounds": [
+      -81.4190917969,
+      19.271875,
+      -79.7422851563,
+      19.7657226563
+    ],
     "countryCallingCodes": [
       "+1 345"
     ],
@@ -2116,11 +3381,18 @@
       "eng"
     ],
     "name": "Cayman Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "KZ",
     "alpha3": "KAZ",
+    "bounds": [
+      46.6091796875,
+      40.6086425781,
+      87.3228515625,
+      55.3895996094
+    ],
     "countryCallingCodes": [
       "+7",
       "+7 6",
@@ -2135,11 +3407,18 @@
       "rus"
     ],
     "name": "Kazakhstan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LA",
     "alpha3": "LAO",
+    "bounds": [
+      100.114941406,
+      13.9211914063,
+      107.653125,
+      22.4952636719
+    ],
     "countryCallingCodes": [
       "+856"
     ],
@@ -2151,11 +3430,18 @@
       "lao"
     ],
     "name": "Lao People's Democratic Republic",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LB",
     "alpha3": "LBN",
+    "bounds": [
+      35.10859375,
+      33.0756835938,
+      36.5849609375,
+      34.6787109375
+    ],
     "countryCallingCodes": [
       "+961"
     ],
@@ -2168,11 +3454,18 @@
       "hye"
     ],
     "name": "Lebanon",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LC",
     "alpha3": "LCA",
+    "bounds": [
+      -61.0731445312,
+      13.717578125,
+      -60.8867675781,
+      14.093359375
+    ],
     "countryCallingCodes": [
       "+1 758"
     ],
@@ -2184,11 +3477,18 @@
       "eng"
     ],
     "name": "Saint Lucia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LI",
     "alpha3": "LIE",
+    "bounds": [
+      9.4794921875,
+      47.0573730469,
+      9.610546875,
+      47.2707519531
+    ],
     "countryCallingCodes": [
       "+423"
     ],
@@ -2200,11 +3500,18 @@
       "deu"
     ],
     "name": "Liechtenstein",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LK",
     "alpha3": "LKA",
+    "bounds": [
+      79.7078125,
+      5.94936523438,
+      81.876953125,
+      9.8126953125
+    ],
     "countryCallingCodes": [
       "+94"
     ],
@@ -2217,11 +3524,18 @@
       "tam"
     ],
     "name": "Sri Lanka",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LR",
     "alpha3": "LBR",
+    "bounds": [
+      -11.5075195312,
+      4.35131835938,
+      -7.39990234375,
+      8.5376953125
+    ],
     "countryCallingCodes": [
       "+231"
     ],
@@ -2233,11 +3547,18 @@
       "eng"
     ],
     "name": "Liberia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LS",
     "alpha3": "LSO",
+    "bounds": [
+      27.0517578125,
+      -30.6422851563,
+      29.3907226563,
+      -28.5817382813
+    ],
     "countryCallingCodes": [
       "+266"
     ],
@@ -2251,11 +3572,18 @@
       "sot"
     ],
     "name": "Lesotho",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LT",
     "alpha3": "LTU",
+    "bounds": [
+      20.8998046875,
+      53.89296875,
+      26.7756835938,
+      56.4111816406
+    ],
     "countryCallingCodes": [
       "+370"
     ],
@@ -2267,11 +3595,18 @@
       "lit"
     ],
     "name": "Lithuania",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LU",
     "alpha3": "LUX",
+    "bounds": [
+      5.725,
+      49.4454589844,
+      6.49375,
+      50.1671875
+    ],
     "countryCallingCodes": [
       "+352"
     ],
@@ -2285,11 +3620,18 @@
       "ltz"
     ],
     "name": "Luxembourg",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LV",
     "alpha3": "LVA",
+    "bounds": [
+      21.0149414063,
+      55.6675292969,
+      28.2020507813,
+      58.0634277344
+    ],
     "countryCallingCodes": [
       "+371"
     ],
@@ -2301,11 +3643,18 @@
       "lav"
     ],
     "name": "Latvia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "LY",
     "alpha3": "LBY",
+    "bounds": [
+      9.31025390625,
+      19.4966308594,
+      25.1504882813,
+      33.1819335937
+    ],
     "countryCallingCodes": [
       "+218"
     ],
@@ -2317,11 +3666,18 @@
       "ara"
     ],
     "name": "Libya",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MA",
     "alpha3": "MAR",
+    "bounds": [
+      -17.0030761719,
+      21.420703125,
+      -1.06552734375,
+      35.9298828125
+    ],
     "countryCallingCodes": [
       "+212"
     ],
@@ -2333,11 +3689,18 @@
       "ara"
     ],
     "name": "Morocco",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MC",
     "alpha3": "MCO",
+    "bounds": [
+      7.377734375,
+      43.7317382812,
+      7.438671875,
+      43.7708984375
+    ],
     "countryCallingCodes": [
       "+377"
     ],
@@ -2349,11 +3712,18 @@
       "fra"
     ],
     "name": "Monaco",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MD",
     "alpha3": "MDA",
+    "bounds": [
+      26.6189453125,
+      45.4504394531,
+      30.1310546875,
+      48.477734375
+    ],
     "countryCallingCodes": [
       "+373"
     ],
@@ -2365,11 +3735,18 @@
       "ron"
     ],
     "name": "Moldova",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ME",
     "alpha3": "MNE",
+    "bounds": [
+      18.436328125,
+      41.8690917969,
+      20.34765625,
+      43.5423339844
+    ],
     "countryCallingCodes": [
       "+382"
     ],
@@ -2381,11 +3758,18 @@
       "mot"
     ],
     "name": "Montenegro",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MF",
     "alpha3": "MAF",
+    "bounds": [
+      -63.123046875,
+      18.0689453125,
+      -63.0094238281,
+      18.1153320312
+    ],
     "countryCallingCodes": [
       "+590"
     ],
@@ -2397,11 +3781,18 @@
       "fra"
     ],
     "name": "Saint Martin",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MG",
     "alpha3": "MDG",
+    "bounds": [
+      43.2571289063,
+      -25.5705078125,
+      50.4827148438,
+      -12.0795898437
+    ],
     "countryCallingCodes": [
       "+261"
     ],
@@ -2414,11 +3805,18 @@
       "mlg"
     ],
     "name": "Madagascar",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MH",
     "alpha3": "MHL",
+    "bounds": [
+      166.844726563,
+      5.7998046875,
+      171.756835937,
+      11.1686523438
+    ],
     "countryCallingCodes": [
       "+692"
     ],
@@ -2431,11 +3829,18 @@
       "mah"
     ],
     "name": "Marshall Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MK",
     "alpha3": "MKD",
+    "bounds": [
+      20.4486328125,
+      40.8499023437,
+      23.0056640625,
+      42.3581542969
+    ],
     "countryCallingCodes": [
       "+389"
     ],
@@ -2447,11 +3852,18 @@
       "mkd"
     ],
     "name": "Macedonia, The Former Yugoslav Republic Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ML",
     "alpha3": "MLI",
+    "bounds": [
+      -12.2806152344,
+      10.1432617187,
+      4.23466796875,
+      24.9956054688
+    ],
     "countryCallingCodes": [
       "+223"
     ],
@@ -2463,11 +3875,18 @@
       "fra"
     ],
     "name": "Mali",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MM",
     "alpha3": "MMR",
+    "bounds": [
+      92.1795898438,
+      9.875390625,
+      101.147265625,
+      28.5170410156
+    ],
     "countryCallingCodes": [
       "+95"
     ],
@@ -2479,11 +3898,18 @@
       "mya"
     ],
     "name": "Myanmar",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MN",
     "alpha3": "MNG",
+    "bounds": [
+      87.7431640625,
+      41.5955078125,
+      119.897851563,
+      52.1172851562
+    ],
     "countryCallingCodes": [
       "+976"
     ],
@@ -2495,11 +3921,18 @@
       "mon"
     ],
     "name": "Mongolia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MO",
     "alpha3": "MAC",
+    "bounds": [
+      113.47890625,
+      22.1955566406,
+      113.548144531,
+      22.2459472656
+    ],
     "countryCallingCodes": [
       "+853"
     ],
@@ -2512,11 +3945,18 @@
       "por"
     ],
     "name": "Macao",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MP",
     "alpha3": "MNP",
+    "bounds": [
+      145.152148438,
+      14.111328125,
+      145.835449219,
+      18.8067871094
+    ],
     "countryCallingCodes": [
       "+1 670"
     ],
@@ -2528,11 +3968,18 @@
       "eng"
     ],
     "name": "Northern Mariana Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MQ",
     "alpha3": "MTQ",
+    "bounds": [
+      -61.2197265625,
+      14.4262695312,
+      -60.8262695312,
+      14.8752929688
+    ],
     "countryCallingCodes": [
       "+596"
     ],
@@ -2542,11 +3989,18 @@
     "ioc": "",
     "languages": [],
     "name": "Martinique",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MR",
     "alpha3": "MRT",
+    "bounds": [
+      -17.0639648438,
+      14.7453613281,
+      -4.82260742187,
+      27.2859375
+    ],
     "countryCallingCodes": [
       "+222"
     ],
@@ -2559,11 +4013,18 @@
       "fra"
     ],
     "name": "Mauritania",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MS",
     "alpha3": "MSR",
+    "bounds": [
+      -62.223046875,
+      16.6812011719,
+      -62.1484375,
+      16.8095703125
+    ],
     "countryCallingCodes": [
       "+1 664"
     ],
@@ -2573,11 +4034,18 @@
     "ioc": "",
     "languages": [],
     "name": "Montserrat",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MT",
     "alpha3": "MLT",
+    "bounds": [
+      14.1803710938,
+      35.8202148437,
+      14.5662109375,
+      36.07578125
+    ],
     "countryCallingCodes": [
       "+356"
     ],
@@ -2590,11 +4058,18 @@
       "eng"
     ],
     "name": "Malta",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MU",
     "alpha3": "MUS",
+    "bounds": [
+      57.3176757813,
+      -20.5131835938,
+      57.7919921875,
+      -19.9899414063
+    ],
     "countryCallingCodes": [
       "+230"
     ],
@@ -2607,11 +4082,18 @@
       "fra"
     ],
     "name": "Mauritius",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MV",
     "alpha3": "MDV",
+    "bounds": [
+      73.38203125,
+      3.22939453125,
+      73.5283203125,
+      4.24765625
+    ],
     "countryCallingCodes": [
       "+960"
     ],
@@ -2623,11 +4105,18 @@
       "div"
     ],
     "name": "Maldives",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MW",
     "alpha3": "MWI",
+    "bounds": [
+      32.6704101562,
+      -17.1310546875,
+      35.8927734375,
+      -9.39501953125
+    ],
     "countryCallingCodes": [
       "+265"
     ],
@@ -2640,11 +4129,18 @@
       "nya"
     ],
     "name": "Malawi",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MX",
     "alpha3": "MEX",
+    "bounds": [
+      -118.401367187,
+      14.5454101562,
+      -86.6962890625,
+      32.7153320313
+    ],
     "countryCallingCodes": [
       "+52"
     ],
@@ -2657,11 +4153,18 @@
       "spa"
     ],
     "name": "Mexico",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MY",
     "alpha3": "MYS",
+    "bounds": [
+      99.6462890625,
+      0.861962890625,
+      119.266308594,
+      7.35166015625
+    ],
     "countryCallingCodes": [
       "+60"
     ],
@@ -2674,11 +4177,18 @@
       "eng"
     ],
     "name": "Malaysia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "MZ",
     "alpha3": "MOZ",
+    "bounds": [
+      30.2217773438,
+      -26.8616210938,
+      40.84453125,
+      -10.4643554688
+    ],
     "countryCallingCodes": [
       "+258"
     ],
@@ -2690,11 +4200,18 @@
       "por"
     ],
     "name": "Mozambique",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NA",
     "alpha3": "NAM",
+    "bounds": [
+      11.7216796875,
+      -28.9387695313,
+      25.2587890625,
+      -16.9676757813
+    ],
     "countryCallingCodes": [
       "+264"
     ],
@@ -2707,11 +4224,18 @@
       "eng"
     ],
     "name": "Namibia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NC",
     "alpha3": "NCL",
+    "bounds": [
+      159.928222656,
+      -22.6611328125,
+      168.1390625,
+      -19.1146484375
+    ],
     "countryCallingCodes": [
       "+687"
     ],
@@ -2723,11 +4247,18 @@
       "fra"
     ],
     "name": "New Caledonia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NE",
     "alpha3": "NER",
+    "bounds": [
+      0.1638671875,
+      11.6962890625,
+      15.9631835938,
+      23.5178710938
+    ],
     "countryCallingCodes": [
       "+227"
     ],
@@ -2739,11 +4270,18 @@
       "fra"
     ],
     "name": "Niger",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NF",
     "alpha3": "NFK",
+    "bounds": [
+      167.906152344,
+      -29.0962890625,
+      167.990429688,
+      -29.0139648438
+    ],
     "countryCallingCodes": [
       "+672"
     ],
@@ -2755,11 +4293,18 @@
       "eng"
     ],
     "name": "Norfolk Island",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NG",
     "alpha3": "NGA",
+    "bounds": [
+      2.68603515625,
+      4.27739257813,
+      14.6271484375,
+      13.8728515625
+    ],
     "countryCallingCodes": [
       "+234"
     ],
@@ -2771,11 +4316,18 @@
       "eng"
     ],
     "name": "Nigeria",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NI",
     "alpha3": "NIC",
+    "bounds": [
+      -87.6701660156,
+      10.7353515625,
+      -83.1575195312,
+      15.0080566406
+    ],
     "countryCallingCodes": [
       "+505"
     ],
@@ -2787,11 +4339,18 @@
       "spa"
     ],
     "name": "Nicaragua",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NL",
     "alpha3": "NLD",
+    "bounds": [
+      3.133,
+      50.75,
+      7.217,
+      53.683
+    ],
     "countryCallingCodes": [
       "+31"
     ],
@@ -2803,11 +4362,26 @@
       "nld"
     ],
     "name": "Netherlands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NO",
     "alpha3": "NOR",
+    "bounds": [
+      [
+        -9.09887695312,
+        70.8326660156,
+        -7.97880859375,
+        71.1776855469
+      ],
+      [
+        4.7990234375,
+        58.0209472656,
+        30.9606445313,
+        71.1420898438
+      ]
+    ],
     "countryCallingCodes": [
       "+47"
     ],
@@ -2819,11 +4393,21 @@
       "nor"
     ],
     "name": "Norway",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Jan Mayen I.",
+      "Norway"
+    ]
   },
   {
     "alpha2": "NP",
     "alpha3": "NPL",
+    "bounds": [
+      80.0516601563,
+      26.3603027344,
+      88.1615234375,
+      30.3875
+    ],
     "countryCallingCodes": [
       "+977"
     ],
@@ -2835,11 +4419,18 @@
       "nep"
     ],
     "name": "Nepal",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NR",
     "alpha3": "NRU",
+    "bounds": [
+      166.90703125,
+      -0.55078125,
+      166.958398438,
+      -0.48935546875
+    ],
     "countryCallingCodes": [
       "+674"
     ],
@@ -2852,11 +4443,18 @@
       "nau"
     ],
     "name": "Nauru",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NU",
     "alpha3": "NIU",
+    "bounds": [
+      -169.948339844,
+      -19.137890625,
+      -169.793408203,
+      -18.966015625
+    ],
     "countryCallingCodes": [
       "+683"
     ],
@@ -2868,11 +4466,38 @@
       "eng"
     ],
     "name": "Niue",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "NZ",
     "alpha3": "NZL",
+    "bounds": [
+      [
+        172.705957031,
+        -41.6106445312,
+        178.536230469,
+        -34.4291015625
+      ],
+      [
+        166.477636719,
+        -47.263671875,
+        174.370117188,
+        -40.4900390625
+      ],
+      [
+        165.889160156,
+        -52.5703125,
+        169.233496094,
+        -50.5309570312
+      ],
+      [
+        -176.84765625,
+        -44.3305664062,
+        -176.122558594,
+        -43.717578125
+      ]
+    ],
     "countryCallingCodes": [
       "+64"
     ],
@@ -2884,11 +4509,23 @@
       "eng"
     ],
     "name": "New Zealand",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "North I.",
+      "South I.",
+      "N.Z. SubAntarctic Is.",
+      "Chatham Is."
+    ]
   },
   {
     "alpha2": "OM",
     "alpha3": "OMN",
+    "bounds": [
+      51.9776367188,
+      16.6483886719,
+      59.8375,
+      26.3563476563
+    ],
     "countryCallingCodes": [
       "+968"
     ],
@@ -2900,11 +4537,18 @@
       "ara"
     ],
     "name": "Oman",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PA",
     "alpha3": "PAN",
+    "bounds": [
+      -83.02734375,
+      7.22006835938,
+      -77.1959960937,
+      9.5978515625
+    ],
     "countryCallingCodes": [
       "+507"
     ],
@@ -2917,11 +4561,18 @@
       "spa"
     ],
     "name": "Panama",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PE",
     "alpha3": "PER",
+    "bounds": [
+      -81.3366210937,
+      -18.3456054688,
+      -68.6852539062,
+      -0.041748046875
+    ],
     "countryCallingCodes": [
       "+51"
     ],
@@ -2935,11 +4586,18 @@
       "que"
     ],
     "name": "Peru",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PF",
     "alpha3": "PYF",
+    "bounds": [
+      -151.512402344,
+      -20.8758789063,
+      -136.293896484,
+      -8.78154296875
+    ],
     "countryCallingCodes": [
       "+689"
     ],
@@ -2951,11 +4609,26 @@
       "fra"
     ],
     "name": "French Polynesia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PG",
     "alpha3": "PNG",
+    "bounds": [
+      [
+        154.540039063,
+        -6.86279296875,
+        155.957617188,
+        -5.0138671875
+      ],
+      [
+        140.862304687,
+        -11.6305664062,
+        154.280761719,
+        -1.35322265625
+      ]
+    ],
     "countryCallingCodes": [
       "+675"
     ],
@@ -2967,11 +4640,21 @@
       "eng"
     ],
     "name": "Papua New Guinea",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Bougainville",
+      "Papua New Guinea"
+    ]
   },
   {
     "alpha2": "PH",
     "alpha3": "PHL",
+    "bounds": [
+      116.96953125,
+      5.06020507812,
+      126.593359375,
+      20.8412597656
+    ],
     "countryCallingCodes": [
       "+63"
     ],
@@ -2983,11 +4666,18 @@
       "eng"
     ],
     "name": "Philippines",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PK",
     "alpha3": "PAK",
+    "bounds": [
+      60.843359375,
+      23.7533691406,
+      77.0486328125,
+      37.0366699219
+    ],
     "countryCallingCodes": [
       "+92"
     ],
@@ -3000,11 +4690,18 @@
       "eng"
     ],
     "name": "Pakistan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PL",
     "alpha3": "POL",
+    "bounds": [
+      14.1286132813,
+      49.0207519531,
+      24.1057617188,
+      54.8381835937
+    ],
     "countryCallingCodes": [
       "+48"
     ],
@@ -3016,11 +4713,18 @@
       "pol"
     ],
     "name": "Poland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PM",
     "alpha3": "SPM",
+    "bounds": [
+      -56.3869140625,
+      46.7528320312,
+      -56.1373535156,
+      47.0989746094
+    ],
     "countryCallingCodes": [
       "+508"
     ],
@@ -3032,11 +4736,18 @@
       "eng"
     ],
     "name": "Saint Pierre And Miquelon",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PN",
     "alpha3": "PCN",
+    "bounds": [
+      -128.350195313,
+      -24.4125976562,
+      -128.290087891,
+      -24.3232421875
+    ],
     "countryCallingCodes": [
       "+872"
     ],
@@ -3048,11 +4759,18 @@
       "eng"
     ],
     "name": "Pitcairn",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PR",
     "alpha3": "PRI",
+    "bounds": [
+      -67.9370605469,
+      17.947265625,
+      -65.2948730469,
+      18.5221679687
+    ],
     "countryCallingCodes": [
       "+1 787",
       "+1 939"
@@ -3066,11 +4784,26 @@
       "eng"
     ],
     "name": "Puerto Rico",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PS",
     "alpha3": "PSE",
+    "bounds": [
+      [
+        34.1981445313,
+        31.2083007812,
+        34.5255859375,
+        31.5848632812
+      ],
+      [
+        34.8727539063,
+        31.3513183594,
+        35.5720703125,
+        32.5344238281
+      ]
+    ],
     "countryCallingCodes": [
       "+970"
     ],
@@ -3084,11 +4817,35 @@
       "ara"
     ],
     "name": "Palestinian Territory, Occupied",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Gaza",
+      "West Bank"
+    ]
   },
   {
     "alpha2": "PT",
     "alpha3": "PRT",
+    "bounds": [
+      [
+        -31.2829589844,
+        36.9415527344,
+        -25.02734375,
+        39.5208496094
+      ],
+      [
+        -17.3,
+        32.4,
+        -16.25,
+        33.15
+      ],
+      [
+        -9.47973632812,
+        37.0054199219,
+        -6.2125,
+        42.1374023437
+      ]
+    ],
     "countryCallingCodes": [
       "+351"
     ],
@@ -3100,11 +4857,22 @@
       "por"
     ],
     "name": "Portugal",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Azores",
+      "Madeira",
+      "Portugal"
+    ]
   },
   {
     "alpha2": "PW",
     "alpha3": "PLW",
+    "bounds": [
+      131.134960938,
+      3.021875,
+      134.659570313,
+      7.712109375
+    ],
     "countryCallingCodes": [
       "+680"
     ],
@@ -3116,11 +4884,18 @@
       "eng"
     ],
     "name": "Palau",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "PY",
     "alpha3": "PRY",
+    "bounds": [
+      -62.6509765625,
+      -27.5538085938,
+      -54.241796875,
+      -19.2862304688
+    ],
     "countryCallingCodes": [
       "+595"
     ],
@@ -3132,11 +4907,18 @@
       "spa"
     ],
     "name": "Paraguay",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "QA",
     "alpha3": "QAT",
+    "bounds": [
+      50.7545898438,
+      24.5646484375,
+      51.6088867188,
+      26.1532714844
+    ],
     "countryCallingCodes": [
       "+974"
     ],
@@ -3148,11 +4930,18 @@
       "ara"
     ],
     "name": "Qatar",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "RE",
     "alpha3": "REU",
+    "bounds": [
+      55.2328125,
+      -21.3690429688,
+      55.8390625,
+      -20.8651367188
+    ],
     "countryCallingCodes": [
       "+262"
     ],
@@ -3164,11 +4953,18 @@
       "fra"
     ],
     "name": "Reunion",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "RO",
     "alpha3": "ROU",
+    "bounds": [
+      20.241796875,
+      43.6708007812,
+      29.705859375,
+      48.2634765625
+    ],
     "countryCallingCodes": [
       "+40"
     ],
@@ -3180,11 +4976,32 @@
       "ron"
     ],
     "name": "Romania",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "RS",
     "alpha3": "SRB",
+    "bounds": [
+      [
+        18.8390625,
+        44.6326171875,
+        21.533203125,
+        46.1691894531
+      ],
+      [
+        20.0294921875,
+        41.8538085937,
+        21.7529296875,
+        43.2610839844
+      ],
+      [
+        19.1184570313,
+        42.2421386719,
+        22.9768554688,
+        45.0977050781
+      ]
+    ],
     "countryCallingCodes": [
       "+381"
     ],
@@ -3196,11 +5013,42 @@
       "srp"
     ],
     "name": "Serbia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Vojvodina",
+      "Kosovo",
+      "Serbia"
+    ]
   },
   {
     "alpha2": "RU",
     "alpha3": "RUS",
+    "bounds": [
+      [
+        27.351953125,
+        41.1992675781,
+        68.9416992188,
+        81.8541992187
+      ],
+      [
+        19.6043945313,
+        54.3500976562,
+        22.83125,
+        55.2866699219
+      ],
+      [
+        -180,
+        64.2797363281,
+        -169.729150391,
+        71.5961914063
+      ],
+      [
+        52.7350585938,
+        42.3025390625,
+        180,
+        81.28046875
+      ]
+    ],
     "countryCallingCodes": [
       "+7",
       "+7 3",
@@ -3215,11 +5063,23 @@
       "rus"
     ],
     "name": "Russian Federation",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Russia",
+      "Kaliningrad",
+      "Russia",
+      "Russia"
+    ]
   },
   {
     "alpha2": "RW",
     "alpha3": "RWA",
+    "bounds": [
+      28.8576171875,
+      -2.80859375,
+      30.8765625,
+      -1.0630859375
+    ],
     "countryCallingCodes": [
       "+250"
     ],
@@ -3233,11 +5093,18 @@
       "kin"
     ],
     "name": "Rwanda",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SA",
     "alpha3": "SAU",
+    "bounds": [
+      34.6162109375,
+      16.3717773438,
+      55.641015625,
+      32.1245117188
+    ],
     "countryCallingCodes": [
       "+966"
     ],
@@ -3249,11 +5116,18 @@
       "ara"
     ],
     "name": "Saudi Arabia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SB",
     "alpha3": "SLB",
+    "bounds": [
+      155.677539063,
+      -11.8322265625,
+      166.929199219,
+      -6.60888671875
+    ],
     "countryCallingCodes": [
       "+677"
     ],
@@ -3265,11 +5139,18 @@
       "eng"
     ],
     "name": "Solomon Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SC",
     "alpha3": "SYC",
+    "bounds": [
+      55.3833984375,
+      -4.785546875,
+      55.54296875,
+      -4.5587890625
+    ],
     "countryCallingCodes": [
       "+248"
     ],
@@ -3282,11 +5163,18 @@
       "fra"
     ],
     "name": "Seychelles",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SD",
     "alpha3": "SDN",
+    "bounds": [
+      21.8252929688,
+      8.665625,
+      38.6094726563,
+      22.2024414063
+    ],
     "countryCallingCodes": [
       "+249"
     ],
@@ -3299,11 +5187,18 @@
       "eng"
     ],
     "name": "Sudan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SE",
     "alpha3": "SWE",
+    "bounds": [
+      11.1471679688,
+      55.3463867188,
+      24.15546875,
+      69.0368652344
+    ],
     "countryCallingCodes": [
       "+46"
     ],
@@ -3315,11 +5210,18 @@
       "swe"
     ],
     "name": "Sweden",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SG",
     "alpha3": "SGP",
+    "bounds": [
+      103.650195312,
+      1.26538085938,
+      103.996386719,
+      1.4470703125
+    ],
     "countryCallingCodes": [
       "+65"
     ],
@@ -3334,11 +5236,26 @@
       "tam"
     ],
     "name": "Singapore",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SH",
     "alpha3": "SHN",
+    "bounds": [
+      [
+        -14.4149414062,
+        -7.97578125,
+        -14.3025390625,
+        -7.8826171875
+      ],
+      [
+        -5.78251953125,
+        -16.0040039063,
+        -5.65971679687,
+        -15.9061523438
+      ]
+    ],
     "countryCallingCodes": [
       "+290"
     ],
@@ -3350,11 +5267,21 @@
       "eng"
     ],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Ascension",
+      "Saint Helena"
+    ]
   },
   {
     "alpha2": "SI",
     "alpha3": "SVN",
+    "bounds": [
+      13.3782226563,
+      45.4283691406,
+      16.5162109375,
+      46.86328125
+    ],
     "countryCallingCodes": [
       "+386"
     ],
@@ -3366,11 +5293,18 @@
       "slv"
     ],
     "name": "Slovenia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SJ",
     "alpha3": "SJM",
+    "bounds": [
+      10.5576171875,
+      74.3521484375,
+      33.629296875,
+      80.4778320312
+    ],
     "countryCallingCodes": [
       "+47"
     ],
@@ -3380,11 +5314,18 @@
     "ioc": "",
     "languages": [],
     "name": "Svalbard And Jan Mayen",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SK",
     "alpha3": "SVK",
+    "bounds": [
+      16.8626953125,
+      47.7634277344,
+      22.538671875,
+      49.5977050781
+    ],
     "countryCallingCodes": [
       "+421"
     ],
@@ -3396,11 +5337,18 @@
       "slk"
     ],
     "name": "Slovakia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SL",
     "alpha3": "SLE",
+    "bounds": [
+      -13.2926757812,
+      6.90654296875,
+      -10.283203125,
+      9.99653320312
+    ],
     "countryCallingCodes": [
       "+232"
     ],
@@ -3412,11 +5360,18 @@
       "eng"
     ],
     "name": "Sierra Leone",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SM",
     "alpha3": "SMR",
+    "bounds": [
+      12.396875,
+      43.8940917969,
+      12.5146484375,
+      43.9897460938
+    ],
     "countryCallingCodes": [
       "+378"
     ],
@@ -3428,11 +5383,18 @@
       "ita"
     ],
     "name": "San Marino",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SN",
     "alpha3": "SEN",
+    "bounds": [
+      -17.5356445312,
+      12.3280273437,
+      -11.382421875,
+      16.67890625
+    ],
     "countryCallingCodes": [
       "+221"
     ],
@@ -3444,11 +5406,26 @@
       "fra"
     ],
     "name": "Senegal",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SO",
     "alpha3": "SOM",
+    "bounds": [
+      [
+        40.964453125,
+        -1.6953125,
+        51.390234375,
+        11.9836914062
+      ],
+      [
+        42.6564453125,
+        7.9970703125,
+        48.9385742188,
+        11.4998046875
+      ]
+    ],
     "countryCallingCodes": [
       "+252"
     ],
@@ -3460,11 +5437,21 @@
       "som"
     ],
     "name": "Somalia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Somalia",
+      "Somaliland"
+    ]
   },
   {
     "alpha2": "SR",
     "alpha3": "SUR",
+    "bounds": [
+      -58.0544921875,
+      1.84223632812,
+      -53.9904785156,
+      5.99345703125
+    ],
     "countryCallingCodes": [
       "+597"
     ],
@@ -3476,11 +5463,18 @@
       "nld"
     ],
     "name": "Suriname",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SS",
     "alpha3": "SSD",
+    "bounds": [
+      24.1473632813,
+      3.49072265625,
+      35.268359375,
+      12.2230957031
+    ],
     "countryCallingCodes": [
       "+211"
     ],
@@ -3492,11 +5486,26 @@
       "eng"
     ],
     "name": "South Sudan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ST",
     "alpha3": "STP",
+    "bounds": [
+      [
+        7.3306640625,
+        1.54155273437,
+        7.45234375,
+        1.69912109375
+      ],
+      [
+        6.4681640625,
+        0.04736328125,
+        6.75,
+        0.40439453125
+      ]
+    ],
     "countryCallingCodes": [
       "+239"
     ],
@@ -3508,11 +5517,16 @@
       "por"
     ],
     "name": "São Tomé and Príncipe",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Principe",
+      "Sao Tome"
+    ]
   },
   {
     "alpha2": "SU",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "RUB"
@@ -3522,11 +5536,18 @@
       "rus"
     ],
     "name": "USSR",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "SV",
     "alpha3": "SLV",
+    "bounds": [
+      -90.1059082031,
+      13.1640136719,
+      -87.7153320312,
+      14.4311035156
+    ],
     "countryCallingCodes": [
       "+503"
     ],
@@ -3538,11 +5559,18 @@
       "spa"
     ],
     "name": "El Salvador",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SX",
     "alpha3": "SXM",
+    "bounds": [
+      -63.1247070312,
+      18.0191894531,
+      -63.0111816406,
+      18.0689453125
+    ],
     "countryCallingCodes": [
       "+1 721"
     ],
@@ -3554,11 +5582,18 @@
       "nld"
     ],
     "name": "Sint Maarten",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SY",
     "alpha3": "SYR",
+    "bounds": [
+      35.764453125,
+      32.3172851562,
+      42.3590820313,
+      37.297265625
+    ],
     "countryCallingCodes": [
       "+963"
     ],
@@ -3570,11 +5605,18 @@
       "ara"
     ],
     "name": "Syrian Arab Republic",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "SZ",
     "alpha3": "SWZ",
+    "bounds": [
+      30.7875,
+      -27.3099609375,
+      32.112890625,
+      -25.74296875
+    ],
     "countryCallingCodes": [
       "+268"
     ],
@@ -3587,11 +5629,13 @@
       "ssw"
     ],
     "name": "Swaziland",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TA",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [
       "+290"
     ],
@@ -3601,11 +5645,18 @@
     "ioc": "",
     "languages": [],
     "name": "Tristan de Cunha",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "TC",
     "alpha3": "TCA",
+    "bounds": [
+      -72.3423828125,
+      21.7517089844,
+      -71.6369140625,
+      21.9519042969
+    ],
     "countryCallingCodes": [
       "+1 649"
     ],
@@ -3617,11 +5668,18 @@
       "eng"
     ],
     "name": "Turks And Caicos Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TD",
     "alpha3": "TCD",
+    "bounds": [
+      13.4482421875,
+      7.47529296875,
+      23.9833984375,
+      23.4452148437
+    ],
     "countryCallingCodes": [
       "+235"
     ],
@@ -3634,11 +5692,18 @@
       "fra"
     ],
     "name": "Chad",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TF",
     "alpha3": "ATF",
+    "bounds": [
+      51.6592773438,
+      -49.7098632812,
+      70.55546875,
+      -46.3268554687
+    ],
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -3648,11 +5713,18 @@
       "fra"
     ],
     "name": "French Southern Territories",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TG",
     "alpha3": "TGO",
+    "bounds": [
+      -0.090185546875,
+      6.08940429687,
+      1.7779296875,
+      11.115625
+    ],
     "countryCallingCodes": [
       "+228"
     ],
@@ -3664,11 +5736,18 @@
       "fra"
     ],
     "name": "Togo",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TH",
     "alpha3": "THA",
+    "bounds": [
+      97.3739257812,
+      5.63676757813,
+      105.641015625,
+      20.4244140625
+    ],
     "countryCallingCodes": [
       "+66"
     ],
@@ -3680,11 +5759,18 @@
       "tha"
     ],
     "name": "Thailand",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TJ",
     "alpha3": "TJK",
+    "bounds": [
+      67.349609375,
+      36.6840332031,
+      75.11875,
+      41.0351074219
+    ],
     "countryCallingCodes": [
       "+992"
     ],
@@ -3697,11 +5783,18 @@
       "rus"
     ],
     "name": "Tajikistan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TK",
     "alpha3": "TKL",
+    "bounds": [
+      -172.498681641,
+      -9.35830078125,
+      -171.186425781,
+      -8.546484375
+    ],
     "countryCallingCodes": [
       "+690"
     ],
@@ -3713,11 +5806,26 @@
       "eng"
     ],
     "name": "Tokelau",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TL",
     "alpha3": "TLS",
+    "bounds": [
+      [
+        124.036328125,
+        -9.4279296875,
+        124.444433594,
+        -9.19033203125
+      ],
+      [
+        124.915039062,
+        -9.5119140625,
+        127.29609375,
+        -8.13994140625
+      ]
+    ],
     "countryCallingCodes": [
       "+670"
     ],
@@ -3729,11 +5837,21 @@
       "por"
     ],
     "name": "Timor-Leste, Democratic Republic of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Pante Makasar",
+      "Timor-Leste"
+    ]
   },
   {
     "alpha2": "TM",
     "alpha3": "TKM",
+    "bounds": [
+      52.4938476563,
+      35.1708007813,
+      66.629296875,
+      42.7784667969
+    ],
     "countryCallingCodes": [
       "+993"
     ],
@@ -3746,11 +5864,18 @@
       "rus"
     ],
     "name": "Turkmenistan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TN",
     "alpha3": "TUN",
+    "bounds": [
+      7.49560546875,
+      30.2293945312,
+      11.5359375,
+      37.3403808594
+    ],
     "countryCallingCodes": [
       "+216"
     ],
@@ -3762,11 +5887,18 @@
       "ara"
     ],
     "name": "Tunisia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TO",
     "alpha3": "TON",
+    "bounds": [
+      -175.362353516,
+      -21.4505859375,
+      -173.921875,
+      -18.5653320313
+    ],
     "countryCallingCodes": [
       "+676"
     ],
@@ -3778,11 +5910,18 @@
       "eng"
     ],
     "name": "Tonga",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TR",
     "alpha3": "TUR",
+    "bounds": [
+      25.6689453125,
+      35.8314453125,
+      44.8171875,
+      42.0932617188
+    ],
     "countryCallingCodes": [
       "+90"
     ],
@@ -3794,11 +5933,26 @@
       "tur"
     ],
     "name": "Turkey",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TT",
     "alpha3": "TTO",
+    "bounds": [
+      [
+        -61.9061035156,
+        10.0646484375,
+        -60.9176269531,
+        10.840234375
+      ],
+      [
+        -60.8106445312,
+        11.1686035156,
+        -60.5254882812,
+        11.325390625
+      ]
+    ],
     "countryCallingCodes": [
       "+1 868"
     ],
@@ -3810,11 +5964,21 @@
       "eng"
     ],
     "name": "Trinidad And Tobago",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Trinidad",
+      "Tobago"
+    ]
   },
   {
     "alpha2": "TV",
     "alpha3": "TUV",
+    "bounds": [
+      176.7,
+      -12.7,
+      180,
+      -5.4
+    ],
     "countryCallingCodes": [
       "+688"
     ],
@@ -3826,11 +5990,18 @@
       "eng"
     ],
     "name": "Tuvalu",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TW",
     "alpha3": "TWN",
+    "bounds": [
+      118.287304688,
+      21.925,
+      121.929003906,
+      25.2769042969
+    ],
     "countryCallingCodes": [
       "+886"
     ],
@@ -3842,11 +6013,26 @@
       "zho"
     ],
     "name": "Taiwan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "TZ",
     "alpha3": "TZA",
+    "bounds": [
+      [
+        29.3234375,
+        -11.7162109375,
+        40.4635742188,
+        -0.994921875
+      ],
+      [
+        39.1823242188,
+        -6.4537109375,
+        39.8709960937,
+        -4.90615234375
+      ]
+    ],
     "countryCallingCodes": [
       "+255"
     ],
@@ -3859,11 +6045,21 @@
       "eng"
     ],
     "name": "Tanzania, United Republic Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Tanzania",
+      "Zanzibar"
+    ]
   },
   {
     "alpha2": "UA",
     "alpha3": "UKR",
+    "bounds": [
+      22.1318359375,
+      44.3875976562,
+      40.1283203125,
+      52.3535644531
+    ],
     "countryCallingCodes": [
       "+380"
     ],
@@ -3876,11 +6072,18 @@
       "rus"
     ],
     "name": "Ukraine",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "UG",
     "alpha3": "UGA",
+    "bounds": [
+      29.5619140625,
+      -1.469921875,
+      34.9782226563,
+      4.22021484375
+    ],
     "countryCallingCodes": [
       "+256"
     ],
@@ -3893,11 +6096,13 @@
       "swa"
     ],
     "name": "Uganda",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "UK",
     "alpha3": "",
+    "bounds": [],
     "countryCallingCodes": [],
     "currencies": [
       "GBP"
@@ -3911,11 +6116,13 @@
       "cym"
     ],
     "name": "United Kingdom",
-    "status": "reserved"
+    "status": "reserved",
+    "subunits": []
   },
   {
     "alpha2": "UM",
     "alpha3": "UMI",
+    "bounds": [],
     "countryCallingCodes": [
       "+1"
     ],
@@ -3927,11 +6134,38 @@
       "eng"
     ],
     "name": "United States Minor Outlying Islands",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "US",
     "alpha3": "USA",
+    "bounds": [
+      [
+        -124.709960938,
+        24.5423339844,
+        -66.9870117187,
+        49.3696777344
+      ],
+      [
+        172.494824219,
+        51.3722167969,
+        179.779980469,
+        53.0129882813
+      ],
+      [
+        -178.19453125,
+        51.6036621094,
+        -130.0140625,
+        71.4076660156
+      ],
+      [
+        -160.243457031,
+        18.9639160156,
+        -154.804199219,
+        22.2231445312
+      ]
+    ],
     "countryCallingCodes": [
       "+1"
     ],
@@ -3943,11 +6177,23 @@
       "eng"
     ],
     "name": "United States",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "U.S.A.",
+      "Alaska",
+      "Alaska",
+      "Hawaii"
+    ]
   },
   {
     "alpha2": "UY",
     "alpha3": "URY",
+    "bounds": [
+      -58.4381347656,
+      -34.9328125,
+      -53.1255859375,
+      -30.1010742188
+    ],
     "countryCallingCodes": [
       "+598"
     ],
@@ -3960,11 +6206,18 @@
       "spa"
     ],
     "name": "Uruguay",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "UZ",
     "alpha3": "UZB",
+    "bounds": [
+      55.9756835938,
+      37.1722167969,
+      73.1369140625,
+      45.5553710938
+    ],
     "countryCallingCodes": [
       "+998"
     ],
@@ -3977,11 +6230,18 @@
       "rus"
     ],
     "name": "Uzbekistan",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VA",
     "alpha3": "VAT",
+    "bounds": [
+      12.4275390625,
+      41.8975585937,
+      12.4391601563,
+      41.9062011719
+    ],
     "countryCallingCodes": [
       "+379",
       "+39"
@@ -3994,11 +6254,18 @@
       "ita"
     ],
     "name": "Vatican City State",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VC",
     "alpha3": "VCT",
+    "bounds": [
+      -61.353515625,
+      12.6947265625,
+      -61.1240234375,
+      13.3587402344
+    ],
     "countryCallingCodes": [
       "+1 784"
     ],
@@ -4010,11 +6277,18 @@
       "eng"
     ],
     "name": "Saint Vincent And The Grenadines",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VE",
     "alpha3": "VEN",
+    "bounds": [
+      -73.3662109375,
+      0.68798828125,
+      -59.82890625,
+      12.1778808594
+    ],
     "countryCallingCodes": [
       "+58"
     ],
@@ -4026,11 +6300,18 @@
       "spa"
     ],
     "name": "Venezuela, Bolivarian Republic Of",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VG",
     "alpha3": "VGB",
+    "bounds": [
+      -64.6951171875,
+      18.3991210938,
+      -64.2735839844,
+      18.7526855469
+    ],
     "countryCallingCodes": [
       "+1 284"
     ],
@@ -4042,11 +6323,18 @@
       "eng"
     ],
     "name": "Virgin Islands (British)",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VI",
     "alpha3": "VIR",
+    "bounds": [
+      -65.0236328125,
+      17.7017089844,
+      -64.58046875,
+      18.3852050781
+    ],
     "countryCallingCodes": [
       "+1 340"
     ],
@@ -4058,11 +6346,18 @@
       "eng"
     ],
     "name": "Virgin Islands (US)",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VN",
     "alpha3": "VNM",
+    "bounds": [
+      102.127441406,
+      8.58325195312,
+      109.444921875,
+      23.3452148438
+    ],
     "countryCallingCodes": [
       "+84"
     ],
@@ -4074,11 +6369,18 @@
       "vie"
     ],
     "name": "Viet Nam",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "VU",
     "alpha3": "VUT",
+    "bounds": [
+      166.526074219,
+      -20.241796875,
+      169.896289063,
+      -13.7094726563
+    ],
     "countryCallingCodes": [
       "+678"
     ],
@@ -4092,11 +6394,18 @@
       "fra"
     ],
     "name": "Vanuatu",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "WF",
     "alpha3": "WLF",
+    "bounds": [
+      -178.194384766,
+      -14.3249023437,
+      -176.128076172,
+      -13.2216796875
+    ],
     "countryCallingCodes": [
       "+681"
     ],
@@ -4108,11 +6417,18 @@
       "fra"
     ],
     "name": "Wallis And Futuna",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "WS",
     "alpha3": "WSM",
+    "bounds": [
+      -172.778515625,
+      -14.047265625,
+      -171.449560547,
+      -13.465234375
+    ],
     "countryCallingCodes": [
       "+685"
     ],
@@ -4125,11 +6441,26 @@
       "smo"
     ],
     "name": "Samoa",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "YE",
     "alpha3": "YEM",
+    "bounds": [
+      [
+        42.5490234375,
+        12.6076660156,
+        53.0856445313,
+        18.9961425781
+      ],
+      [
+        53.3158203125,
+        12.3189941406,
+        54.5111328125,
+        12.7157714844
+      ]
+    ],
     "countryCallingCodes": [
       "+967"
     ],
@@ -4141,11 +6472,21 @@
       "ara"
     ],
     "name": "Yemen",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Yemen",
+      "Socotra"
+    ]
   },
   {
     "alpha2": "YT",
     "alpha3": "MYT",
+    "bounds": [
+      45.042578125,
+      -12.9849609375,
+      45.2231445312,
+      -12.6530273438
+    ],
     "countryCallingCodes": [
       "+262"
     ],
@@ -4157,11 +6498,26 @@
       "fra"
     ],
     "name": "Mayotte",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ZA",
     "alpha3": "ZAF",
+    "bounds": [
+      [
+        37.5900390625,
+        -46.962890625,
+        37.8876953125,
+        -46.8240234375
+      ],
+      [
+        16.4475585938,
+        -34.7857421875,
+        32.8861328125,
+        -22.1462890625
+      ]
+    ],
     "countryCallingCodes": [
       "+27"
     ],
@@ -4180,11 +6536,21 @@
       "zul"
     ],
     "name": "South Africa",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": [
+      "Prince Edward Is.",
+      "South Africa"
+    ]
   },
   {
     "alpha2": "ZM",
     "alpha3": "ZMB",
+    "bounds": [
+      21.97890625,
+      -18.0415039062,
+      33.6615234375,
+      -8.19365234375
+    ],
     "countryCallingCodes": [
       "+260"
     ],
@@ -4196,11 +6562,18 @@
       "eng"
     ],
     "name": "Zambia",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   },
   {
     "alpha2": "ZW",
     "alpha3": "ZWE",
+    "bounds": [
+      25.2240234375,
+      -22.4020507813,
+      33.0067382813,
+      -15.6430664062
+    ],
     "countryCallingCodes": [
       "+263"
     ],
@@ -4218,6 +6591,7 @@
       "nde"
     ],
     "name": "Zimbabwe",
-    "status": "assigned"
+    "status": "assigned",
+    "subunits": []
   }
 ]

@@ -24,6 +24,8 @@ The data currently provided for each country is:
   * `languages` An array of [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2) codes for languages (may not be complete).
   * `countryCallingCodes` An array of the international call prefixes for this country.
   * `ioc` The [International Olympic Committee country code](http://en.wikipedia.org/wiki/List_of_IOC_country_codes)
+  * `subunits` Geographically disjoint components like Alaska in the USA, administratively distinct regions such as the countries of Great Britain, or overseas islands for many European nations.
+  * `bounds` Bounding box as (lon1, lat1, lon2, lat2). If `subunits` are given, `bounds` contains separate array items for each subunit.
 
 ## Regions
 
