@@ -1,6 +1,6 @@
 # Changes
 
-## NEXT
+## v0.0.24
 
   * Added Kosovo as a "user assigned" entry (thanks @doapp-ryanp)
 
