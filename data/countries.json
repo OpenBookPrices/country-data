@@ -4128,6 +4128,26 @@
     "status": "assigned"
   },
   {
+    "alpha2": "XK",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+383"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "sqi",
+      "srp",
+      "bos",
+      "tur",
+      "rom"
+    ],
+    "name": "Kosovo",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "YE",
     "alpha3": "YEM",
     "countryCallingCodes": [

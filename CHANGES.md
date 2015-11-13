@@ -1,5 +1,9 @@
 # Changes
 
+## NEXT
+
+  * Added Kosovo as a "user assigned" entry (thanks @doapp-ryanp)
+
 ## v0.0.23
 
   * Change license from AGPL3 to MIT (thanks @aduis)
