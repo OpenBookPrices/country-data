@@ -110,7 +110,7 @@
     "ioc": "",
     "languages": [],
     "name": "French Afar and Issas",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "AL",
@@ -156,7 +156,7 @@
     "ioc": "",
     "languages": [],
     "name": "Netherlands Antilles",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "AO",
@@ -563,7 +563,7 @@
     "ioc": "",
     "languages": [],
     "name": "British Antarctic Territory",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "BR",
@@ -626,7 +626,7 @@
     "ioc": "",
     "languages": [],
     "name": "Burma",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "BV",
@@ -686,7 +686,7 @@
     "ioc": "",
     "languages": [],
     "name": "Byelorussian SSR",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "BZ",
@@ -963,7 +963,7 @@
     "ioc": "",
     "languages": [],
     "name": "Czechoslovakia",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "CS",
@@ -974,7 +974,7 @@
     "ioc": "",
     "languages": [],
     "name": "Serbia and Montenegro",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "CT",
@@ -985,7 +985,7 @@
     "ioc": "",
     "languages": [],
     "name": "Canton and Enderbury Islands",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "CU",
@@ -1100,7 +1100,7 @@
     "ioc": "",
     "languages": [],
     "name": "German Democratic Republic",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "DE",
@@ -1212,7 +1212,7 @@
     "ioc": "",
     "languages": [],
     "name": "Dahomey",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "DZ",
@@ -1476,7 +1476,7 @@
     "ioc": "",
     "languages": [],
     "name": "French Southern and Antarctic Territories",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "FR",
@@ -1593,7 +1593,7 @@
     "ioc": "",
     "languages": [],
     "name": "Gilbert and Ellice Islands",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "GF",
@@ -1960,7 +1960,7 @@
     "ioc": "",
     "languages": [],
     "name": "Upper Volta",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "IC",
@@ -2229,7 +2229,7 @@
     "ioc": "",
     "languages": [],
     "name": "Johnston Island",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "KE",
@@ -2746,7 +2746,7 @@
     "ioc": "",
     "languages": [],
     "name": "Midway Islands",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "MK",
@@ -3118,7 +3118,7 @@
     "ioc": "",
     "languages": [],
     "name": "New Hebrides",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "NI",
@@ -3197,7 +3197,7 @@
     "ioc": "",
     "languages": [],
     "name": "Dronning Maud Land",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "NR",
@@ -3226,7 +3226,7 @@
     "ioc": "",
     "languages": [],
     "name": "Neutral Zone",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "NU",
@@ -3306,7 +3306,7 @@
     "ioc": "",
     "languages": [],
     "name": "Pacific Islands, Trust Territory of the",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "PE",
@@ -3511,7 +3511,7 @@
     "ioc": "",
     "languages": [],
     "name": "U.S. Miscellaneous Pacific Islands",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "PW",
@@ -3556,7 +3556,7 @@
     "ioc": "",
     "languages": [],
     "name": "Panama Canal Zone",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "QA",
@@ -3601,7 +3601,7 @@
     "ioc": "",
     "languages": [],
     "name": "Southern Rhodesia",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "RO",
@@ -3858,7 +3858,7 @@
     "ioc": "",
     "languages": [],
     "name": "Sikkim",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "SL",
@@ -4275,7 +4275,7 @@
     "ioc": "",
     "languages": [],
     "name": "East Timor",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "TR",
@@ -4532,7 +4532,7 @@
     "ioc": "",
     "languages": [],
     "name": "Viet-Nam, Democratic Republic of",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "VE",
@@ -4647,7 +4647,7 @@
     "ioc": "",
     "languages": [],
     "name": "Wake Island",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "WS",
@@ -4697,7 +4697,7 @@
     "ioc": "",
     "languages": [],
     "name": "Yemen, Democratic",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "YE",
@@ -4742,7 +4742,7 @@
     "ioc": "",
     "languages": [],
     "name": "Yugoslavia",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "ZA",
@@ -4794,7 +4794,7 @@
     "ioc": "",
     "languages": [],
     "name": "Zaire",
-    "status": "assigned"
+    "status": "deleted"
   },
   {
     "alpha2": "ZW",
