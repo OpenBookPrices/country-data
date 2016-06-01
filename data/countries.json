@@ -1513,17 +1513,6 @@
     "status": "reserved"
   },
   {
-    "alpha2": "FX",
-    "alpha3": "FXX",
-    "countryCallingCodes": [],
-    "currencies": [],
-    "deletedFlag": true,
-    "ioc": "",
-    "languages": [],
-    "name": "France, Metropolitan",
-    "status": "assigned"
-  },
-  {
     "alpha2": "GA",
     "alpha3": "GAB",
     "countryCallingCodes": [
@@ -4004,17 +3993,6 @@
     ],
     "name": "USSR",
     "status": "reserved"
-  },
-  {
-    "alpha2": "SU",
-    "alpha3": "SUN",
-    "countryCallingCodes": [],
-    "currencies": [],
-    "deletedFlag": true,
-    "ioc": "",
-    "languages": [],
-    "name": "USSR",
-    "status": "assigned"
   },
   {
     "alpha2": "SV",
