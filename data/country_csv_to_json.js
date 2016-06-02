@@ -13,7 +13,7 @@ var countriesFilename = 'countries.csv';
 var deletedCountriesFilename = 'deleted_countries.csv';
 
 
-function readFile(filename, deletedFlag) {
+function readFile(filename) {
   return new Promise(function (resolve) {
     var csvFile = path.join( __dirname, filename );
     var parser = csv.parse({"columns": true});
@@ -21,7 +21,6 @@ function readFile(filename, deletedFlag) {
     parser.on('readable', function () {
       var record = null;
       while(record = parser.read()){
-        record.deletedFlag = deletedFlag;
         output.push(record);
       }
     });
@@ -34,8 +33,8 @@ function readFile(filename, deletedFlag) {
   });
 }
 
-var countriesPromise = readFile(countriesFilename, false);
-var deletedCountriesPromise = readFile(deletedCountriesFilename, true);
+var countriesPromise = readFile(countriesFilename);
+var deletedCountriesPromise = readFile(deletedCountriesFilename);
 
 Promise.all([countriesPromise, deletedCountriesPromise])
   .then(function (resulsts){

@@ -8,7 +8,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "SHP",
     "languages": [
       "eng"
@@ -25,7 +24,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "AND",
     "languages": [
       "cat"
@@ -42,7 +40,6 @@
     "currencies": [
       "AED"
     ],
-    "deletedFlag": false,
     "ioc": "UAE",
     "languages": [
       "ara"
@@ -59,7 +56,6 @@
     "currencies": [
       "AFN"
     ],
-    "deletedFlag": false,
     "ioc": "AFG",
     "languages": [
       "pus"
@@ -76,7 +72,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "ANT",
     "languages": [
       "eng"
@@ -93,7 +88,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -106,11 +100,10 @@
     "alpha3": "AFI",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "French Afar and Issas",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "AL",
@@ -121,7 +114,6 @@
     "currencies": [
       "ALL"
     ],
-    "deletedFlag": false,
     "ioc": "ALB",
     "languages": [
       "sqi"
@@ -138,7 +130,6 @@
     "currencies": [
       "AMD"
     ],
-    "deletedFlag": false,
     "ioc": "ARM",
     "languages": [
       "hye",
@@ -152,11 +143,10 @@
     "alpha3": "ANT",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Netherlands Antilles",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "AO",
@@ -167,7 +157,6 @@
     "currencies": [
       "AOA"
     ],
-    "deletedFlag": false,
     "ioc": "ANG",
     "languages": [
       "por"
@@ -182,7 +171,6 @@
       "+672"
     ],
     "currencies": [],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Antarctica",
@@ -197,7 +185,6 @@
     "currencies": [
       "ARS"
     ],
-    "deletedFlag": false,
     "ioc": "ARG",
     "languages": [
       "spa"
@@ -214,7 +201,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "ASA",
     "languages": [
       "eng",
@@ -232,7 +218,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "AUT",
     "languages": [
       "deu"
@@ -249,7 +234,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "AUS",
     "languages": [
       "eng"
@@ -266,7 +250,6 @@
     "currencies": [
       "AWG"
     ],
-    "deletedFlag": false,
     "ioc": "ARU",
     "languages": [
       "nld"
@@ -283,7 +266,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "swe"
@@ -300,7 +282,6 @@
     "currencies": [
       "AZN"
     ],
-    "deletedFlag": false,
     "ioc": "AZE",
     "languages": [
       "aze"
@@ -317,7 +298,6 @@
     "currencies": [
       "BAM"
     ],
-    "deletedFlag": false,
     "ioc": "BIH",
     "languages": [
       "bos",
@@ -336,7 +316,6 @@
     "currencies": [
       "BBD"
     ],
-    "deletedFlag": false,
     "ioc": "BAR",
     "languages": [
       "eng"
@@ -353,7 +332,6 @@
     "currencies": [
       "BDT"
     ],
-    "deletedFlag": false,
     "ioc": "BAN",
     "languages": [
       "ben"
@@ -370,7 +348,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "BEL",
     "languages": [
       "nld",
@@ -389,7 +366,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "BUR",
     "languages": [
       "fra"
@@ -406,7 +382,6 @@
     "currencies": [
       "BGN"
     ],
-    "deletedFlag": false,
     "ioc": "BUL",
     "languages": [
       "bul"
@@ -423,7 +398,6 @@
     "currencies": [
       "BHD"
     ],
-    "deletedFlag": false,
     "ioc": "BRN",
     "languages": [
       "ara"
@@ -440,7 +414,6 @@
     "currencies": [
       "BIF"
     ],
-    "deletedFlag": false,
     "ioc": "BDI",
     "languages": [
       "fra"
@@ -457,7 +430,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "BEN",
     "languages": [
       "fra"
@@ -474,7 +446,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -491,7 +462,6 @@
     "currencies": [
       "BMD"
     ],
-    "deletedFlag": false,
     "ioc": "BER",
     "languages": [
       "eng"
@@ -508,7 +478,6 @@
     "currencies": [
       "BND"
     ],
-    "deletedFlag": false,
     "ioc": "BRU",
     "languages": [
       "msa",
@@ -527,7 +496,6 @@
       "BOB",
       "BOV"
     ],
-    "deletedFlag": false,
     "ioc": "BOL",
     "languages": [
       "spa",
@@ -546,7 +514,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "nld"
@@ -559,11 +526,10 @@
     "alpha3": " ATB",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "British Antarctic Territory",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "BR",
@@ -574,7 +540,6 @@
     "currencies": [
       "BRL"
     ],
-    "deletedFlag": false,
     "ioc": "BRA",
     "languages": [
       "por"
@@ -591,7 +556,6 @@
     "currencies": [
       "BSD"
     ],
-    "deletedFlag": false,
     "ioc": "BAH",
     "languages": [
       "eng"
@@ -609,7 +573,6 @@
       "INR",
       "BTN"
     ],
-    "deletedFlag": false,
     "ioc": "BHU",
     "languages": [
       "dzo"
@@ -622,11 +585,10 @@
     "alpha3": "BUR",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Burma",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "BV",
@@ -635,7 +597,6 @@
     "currencies": [
       "NOK"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Bouvet Island",
@@ -650,7 +611,6 @@
     "currencies": [
       "BWP"
     ],
-    "deletedFlag": false,
     "ioc": "BOT",
     "languages": [
       "eng",
@@ -668,7 +628,6 @@
     "currencies": [
       "BYR"
     ],
-    "deletedFlag": false,
     "ioc": "BLR",
     "languages": [
       "bel",
@@ -682,11 +641,10 @@
     "alpha3": "BYS",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Byelorussian SSR",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "BZ",
@@ -697,7 +655,6 @@
     "currencies": [
       "BZD"
     ],
-    "deletedFlag": false,
     "ioc": "BIZ",
     "languages": [
       "eng"
@@ -714,7 +671,6 @@
     "currencies": [
       "CAD"
     ],
-    "deletedFlag": false,
     "ioc": "CAN",
     "languages": [
       "eng",
@@ -732,7 +688,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -749,7 +704,6 @@
     "currencies": [
       "CDF"
     ],
-    "deletedFlag": false,
     "ioc": "COD",
     "languages": [
       "fra",
@@ -769,7 +723,6 @@
     "currencies": [
       "XAF"
     ],
-    "deletedFlag": false,
     "ioc": "CAF",
     "languages": [
       "fra",
@@ -787,7 +740,6 @@
     "currencies": [
       "XAF"
     ],
-    "deletedFlag": false,
     "ioc": "CGO",
     "languages": [
       "fra",
@@ -807,7 +759,6 @@
       "CHE",
       "CHW"
     ],
-    "deletedFlag": false,
     "ioc": "SUI",
     "languages": [
       "deu",
@@ -827,7 +778,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "CIV",
     "languages": [
       "fra"
@@ -844,7 +794,6 @@
     "currencies": [
       "NZD"
     ],
-    "deletedFlag": false,
     "ioc": "COK",
     "languages": [
       "eng",
@@ -863,7 +812,6 @@
       "CLP",
       "CLF"
     ],
-    "deletedFlag": false,
     "ioc": "CHI",
     "languages": [
       "spa"
@@ -880,7 +828,6 @@
     "currencies": [
       "XAF"
     ],
-    "deletedFlag": false,
     "ioc": "CMR",
     "languages": [
       "eng",
@@ -898,7 +845,6 @@
     "currencies": [
       "CNY"
     ],
-    "deletedFlag": false,
     "ioc": "CHN",
     "languages": [
       "zho"
@@ -916,7 +862,6 @@
       "COP",
       "COU"
     ],
-    "deletedFlag": false,
     "ioc": "COL",
     "languages": [
       "spa"
@@ -931,7 +876,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Clipperton Island",
@@ -946,7 +890,6 @@
     "currencies": [
       "CRC"
     ],
-    "deletedFlag": false,
     "ioc": "CRC",
     "languages": [
       "spa"
@@ -959,33 +902,30 @@
     "alpha3": "CSK",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Czechoslovakia",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "CS",
     "alpha3": "SCG",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Serbia and Montenegro",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "CT",
     "alpha3": "CTE",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Canton and Enderbury Islands",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "CU",
@@ -997,7 +937,6 @@
       "CUP",
       "CUC"
     ],
-    "deletedFlag": false,
     "ioc": "CUB",
     "languages": [
       "spa"
@@ -1014,7 +953,6 @@
     "currencies": [
       "CVE"
     ],
-    "deletedFlag": false,
     "ioc": "CPV",
     "languages": [
       "por"
@@ -1031,7 +969,6 @@
     "currencies": [
       "ANG"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "nld"
@@ -1048,7 +985,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -1065,7 +1001,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "CYP",
     "languages": [
       "ell",
@@ -1083,7 +1018,6 @@
     "currencies": [
       "CZK"
     ],
-    "deletedFlag": false,
     "ioc": "CZE",
     "languages": [
       "ces"
@@ -1096,11 +1030,10 @@
     "alpha3": "DDR",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "German Democratic Republic",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "DE",
@@ -1111,7 +1044,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "GER",
     "languages": [
       "deu"
@@ -1126,7 +1058,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Diego Garcia",
@@ -1141,7 +1072,6 @@
     "currencies": [
       "DJF"
     ],
-    "deletedFlag": false,
     "ioc": "DJI",
     "languages": [
       "ara",
@@ -1159,7 +1089,6 @@
     "currencies": [
       "DKK"
     ],
-    "deletedFlag": false,
     "ioc": "DEN",
     "languages": [
       "dan"
@@ -1176,7 +1105,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "DMA",
     "languages": [
       "eng"
@@ -1195,7 +1123,6 @@
     "currencies": [
       "DOP"
     ],
-    "deletedFlag": false,
     "ioc": "DOM",
     "languages": [
       "spa"
@@ -1208,11 +1135,10 @@
     "alpha3": "DHY",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Dahomey",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "DZ",
@@ -1223,7 +1149,6 @@
     "currencies": [
       "DZD"
     ],
-    "deletedFlag": false,
     "ioc": "ALG",
     "languages": [
       "ara"
@@ -1238,7 +1163,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Ceuta, Mulilla",
@@ -1253,7 +1177,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "ECU",
     "languages": [
       "spa",
@@ -1271,7 +1194,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "EST",
     "languages": [
       "est"
@@ -1288,7 +1210,6 @@
     "currencies": [
       "EGP"
     ],
-    "deletedFlag": false,
     "ioc": "EGY",
     "languages": [
       "ara"
@@ -1305,7 +1226,6 @@
     "currencies": [
       "MAD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Western Sahara",
@@ -1320,7 +1240,6 @@
     "currencies": [
       "ERN"
     ],
-    "deletedFlag": false,
     "ioc": "ERI",
     "languages": [
       "eng",
@@ -1339,7 +1258,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "ESP",
     "languages": [
       "spa"
@@ -1356,7 +1274,6 @@
     "currencies": [
       "ETB"
     ],
-    "deletedFlag": false,
     "ioc": "ETH",
     "languages": [
       "amh"
@@ -1373,7 +1290,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "European Union",
@@ -1388,7 +1304,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "FIN",
     "languages": [
       "fin",
@@ -1406,7 +1321,6 @@
     "currencies": [
       "FJD"
     ],
-    "deletedFlag": false,
     "ioc": "FIJ",
     "languages": [
       "eng",
@@ -1424,7 +1338,6 @@
     "currencies": [
       "FKP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -1441,7 +1354,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -1458,7 +1370,6 @@
     "currencies": [
       "DKK"
     ],
-    "deletedFlag": false,
     "ioc": "FAI",
     "languages": [
       "fao",
@@ -1472,11 +1383,10 @@
     "alpha3": "ATF",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "French Southern and Antarctic Territories",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "FR",
@@ -1487,7 +1397,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "FRA",
     "languages": [
       "fra"
@@ -1504,7 +1413,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -1521,7 +1429,6 @@
     "currencies": [
       "XAF"
     ],
-    "deletedFlag": false,
     "ioc": "GAB",
     "languages": [
       "fra"
@@ -1538,7 +1445,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "GBR",
     "languages": [
       "eng",
@@ -1559,7 +1465,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "GRN",
     "languages": [
       "eng"
@@ -1576,7 +1481,6 @@
     "currencies": [
       "GEL"
     ],
-    "deletedFlag": false,
     "ioc": "GEO",
     "languages": [
       "kat"
@@ -1589,11 +1493,10 @@
     "alpha3": "GEL",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Gilbert and Ellice Islands",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "GF",
@@ -1604,7 +1507,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -1621,7 +1523,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "GCI",
     "languages": [
       "fra"
@@ -1638,7 +1539,6 @@
     "currencies": [
       "GHS"
     ],
-    "deletedFlag": false,
     "ioc": "GHA",
     "languages": [
       "eng"
@@ -1655,7 +1555,6 @@
     "currencies": [
       "GIP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -1672,7 +1571,6 @@
     "currencies": [
       "DKK"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "kal"
@@ -1689,7 +1587,6 @@
     "currencies": [
       "GMD"
     ],
-    "deletedFlag": false,
     "ioc": "GAM",
     "languages": [
       "eng"
@@ -1706,7 +1603,6 @@
     "currencies": [
       "GNF"
     ],
-    "deletedFlag": false,
     "ioc": "GUI",
     "languages": [
       "fra"
@@ -1723,7 +1619,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -1740,7 +1635,6 @@
     "currencies": [
       "XAF"
     ],
-    "deletedFlag": false,
     "ioc": "GEQ",
     "languages": [
       "spa",
@@ -1759,7 +1653,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "GRE",
     "languages": [
       "ell"
@@ -1774,7 +1667,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -1791,7 +1683,6 @@
     "currencies": [
       "GTQ"
     ],
-    "deletedFlag": false,
     "ioc": "GUA",
     "languages": [
       "spa"
@@ -1808,7 +1699,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "GUM",
     "languages": [
       "eng"
@@ -1825,7 +1715,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "GBS",
     "languages": [
       "por"
@@ -1842,7 +1731,6 @@
     "currencies": [
       "GYD"
     ],
-    "deletedFlag": false,
     "ioc": "GUY",
     "languages": [
       "eng"
@@ -1859,7 +1747,6 @@
     "currencies": [
       "HKD"
     ],
-    "deletedFlag": false,
     "ioc": "HKG",
     "languages": [
       "zho",
@@ -1875,7 +1762,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Heard Island And McDonald Islands",
@@ -1890,7 +1776,6 @@
     "currencies": [
       "HNL"
     ],
-    "deletedFlag": false,
     "ioc": "HON",
     "languages": [
       "spa"
@@ -1907,7 +1792,6 @@
     "currencies": [
       "HRK"
     ],
-    "deletedFlag": false,
     "ioc": "CRO",
     "languages": [
       "hrv"
@@ -1925,7 +1809,6 @@
       "HTG",
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "HAI",
     "languages": [
       "fra",
@@ -1943,7 +1826,6 @@
     "currencies": [
       "HUF"
     ],
-    "deletedFlag": false,
     "ioc": "HUN",
     "languages": [
       "hun"
@@ -1956,11 +1838,10 @@
     "alpha3": "HVO",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Upper Volta",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "IC",
@@ -1969,7 +1850,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Canary Islands",
@@ -1984,7 +1864,6 @@
     "currencies": [
       "IDR"
     ],
-    "deletedFlag": false,
     "ioc": "INA",
     "languages": [
       "ind"
@@ -2001,7 +1880,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "IRL",
     "languages": [
       "eng",
@@ -2019,7 +1897,6 @@
     "currencies": [
       "ILS"
     ],
-    "deletedFlag": false,
     "ioc": "ISR",
     "languages": [
       "heb",
@@ -2038,7 +1915,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng",
@@ -2056,7 +1932,6 @@
     "currencies": [
       "INR"
     ],
-    "deletedFlag": false,
     "ioc": "IND",
     "languages": [
       "eng",
@@ -2074,7 +1949,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -2091,7 +1965,6 @@
     "currencies": [
       "IQD"
     ],
-    "deletedFlag": false,
     "ioc": "IRQ",
     "languages": [
       "ara",
@@ -2109,7 +1982,6 @@
     "currencies": [
       "IRR"
     ],
-    "deletedFlag": false,
     "ioc": "IRI",
     "languages": [
       "fas"
@@ -2126,7 +1998,6 @@
     "currencies": [
       "ISK"
     ],
-    "deletedFlag": false,
     "ioc": "ISL",
     "languages": [
       "isl"
@@ -2143,7 +2014,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "ITA",
     "languages": [
       "ita"
@@ -2160,7 +2030,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "JCI",
     "languages": [
       "eng",
@@ -2178,7 +2047,6 @@
     "currencies": [
       "JMD"
     ],
-    "deletedFlag": false,
     "ioc": "JAM",
     "languages": [
       "eng"
@@ -2195,7 +2063,6 @@
     "currencies": [
       "JOD"
     ],
-    "deletedFlag": false,
     "ioc": "JOR",
     "languages": [
       "ara"
@@ -2212,7 +2079,6 @@
     "currencies": [
       "JPY"
     ],
-    "deletedFlag": false,
     "ioc": "JPN",
     "languages": [
       "jpn"
@@ -2225,11 +2091,10 @@
     "alpha3": "JTN",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Johnston Island",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "KE",
@@ -2240,7 +2105,6 @@
     "currencies": [
       "KES"
     ],
-    "deletedFlag": false,
     "ioc": "KEN",
     "languages": [
       "eng",
@@ -2258,7 +2122,6 @@
     "currencies": [
       "KGS"
     ],
-    "deletedFlag": false,
     "ioc": "KGZ",
     "languages": [
       "rus"
@@ -2275,7 +2138,6 @@
     "currencies": [
       "KHR"
     ],
-    "deletedFlag": false,
     "ioc": "CAM",
     "languages": [
       "khm"
@@ -2292,7 +2154,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "KIR",
     "languages": [
       "eng"
@@ -2309,7 +2170,6 @@
     "currencies": [
       "KMF"
     ],
-    "deletedFlag": false,
     "ioc": "COM",
     "languages": [
       "ara",
@@ -2327,7 +2187,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "SKN",
     "languages": [
       "eng"
@@ -2344,7 +2203,6 @@
     "currencies": [
       "KPW"
     ],
-    "deletedFlag": false,
     "ioc": "PRK",
     "languages": [
       "kor"
@@ -2361,7 +2219,6 @@
     "currencies": [
       "KRW"
     ],
-    "deletedFlag": false,
     "ioc": "KOR",
     "languages": [
       "kor"
@@ -2378,7 +2235,6 @@
     "currencies": [
       "KWD"
     ],
-    "deletedFlag": false,
     "ioc": "KUW",
     "languages": [
       "ara"
@@ -2395,7 +2251,6 @@
     "currencies": [
       "KYD"
     ],
-    "deletedFlag": false,
     "ioc": "CAY",
     "languages": [
       "eng"
@@ -2414,7 +2269,6 @@
     "currencies": [
       "KZT"
     ],
-    "deletedFlag": false,
     "ioc": "KAZ",
     "languages": [
       "kaz",
@@ -2432,7 +2286,6 @@
     "currencies": [
       "LAK"
     ],
-    "deletedFlag": false,
     "ioc": "LAO",
     "languages": [
       "lao"
@@ -2449,7 +2302,6 @@
     "currencies": [
       "LBP"
     ],
-    "deletedFlag": false,
     "ioc": "LIB",
     "languages": [
       "ara",
@@ -2467,7 +2319,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "LCA",
     "languages": [
       "eng"
@@ -2484,7 +2335,6 @@
     "currencies": [
       "CHF"
     ],
-    "deletedFlag": false,
     "ioc": "LIE",
     "languages": [
       "deu"
@@ -2501,7 +2351,6 @@
     "currencies": [
       "LKR"
     ],
-    "deletedFlag": false,
     "ioc": "SRI",
     "languages": [
       "sin",
@@ -2519,7 +2368,6 @@
     "currencies": [
       "LRD"
     ],
-    "deletedFlag": false,
     "ioc": "LBR",
     "languages": [
       "eng"
@@ -2537,7 +2385,6 @@
       "LSL",
       "ZAR"
     ],
-    "deletedFlag": false,
     "ioc": "LES",
     "languages": [
       "eng",
@@ -2555,7 +2402,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "LTU",
     "languages": [
       "lit"
@@ -2572,7 +2418,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "LUX",
     "languages": [
       "fra",
@@ -2591,7 +2436,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "LAT",
     "languages": [
       "lav"
@@ -2608,7 +2452,6 @@
     "currencies": [
       "LYD"
     ],
-    "deletedFlag": false,
     "ioc": "LBA",
     "languages": [
       "ara"
@@ -2625,7 +2468,6 @@
     "currencies": [
       "MAD"
     ],
-    "deletedFlag": false,
     "ioc": "MAR",
     "languages": [
       "ara"
@@ -2642,7 +2484,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "MON",
     "languages": [
       "fra"
@@ -2659,7 +2500,6 @@
     "currencies": [
       "MDL"
     ],
-    "deletedFlag": false,
     "ioc": "MDA",
     "languages": [
       "ron"
@@ -2676,7 +2516,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "MNE",
     "languages": [
       "mot"
@@ -2693,7 +2532,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -2710,7 +2548,6 @@
     "currencies": [
       "MGA"
     ],
-    "deletedFlag": false,
     "ioc": "MAD",
     "languages": [
       "fra",
@@ -2728,7 +2565,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "MHL",
     "languages": [
       "eng",
@@ -2742,11 +2578,10 @@
     "alpha3": "MID",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Midway Islands",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "MK",
@@ -2757,7 +2592,6 @@
     "currencies": [
       "MKD"
     ],
-    "deletedFlag": false,
     "ioc": "MKD",
     "languages": [
       "mkd"
@@ -2774,7 +2608,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "MLI",
     "languages": [
       "fra"
@@ -2791,7 +2624,6 @@
     "currencies": [
       "MMK"
     ],
-    "deletedFlag": false,
     "ioc": "MYA",
     "languages": [
       "mya"
@@ -2808,7 +2640,6 @@
     "currencies": [
       "MNT"
     ],
-    "deletedFlag": false,
     "ioc": "MGL",
     "languages": [
       "mon"
@@ -2825,7 +2656,6 @@
     "currencies": [
       "MOP"
     ],
-    "deletedFlag": false,
     "ioc": "MAC",
     "languages": [
       "zho",
@@ -2843,7 +2673,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -2860,7 +2689,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Martinique",
@@ -2875,7 +2703,6 @@
     "currencies": [
       "MRO"
     ],
-    "deletedFlag": false,
     "ioc": "MTN",
     "languages": [
       "ara",
@@ -2893,7 +2720,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Montserrat",
@@ -2908,7 +2734,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "MLT",
     "languages": [
       "mlt",
@@ -2926,7 +2751,6 @@
     "currencies": [
       "MUR"
     ],
-    "deletedFlag": false,
     "ioc": "MRI",
     "languages": [
       "eng",
@@ -2944,7 +2768,6 @@
     "currencies": [
       "MVR"
     ],
-    "deletedFlag": false,
     "ioc": "MDV",
     "languages": [
       "div"
@@ -2961,7 +2784,6 @@
     "currencies": [
       "MWK"
     ],
-    "deletedFlag": false,
     "ioc": "MAW",
     "languages": [
       "eng",
@@ -2980,7 +2802,6 @@
       "MXN",
       "MXV"
     ],
-    "deletedFlag": false,
     "ioc": "MEX",
     "languages": [
       "spa"
@@ -2997,7 +2818,6 @@
     "currencies": [
       "MYR"
     ],
-    "deletedFlag": false,
     "ioc": "MAS",
     "languages": [
       "msa",
@@ -3015,7 +2835,6 @@
     "currencies": [
       "MZN"
     ],
-    "deletedFlag": false,
     "ioc": "MOZ",
     "languages": [
       "por"
@@ -3033,7 +2852,6 @@
       "NAD",
       "ZAR"
     ],
-    "deletedFlag": false,
     "ioc": "NAM",
     "languages": [
       "eng"
@@ -3050,7 +2868,6 @@
     "currencies": [
       "XPF"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -3067,7 +2884,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "NIG",
     "languages": [
       "fra"
@@ -3084,7 +2900,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -3101,7 +2916,6 @@
     "currencies": [
       "NGN"
     ],
-    "deletedFlag": false,
     "ioc": "NGR",
     "languages": [
       "eng"
@@ -3114,11 +2928,10 @@
     "alpha3": "NHB",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "New Hebrides",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "NI",
@@ -3129,7 +2942,6 @@
     "currencies": [
       "NIO"
     ],
-    "deletedFlag": false,
     "ioc": "NCA",
     "languages": [
       "spa"
@@ -3146,7 +2958,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "NED",
     "languages": [
       "nld"
@@ -3163,7 +2974,6 @@
     "currencies": [
       "NOK"
     ],
-    "deletedFlag": false,
     "ioc": "NOR",
     "languages": [
       "nor"
@@ -3180,7 +2990,6 @@
     "currencies": [
       "NPR"
     ],
-    "deletedFlag": false,
     "ioc": "NEP",
     "languages": [
       "nep"
@@ -3193,11 +3002,10 @@
     "alpha3": "ATN",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Dronning Maud Land",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "NR",
@@ -3208,7 +3016,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "NRU",
     "languages": [
       "eng",
@@ -3222,11 +3029,10 @@
     "alpha3": "NTZ",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Neutral Zone",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "NU",
@@ -3237,7 +3043,6 @@
     "currencies": [
       "NZD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -3254,7 +3059,6 @@
     "currencies": [
       "NZD"
     ],
-    "deletedFlag": false,
     "ioc": "NZL",
     "languages": [
       "eng"
@@ -3271,7 +3075,6 @@
     "currencies": [
       "OMR"
     ],
-    "deletedFlag": false,
     "ioc": "OMA",
     "languages": [
       "ara"
@@ -3289,7 +3092,6 @@
       "PAB",
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "PAN",
     "languages": [
       "spa"
@@ -3302,11 +3104,10 @@
     "alpha3": "PCI",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Pacific Islands, Trust Territory of the",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "PE",
@@ -3317,7 +3118,6 @@
     "currencies": [
       "PEN"
     ],
-    "deletedFlag": false,
     "ioc": "PER",
     "languages": [
       "spa",
@@ -3336,7 +3136,6 @@
     "currencies": [
       "XPF"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -3353,7 +3152,6 @@
     "currencies": [
       "PGK"
     ],
-    "deletedFlag": false,
     "ioc": "PNG",
     "languages": [
       "eng"
@@ -3370,7 +3168,6 @@
     "currencies": [
       "PHP"
     ],
-    "deletedFlag": false,
     "ioc": "PHI",
     "languages": [
       "eng"
@@ -3387,7 +3184,6 @@
     "currencies": [
       "PKR"
     ],
-    "deletedFlag": false,
     "ioc": "PAK",
     "languages": [
       "urd",
@@ -3405,7 +3201,6 @@
     "currencies": [
       "PLN"
     ],
-    "deletedFlag": false,
     "ioc": "POL",
     "languages": [
       "pol"
@@ -3422,7 +3217,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -3439,7 +3233,6 @@
     "currencies": [
       "NZD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -3457,7 +3250,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "PUR",
     "languages": [
       "spa",
@@ -3477,7 +3269,6 @@
       "EGP",
       "ILS"
     ],
-    "deletedFlag": false,
     "ioc": "PLE",
     "languages": [
       "ara"
@@ -3494,7 +3285,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "POR",
     "languages": [
       "por"
@@ -3507,11 +3297,10 @@
     "alpha3": "PUS",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "U.S. Miscellaneous Pacific Islands",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "PW",
@@ -3522,7 +3311,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "PLW",
     "languages": [
       "eng"
@@ -3539,7 +3327,6 @@
     "currencies": [
       "PYG"
     ],
-    "deletedFlag": false,
     "ioc": "PAR",
     "languages": [
       "spa"
@@ -3552,11 +3339,10 @@
     "alpha3": "PCZ",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Panama Canal Zone",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "QA",
@@ -3567,7 +3353,6 @@
     "currencies": [
       "QAR"
     ],
-    "deletedFlag": false,
     "ioc": "QAT",
     "languages": [
       "ara"
@@ -3584,7 +3369,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -3597,11 +3381,10 @@
     "alpha3": "RHO",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Southern Rhodesia",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "RO",
@@ -3612,7 +3395,6 @@
     "currencies": [
       "RON"
     ],
-    "deletedFlag": false,
     "ioc": "ROU",
     "languages": [
       "ron"
@@ -3629,7 +3411,6 @@
     "currencies": [
       "RSD"
     ],
-    "deletedFlag": false,
     "ioc": "SRB",
     "languages": [
       "srp"
@@ -3649,7 +3430,6 @@
     "currencies": [
       "RUB"
     ],
-    "deletedFlag": false,
     "ioc": "RUS",
     "languages": [
       "rus"
@@ -3666,7 +3446,6 @@
     "currencies": [
       "RWF"
     ],
-    "deletedFlag": false,
     "ioc": "RWA",
     "languages": [
       "eng",
@@ -3685,7 +3464,6 @@
     "currencies": [
       "SAR"
     ],
-    "deletedFlag": false,
     "ioc": "KSA",
     "languages": [
       "ara"
@@ -3702,7 +3480,6 @@
     "currencies": [
       "SBD"
     ],
-    "deletedFlag": false,
     "ioc": "SOL",
     "languages": [
       "eng"
@@ -3719,7 +3496,6 @@
     "currencies": [
       "SCR"
     ],
-    "deletedFlag": false,
     "ioc": "SEY",
     "languages": [
       "eng",
@@ -3737,7 +3513,6 @@
     "currencies": [
       "SDG"
     ],
-    "deletedFlag": false,
     "ioc": "SUD",
     "languages": [
       "ara",
@@ -3755,7 +3530,6 @@
     "currencies": [
       "SEK"
     ],
-    "deletedFlag": false,
     "ioc": "SWE",
     "languages": [
       "swe"
@@ -3772,7 +3546,6 @@
     "currencies": [
       "SGD"
     ],
-    "deletedFlag": false,
     "ioc": "SIN",
     "languages": [
       "eng",
@@ -3792,7 +3565,6 @@
     "currencies": [
       "SHP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -3809,7 +3581,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "SLO",
     "languages": [
       "slv"
@@ -3826,7 +3597,6 @@
     "currencies": [
       "NOK"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Svalbard And Jan Mayen",
@@ -3841,7 +3611,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "SVK",
     "languages": [
       "slk"
@@ -3854,11 +3623,10 @@
     "alpha3": "SKM",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Sikkim",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "SL",
@@ -3869,7 +3637,6 @@
     "currencies": [
       "SLL"
     ],
-    "deletedFlag": false,
     "ioc": "SLE",
     "languages": [
       "eng"
@@ -3886,7 +3653,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "SMR",
     "languages": [
       "ita"
@@ -3903,7 +3669,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "SEN",
     "languages": [
       "fra"
@@ -3920,7 +3685,6 @@
     "currencies": [
       "SOS"
     ],
-    "deletedFlag": false,
     "ioc": "SOM",
     "languages": [
       "som"
@@ -3937,7 +3701,6 @@
     "currencies": [
       "SRD"
     ],
-    "deletedFlag": false,
     "ioc": "SUR",
     "languages": [
       "nld"
@@ -3954,7 +3717,6 @@
     "currencies": [
       "SSP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -3971,7 +3733,6 @@
     "currencies": [
       "STD"
     ],
-    "deletedFlag": false,
     "ioc": "STP",
     "languages": [
       "por"
@@ -3986,7 +3747,6 @@
     "currencies": [
       "RUB"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "rus"
@@ -4003,7 +3763,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "ESA",
     "languages": [
       "spa"
@@ -4020,7 +3779,6 @@
     "currencies": [
       "ANG"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "nld"
@@ -4037,7 +3795,6 @@
     "currencies": [
       "SYP"
     ],
-    "deletedFlag": false,
     "ioc": "SYR",
     "languages": [
       "ara"
@@ -4054,7 +3811,6 @@
     "currencies": [
       "SZL"
     ],
-    "deletedFlag": false,
     "ioc": "SWZ",
     "languages": [
       "eng",
@@ -4072,7 +3828,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [],
     "name": "Tristan de Cunha",
@@ -4087,7 +3842,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -4104,7 +3858,6 @@
     "currencies": [
       "XAF"
     ],
-    "deletedFlag": false,
     "ioc": "CHA",
     "languages": [
       "ara",
@@ -4120,7 +3873,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -4137,7 +3889,6 @@
     "currencies": [
       "XOF"
     ],
-    "deletedFlag": false,
     "ioc": "TOG",
     "languages": [
       "fra"
@@ -4154,7 +3905,6 @@
     "currencies": [
       "THB"
     ],
-    "deletedFlag": false,
     "ioc": "THA",
     "languages": [
       "tha"
@@ -4171,7 +3921,6 @@
     "currencies": [
       "TJS"
     ],
-    "deletedFlag": false,
     "ioc": "TJK",
     "languages": [
       "tgk",
@@ -4189,7 +3938,6 @@
     "currencies": [
       "NZD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -4206,7 +3954,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "TLS",
     "languages": [
       "por"
@@ -4223,7 +3970,6 @@
     "currencies": [
       "TMT"
     ],
-    "deletedFlag": false,
     "ioc": "TKM",
     "languages": [
       "tuk",
@@ -4241,7 +3987,6 @@
     "currencies": [
       "TND"
     ],
-    "deletedFlag": false,
     "ioc": "TUN",
     "languages": [
       "ara"
@@ -4258,7 +4003,6 @@
     "currencies": [
       "TOP"
     ],
-    "deletedFlag": false,
     "ioc": "TGA",
     "languages": [
       "eng"
@@ -4271,11 +4015,10 @@
     "alpha3": "TMP",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "East Timor",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "TR",
@@ -4286,7 +4029,6 @@
     "currencies": [
       "TRY"
     ],
-    "deletedFlag": false,
     "ioc": "TUR",
     "languages": [
       "tur"
@@ -4303,7 +4045,6 @@
     "currencies": [
       "TTD"
     ],
-    "deletedFlag": false,
     "ioc": "TRI",
     "languages": [
       "eng"
@@ -4320,7 +4061,6 @@
     "currencies": [
       "AUD"
     ],
-    "deletedFlag": false,
     "ioc": "TUV",
     "languages": [
       "eng"
@@ -4337,7 +4077,6 @@
     "currencies": [
       "TWD"
     ],
-    "deletedFlag": false,
     "ioc": "TPE",
     "languages": [
       "zho"
@@ -4354,7 +4093,6 @@
     "currencies": [
       "TZS"
     ],
-    "deletedFlag": false,
     "ioc": "TAN",
     "languages": [
       "swa",
@@ -4372,7 +4110,6 @@
     "currencies": [
       "UAH"
     ],
-    "deletedFlag": false,
     "ioc": "UKR",
     "languages": [
       "ukr",
@@ -4390,7 +4127,6 @@
     "currencies": [
       "UGX"
     ],
-    "deletedFlag": false,
     "ioc": "UGA",
     "languages": [
       "eng",
@@ -4406,7 +4142,6 @@
     "currencies": [
       "GBP"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng",
@@ -4427,7 +4162,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "eng"
@@ -4444,7 +4178,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "USA",
     "languages": [
       "eng"
@@ -4462,7 +4195,6 @@
       "UYU",
       "UYI"
     ],
-    "deletedFlag": false,
     "ioc": "URU",
     "languages": [
       "spa"
@@ -4479,7 +4211,6 @@
     "currencies": [
       "UZS"
     ],
-    "deletedFlag": false,
     "ioc": "UZB",
     "languages": [
       "uzb",
@@ -4498,7 +4229,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "ita"
@@ -4515,7 +4245,6 @@
     "currencies": [
       "XCD"
     ],
-    "deletedFlag": false,
     "ioc": "VIN",
     "languages": [
       "eng"
@@ -4528,11 +4257,10 @@
     "alpha3": "VDR",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Viet-Nam, Democratic Republic of",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "VE",
@@ -4543,7 +4271,6 @@
     "currencies": [
       "VEF"
     ],
-    "deletedFlag": false,
     "ioc": "VEN",
     "languages": [
       "spa"
@@ -4560,7 +4287,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "ISV",
     "languages": [
       "eng"
@@ -4577,7 +4303,6 @@
     "currencies": [
       "USD"
     ],
-    "deletedFlag": false,
     "ioc": "ISV",
     "languages": [
       "eng"
@@ -4594,7 +4319,6 @@
     "currencies": [
       "VND"
     ],
-    "deletedFlag": false,
     "ioc": "VIE",
     "languages": [
       "vie"
@@ -4611,7 +4335,6 @@
     "currencies": [
       "VUV"
     ],
-    "deletedFlag": false,
     "ioc": "VAN",
     "languages": [
       "bis",
@@ -4630,7 +4353,6 @@
     "currencies": [
       "XPF"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -4643,11 +4365,10 @@
     "alpha3": "WAK",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Wake Island",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "WS",
@@ -4658,7 +4379,6 @@
     "currencies": [
       "WST"
     ],
-    "deletedFlag": false,
     "ioc": "SAM",
     "languages": [
       "eng",
@@ -4676,7 +4396,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "sqi",
@@ -4693,11 +4412,10 @@
     "alpha3": "YMD",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Yemen, Democratic",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "YE",
@@ -4708,7 +4426,6 @@
     "currencies": [
       "YER"
     ],
-    "deletedFlag": false,
     "ioc": "YEM",
     "languages": [
       "ara"
@@ -4725,7 +4442,6 @@
     "currencies": [
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "",
     "languages": [
       "fra"
@@ -4738,11 +4454,10 @@
     "alpha3": "YUG",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Yugoslavia",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "ZA",
@@ -4753,7 +4468,6 @@
     "currencies": [
       "ZAR"
     ],
-    "deletedFlag": false,
     "ioc": "RSA",
     "languages": [
       "afr",
@@ -4777,7 +4491,6 @@
     "currencies": [
       "ZMW"
     ],
-    "deletedFlag": false,
     "ioc": "ZAM",
     "languages": [
       "eng"
@@ -4790,11 +4503,10 @@
     "alpha3": "ZAR",
     "countryCallingCodes": [],
     "currencies": [],
-    "deletedFlag": true,
     "ioc": "",
     "languages": [],
     "name": "Zaire",
-    "status": "deleted"
+    "status": "user assigned"
   },
   {
     "alpha2": "ZW",
@@ -4809,7 +4521,6 @@
       "GBP",
       "EUR"
     ],
-    "deletedFlag": false,
     "ioc": "ZIM",
     "languages": [
       "eng",
