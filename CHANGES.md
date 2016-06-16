@@ -7,7 +7,7 @@
 
 ## v0.0.24
 
-  * Added Kosovo as a "deleted" entry (thanks @doapp-ryanp)
+  * Added Kosovo as a "user assigned" entry (thanks @doapp-ryanp)
 
 ## v0.0.23
 
