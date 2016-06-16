@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.25
+
+  * Added previously deleted countries as "user assigned" (thanks @mattvadrise in pull request #53)
+
 ## v0.0.24
 
   * Added Kosovo as a "user assigned" entry (thanks @doapp-ryanp)
