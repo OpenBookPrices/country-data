@@ -3,6 +3,7 @@
 ## v0.0.25
 
   * Added previously deleted countries as "user assigned" (thanks @mattvadrise in pull request #53)
+  * Changed name of "Sao Tome and Principe" (thanks @Laboratory)
 
 ## v0.0.24
 
