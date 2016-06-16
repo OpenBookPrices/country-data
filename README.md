@@ -19,11 +19,19 @@ The data currently provided for each country is:
   * `name` The english name for the country
   * `alpha2` The [ISO 3166-1 alpha 2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code
   * `alpha3` The [ISO 3166-1 alpha 3](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) code
-  * `status`: The ISO status of the entry: either 'assigned' or 'reserved'.
+  * `status`: The ISO status of the entry - see below.
   * `currencies` An array of [ISO 4217 currency codes](http://en.wikipedia.org/wiki/ISO_4217) with the primary one first
   * `languages` An array of [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2) codes for languages (may not be complete).
   * `countryCallingCodes` An array of the international call prefixes for this country.
   * `ioc` The [International Olympic Committee country code](http://en.wikipedia.org/wiki/List_of_IOC_country_codes)
+
+### Status notes
+
+The `status` can be one of 'assigned', 'reserved', 'user assigned' or 'deleted'.
+
+Assigned means that the code is properly in the ISO 3166 standard. Reserved means that the code is being prevented from being used. Deleted means that it has been deleted. User Assigned means that for some use cases it is required. Deleted means that it used to be in the standard but is now not.
+
+See https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 for full details, especially the "User-assigned code elements" and "Reserved code elements" sections.
 
 ## Regions
 
