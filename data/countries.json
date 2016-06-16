@@ -96,6 +96,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "AI",
+    "alpha3": "AFI",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "French Afar and Issas",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "AL",
     "alpha3": "ALB",
     "countryCallingCodes": [
@@ -127,6 +137,16 @@
     ],
     "name": "Armenia",
     "status": "assigned"
+  },
+  {
+    "alpha2": "AN",
+    "alpha3": "ANT",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Netherlands Antilles",
+    "status": "user assigned"
   },
   {
     "alpha2": "AO",
@@ -502,6 +522,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "BQ",
+    "alpha3": " ATB",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "British Antarctic Territory",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "BR",
     "alpha3": "BRA",
     "countryCallingCodes": [
@@ -551,6 +581,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "BU",
+    "alpha3": "BUR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Burma",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "BV",
     "alpha3": "BVT",
     "countryCallingCodes": [],
@@ -595,6 +635,16 @@
     ],
     "name": "Belarus",
     "status": "assigned"
+  },
+  {
+    "alpha2": "BY",
+    "alpha3": "BYS",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Byelorussian SSR",
+    "status": "user assigned"
   },
   {
     "alpha2": "BZ",
@@ -848,6 +898,36 @@
     "status": "assigned"
   },
   {
+    "alpha2": "CS",
+    "alpha3": "CSK",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Czechoslovakia",
+    "status": "user assigned"
+  },
+  {
+    "alpha2": "CS",
+    "alpha3": "SCG",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Serbia and Montenegro",
+    "status": "user assigned"
+  },
+  {
+    "alpha2": "CT",
+    "alpha3": "CTE",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Canton and Enderbury Islands",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "CU",
     "alpha3": "CUB",
     "countryCallingCodes": [
@@ -946,6 +1026,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "DD",
+    "alpha3": "DDR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "German Democratic Republic",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "DE",
     "alpha3": "DEU",
     "countryCallingCodes": [
@@ -1039,6 +1129,16 @@
     ],
     "name": "Dominican Republic",
     "status": "assigned"
+  },
+  {
+    "alpha2": "DY",
+    "alpha3": "DHY",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Dahomey",
+    "status": "user assigned"
   },
   {
     "alpha2": "DZ",
@@ -1279,6 +1379,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "FQ",
+    "alpha3": "ATF",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "French Southern and Antarctic Territories",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "FR",
     "alpha3": "FRA",
     "countryCallingCodes": [
@@ -1377,6 +1487,16 @@
     ],
     "name": "Georgia",
     "status": "assigned"
+  },
+  {
+    "alpha2": "GE",
+    "alpha3": "GEL",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Gilbert and Ellice Islands",
+    "status": "user assigned"
   },
   {
     "alpha2": "GF",
@@ -1714,6 +1834,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "HV",
+    "alpha3": "HVO",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Upper Volta",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "IC",
     "alpha3": "",
     "countryCallingCodes": [],
@@ -1955,6 +2085,16 @@
     ],
     "name": "Japan",
     "status": "assigned"
+  },
+  {
+    "alpha2": "JT",
+    "alpha3": "JTN",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Johnston Island",
+    "status": "user assigned"
   },
   {
     "alpha2": "KE",
@@ -2434,6 +2574,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "MI",
+    "alpha3": "MID",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Midway Islands",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "MK",
     "alpha3": "MKD",
     "countryCallingCodes": [
@@ -2774,6 +2924,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "NH",
+    "alpha3": "NHB",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "New Hebrides",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "NI",
     "alpha3": "NIC",
     "countryCallingCodes": [
@@ -2838,6 +2998,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "NQ",
+    "alpha3": "ATN",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Dronning Maud Land",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "NR",
     "alpha3": "NRU",
     "countryCallingCodes": [
@@ -2853,6 +3023,16 @@
     ],
     "name": "Nauru",
     "status": "assigned"
+  },
+  {
+    "alpha2": "NT",
+    "alpha3": "NTZ",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Neutral Zone",
+    "status": "user assigned"
   },
   {
     "alpha2": "NU",
@@ -2918,6 +3098,16 @@
     ],
     "name": "Panama",
     "status": "assigned"
+  },
+  {
+    "alpha2": "PC",
+    "alpha3": "PCI",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Pacific Islands, Trust Territory of the",
+    "status": "user assigned"
   },
   {
     "alpha2": "PE",
@@ -3103,6 +3293,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "PU",
+    "alpha3": "PUS",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "U.S. Miscellaneous Pacific Islands",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "PW",
     "alpha3": "PLW",
     "countryCallingCodes": [
@@ -3135,6 +3335,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "PZ",
+    "alpha3": "PCZ",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Panama Canal Zone",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "QA",
     "alpha3": "QAT",
     "countryCallingCodes": [
@@ -3165,6 +3375,16 @@
     ],
     "name": "Reunion",
     "status": "assigned"
+  },
+  {
+    "alpha2": "RH",
+    "alpha3": "RHO",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Southern Rhodesia",
+    "status": "user assigned"
   },
   {
     "alpha2": "RO",
@@ -3397,6 +3617,16 @@
     ],
     "name": "Slovakia",
     "status": "assigned"
+  },
+  {
+    "alpha2": "SK",
+    "alpha3": "SKM",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Sikkim",
+    "status": "user assigned"
   },
   {
     "alpha2": "SL",
@@ -3781,6 +4011,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "TP",
+    "alpha3": "TMP",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "East Timor",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "TR",
     "alpha3": "TUR",
     "countryCallingCodes": [
@@ -4013,6 +4253,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "VD",
+    "alpha3": "VDR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Viet-Nam, Democratic Republic of",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "VE",
     "alpha3": "VEN",
     "countryCallingCodes": [
@@ -4111,6 +4361,16 @@
     "status": "assigned"
   },
   {
+    "alpha2": "WK",
+    "alpha3": "WAK",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Wake Island",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "WS",
     "alpha3": "WSM",
     "countryCallingCodes": [
@@ -4148,6 +4408,16 @@
     "status": "user assigned"
   },
   {
+    "alpha2": "YD",
+    "alpha3": "YMD",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Yemen, Democratic",
+    "status": "user assigned"
+  },
+  {
     "alpha2": "YE",
     "alpha3": "YEM",
     "countryCallingCodes": [
@@ -4178,6 +4448,16 @@
     ],
     "name": "Mayotte",
     "status": "assigned"
+  },
+  {
+    "alpha2": "YU",
+    "alpha3": "YUG",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Yugoslavia",
+    "status": "user assigned"
   },
   {
     "alpha2": "ZA",
@@ -4217,6 +4497,16 @@
     ],
     "name": "Zambia",
     "status": "assigned"
+  },
+  {
+    "alpha2": "ZR",
+    "alpha3": "ZAR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Zaire",
+    "status": "user assigned"
   },
   {
     "alpha2": "ZW",
