@@ -30,11 +30,16 @@ describe('countries', function () {
 
   describe('check each country has correct form', function () {
     _.each( countries.all, function (country) {
-      describe(country, function () {
+      describe(country.name, function () {
         it('should have a status', function () {
           assert( country.status );
         });
-        
+        it('should have correctly formed alpha2 and alpha3', function () {
+          assert(country.alpha2.match(/^[A-Z]{2}$/), 'alpha2 correctly formed - ' + country.alpha2);
+          if (country.alpha3.length) {
+            assert(country.alpha3.match(/^[A-Z]{3}$/), 'alpha3 correctly formed - ' + country.alpha3);
+          }
+        });
       });
     });
   });
