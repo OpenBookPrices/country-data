@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.26
+
+  * Fixed typo and added tests to prevent it happening again (#56) - thanks @dbellavista
+
 ## v0.0.25
 
   * Added previously deleted countries as "deleted" (thanks @mattvadrise in pull request #53)
