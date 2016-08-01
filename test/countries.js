@@ -28,10 +28,13 @@ describe('countries', function () {
     });
   });
 
-  describe('check all countries have a status', function () {
+  describe('check each country has correct form', function () {
     _.each( countries.all, function (country) {
-      it(country, function () {
-        assert( country.status );
+      describe(country, function () {
+        it('should have a status', function () {
+          assert( country.status );
+        });
+        
       });
     });
   });
