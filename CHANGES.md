@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.27
+
+  * Fixed Trinidad and Tobago IOC code (was TRI, now TTO) - thanks @mrmckeb
+
 ## v0.0.26
 
   * Fixed typo and added tests to prevent it happening again (#56) - thanks @dbellavista
