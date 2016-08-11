@@ -1,6 +1,6 @@
 {
   "name": "country-data",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "Data about countries - like their ISO codes and currencies",
   "homepage": "https://github.com/OpenBookPrices/country-data",
   "bugs": {
