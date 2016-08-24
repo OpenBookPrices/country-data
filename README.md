@@ -125,6 +125,24 @@ to add are:
 
   * other currency that it is [pegged](http://en.wikipedia.org/wiki/Fixed_exchange_rate) to
 
+## Using with webpack
+
+As this code loads the data from JSON files you need to add the JSON loader to webpack:
+
+``` bash
+npm install json-loader --save-dev
+```
+
+and then include in your `webpack.config.js`:
+
+``` javascript
+// ...
+   loaders: [
+      // other loaders
+      { test: /\.json$/, loader: 'json' },
+  ],
+// ...
+```
 
 ## Other similar bits of code
 

@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.28
+
+  * Added notes on getting this package to work with webpack - thanks @luxflux and others in issue #57
+
 ## v0.0.27
 
   * Fixed Trinidad and Tobago IOC code (was TRI, now TTO) - thanks @mrmckeb
