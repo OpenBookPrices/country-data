@@ -3,6 +3,7 @@
 ## v0.0.28
 
   * Added notes on getting this package to work with webpack - thanks @luxflux and others in issue #57
+  * Added missing IOC code for South Sudan (SSD) - thanks @marchah
 
 ## v0.0.27
 
