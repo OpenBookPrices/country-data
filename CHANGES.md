@@ -1,5 +1,9 @@
 # Changes
 
+## v0.0.29
+
+  * Added or corrected Olympic codes for Kosovo, Federated States of Micronesia and British Virgin Islands - thanks @giedrius-timinskis 
+
 ## v0.0.28
 
   * Added notes on getting this package to work with webpack - thanks @luxflux and others in issue #57
