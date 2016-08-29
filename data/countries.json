@@ -1354,7 +1354,7 @@
     "currencies": [
       "USD"
     ],
-    "ioc": "",
+    "ioc": "FSM",
     "languages": [
       "eng"
     ],
@@ -4287,7 +4287,7 @@
     "currencies": [
       "USD"
     ],
-    "ioc": "ISV",
+    "ioc": "IVB",
     "languages": [
       "eng"
     ],
@@ -4396,7 +4396,7 @@
     "currencies": [
       "EUR"
     ],
-    "ioc": "",
+    "ioc": "KOS",
     "languages": [
       "sqi",
       "srp",
