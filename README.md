@@ -24,6 +24,7 @@ The data currently provided for each country is:
   * `languages` An array of [ISO 639-2](http://en.wikipedia.org/wiki/ISO_639-2) codes for languages (may not be complete).
   * `countryCallingCodes` An array of the international call prefixes for this country.
   * `ioc` The [International Olympic Committee country code](http://en.wikipedia.org/wiki/List_of_IOC_country_codes)
+  * `emoji` The emoji of country's flag.
 
 ### Status notes
 
