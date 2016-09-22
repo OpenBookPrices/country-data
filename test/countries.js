@@ -64,7 +64,7 @@ describe('countries', function () {
 
   describe('check emoji for a specific country', function () {
     it('Finland emoji should be the flag', function () {
-      assert.deepEqual( countries.FI.emoji, String.fromCodePoint(0x1F1EB, 0x1F1EE));
+      assert.deepEqual( countries.FI.emoji, String.fromCharCode(55356, 56811, 55356, 56814));
     });
   });
 
