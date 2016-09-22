@@ -62,6 +62,12 @@ describe('countries', function () {
     });
   });
 
+  describe('check emoji for a specific country', function () {
+    it('Finland emoji should be the flag', function () {
+      assert.deepEqual( countries.FI.emoji, String.fromCodePoint(0x1F1EB, 0x1F1EE));
+    });
+  });
+
   describe('check languages for each country', function () {
     _.each( countries.all, function (country) {
       describe(country.alpha2, function () {
