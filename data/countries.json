@@ -8,6 +8,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "",
     "ioc": "SHP",
     "languages": [
       "eng"
@@ -24,6 +25,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇦🇩",
     "ioc": "AND",
     "languages": [
       "cat"
@@ -40,6 +42,7 @@
     "currencies": [
       "AED"
     ],
+    "emoji": "🇦🇪",
     "ioc": "UAE",
     "languages": [
       "ara"
@@ -56,6 +59,7 @@
     "currencies": [
       "AFN"
     ],
+    "emoji": "🇦🇫",
     "ioc": "AFG",
     "languages": [
       "pus"
@@ -72,6 +76,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇦🇬",
     "ioc": "ANT",
     "languages": [
       "eng"
@@ -88,6 +93,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇦🇮",
     "ioc": "",
     "languages": [
       "eng"
@@ -114,6 +120,7 @@
     "currencies": [
       "ALL"
     ],
+    "emoji": "🇦🇱",
     "ioc": "ALB",
     "languages": [
       "sqi"
@@ -130,6 +137,7 @@
     "currencies": [
       "AMD"
     ],
+    "emoji": "🇦🇲",
     "ioc": "ARM",
     "languages": [
       "hye",
@@ -157,6 +165,7 @@
     "currencies": [
       "AOA"
     ],
+    "emoji": "🇦🇴",
     "ioc": "ANG",
     "languages": [
       "por"
@@ -171,6 +180,7 @@
       "+672"
     ],
     "currencies": [],
+    "emoji": "🇦🇶",
     "ioc": "",
     "languages": [],
     "name": "Antarctica",
@@ -185,6 +195,7 @@
     "currencies": [
       "ARS"
     ],
+    "emoji": "🇦🇷",
     "ioc": "ARG",
     "languages": [
       "spa"
@@ -201,6 +212,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇦🇸",
     "ioc": "ASA",
     "languages": [
       "eng",
@@ -218,6 +230,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇦🇹",
     "ioc": "AUT",
     "languages": [
       "deu"
@@ -234,6 +247,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇦🇺",
     "ioc": "AUS",
     "languages": [
       "eng"
@@ -250,6 +264,7 @@
     "currencies": [
       "AWG"
     ],
+    "emoji": "🇦🇼",
     "ioc": "ARU",
     "languages": [
       "nld"
@@ -266,6 +281,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇦🇽",
     "ioc": "",
     "languages": [
       "swe"
@@ -282,6 +298,7 @@
     "currencies": [
       "AZN"
     ],
+    "emoji": "🇦🇿",
     "ioc": "AZE",
     "languages": [
       "aze"
@@ -298,6 +315,7 @@
     "currencies": [
       "BAM"
     ],
+    "emoji": "🇧🇦",
     "ioc": "BIH",
     "languages": [
       "bos",
@@ -316,6 +334,7 @@
     "currencies": [
       "BBD"
     ],
+    "emoji": "🇧🇧",
     "ioc": "BAR",
     "languages": [
       "eng"
@@ -332,6 +351,7 @@
     "currencies": [
       "BDT"
     ],
+    "emoji": "🇧🇩",
     "ioc": "BAN",
     "languages": [
       "ben"
@@ -348,6 +368,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇧🇪",
     "ioc": "BEL",
     "languages": [
       "nld",
@@ -366,6 +387,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇧🇫",
     "ioc": "BUR",
     "languages": [
       "fra"
@@ -382,6 +404,7 @@
     "currencies": [
       "BGN"
     ],
+    "emoji": "🇧🇬",
     "ioc": "BUL",
     "languages": [
       "bul"
@@ -398,6 +421,7 @@
     "currencies": [
       "BHD"
     ],
+    "emoji": "🇧🇭",
     "ioc": "BRN",
     "languages": [
       "ara"
@@ -414,6 +438,7 @@
     "currencies": [
       "BIF"
     ],
+    "emoji": "🇧🇮",
     "ioc": "BDI",
     "languages": [
       "fra"
@@ -430,6 +455,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇧🇯",
     "ioc": "BEN",
     "languages": [
       "fra"
@@ -446,6 +472,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇧🇱",
     "ioc": "",
     "languages": [
       "fra"
@@ -462,6 +489,7 @@
     "currencies": [
       "BMD"
     ],
+    "emoji": "🇧🇲",
     "ioc": "BER",
     "languages": [
       "eng"
@@ -478,6 +506,7 @@
     "currencies": [
       "BND"
     ],
+    "emoji": "🇧🇳",
     "ioc": "BRU",
     "languages": [
       "msa",
@@ -496,6 +525,7 @@
       "BOB",
       "BOV"
     ],
+    "emoji": "🇧🇴",
     "ioc": "BOL",
     "languages": [
       "spa",
@@ -514,6 +544,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇧🇶",
     "ioc": "",
     "languages": [
       "nld"
@@ -540,6 +571,7 @@
     "currencies": [
       "BRL"
     ],
+    "emoji": "🇧🇷",
     "ioc": "BRA",
     "languages": [
       "por"
@@ -556,6 +588,7 @@
     "currencies": [
       "BSD"
     ],
+    "emoji": "🇧🇸",
     "ioc": "BAH",
     "languages": [
       "eng"
@@ -573,6 +606,7 @@
       "INR",
       "BTN"
     ],
+    "emoji": "🇧🇹",
     "ioc": "BHU",
     "languages": [
       "dzo"
@@ -597,6 +631,7 @@
     "currencies": [
       "NOK"
     ],
+    "emoji": "🇧🇻",
     "ioc": "",
     "languages": [],
     "name": "Bouvet Island",
@@ -611,6 +646,7 @@
     "currencies": [
       "BWP"
     ],
+    "emoji": "🇧🇼",
     "ioc": "BOT",
     "languages": [
       "eng",
@@ -628,6 +664,7 @@
     "currencies": [
       "BYR"
     ],
+    "emoji": "🇧🇾",
     "ioc": "BLR",
     "languages": [
       "bel",
@@ -655,6 +692,7 @@
     "currencies": [
       "BZD"
     ],
+    "emoji": "🇧🇿",
     "ioc": "BIZ",
     "languages": [
       "eng"
@@ -671,6 +709,7 @@
     "currencies": [
       "CAD"
     ],
+    "emoji": "🇨🇦",
     "ioc": "CAN",
     "languages": [
       "eng",
@@ -688,6 +727,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇨🇨",
     "ioc": "",
     "languages": [
       "eng"
@@ -704,6 +744,7 @@
     "currencies": [
       "CDF"
     ],
+    "emoji": "🇨🇩",
     "ioc": "COD",
     "languages": [
       "fra",
@@ -723,6 +764,7 @@
     "currencies": [
       "XAF"
     ],
+    "emoji": "🇨🇫",
     "ioc": "CAF",
     "languages": [
       "fra",
@@ -740,6 +782,7 @@
     "currencies": [
       "XAF"
     ],
+    "emoji": "🇨🇬",
     "ioc": "CGO",
     "languages": [
       "fra",
@@ -759,6 +802,7 @@
       "CHE",
       "CHW"
     ],
+    "emoji": "🇨🇭",
     "ioc": "SUI",
     "languages": [
       "deu",
@@ -778,6 +822,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇨🇮",
     "ioc": "CIV",
     "languages": [
       "fra"
@@ -794,6 +839,7 @@
     "currencies": [
       "NZD"
     ],
+    "emoji": "🇨🇰",
     "ioc": "COK",
     "languages": [
       "eng",
@@ -812,6 +858,7 @@
       "CLP",
       "CLF"
     ],
+    "emoji": "🇨🇱",
     "ioc": "CHI",
     "languages": [
       "spa"
@@ -828,6 +875,7 @@
     "currencies": [
       "XAF"
     ],
+    "emoji": "🇨🇲",
     "ioc": "CMR",
     "languages": [
       "eng",
@@ -845,6 +893,7 @@
     "currencies": [
       "CNY"
     ],
+    "emoji": "🇨🇳",
     "ioc": "CHN",
     "languages": [
       "zho"
@@ -862,6 +911,7 @@
       "COP",
       "COU"
     ],
+    "emoji": "🇨🇴",
     "ioc": "COL",
     "languages": [
       "spa"
@@ -876,6 +926,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [],
     "name": "Clipperton Island",
@@ -890,6 +941,7 @@
     "currencies": [
       "CRC"
     ],
+    "emoji": "🇨🇷",
     "ioc": "CRC",
     "languages": [
       "spa"
@@ -937,6 +989,7 @@
       "CUP",
       "CUC"
     ],
+    "emoji": "🇨🇺",
     "ioc": "CUB",
     "languages": [
       "spa"
@@ -953,6 +1006,7 @@
     "currencies": [
       "CVE"
     ],
+    "emoji": "🇨🇻",
     "ioc": "CPV",
     "languages": [
       "por"
@@ -969,6 +1023,7 @@
     "currencies": [
       "ANG"
     ],
+    "emoji": "🇨🇼",
     "ioc": "",
     "languages": [
       "nld"
@@ -985,6 +1040,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇨🇽",
     "ioc": "",
     "languages": [
       "eng"
@@ -1001,6 +1057,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇨🇾",
     "ioc": "CYP",
     "languages": [
       "ell",
@@ -1018,6 +1075,7 @@
     "currencies": [
       "CZK"
     ],
+    "emoji": "🇨🇿",
     "ioc": "CZE",
     "languages": [
       "ces"
@@ -1044,6 +1102,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇩🇪",
     "ioc": "GER",
     "languages": [
       "deu"
@@ -1058,6 +1117,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [],
     "name": "Diego Garcia",
@@ -1072,6 +1132,7 @@
     "currencies": [
       "DJF"
     ],
+    "emoji": "🇩🇯",
     "ioc": "DJI",
     "languages": [
       "ara",
@@ -1089,6 +1150,7 @@
     "currencies": [
       "DKK"
     ],
+    "emoji": "🇩🇰",
     "ioc": "DEN",
     "languages": [
       "dan"
@@ -1105,6 +1167,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇩🇲",
     "ioc": "DMA",
     "languages": [
       "eng"
@@ -1123,6 +1186,7 @@
     "currencies": [
       "DOP"
     ],
+    "emoji": "🇩🇴",
     "ioc": "DOM",
     "languages": [
       "spa"
@@ -1149,6 +1213,7 @@
     "currencies": [
       "DZD"
     ],
+    "emoji": "🇩🇿",
     "ioc": "ALG",
     "languages": [
       "ara"
@@ -1163,6 +1228,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [],
     "name": "Ceuta, Mulilla",
@@ -1177,6 +1243,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇪🇨",
     "ioc": "ECU",
     "languages": [
       "spa",
@@ -1194,6 +1261,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇪🇪",
     "ioc": "EST",
     "languages": [
       "est"
@@ -1210,6 +1278,7 @@
     "currencies": [
       "EGP"
     ],
+    "emoji": "🇪🇬",
     "ioc": "EGY",
     "languages": [
       "ara"
@@ -1226,6 +1295,7 @@
     "currencies": [
       "MAD"
     ],
+    "emoji": "🇪🇭",
     "ioc": "",
     "languages": [],
     "name": "Western Sahara",
@@ -1240,6 +1310,7 @@
     "currencies": [
       "ERN"
     ],
+    "emoji": "🇪🇷",
     "ioc": "ERI",
     "languages": [
       "eng",
@@ -1258,6 +1329,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇪🇸",
     "ioc": "ESP",
     "languages": [
       "spa"
@@ -1274,6 +1346,7 @@
     "currencies": [
       "ETB"
     ],
+    "emoji": "🇪🇹",
     "ioc": "ETH",
     "languages": [
       "amh"
@@ -1290,6 +1363,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇪🇺",
     "ioc": "",
     "languages": [],
     "name": "European Union",
@@ -1304,6 +1378,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇫🇮",
     "ioc": "FIN",
     "languages": [
       "fin",
@@ -1321,6 +1396,7 @@
     "currencies": [
       "FJD"
     ],
+    "emoji": "🇫🇯",
     "ioc": "FIJ",
     "languages": [
       "eng",
@@ -1338,6 +1414,7 @@
     "currencies": [
       "FKP"
     ],
+    "emoji": "🇫🇰",
     "ioc": "",
     "languages": [
       "eng"
@@ -1354,6 +1431,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇫🇲",
     "ioc": "FSM",
     "languages": [
       "eng"
@@ -1370,6 +1448,7 @@
     "currencies": [
       "DKK"
     ],
+    "emoji": "🇫🇴",
     "ioc": "FAI",
     "languages": [
       "fao",
@@ -1397,6 +1476,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇫🇷",
     "ioc": "FRA",
     "languages": [
       "fra"
@@ -1413,6 +1493,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [
       "fra"
@@ -1429,6 +1510,7 @@
     "currencies": [
       "XAF"
     ],
+    "emoji": "🇬🇦",
     "ioc": "GAB",
     "languages": [
       "fra"
@@ -1445,6 +1527,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "🇬🇧",
     "ioc": "GBR",
     "languages": [
       "eng",
@@ -1465,6 +1548,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇬🇩",
     "ioc": "GRN",
     "languages": [
       "eng"
@@ -1481,6 +1565,7 @@
     "currencies": [
       "GEL"
     ],
+    "emoji": "🇬🇪",
     "ioc": "GEO",
     "languages": [
       "kat"
@@ -1507,6 +1592,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇬🇫",
     "ioc": "",
     "languages": [
       "fra"
@@ -1523,6 +1609,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "🇬🇬",
     "ioc": "GCI",
     "languages": [
       "fra"
@@ -1539,6 +1626,7 @@
     "currencies": [
       "GHS"
     ],
+    "emoji": "🇬🇭",
     "ioc": "GHA",
     "languages": [
       "eng"
@@ -1555,6 +1643,7 @@
     "currencies": [
       "GIP"
     ],
+    "emoji": "🇬🇮",
     "ioc": "",
     "languages": [
       "eng"
@@ -1571,6 +1660,7 @@
     "currencies": [
       "DKK"
     ],
+    "emoji": "🇬🇱",
     "ioc": "",
     "languages": [
       "kal"
@@ -1587,6 +1677,7 @@
     "currencies": [
       "GMD"
     ],
+    "emoji": "🇬🇲",
     "ioc": "GAM",
     "languages": [
       "eng"
@@ -1603,6 +1694,7 @@
     "currencies": [
       "GNF"
     ],
+    "emoji": "🇬🇳",
     "ioc": "GUI",
     "languages": [
       "fra"
@@ -1619,6 +1711,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇬🇵",
     "ioc": "",
     "languages": [
       "fra"
@@ -1635,6 +1728,7 @@
     "currencies": [
       "XAF"
     ],
+    "emoji": "🇬🇶",
     "ioc": "GEQ",
     "languages": [
       "spa",
@@ -1653,6 +1747,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇬🇷",
     "ioc": "GRE",
     "languages": [
       "ell"
@@ -1667,6 +1762,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "🇬🇸",
     "ioc": "",
     "languages": [
       "eng"
@@ -1683,6 +1779,7 @@
     "currencies": [
       "GTQ"
     ],
+    "emoji": "🇬🇹",
     "ioc": "GUA",
     "languages": [
       "spa"
@@ -1699,6 +1796,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇬🇺",
     "ioc": "GUM",
     "languages": [
       "eng"
@@ -1715,6 +1813,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇬🇼",
     "ioc": "GBS",
     "languages": [
       "por"
@@ -1731,6 +1830,7 @@
     "currencies": [
       "GYD"
     ],
+    "emoji": "🇬🇾",
     "ioc": "GUY",
     "languages": [
       "eng"
@@ -1747,6 +1847,7 @@
     "currencies": [
       "HKD"
     ],
+    "emoji": "🇭🇰",
     "ioc": "HKG",
     "languages": [
       "zho",
@@ -1762,6 +1863,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇭🇲",
     "ioc": "",
     "languages": [],
     "name": "Heard Island And McDonald Islands",
@@ -1776,6 +1878,7 @@
     "currencies": [
       "HNL"
     ],
+    "emoji": "🇭🇳",
     "ioc": "HON",
     "languages": [
       "spa"
@@ -1792,6 +1895,7 @@
     "currencies": [
       "HRK"
     ],
+    "emoji": "🇭🇷",
     "ioc": "CRO",
     "languages": [
       "hrv"
@@ -1809,6 +1913,7 @@
       "HTG",
       "USD"
     ],
+    "emoji": "🇭🇹",
     "ioc": "HAI",
     "languages": [
       "fra",
@@ -1826,6 +1931,7 @@
     "currencies": [
       "HUF"
     ],
+    "emoji": "🇭🇺",
     "ioc": "HUN",
     "languages": [
       "hun"
@@ -1850,6 +1956,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [],
     "name": "Canary Islands",
@@ -1864,6 +1971,7 @@
     "currencies": [
       "IDR"
     ],
+    "emoji": "🇮🇩",
     "ioc": "INA",
     "languages": [
       "ind"
@@ -1880,6 +1988,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇮🇪",
     "ioc": "IRL",
     "languages": [
       "eng",
@@ -1897,6 +2006,7 @@
     "currencies": [
       "ILS"
     ],
+    "emoji": "🇮🇱",
     "ioc": "ISR",
     "languages": [
       "heb",
@@ -1915,6 +2025,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "🇮🇲",
     "ioc": "",
     "languages": [
       "eng",
@@ -1932,6 +2043,7 @@
     "currencies": [
       "INR"
     ],
+    "emoji": "🇮🇳",
     "ioc": "IND",
     "languages": [
       "eng",
@@ -1949,6 +2061,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇮🇴",
     "ioc": "",
     "languages": [
       "eng"
@@ -1965,6 +2078,7 @@
     "currencies": [
       "IQD"
     ],
+    "emoji": "🇮🇶",
     "ioc": "IRQ",
     "languages": [
       "ara",
@@ -1982,6 +2096,7 @@
     "currencies": [
       "IRR"
     ],
+    "emoji": "🇮🇷",
     "ioc": "IRI",
     "languages": [
       "fas"
@@ -1998,6 +2113,7 @@
     "currencies": [
       "ISK"
     ],
+    "emoji": "🇮🇸",
     "ioc": "ISL",
     "languages": [
       "isl"
@@ -2014,6 +2130,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇮🇹",
     "ioc": "ITA",
     "languages": [
       "ita"
@@ -2030,6 +2147,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "🇯🇪",
     "ioc": "JCI",
     "languages": [
       "eng",
@@ -2047,6 +2165,7 @@
     "currencies": [
       "JMD"
     ],
+    "emoji": "🇯🇲",
     "ioc": "JAM",
     "languages": [
       "eng"
@@ -2063,6 +2182,7 @@
     "currencies": [
       "JOD"
     ],
+    "emoji": "🇯🇴",
     "ioc": "JOR",
     "languages": [
       "ara"
@@ -2079,6 +2199,7 @@
     "currencies": [
       "JPY"
     ],
+    "emoji": "🇯🇵",
     "ioc": "JPN",
     "languages": [
       "jpn"
@@ -2105,6 +2226,7 @@
     "currencies": [
       "KES"
     ],
+    "emoji": "🇰🇪",
     "ioc": "KEN",
     "languages": [
       "eng",
@@ -2122,6 +2244,7 @@
     "currencies": [
       "KGS"
     ],
+    "emoji": "🇰🇬",
     "ioc": "KGZ",
     "languages": [
       "rus"
@@ -2138,6 +2261,7 @@
     "currencies": [
       "KHR"
     ],
+    "emoji": "🇰🇭",
     "ioc": "CAM",
     "languages": [
       "khm"
@@ -2154,6 +2278,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇰🇮",
     "ioc": "KIR",
     "languages": [
       "eng"
@@ -2170,6 +2295,7 @@
     "currencies": [
       "KMF"
     ],
+    "emoji": "🇰🇲",
     "ioc": "COM",
     "languages": [
       "ara",
@@ -2187,6 +2313,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇰🇳",
     "ioc": "SKN",
     "languages": [
       "eng"
@@ -2203,6 +2330,7 @@
     "currencies": [
       "KPW"
     ],
+    "emoji": "🇰🇵",
     "ioc": "PRK",
     "languages": [
       "kor"
@@ -2219,6 +2347,7 @@
     "currencies": [
       "KRW"
     ],
+    "emoji": "🇰🇷",
     "ioc": "KOR",
     "languages": [
       "kor"
@@ -2235,6 +2364,7 @@
     "currencies": [
       "KWD"
     ],
+    "emoji": "🇰🇼",
     "ioc": "KUW",
     "languages": [
       "ara"
@@ -2251,6 +2381,7 @@
     "currencies": [
       "KYD"
     ],
+    "emoji": "🇰🇾",
     "ioc": "CAY",
     "languages": [
       "eng"
@@ -2269,6 +2400,7 @@
     "currencies": [
       "KZT"
     ],
+    "emoji": "🇰🇿",
     "ioc": "KAZ",
     "languages": [
       "kaz",
@@ -2286,6 +2418,7 @@
     "currencies": [
       "LAK"
     ],
+    "emoji": "🇱🇦",
     "ioc": "LAO",
     "languages": [
       "lao"
@@ -2302,6 +2435,7 @@
     "currencies": [
       "LBP"
     ],
+    "emoji": "🇱🇧",
     "ioc": "LIB",
     "languages": [
       "ara",
@@ -2319,6 +2453,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇱🇨",
     "ioc": "LCA",
     "languages": [
       "eng"
@@ -2335,6 +2470,7 @@
     "currencies": [
       "CHF"
     ],
+    "emoji": "🇱🇮",
     "ioc": "LIE",
     "languages": [
       "deu"
@@ -2351,6 +2487,7 @@
     "currencies": [
       "LKR"
     ],
+    "emoji": "🇱🇰",
     "ioc": "SRI",
     "languages": [
       "sin",
@@ -2368,6 +2505,7 @@
     "currencies": [
       "LRD"
     ],
+    "emoji": "🇱🇷",
     "ioc": "LBR",
     "languages": [
       "eng"
@@ -2385,6 +2523,7 @@
       "LSL",
       "ZAR"
     ],
+    "emoji": "🇱🇸",
     "ioc": "LES",
     "languages": [
       "eng",
@@ -2402,6 +2541,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇱🇹",
     "ioc": "LTU",
     "languages": [
       "lit"
@@ -2418,6 +2558,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇱🇺",
     "ioc": "LUX",
     "languages": [
       "fra",
@@ -2436,6 +2577,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇱🇻",
     "ioc": "LAT",
     "languages": [
       "lav"
@@ -2452,6 +2594,7 @@
     "currencies": [
       "LYD"
     ],
+    "emoji": "🇱🇾",
     "ioc": "LBA",
     "languages": [
       "ara"
@@ -2468,6 +2611,7 @@
     "currencies": [
       "MAD"
     ],
+    "emoji": "🇲🇦",
     "ioc": "MAR",
     "languages": [
       "ara"
@@ -2484,6 +2628,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇲🇨",
     "ioc": "MON",
     "languages": [
       "fra"
@@ -2500,6 +2645,7 @@
     "currencies": [
       "MDL"
     ],
+    "emoji": "🇲🇩",
     "ioc": "MDA",
     "languages": [
       "ron"
@@ -2516,6 +2662,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇲🇪",
     "ioc": "MNE",
     "languages": [
       "mot"
@@ -2532,6 +2679,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇲🇫",
     "ioc": "",
     "languages": [
       "fra"
@@ -2548,6 +2696,7 @@
     "currencies": [
       "MGA"
     ],
+    "emoji": "🇲🇬",
     "ioc": "MAD",
     "languages": [
       "fra",
@@ -2565,6 +2714,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇲🇭",
     "ioc": "MHL",
     "languages": [
       "eng",
@@ -2592,6 +2742,7 @@
     "currencies": [
       "MKD"
     ],
+    "emoji": "🇲🇰",
     "ioc": "MKD",
     "languages": [
       "mkd"
@@ -2608,6 +2759,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇲🇱",
     "ioc": "MLI",
     "languages": [
       "fra"
@@ -2624,6 +2776,7 @@
     "currencies": [
       "MMK"
     ],
+    "emoji": "🇲🇲",
     "ioc": "MYA",
     "languages": [
       "mya"
@@ -2640,6 +2793,7 @@
     "currencies": [
       "MNT"
     ],
+    "emoji": "🇲🇳",
     "ioc": "MGL",
     "languages": [
       "mon"
@@ -2656,6 +2810,7 @@
     "currencies": [
       "MOP"
     ],
+    "emoji": "🇲🇴",
     "ioc": "MAC",
     "languages": [
       "zho",
@@ -2673,6 +2828,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇲🇵",
     "ioc": "",
     "languages": [
       "eng"
@@ -2689,6 +2845,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇲🇶",
     "ioc": "",
     "languages": [],
     "name": "Martinique",
@@ -2703,6 +2860,7 @@
     "currencies": [
       "MRO"
     ],
+    "emoji": "🇲🇷",
     "ioc": "MTN",
     "languages": [
       "ara",
@@ -2720,6 +2878,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇲🇸",
     "ioc": "",
     "languages": [],
     "name": "Montserrat",
@@ -2734,6 +2893,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇲🇹",
     "ioc": "MLT",
     "languages": [
       "mlt",
@@ -2751,6 +2911,7 @@
     "currencies": [
       "MUR"
     ],
+    "emoji": "🇲🇺",
     "ioc": "MRI",
     "languages": [
       "eng",
@@ -2768,6 +2929,7 @@
     "currencies": [
       "MVR"
     ],
+    "emoji": "🇲🇻",
     "ioc": "MDV",
     "languages": [
       "div"
@@ -2784,6 +2946,7 @@
     "currencies": [
       "MWK"
     ],
+    "emoji": "🇲🇼",
     "ioc": "MAW",
     "languages": [
       "eng",
@@ -2802,6 +2965,7 @@
       "MXN",
       "MXV"
     ],
+    "emoji": "🇲🇽",
     "ioc": "MEX",
     "languages": [
       "spa"
@@ -2818,6 +2982,7 @@
     "currencies": [
       "MYR"
     ],
+    "emoji": "🇲🇾",
     "ioc": "MAS",
     "languages": [
       "msa",
@@ -2835,6 +3000,7 @@
     "currencies": [
       "MZN"
     ],
+    "emoji": "🇲🇿",
     "ioc": "MOZ",
     "languages": [
       "por"
@@ -2852,6 +3018,7 @@
       "NAD",
       "ZAR"
     ],
+    "emoji": "🇳🇦",
     "ioc": "NAM",
     "languages": [
       "eng"
@@ -2868,6 +3035,7 @@
     "currencies": [
       "XPF"
     ],
+    "emoji": "🇳🇨",
     "ioc": "",
     "languages": [
       "fra"
@@ -2884,6 +3052,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇳🇪",
     "ioc": "NIG",
     "languages": [
       "fra"
@@ -2900,6 +3069,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇳🇫",
     "ioc": "",
     "languages": [
       "eng"
@@ -2916,6 +3086,7 @@
     "currencies": [
       "NGN"
     ],
+    "emoji": "🇳🇬",
     "ioc": "NGR",
     "languages": [
       "eng"
@@ -2942,6 +3113,7 @@
     "currencies": [
       "NIO"
     ],
+    "emoji": "🇳🇮",
     "ioc": "NCA",
     "languages": [
       "spa"
@@ -2958,6 +3130,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇳🇱",
     "ioc": "NED",
     "languages": [
       "nld"
@@ -2974,6 +3147,7 @@
     "currencies": [
       "NOK"
     ],
+    "emoji": "🇳🇴",
     "ioc": "NOR",
     "languages": [
       "nor"
@@ -2990,6 +3164,7 @@
     "currencies": [
       "NPR"
     ],
+    "emoji": "🇳🇵",
     "ioc": "NEP",
     "languages": [
       "nep"
@@ -3016,6 +3191,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇳🇷",
     "ioc": "NRU",
     "languages": [
       "eng",
@@ -3043,6 +3219,7 @@
     "currencies": [
       "NZD"
     ],
+    "emoji": "🇳🇺",
     "ioc": "",
     "languages": [
       "eng"
@@ -3059,6 +3236,7 @@
     "currencies": [
       "NZD"
     ],
+    "emoji": "🇳🇿",
     "ioc": "NZL",
     "languages": [
       "eng"
@@ -3075,6 +3253,7 @@
     "currencies": [
       "OMR"
     ],
+    "emoji": "🇴🇲",
     "ioc": "OMA",
     "languages": [
       "ara"
@@ -3092,6 +3271,7 @@
       "PAB",
       "USD"
     ],
+    "emoji": "🇵🇦",
     "ioc": "PAN",
     "languages": [
       "spa"
@@ -3118,6 +3298,7 @@
     "currencies": [
       "PEN"
     ],
+    "emoji": "🇵🇪",
     "ioc": "PER",
     "languages": [
       "spa",
@@ -3136,6 +3317,7 @@
     "currencies": [
       "XPF"
     ],
+    "emoji": "🇵🇫",
     "ioc": "",
     "languages": [
       "fra"
@@ -3152,6 +3334,7 @@
     "currencies": [
       "PGK"
     ],
+    "emoji": "🇵🇬",
     "ioc": "PNG",
     "languages": [
       "eng"
@@ -3168,6 +3351,7 @@
     "currencies": [
       "PHP"
     ],
+    "emoji": "🇵🇭",
     "ioc": "PHI",
     "languages": [
       "eng"
@@ -3184,6 +3368,7 @@
     "currencies": [
       "PKR"
     ],
+    "emoji": "🇵🇰",
     "ioc": "PAK",
     "languages": [
       "urd",
@@ -3201,6 +3386,7 @@
     "currencies": [
       "PLN"
     ],
+    "emoji": "🇵🇱",
     "ioc": "POL",
     "languages": [
       "pol"
@@ -3217,6 +3403,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇵🇲",
     "ioc": "",
     "languages": [
       "eng"
@@ -3233,6 +3420,7 @@
     "currencies": [
       "NZD"
     ],
+    "emoji": "🇵🇳",
     "ioc": "",
     "languages": [
       "eng"
@@ -3250,6 +3438,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇵🇷",
     "ioc": "PUR",
     "languages": [
       "spa",
@@ -3269,6 +3458,7 @@
       "EGP",
       "ILS"
     ],
+    "emoji": "🇵🇸",
     "ioc": "PLE",
     "languages": [
       "ara"
@@ -3285,6 +3475,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇵🇹",
     "ioc": "POR",
     "languages": [
       "por"
@@ -3311,6 +3502,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇵🇼",
     "ioc": "PLW",
     "languages": [
       "eng"
@@ -3327,6 +3519,7 @@
     "currencies": [
       "PYG"
     ],
+    "emoji": "🇵🇾",
     "ioc": "PAR",
     "languages": [
       "spa"
@@ -3353,6 +3546,7 @@
     "currencies": [
       "QAR"
     ],
+    "emoji": "🇶🇦",
     "ioc": "QAT",
     "languages": [
       "ara"
@@ -3369,6 +3563,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇷🇪",
     "ioc": "",
     "languages": [
       "fra"
@@ -3395,6 +3590,7 @@
     "currencies": [
       "RON"
     ],
+    "emoji": "🇷🇴",
     "ioc": "ROU",
     "languages": [
       "ron"
@@ -3411,6 +3607,7 @@
     "currencies": [
       "RSD"
     ],
+    "emoji": "🇷🇸",
     "ioc": "SRB",
     "languages": [
       "srp"
@@ -3430,6 +3627,7 @@
     "currencies": [
       "RUB"
     ],
+    "emoji": "🇷🇺",
     "ioc": "RUS",
     "languages": [
       "rus"
@@ -3446,6 +3644,7 @@
     "currencies": [
       "RWF"
     ],
+    "emoji": "🇷🇼",
     "ioc": "RWA",
     "languages": [
       "eng",
@@ -3464,6 +3663,7 @@
     "currencies": [
       "SAR"
     ],
+    "emoji": "🇸🇦",
     "ioc": "KSA",
     "languages": [
       "ara"
@@ -3480,6 +3680,7 @@
     "currencies": [
       "SBD"
     ],
+    "emoji": "🇸🇧",
     "ioc": "SOL",
     "languages": [
       "eng"
@@ -3496,6 +3697,7 @@
     "currencies": [
       "SCR"
     ],
+    "emoji": "🇸🇨",
     "ioc": "SEY",
     "languages": [
       "eng",
@@ -3513,6 +3715,7 @@
     "currencies": [
       "SDG"
     ],
+    "emoji": "🇸🇩",
     "ioc": "SUD",
     "languages": [
       "ara",
@@ -3530,6 +3733,7 @@
     "currencies": [
       "SEK"
     ],
+    "emoji": "🇸🇪",
     "ioc": "SWE",
     "languages": [
       "swe"
@@ -3546,6 +3750,7 @@
     "currencies": [
       "SGD"
     ],
+    "emoji": "🇸🇬",
     "ioc": "SIN",
     "languages": [
       "eng",
@@ -3565,6 +3770,7 @@
     "currencies": [
       "SHP"
     ],
+    "emoji": "🇸🇭",
     "ioc": "",
     "languages": [
       "eng"
@@ -3581,6 +3787,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇸🇮",
     "ioc": "SLO",
     "languages": [
       "slv"
@@ -3597,6 +3804,7 @@
     "currencies": [
       "NOK"
     ],
+    "emoji": "🇸🇯",
     "ioc": "",
     "languages": [],
     "name": "Svalbard And Jan Mayen",
@@ -3611,6 +3819,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇸🇰",
     "ioc": "SVK",
     "languages": [
       "slk"
@@ -3637,6 +3846,7 @@
     "currencies": [
       "SLL"
     ],
+    "emoji": "🇸🇱",
     "ioc": "SLE",
     "languages": [
       "eng"
@@ -3653,6 +3863,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇸🇲",
     "ioc": "SMR",
     "languages": [
       "ita"
@@ -3669,6 +3880,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇸🇳",
     "ioc": "SEN",
     "languages": [
       "fra"
@@ -3685,6 +3897,7 @@
     "currencies": [
       "SOS"
     ],
+    "emoji": "🇸🇴",
     "ioc": "SOM",
     "languages": [
       "som"
@@ -3701,6 +3914,7 @@
     "currencies": [
       "SRD"
     ],
+    "emoji": "🇸🇷",
     "ioc": "SUR",
     "languages": [
       "nld"
@@ -3717,6 +3931,7 @@
     "currencies": [
       "SSP"
     ],
+    "emoji": "🇸🇸",
     "ioc": "SSD",
     "languages": [
       "eng"
@@ -3733,6 +3948,7 @@
     "currencies": [
       "STD"
     ],
+    "emoji": "🇸🇹",
     "ioc": "STP",
     "languages": [
       "por"
@@ -3747,6 +3963,7 @@
     "currencies": [
       "RUB"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [
       "rus"
@@ -3763,6 +3980,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇸🇻",
     "ioc": "ESA",
     "languages": [
       "spa"
@@ -3779,6 +3997,7 @@
     "currencies": [
       "ANG"
     ],
+    "emoji": "🇸🇽",
     "ioc": "",
     "languages": [
       "nld"
@@ -3795,6 +4014,7 @@
     "currencies": [
       "SYP"
     ],
+    "emoji": "🇸🇾",
     "ioc": "SYR",
     "languages": [
       "ara"
@@ -3811,6 +4031,7 @@
     "currencies": [
       "SZL"
     ],
+    "emoji": "🇸🇿",
     "ioc": "SWZ",
     "languages": [
       "eng",
@@ -3828,6 +4049,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [],
     "name": "Tristan de Cunha",
@@ -3842,6 +4064,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇹🇨",
     "ioc": "",
     "languages": [
       "eng"
@@ -3858,6 +4081,7 @@
     "currencies": [
       "XAF"
     ],
+    "emoji": "🇹🇩",
     "ioc": "CHA",
     "languages": [
       "ara",
@@ -3873,6 +4097,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇹🇫",
     "ioc": "",
     "languages": [
       "fra"
@@ -3889,6 +4114,7 @@
     "currencies": [
       "XOF"
     ],
+    "emoji": "🇹🇬",
     "ioc": "TOG",
     "languages": [
       "fra"
@@ -3905,6 +4131,7 @@
     "currencies": [
       "THB"
     ],
+    "emoji": "🇹🇭",
     "ioc": "THA",
     "languages": [
       "tha"
@@ -3921,6 +4148,7 @@
     "currencies": [
       "TJS"
     ],
+    "emoji": "🇹🇯",
     "ioc": "TJK",
     "languages": [
       "tgk",
@@ -3938,6 +4166,7 @@
     "currencies": [
       "NZD"
     ],
+    "emoji": "🇹🇰",
     "ioc": "",
     "languages": [
       "eng"
@@ -3954,6 +4183,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇹🇱",
     "ioc": "TLS",
     "languages": [
       "por"
@@ -3970,6 +4200,7 @@
     "currencies": [
       "TMT"
     ],
+    "emoji": "🇹🇲",
     "ioc": "TKM",
     "languages": [
       "tuk",
@@ -3987,6 +4218,7 @@
     "currencies": [
       "TND"
     ],
+    "emoji": "🇹🇳",
     "ioc": "TUN",
     "languages": [
       "ara"
@@ -4003,6 +4235,7 @@
     "currencies": [
       "TOP"
     ],
+    "emoji": "🇹🇴",
     "ioc": "TGA",
     "languages": [
       "eng"
@@ -4029,6 +4262,7 @@
     "currencies": [
       "TRY"
     ],
+    "emoji": "🇹🇷",
     "ioc": "TUR",
     "languages": [
       "tur"
@@ -4045,6 +4279,7 @@
     "currencies": [
       "TTD"
     ],
+    "emoji": "🇹🇹",
     "ioc": "TTO",
     "languages": [
       "eng"
@@ -4061,6 +4296,7 @@
     "currencies": [
       "AUD"
     ],
+    "emoji": "🇹🇻",
     "ioc": "TUV",
     "languages": [
       "eng"
@@ -4077,6 +4313,7 @@
     "currencies": [
       "TWD"
     ],
+    "emoji": "🇹🇼",
     "ioc": "TPE",
     "languages": [
       "zho"
@@ -4093,6 +4330,7 @@
     "currencies": [
       "TZS"
     ],
+    "emoji": "🇹🇿",
     "ioc": "TAN",
     "languages": [
       "swa",
@@ -4110,6 +4348,7 @@
     "currencies": [
       "UAH"
     ],
+    "emoji": "🇺🇦",
     "ioc": "UKR",
     "languages": [
       "ukr",
@@ -4127,6 +4366,7 @@
     "currencies": [
       "UGX"
     ],
+    "emoji": "🇺🇬",
     "ioc": "UGA",
     "languages": [
       "eng",
@@ -4142,6 +4382,7 @@
     "currencies": [
       "GBP"
     ],
+    "emoji": "",
     "ioc": "",
     "languages": [
       "eng",
@@ -4162,6 +4403,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇺🇲",
     "ioc": "",
     "languages": [
       "eng"
@@ -4178,6 +4420,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇺🇸",
     "ioc": "USA",
     "languages": [
       "eng"
@@ -4195,6 +4438,7 @@
       "UYU",
       "UYI"
     ],
+    "emoji": "🇺🇾",
     "ioc": "URU",
     "languages": [
       "spa"
@@ -4211,6 +4455,7 @@
     "currencies": [
       "UZS"
     ],
+    "emoji": "🇺🇿",
     "ioc": "UZB",
     "languages": [
       "uzb",
@@ -4229,6 +4474,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇻🇦",
     "ioc": "",
     "languages": [
       "ita"
@@ -4245,6 +4491,7 @@
     "currencies": [
       "XCD"
     ],
+    "emoji": "🇻🇨",
     "ioc": "VIN",
     "languages": [
       "eng"
@@ -4271,6 +4518,7 @@
     "currencies": [
       "VEF"
     ],
+    "emoji": "🇻🇪",
     "ioc": "VEN",
     "languages": [
       "spa"
@@ -4287,6 +4535,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇻🇬",
     "ioc": "IVB",
     "languages": [
       "eng"
@@ -4303,6 +4552,7 @@
     "currencies": [
       "USD"
     ],
+    "emoji": "🇻🇮",
     "ioc": "ISV",
     "languages": [
       "eng"
@@ -4319,6 +4569,7 @@
     "currencies": [
       "VND"
     ],
+    "emoji": "🇻🇳",
     "ioc": "VIE",
     "languages": [
       "vie"
@@ -4335,6 +4586,7 @@
     "currencies": [
       "VUV"
     ],
+    "emoji": "🇻🇺",
     "ioc": "VAN",
     "languages": [
       "bis",
@@ -4353,6 +4605,7 @@
     "currencies": [
       "XPF"
     ],
+    "emoji": "🇼🇫",
     "ioc": "",
     "languages": [
       "fra"
@@ -4379,6 +4632,7 @@
     "currencies": [
       "WST"
     ],
+    "emoji": "🇼🇸",
     "ioc": "SAM",
     "languages": [
       "eng",
@@ -4396,6 +4650,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "",
     "ioc": "KOS",
     "languages": [
       "sqi",
@@ -4426,6 +4681,7 @@
     "currencies": [
       "YER"
     ],
+    "emoji": "🇾🇪",
     "ioc": "YEM",
     "languages": [
       "ara"
@@ -4442,6 +4698,7 @@
     "currencies": [
       "EUR"
     ],
+    "emoji": "🇾🇹",
     "ioc": "",
     "languages": [
       "fra"
@@ -4468,6 +4725,7 @@
     "currencies": [
       "ZAR"
     ],
+    "emoji": "🇿🇦",
     "ioc": "RSA",
     "languages": [
       "afr",
@@ -4491,6 +4749,7 @@
     "currencies": [
       "ZMW"
     ],
+    "emoji": "🇿🇲",
     "ioc": "ZAM",
     "languages": [
       "eng"
@@ -4521,6 +4780,7 @@
       "GBP",
       "EUR"
     ],
+    "emoji": "🇿🇼",
     "ioc": "ZIM",
     "languages": [
       "eng",
