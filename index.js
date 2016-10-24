@@ -18,8 +18,15 @@ exports.countries = {
 };
 
 _.each(countriesAll, function (country) {
-  exports.countries[country.alpha2] = country;
-  exports.countries[country.alpha3] = country;
+  // prefer assigned country codes over inactive ones
+  var statusAlpha2 = exports.countries[country.alpha2];
+  if (!statusAlpha2 || statusAlpha2 === 'assigned') {
+    exports.countries[country.alpha2] = country;
+  }
+  var statusAlpha3 = exports.countries[country.alpha3];
+  if (!statusAlpha3 || statusAlpha3 === 'assigned') {
+    exports.countries[country.alpha3] = country;
+  }
 });
 
 exports.currencies = {

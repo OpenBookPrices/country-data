@@ -19,6 +19,10 @@ describe('countries', function () {
       assert.equal( countries.BE.name, 'Belgium');
       assert.equal( countries.US.name, 'United States');
     });
+    it('should prefer assigned alpha2 country codes', function () {
+      assert.equal( countries.SK.name, 'Slovakia');
+      assert.equal( countries.BY.name, 'Belarus');
+    });
   });
 
   describe('alpha3', function () {
