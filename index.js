@@ -19,12 +19,13 @@ exports.countries = {
 
 _.each(countriesAll, function (country) {
   // prefer assigned country codes over inactive ones
-  var statusAlpha2 = exports.countries[country.alpha2];
-  if (!statusAlpha2 || statusAlpha2 === 'assigned') {
+  var exportedAlpha2 = exports.countries[country.alpha2];
+  if (!exportedAlpha2 || exportedAlpha2.status === 'deleted') {
     exports.countries[country.alpha2] = country;
   }
-  var statusAlpha3 = exports.countries[country.alpha3];
-  if (!statusAlpha3 || statusAlpha3 === 'assigned') {
+
+  var exportedAlpha3 = exports.countries[country.alpha3];
+  if (!exportedAlpha3 || exportedAlpha3.status === 'deleted') {
     exports.countries[country.alpha3] = country;
   }
 });
