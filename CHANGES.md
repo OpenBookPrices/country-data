@@ -1,5 +1,13 @@
 # Changes
 
+## v0.0.31
+
+  * fixed deleted countries appearing in countries[alpha2] instead of the current active country - thanks @silverwind
+
+## v0.0.30
+
+  * Added emoji flags for countries - thanks @livedo
+
 ## v0.0.29
 
   * Added or corrected Olympic codes for Kosovo, Federated States of Micronesia and British Virgin Islands - thanks @giedrius-timinskis 
