@@ -1332,7 +1332,10 @@
     "emoji": "🇪🇸",
     "ioc": "ESP",
     "languages": [
-      "spa"
+      "spa",
+      "cat",
+      "glg",
+      "eus"
     ],
     "name": "Spain",
     "status": "assigned"
