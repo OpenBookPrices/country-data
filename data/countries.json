@@ -14,6 +14,7 @@
       "eng"
     ],
     "name": "Ascension Island",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -31,6 +32,7 @@
       "cat"
     ],
     "name": "Andorra",
+    "numeric": "020",
     "status": "assigned"
   },
   {
@@ -48,6 +50,7 @@
       "ara"
     ],
     "name": "United Arab Emirates",
+    "numeric": "784",
     "status": "assigned"
   },
   {
@@ -65,6 +68,7 @@
       "pus"
     ],
     "name": "Afghanistan",
+    "numeric": "004",
     "status": "assigned"
   },
   {
@@ -82,6 +86,7 @@
       "eng"
     ],
     "name": "Antigua And Barbuda",
+    "numeric": "028",
     "status": "assigned"
   },
   {
@@ -99,6 +104,7 @@
       "eng"
     ],
     "name": "Anguilla",
+    "numeric": "660",
     "status": "assigned"
   },
   {
@@ -109,6 +115,7 @@
     "ioc": "",
     "languages": [],
     "name": "French Afar and Issas",
+    "numeric": "660",
     "status": "deleted"
   },
   {
@@ -126,6 +133,7 @@
       "sqi"
     ],
     "name": "Albania",
+    "numeric": "008",
     "status": "assigned"
   },
   {
@@ -144,6 +152,7 @@
       "rus"
     ],
     "name": "Armenia",
+    "numeric": "051",
     "status": "assigned"
   },
   {
@@ -154,6 +163,7 @@
     "ioc": "",
     "languages": [],
     "name": "Netherlands Antilles",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -171,6 +181,7 @@
       "por"
     ],
     "name": "Angola",
+    "numeric": "024",
     "status": "assigned"
   },
   {
@@ -184,6 +195,7 @@
     "ioc": "",
     "languages": [],
     "name": "Antarctica",
+    "numeric": "010",
     "status": "assigned"
   },
   {
@@ -201,6 +213,7 @@
       "spa"
     ],
     "name": "Argentina",
+    "numeric": "032",
     "status": "assigned"
   },
   {
@@ -219,6 +232,7 @@
       "smo"
     ],
     "name": "American Samoa",
+    "numeric": "016",
     "status": "assigned"
   },
   {
@@ -236,6 +250,7 @@
       "deu"
     ],
     "name": "Austria",
+    "numeric": "040",
     "status": "assigned"
   },
   {
@@ -253,6 +268,7 @@
       "eng"
     ],
     "name": "Australia",
+    "numeric": "036",
     "status": "assigned"
   },
   {
@@ -270,6 +286,7 @@
       "nld"
     ],
     "name": "Aruba",
+    "numeric": "533",
     "status": "assigned"
   },
   {
@@ -287,6 +304,7 @@
       "swe"
     ],
     "name": "Åland Islands",
+    "numeric": "248",
     "status": "assigned"
   },
   {
@@ -304,6 +322,7 @@
       "aze"
     ],
     "name": "Azerbaijan",
+    "numeric": "031",
     "status": "assigned"
   },
   {
@@ -323,6 +342,7 @@
       "srp"
     ],
     "name": "Bosnia & Herzegovina",
+    "numeric": "070",
     "status": "assigned"
   },
   {
@@ -340,6 +360,7 @@
       "eng"
     ],
     "name": "Barbados",
+    "numeric": "052",
     "status": "assigned"
   },
   {
@@ -357,6 +378,7 @@
       "ben"
     ],
     "name": "Bangladesh",
+    "numeric": "050",
     "status": "assigned"
   },
   {
@@ -376,6 +398,7 @@
       "deu"
     ],
     "name": "Belgium",
+    "numeric": "056",
     "status": "assigned"
   },
   {
@@ -393,6 +416,7 @@
       "fra"
     ],
     "name": "Burkina Faso",
+    "numeric": "854",
     "status": "assigned"
   },
   {
@@ -410,6 +434,7 @@
       "bul"
     ],
     "name": "Bulgaria",
+    "numeric": "100",
     "status": "assigned"
   },
   {
@@ -427,6 +452,7 @@
       "ara"
     ],
     "name": "Bahrain",
+    "numeric": "048",
     "status": "assigned"
   },
   {
@@ -444,6 +470,7 @@
       "fra"
     ],
     "name": "Burundi",
+    "numeric": "108",
     "status": "assigned"
   },
   {
@@ -461,6 +488,7 @@
       "fra"
     ],
     "name": "Benin",
+    "numeric": "204",
     "status": "assigned"
   },
   {
@@ -478,6 +506,7 @@
       "fra"
     ],
     "name": "Saint Barthélemy",
+    "numeric": "652",
     "status": "assigned"
   },
   {
@@ -495,6 +524,7 @@
       "eng"
     ],
     "name": "Bermuda",
+    "numeric": "060",
     "status": "assigned"
   },
   {
@@ -513,6 +543,7 @@
       "eng"
     ],
     "name": "Brunei Darussalam",
+    "numeric": "096",
     "status": "assigned"
   },
   {
@@ -533,6 +564,7 @@
       "que"
     ],
     "name": "Bolivia, Plurinational State Of",
+    "numeric": "068",
     "status": "assigned"
   },
   {
@@ -550,6 +582,7 @@
       "nld"
     ],
     "name": "Bonaire, Saint Eustatius And Saba",
+    "numeric": "535",
     "status": "assigned"
   },
   {
@@ -560,6 +593,7 @@
     "ioc": "",
     "languages": [],
     "name": "British Antarctic Territory",
+    "numeric": "535",
     "status": "deleted"
   },
   {
@@ -577,6 +611,7 @@
       "por"
     ],
     "name": "Brazil",
+    "numeric": "076",
     "status": "assigned"
   },
   {
@@ -594,6 +629,7 @@
       "eng"
     ],
     "name": "Bahamas",
+    "numeric": "044",
     "status": "assigned"
   },
   {
@@ -612,6 +648,7 @@
       "dzo"
     ],
     "name": "Bhutan",
+    "numeric": "064",
     "status": "assigned"
   },
   {
@@ -622,6 +659,7 @@
     "ioc": "",
     "languages": [],
     "name": "Burma",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -635,6 +673,7 @@
     "ioc": "",
     "languages": [],
     "name": "Bouvet Island",
+    "numeric": "074",
     "status": "assigned"
   },
   {
@@ -653,6 +692,7 @@
       "tsn"
     ],
     "name": "Botswana",
+    "numeric": "072",
     "status": "assigned"
   },
   {
@@ -671,6 +711,7 @@
       "rus"
     ],
     "name": "Belarus",
+    "numeric": "112",
     "status": "assigned"
   },
   {
@@ -681,6 +722,7 @@
     "ioc": "",
     "languages": [],
     "name": "Byelorussian SSR",
+    "numeric": "112",
     "status": "deleted"
   },
   {
@@ -698,6 +740,7 @@
       "eng"
     ],
     "name": "Belize",
+    "numeric": "084",
     "status": "assigned"
   },
   {
@@ -716,6 +759,7 @@
       "fra"
     ],
     "name": "Canada",
+    "numeric": "124",
     "status": "assigned"
   },
   {
@@ -733,6 +777,7 @@
       "eng"
     ],
     "name": "Cocos (Keeling) Islands",
+    "numeric": "166",
     "status": "assigned"
   },
   {
@@ -753,6 +798,7 @@
       "swa"
     ],
     "name": "Democratic Republic Of Congo",
+    "numeric": "180",
     "status": "assigned"
   },
   {
@@ -771,6 +817,7 @@
       "sag"
     ],
     "name": "Central African Republic",
+    "numeric": "140",
     "status": "assigned"
   },
   {
@@ -789,6 +836,7 @@
       "lin"
     ],
     "name": "Republic Of Congo",
+    "numeric": "178",
     "status": "assigned"
   },
   {
@@ -811,6 +859,7 @@
       "roh"
     ],
     "name": "Switzerland",
+    "numeric": "756",
     "status": "assigned"
   },
   {
@@ -828,6 +877,7 @@
       "fra"
     ],
     "name": "Côte d'Ivoire",
+    "numeric": "384",
     "status": "assigned"
   },
   {
@@ -846,6 +896,7 @@
       "mri"
     ],
     "name": "Cook Islands",
+    "numeric": "184",
     "status": "assigned"
   },
   {
@@ -864,6 +915,7 @@
       "spa"
     ],
     "name": "Chile",
+    "numeric": "152",
     "status": "assigned"
   },
   {
@@ -882,6 +934,7 @@
       "fra"
     ],
     "name": "Cameroon",
+    "numeric": "120",
     "status": "assigned"
   },
   {
@@ -899,6 +952,7 @@
       "zho"
     ],
     "name": "China",
+    "numeric": "156",
     "status": "assigned"
   },
   {
@@ -917,6 +971,7 @@
       "spa"
     ],
     "name": "Colombia",
+    "numeric": "170",
     "status": "assigned"
   },
   {
@@ -930,6 +985,7 @@
     "ioc": "",
     "languages": [],
     "name": "Clipperton Island",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -947,6 +1003,7 @@
       "spa"
     ],
     "name": "Costa Rica",
+    "numeric": "188",
     "status": "assigned"
   },
   {
@@ -957,6 +1014,7 @@
     "ioc": "",
     "languages": [],
     "name": "Czechoslovakia",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -967,6 +1025,7 @@
     "ioc": "",
     "languages": [],
     "name": "Serbia and Montenegro",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -977,6 +1036,7 @@
     "ioc": "",
     "languages": [],
     "name": "Canton and Enderbury Islands",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -995,6 +1055,7 @@
       "spa"
     ],
     "name": "Cuba",
+    "numeric": "192",
     "status": "assigned"
   },
   {
@@ -1012,6 +1073,7 @@
       "por"
     ],
     "name": "Cabo Verde",
+    "numeric": "132",
     "status": "assigned"
   },
   {
@@ -1029,6 +1091,7 @@
       "nld"
     ],
     "name": "Curacao",
+    "numeric": "531",
     "status": "assigned"
   },
   {
@@ -1046,6 +1109,7 @@
       "eng"
     ],
     "name": "Christmas Island",
+    "numeric": "162",
     "status": "assigned"
   },
   {
@@ -1064,6 +1128,7 @@
       "tur"
     ],
     "name": "Cyprus",
+    "numeric": "196",
     "status": "assigned"
   },
   {
@@ -1081,6 +1146,7 @@
       "ces"
     ],
     "name": "Czech Republic",
+    "numeric": "203",
     "status": "assigned"
   },
   {
@@ -1091,6 +1157,7 @@
     "ioc": "",
     "languages": [],
     "name": "German Democratic Republic",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -1108,6 +1175,7 @@
       "deu"
     ],
     "name": "Germany",
+    "numeric": "276",
     "status": "assigned"
   },
   {
@@ -1121,6 +1189,7 @@
     "ioc": "",
     "languages": [],
     "name": "Diego Garcia",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -1139,6 +1208,7 @@
       "fra"
     ],
     "name": "Djibouti",
+    "numeric": "262",
     "status": "assigned"
   },
   {
@@ -1156,6 +1226,7 @@
       "dan"
     ],
     "name": "Denmark",
+    "numeric": "208",
     "status": "assigned"
   },
   {
@@ -1173,6 +1244,7 @@
       "eng"
     ],
     "name": "Dominica",
+    "numeric": "212",
     "status": "assigned"
   },
   {
@@ -1192,6 +1264,7 @@
       "spa"
     ],
     "name": "Dominican Republic",
+    "numeric": "214",
     "status": "assigned"
   },
   {
@@ -1202,6 +1275,7 @@
     "ioc": "",
     "languages": [],
     "name": "Dahomey",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -1219,6 +1293,7 @@
       "ara"
     ],
     "name": "Algeria",
+    "numeric": "012",
     "status": "assigned"
   },
   {
@@ -1232,6 +1307,7 @@
     "ioc": "",
     "languages": [],
     "name": "Ceuta, Mulilla",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -1250,6 +1326,7 @@
       "que"
     ],
     "name": "Ecuador",
+    "numeric": "218",
     "status": "assigned"
   },
   {
@@ -1267,6 +1344,7 @@
       "est"
     ],
     "name": "Estonia",
+    "numeric": "233",
     "status": "assigned"
   },
   {
@@ -1284,6 +1362,7 @@
       "ara"
     ],
     "name": "Egypt",
+    "numeric": "818",
     "status": "assigned"
   },
   {
@@ -1299,6 +1378,7 @@
     "ioc": "",
     "languages": [],
     "name": "Western Sahara",
+    "numeric": "732",
     "status": "assigned"
   },
   {
@@ -1318,6 +1398,7 @@
       "tir"
     ],
     "name": "Eritrea",
+    "numeric": "232",
     "status": "assigned"
   },
   {
@@ -1335,6 +1416,7 @@
       "spa"
     ],
     "name": "Spain",
+    "numeric": "724",
     "status": "assigned"
   },
   {
@@ -1352,6 +1434,7 @@
       "amh"
     ],
     "name": "Ethiopia",
+    "numeric": "231",
     "status": "assigned"
   },
   {
@@ -1367,6 +1450,7 @@
     "ioc": "",
     "languages": [],
     "name": "European Union",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -1385,6 +1469,7 @@
       "swe"
     ],
     "name": "Finland",
+    "numeric": "246",
     "status": "assigned"
   },
   {
@@ -1403,6 +1488,7 @@
       "fij"
     ],
     "name": "Fiji",
+    "numeric": "242",
     "status": "assigned"
   },
   {
@@ -1420,6 +1506,7 @@
       "eng"
     ],
     "name": "Falkland Islands",
+    "numeric": "238",
     "status": "assigned"
   },
   {
@@ -1437,6 +1524,7 @@
       "eng"
     ],
     "name": "Micronesia, Federated States Of",
+    "numeric": "583",
     "status": "assigned"
   },
   {
@@ -1455,6 +1543,7 @@
       "dan"
     ],
     "name": "Faroe Islands",
+    "numeric": "234",
     "status": "assigned"
   },
   {
@@ -1465,6 +1554,7 @@
     "ioc": "",
     "languages": [],
     "name": "French Southern and Antarctic Territories",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -1482,6 +1572,7 @@
       "fra"
     ],
     "name": "France",
+    "numeric": "250",
     "status": "assigned"
   },
   {
@@ -1499,6 +1590,7 @@
       "fra"
     ],
     "name": "France, Metropolitan",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -1516,6 +1608,7 @@
       "fra"
     ],
     "name": "Gabon",
+    "numeric": "266",
     "status": "assigned"
   },
   {
@@ -1537,6 +1630,7 @@
       "cym"
     ],
     "name": "United Kingdom",
+    "numeric": "826",
     "status": "assigned"
   },
   {
@@ -1554,6 +1648,7 @@
       "eng"
     ],
     "name": "Grenada",
+    "numeric": "308",
     "status": "assigned"
   },
   {
@@ -1571,6 +1666,7 @@
       "kat"
     ],
     "name": "Georgia",
+    "numeric": "268",
     "status": "assigned"
   },
   {
@@ -1581,6 +1677,7 @@
     "ioc": "",
     "languages": [],
     "name": "Gilbert and Ellice Islands",
+    "numeric": "268",
     "status": "deleted"
   },
   {
@@ -1598,6 +1695,7 @@
       "fra"
     ],
     "name": "French Guiana",
+    "numeric": "254",
     "status": "assigned"
   },
   {
@@ -1615,6 +1713,7 @@
       "fra"
     ],
     "name": "Guernsey",
+    "numeric": "831",
     "status": "assigned"
   },
   {
@@ -1632,6 +1731,7 @@
       "eng"
     ],
     "name": "Ghana",
+    "numeric": "288",
     "status": "assigned"
   },
   {
@@ -1649,6 +1749,7 @@
       "eng"
     ],
     "name": "Gibraltar",
+    "numeric": "292",
     "status": "assigned"
   },
   {
@@ -1666,6 +1767,7 @@
       "kal"
     ],
     "name": "Greenland",
+    "numeric": "304",
     "status": "assigned"
   },
   {
@@ -1683,6 +1785,7 @@
       "eng"
     ],
     "name": "Gambia",
+    "numeric": "270",
     "status": "assigned"
   },
   {
@@ -1700,6 +1803,7 @@
       "fra"
     ],
     "name": "Guinea",
+    "numeric": "324",
     "status": "assigned"
   },
   {
@@ -1717,6 +1821,7 @@
       "fra"
     ],
     "name": "Guadeloupe",
+    "numeric": "312",
     "status": "assigned"
   },
   {
@@ -1736,6 +1841,7 @@
       "por"
     ],
     "name": "Equatorial Guinea",
+    "numeric": "226",
     "status": "assigned"
   },
   {
@@ -1753,6 +1859,7 @@
       "ell"
     ],
     "name": "Greece",
+    "numeric": "300",
     "status": "assigned"
   },
   {
@@ -1768,6 +1875,7 @@
       "eng"
     ],
     "name": "South Georgia And The South Sandwich Islands",
+    "numeric": "239",
     "status": "assigned"
   },
   {
@@ -1785,6 +1893,7 @@
       "spa"
     ],
     "name": "Guatemala",
+    "numeric": "320",
     "status": "assigned"
   },
   {
@@ -1802,6 +1911,7 @@
       "eng"
     ],
     "name": "Guam",
+    "numeric": "316",
     "status": "assigned"
   },
   {
@@ -1819,6 +1929,7 @@
       "por"
     ],
     "name": "Guinea-bissau",
+    "numeric": "624",
     "status": "assigned"
   },
   {
@@ -1836,6 +1947,7 @@
       "eng"
     ],
     "name": "Guyana",
+    "numeric": "328",
     "status": "assigned"
   },
   {
@@ -1854,6 +1966,7 @@
       "eng"
     ],
     "name": "Hong Kong",
+    "numeric": "344",
     "status": "assigned"
   },
   {
@@ -1867,6 +1980,7 @@
     "ioc": "",
     "languages": [],
     "name": "Heard Island And McDonald Islands",
+    "numeric": "334",
     "status": "assigned"
   },
   {
@@ -1884,6 +1998,7 @@
       "spa"
     ],
     "name": "Honduras",
+    "numeric": "340",
     "status": "assigned"
   },
   {
@@ -1901,6 +2016,7 @@
       "hrv"
     ],
     "name": "Croatia",
+    "numeric": "191",
     "status": "assigned"
   },
   {
@@ -1920,6 +2036,7 @@
       "hat"
     ],
     "name": "Haiti",
+    "numeric": "332",
     "status": "assigned"
   },
   {
@@ -1937,6 +2054,7 @@
       "hun"
     ],
     "name": "Hungary",
+    "numeric": "348",
     "status": "assigned"
   },
   {
@@ -1947,6 +2065,7 @@
     "ioc": "",
     "languages": [],
     "name": "Upper Volta",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -1960,6 +2079,7 @@
     "ioc": "",
     "languages": [],
     "name": "Canary Islands",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -1977,6 +2097,7 @@
       "ind"
     ],
     "name": "Indonesia",
+    "numeric": "360",
     "status": "assigned"
   },
   {
@@ -1995,6 +2116,7 @@
       "gle"
     ],
     "name": "Ireland",
+    "numeric": "372",
     "status": "assigned"
   },
   {
@@ -2014,6 +2136,7 @@
       "eng"
     ],
     "name": "Israel",
+    "numeric": "376",
     "status": "assigned"
   },
   {
@@ -2032,6 +2155,7 @@
       "glv"
     ],
     "name": "Isle Of Man",
+    "numeric": "833",
     "status": "assigned"
   },
   {
@@ -2050,6 +2174,7 @@
       "hin"
     ],
     "name": "India",
+    "numeric": "356",
     "status": "assigned"
   },
   {
@@ -2067,6 +2192,7 @@
       "eng"
     ],
     "name": "British Indian Ocean Territory",
+    "numeric": "086",
     "status": "assigned"
   },
   {
@@ -2085,6 +2211,7 @@
       "kur"
     ],
     "name": "Iraq",
+    "numeric": "368",
     "status": "assigned"
   },
   {
@@ -2102,6 +2229,7 @@
       "fas"
     ],
     "name": "Iran, Islamic Republic Of",
+    "numeric": "364",
     "status": "assigned"
   },
   {
@@ -2119,6 +2247,7 @@
       "isl"
     ],
     "name": "Iceland",
+    "numeric": "352",
     "status": "assigned"
   },
   {
@@ -2136,6 +2265,7 @@
       "ita"
     ],
     "name": "Italy",
+    "numeric": "380",
     "status": "assigned"
   },
   {
@@ -2154,6 +2284,7 @@
       "fra"
     ],
     "name": "Jersey",
+    "numeric": "832",
     "status": "assigned"
   },
   {
@@ -2171,6 +2302,7 @@
       "eng"
     ],
     "name": "Jamaica",
+    "numeric": "388",
     "status": "assigned"
   },
   {
@@ -2188,6 +2320,7 @@
       "ara"
     ],
     "name": "Jordan",
+    "numeric": "400",
     "status": "assigned"
   },
   {
@@ -2205,6 +2338,7 @@
       "jpn"
     ],
     "name": "Japan",
+    "numeric": "392",
     "status": "assigned"
   },
   {
@@ -2215,6 +2349,7 @@
     "ioc": "",
     "languages": [],
     "name": "Johnston Island",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -2233,6 +2368,7 @@
       "swa"
     ],
     "name": "Kenya",
+    "numeric": "404",
     "status": "assigned"
   },
   {
@@ -2250,6 +2386,7 @@
       "rus"
     ],
     "name": "Kyrgyzstan",
+    "numeric": "417",
     "status": "assigned"
   },
   {
@@ -2267,6 +2404,7 @@
       "khm"
     ],
     "name": "Cambodia",
+    "numeric": "116",
     "status": "assigned"
   },
   {
@@ -2284,6 +2422,7 @@
       "eng"
     ],
     "name": "Kiribati",
+    "numeric": "296",
     "status": "assigned"
   },
   {
@@ -2302,6 +2441,7 @@
       "fra"
     ],
     "name": "Comoros",
+    "numeric": "174",
     "status": "assigned"
   },
   {
@@ -2319,6 +2459,7 @@
       "eng"
     ],
     "name": "Saint Kitts And Nevis",
+    "numeric": "659",
     "status": "assigned"
   },
   {
@@ -2336,6 +2477,7 @@
       "kor"
     ],
     "name": "Korea, Democratic People's Republic Of",
+    "numeric": "408",
     "status": "assigned"
   },
   {
@@ -2353,6 +2495,7 @@
       "kor"
     ],
     "name": "Korea, Republic Of",
+    "numeric": "410",
     "status": "assigned"
   },
   {
@@ -2370,6 +2513,7 @@
       "ara"
     ],
     "name": "Kuwait",
+    "numeric": "414",
     "status": "assigned"
   },
   {
@@ -2387,6 +2531,7 @@
       "eng"
     ],
     "name": "Cayman Islands",
+    "numeric": "136",
     "status": "assigned"
   },
   {
@@ -2407,6 +2552,7 @@
       "rus"
     ],
     "name": "Kazakhstan",
+    "numeric": "398",
     "status": "assigned"
   },
   {
@@ -2424,6 +2570,7 @@
       "lao"
     ],
     "name": "Lao People's Democratic Republic",
+    "numeric": "418",
     "status": "assigned"
   },
   {
@@ -2442,6 +2589,7 @@
       "hye"
     ],
     "name": "Lebanon",
+    "numeric": "422",
     "status": "assigned"
   },
   {
@@ -2459,6 +2607,7 @@
       "eng"
     ],
     "name": "Saint Lucia",
+    "numeric": "662",
     "status": "assigned"
   },
   {
@@ -2476,6 +2625,7 @@
       "deu"
     ],
     "name": "Liechtenstein",
+    "numeric": "438",
     "status": "assigned"
   },
   {
@@ -2494,6 +2644,7 @@
       "tam"
     ],
     "name": "Sri Lanka",
+    "numeric": "144",
     "status": "assigned"
   },
   {
@@ -2511,6 +2662,7 @@
       "eng"
     ],
     "name": "Liberia",
+    "numeric": "430",
     "status": "assigned"
   },
   {
@@ -2530,6 +2682,7 @@
       "sot"
     ],
     "name": "Lesotho",
+    "numeric": "426",
     "status": "assigned"
   },
   {
@@ -2547,6 +2700,7 @@
       "lit"
     ],
     "name": "Lithuania",
+    "numeric": "440",
     "status": "assigned"
   },
   {
@@ -2566,6 +2720,7 @@
       "ltz"
     ],
     "name": "Luxembourg",
+    "numeric": "442",
     "status": "assigned"
   },
   {
@@ -2583,6 +2738,7 @@
       "lav"
     ],
     "name": "Latvia",
+    "numeric": "428",
     "status": "assigned"
   },
   {
@@ -2600,6 +2756,7 @@
       "ara"
     ],
     "name": "Libya",
+    "numeric": "434",
     "status": "assigned"
   },
   {
@@ -2617,6 +2774,7 @@
       "ara"
     ],
     "name": "Morocco",
+    "numeric": "504",
     "status": "assigned"
   },
   {
@@ -2634,6 +2792,7 @@
       "fra"
     ],
     "name": "Monaco",
+    "numeric": "492",
     "status": "assigned"
   },
   {
@@ -2651,6 +2810,7 @@
       "ron"
     ],
     "name": "Moldova",
+    "numeric": "498",
     "status": "assigned"
   },
   {
@@ -2668,6 +2828,7 @@
       "mot"
     ],
     "name": "Montenegro",
+    "numeric": "499",
     "status": "assigned"
   },
   {
@@ -2685,6 +2846,7 @@
       "fra"
     ],
     "name": "Saint Martin",
+    "numeric": "663",
     "status": "assigned"
   },
   {
@@ -2703,6 +2865,7 @@
       "mlg"
     ],
     "name": "Madagascar",
+    "numeric": "450",
     "status": "assigned"
   },
   {
@@ -2721,6 +2884,7 @@
       "mah"
     ],
     "name": "Marshall Islands",
+    "numeric": "584",
     "status": "assigned"
   },
   {
@@ -2731,6 +2895,7 @@
     "ioc": "",
     "languages": [],
     "name": "Midway Islands",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -2748,6 +2913,7 @@
       "mkd"
     ],
     "name": "Macedonia, The Former Yugoslav Republic Of",
+    "numeric": "807",
     "status": "assigned"
   },
   {
@@ -2765,6 +2931,7 @@
       "fra"
     ],
     "name": "Mali",
+    "numeric": "466",
     "status": "assigned"
   },
   {
@@ -2782,6 +2949,7 @@
       "mya"
     ],
     "name": "Myanmar",
+    "numeric": "104",
     "status": "assigned"
   },
   {
@@ -2799,6 +2967,7 @@
       "mon"
     ],
     "name": "Mongolia",
+    "numeric": "496",
     "status": "assigned"
   },
   {
@@ -2817,6 +2986,7 @@
       "por"
     ],
     "name": "Macao",
+    "numeric": "446",
     "status": "assigned"
   },
   {
@@ -2834,6 +3004,7 @@
       "eng"
     ],
     "name": "Northern Mariana Islands",
+    "numeric": "580",
     "status": "assigned"
   },
   {
@@ -2849,6 +3020,7 @@
     "ioc": "",
     "languages": [],
     "name": "Martinique",
+    "numeric": "474",
     "status": "assigned"
   },
   {
@@ -2867,6 +3039,7 @@
       "fra"
     ],
     "name": "Mauritania",
+    "numeric": "478",
     "status": "assigned"
   },
   {
@@ -2882,6 +3055,7 @@
     "ioc": "",
     "languages": [],
     "name": "Montserrat",
+    "numeric": "500",
     "status": "assigned"
   },
   {
@@ -2900,6 +3074,7 @@
       "eng"
     ],
     "name": "Malta",
+    "numeric": "470",
     "status": "assigned"
   },
   {
@@ -2918,6 +3093,7 @@
       "fra"
     ],
     "name": "Mauritius",
+    "numeric": "480",
     "status": "assigned"
   },
   {
@@ -2935,6 +3111,7 @@
       "div"
     ],
     "name": "Maldives",
+    "numeric": "462",
     "status": "assigned"
   },
   {
@@ -2953,6 +3130,7 @@
       "nya"
     ],
     "name": "Malawi",
+    "numeric": "454",
     "status": "assigned"
   },
   {
@@ -2971,6 +3149,7 @@
       "spa"
     ],
     "name": "Mexico",
+    "numeric": "484",
     "status": "assigned"
   },
   {
@@ -2989,6 +3168,7 @@
       "eng"
     ],
     "name": "Malaysia",
+    "numeric": "458",
     "status": "assigned"
   },
   {
@@ -3006,6 +3186,7 @@
       "por"
     ],
     "name": "Mozambique",
+    "numeric": "508",
     "status": "assigned"
   },
   {
@@ -3024,6 +3205,7 @@
       "eng"
     ],
     "name": "Namibia",
+    "numeric": "516",
     "status": "assigned"
   },
   {
@@ -3041,6 +3223,7 @@
       "fra"
     ],
     "name": "New Caledonia",
+    "numeric": "540",
     "status": "assigned"
   },
   {
@@ -3058,6 +3241,7 @@
       "fra"
     ],
     "name": "Niger",
+    "numeric": "562",
     "status": "assigned"
   },
   {
@@ -3075,6 +3259,7 @@
       "eng"
     ],
     "name": "Norfolk Island",
+    "numeric": "574",
     "status": "assigned"
   },
   {
@@ -3092,6 +3277,7 @@
       "eng"
     ],
     "name": "Nigeria",
+    "numeric": "566",
     "status": "assigned"
   },
   {
@@ -3102,6 +3288,7 @@
     "ioc": "",
     "languages": [],
     "name": "New Hebrides",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3119,6 +3306,7 @@
       "spa"
     ],
     "name": "Nicaragua",
+    "numeric": "558",
     "status": "assigned"
   },
   {
@@ -3136,6 +3324,7 @@
       "nld"
     ],
     "name": "Netherlands",
+    "numeric": "528",
     "status": "assigned"
   },
   {
@@ -3153,6 +3342,7 @@
       "nor"
     ],
     "name": "Norway",
+    "numeric": "578",
     "status": "assigned"
   },
   {
@@ -3170,6 +3360,7 @@
       "nep"
     ],
     "name": "Nepal",
+    "numeric": "524",
     "status": "assigned"
   },
   {
@@ -3180,6 +3371,7 @@
     "ioc": "",
     "languages": [],
     "name": "Dronning Maud Land",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3198,6 +3390,7 @@
       "nau"
     ],
     "name": "Nauru",
+    "numeric": "520",
     "status": "assigned"
   },
   {
@@ -3208,6 +3401,7 @@
     "ioc": "",
     "languages": [],
     "name": "Neutral Zone",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3225,6 +3419,7 @@
       "eng"
     ],
     "name": "Niue",
+    "numeric": "570",
     "status": "assigned"
   },
   {
@@ -3242,6 +3437,7 @@
       "eng"
     ],
     "name": "New Zealand",
+    "numeric": "554",
     "status": "assigned"
   },
   {
@@ -3259,6 +3455,7 @@
       "ara"
     ],
     "name": "Oman",
+    "numeric": "512",
     "status": "assigned"
   },
   {
@@ -3277,6 +3474,7 @@
       "spa"
     ],
     "name": "Panama",
+    "numeric": "591",
     "status": "assigned"
   },
   {
@@ -3287,6 +3485,7 @@
     "ioc": "",
     "languages": [],
     "name": "Pacific Islands, Trust Territory of the",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3306,6 +3505,7 @@
       "que"
     ],
     "name": "Peru",
+    "numeric": "604",
     "status": "assigned"
   },
   {
@@ -3323,6 +3523,7 @@
       "fra"
     ],
     "name": "French Polynesia",
+    "numeric": "258",
     "status": "assigned"
   },
   {
@@ -3340,6 +3541,7 @@
       "eng"
     ],
     "name": "Papua New Guinea",
+    "numeric": "598",
     "status": "assigned"
   },
   {
@@ -3357,6 +3559,7 @@
       "eng"
     ],
     "name": "Philippines",
+    "numeric": "608",
     "status": "assigned"
   },
   {
@@ -3375,6 +3578,7 @@
       "eng"
     ],
     "name": "Pakistan",
+    "numeric": "586",
     "status": "assigned"
   },
   {
@@ -3392,6 +3596,7 @@
       "pol"
     ],
     "name": "Poland",
+    "numeric": "616",
     "status": "assigned"
   },
   {
@@ -3409,6 +3614,7 @@
       "eng"
     ],
     "name": "Saint Pierre And Miquelon",
+    "numeric": "666",
     "status": "assigned"
   },
   {
@@ -3426,6 +3632,7 @@
       "eng"
     ],
     "name": "Pitcairn",
+    "numeric": "612",
     "status": "assigned"
   },
   {
@@ -3445,6 +3652,7 @@
       "eng"
     ],
     "name": "Puerto Rico",
+    "numeric": "630",
     "status": "assigned"
   },
   {
@@ -3464,6 +3672,7 @@
       "ara"
     ],
     "name": "Palestinian Territory, Occupied",
+    "numeric": "275",
     "status": "assigned"
   },
   {
@@ -3481,6 +3690,7 @@
       "por"
     ],
     "name": "Portugal",
+    "numeric": "620",
     "status": "assigned"
   },
   {
@@ -3491,6 +3701,7 @@
     "ioc": "",
     "languages": [],
     "name": "U.S. Miscellaneous Pacific Islands",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3508,6 +3719,7 @@
       "eng"
     ],
     "name": "Palau",
+    "numeric": "585",
     "status": "assigned"
   },
   {
@@ -3525,6 +3737,7 @@
       "spa"
     ],
     "name": "Paraguay",
+    "numeric": "600",
     "status": "assigned"
   },
   {
@@ -3535,6 +3748,7 @@
     "ioc": "",
     "languages": [],
     "name": "Panama Canal Zone",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3552,6 +3766,7 @@
       "ara"
     ],
     "name": "Qatar",
+    "numeric": "634",
     "status": "assigned"
   },
   {
@@ -3569,6 +3784,7 @@
       "fra"
     ],
     "name": "Reunion",
+    "numeric": "638",
     "status": "assigned"
   },
   {
@@ -3579,6 +3795,7 @@
     "ioc": "",
     "languages": [],
     "name": "Southern Rhodesia",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -3596,6 +3813,7 @@
       "ron"
     ],
     "name": "Romania",
+    "numeric": "642",
     "status": "assigned"
   },
   {
@@ -3613,6 +3831,7 @@
       "srp"
     ],
     "name": "Serbia",
+    "numeric": "688",
     "status": "assigned"
   },
   {
@@ -3633,6 +3852,7 @@
       "rus"
     ],
     "name": "Russian Federation",
+    "numeric": "643",
     "status": "assigned"
   },
   {
@@ -3652,6 +3872,7 @@
       "kin"
     ],
     "name": "Rwanda",
+    "numeric": "646",
     "status": "assigned"
   },
   {
@@ -3669,6 +3890,7 @@
       "ara"
     ],
     "name": "Saudi Arabia",
+    "numeric": "682",
     "status": "assigned"
   },
   {
@@ -3686,6 +3908,7 @@
       "eng"
     ],
     "name": "Solomon Islands",
+    "numeric": "090",
     "status": "assigned"
   },
   {
@@ -3704,6 +3927,7 @@
       "fra"
     ],
     "name": "Seychelles",
+    "numeric": "690",
     "status": "assigned"
   },
   {
@@ -3722,6 +3946,7 @@
       "eng"
     ],
     "name": "Sudan",
+    "numeric": "729",
     "status": "assigned"
   },
   {
@@ -3739,6 +3964,7 @@
       "swe"
     ],
     "name": "Sweden",
+    "numeric": "752",
     "status": "assigned"
   },
   {
@@ -3759,6 +3985,7 @@
       "tam"
     ],
     "name": "Singapore",
+    "numeric": "702",
     "status": "assigned"
   },
   {
@@ -3776,6 +4003,7 @@
       "eng"
     ],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
+    "numeric": "654",
     "status": "assigned"
   },
   {
@@ -3793,6 +4021,7 @@
       "slv"
     ],
     "name": "Slovenia",
+    "numeric": "705",
     "status": "assigned"
   },
   {
@@ -3808,6 +4037,7 @@
     "ioc": "",
     "languages": [],
     "name": "Svalbard And Jan Mayen",
+    "numeric": "744",
     "status": "assigned"
   },
   {
@@ -3825,6 +4055,7 @@
       "slk"
     ],
     "name": "Slovakia",
+    "numeric": "703",
     "status": "assigned"
   },
   {
@@ -3835,6 +4066,7 @@
     "ioc": "",
     "languages": [],
     "name": "Sikkim",
+    "numeric": "703",
     "status": "deleted"
   },
   {
@@ -3852,6 +4084,7 @@
       "eng"
     ],
     "name": "Sierra Leone",
+    "numeric": "694",
     "status": "assigned"
   },
   {
@@ -3869,6 +4102,7 @@
       "ita"
     ],
     "name": "San Marino",
+    "numeric": "674",
     "status": "assigned"
   },
   {
@@ -3886,6 +4120,7 @@
       "fra"
     ],
     "name": "Senegal",
+    "numeric": "686",
     "status": "assigned"
   },
   {
@@ -3903,6 +4138,7 @@
       "som"
     ],
     "name": "Somalia",
+    "numeric": "706",
     "status": "assigned"
   },
   {
@@ -3920,6 +4156,7 @@
       "nld"
     ],
     "name": "Suriname",
+    "numeric": "740",
     "status": "assigned"
   },
   {
@@ -3937,6 +4174,7 @@
       "eng"
     ],
     "name": "South Sudan",
+    "numeric": "728",
     "status": "assigned"
   },
   {
@@ -3954,6 +4192,7 @@
       "por"
     ],
     "name": "Sao Tome and Principe",
+    "numeric": "678",
     "status": "assigned"
   },
   {
@@ -3969,6 +4208,7 @@
       "rus"
     ],
     "name": "USSR",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -3986,6 +4226,7 @@
       "spa"
     ],
     "name": "El Salvador",
+    "numeric": "222",
     "status": "assigned"
   },
   {
@@ -4003,6 +4244,7 @@
       "nld"
     ],
     "name": "Sint Maarten",
+    "numeric": "534",
     "status": "assigned"
   },
   {
@@ -4020,6 +4262,7 @@
       "ara"
     ],
     "name": "Syrian Arab Republic",
+    "numeric": "760",
     "status": "assigned"
   },
   {
@@ -4038,6 +4281,7 @@
       "ssw"
     ],
     "name": "Swaziland",
+    "numeric": "748",
     "status": "assigned"
   },
   {
@@ -4053,6 +4297,7 @@
     "ioc": "",
     "languages": [],
     "name": "Tristan de Cunha",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -4070,6 +4315,7 @@
       "eng"
     ],
     "name": "Turks And Caicos Islands",
+    "numeric": "796",
     "status": "assigned"
   },
   {
@@ -4088,6 +4334,7 @@
       "fra"
     ],
     "name": "Chad",
+    "numeric": "148",
     "status": "assigned"
   },
   {
@@ -4103,6 +4350,7 @@
       "fra"
     ],
     "name": "French Southern Territories",
+    "numeric": "260",
     "status": "assigned"
   },
   {
@@ -4120,6 +4368,7 @@
       "fra"
     ],
     "name": "Togo",
+    "numeric": "768",
     "status": "assigned"
   },
   {
@@ -4137,6 +4386,7 @@
       "tha"
     ],
     "name": "Thailand",
+    "numeric": "764",
     "status": "assigned"
   },
   {
@@ -4155,6 +4405,7 @@
       "rus"
     ],
     "name": "Tajikistan",
+    "numeric": "762",
     "status": "assigned"
   },
   {
@@ -4172,6 +4423,7 @@
       "eng"
     ],
     "name": "Tokelau",
+    "numeric": "772",
     "status": "assigned"
   },
   {
@@ -4189,6 +4441,7 @@
       "por"
     ],
     "name": "Timor-Leste, Democratic Republic of",
+    "numeric": "626",
     "status": "assigned"
   },
   {
@@ -4207,6 +4460,7 @@
       "rus"
     ],
     "name": "Turkmenistan",
+    "numeric": "795",
     "status": "assigned"
   },
   {
@@ -4224,6 +4478,7 @@
       "ara"
     ],
     "name": "Tunisia",
+    "numeric": "788",
     "status": "assigned"
   },
   {
@@ -4241,6 +4496,7 @@
       "eng"
     ],
     "name": "Tonga",
+    "numeric": "776",
     "status": "assigned"
   },
   {
@@ -4251,6 +4507,7 @@
     "ioc": "",
     "languages": [],
     "name": "East Timor",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -4268,6 +4525,7 @@
       "tur"
     ],
     "name": "Turkey",
+    "numeric": "792",
     "status": "assigned"
   },
   {
@@ -4285,6 +4543,7 @@
       "eng"
     ],
     "name": "Trinidad And Tobago",
+    "numeric": "780",
     "status": "assigned"
   },
   {
@@ -4302,6 +4561,7 @@
       "eng"
     ],
     "name": "Tuvalu",
+    "numeric": "798",
     "status": "assigned"
   },
   {
@@ -4319,6 +4579,7 @@
       "zho"
     ],
     "name": "Taiwan",
+    "numeric": "158",
     "status": "assigned"
   },
   {
@@ -4337,6 +4598,7 @@
       "eng"
     ],
     "name": "Tanzania, United Republic Of",
+    "numeric": "834",
     "status": "assigned"
   },
   {
@@ -4355,6 +4617,7 @@
       "rus"
     ],
     "name": "Ukraine",
+    "numeric": "804",
     "status": "assigned"
   },
   {
@@ -4373,6 +4636,7 @@
       "swa"
     ],
     "name": "Uganda",
+    "numeric": "800",
     "status": "assigned"
   },
   {
@@ -4392,6 +4656,7 @@
       "cym"
     ],
     "name": "United Kingdom",
+    "numeric": "",
     "status": "reserved"
   },
   {
@@ -4409,6 +4674,7 @@
       "eng"
     ],
     "name": "United States Minor Outlying Islands",
+    "numeric": "581",
     "status": "assigned"
   },
   {
@@ -4426,6 +4692,7 @@
       "eng"
     ],
     "name": "United States",
+    "numeric": "840",
     "status": "assigned"
   },
   {
@@ -4444,6 +4711,7 @@
       "spa"
     ],
     "name": "Uruguay",
+    "numeric": "858",
     "status": "assigned"
   },
   {
@@ -4462,6 +4730,7 @@
       "rus"
     ],
     "name": "Uzbekistan",
+    "numeric": "860",
     "status": "assigned"
   },
   {
@@ -4480,6 +4749,7 @@
       "ita"
     ],
     "name": "Vatican City State",
+    "numeric": "336",
     "status": "assigned"
   },
   {
@@ -4497,6 +4767,7 @@
       "eng"
     ],
     "name": "Saint Vincent And The Grenadines",
+    "numeric": "670",
     "status": "assigned"
   },
   {
@@ -4507,6 +4778,7 @@
     "ioc": "",
     "languages": [],
     "name": "Viet-Nam, Democratic Republic of",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -4524,6 +4796,7 @@
       "spa"
     ],
     "name": "Venezuela, Bolivarian Republic Of",
+    "numeric": "862",
     "status": "assigned"
   },
   {
@@ -4541,6 +4814,7 @@
       "eng"
     ],
     "name": "Virgin Islands (British)",
+    "numeric": "092",
     "status": "assigned"
   },
   {
@@ -4558,6 +4832,7 @@
       "eng"
     ],
     "name": "Virgin Islands (US)",
+    "numeric": "850",
     "status": "assigned"
   },
   {
@@ -4575,6 +4850,7 @@
       "vie"
     ],
     "name": "Viet Nam",
+    "numeric": "704",
     "status": "assigned"
   },
   {
@@ -4594,6 +4870,7 @@
       "fra"
     ],
     "name": "Vanuatu",
+    "numeric": "548",
     "status": "assigned"
   },
   {
@@ -4611,6 +4888,7 @@
       "fra"
     ],
     "name": "Wallis And Futuna",
+    "numeric": "876",
     "status": "assigned"
   },
   {
@@ -4621,6 +4899,7 @@
     "ioc": "",
     "languages": [],
     "name": "Wake Island",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -4639,6 +4918,7 @@
       "smo"
     ],
     "name": "Samoa",
+    "numeric": "882",
     "status": "assigned"
   },
   {
@@ -4660,6 +4940,7 @@
       "rom"
     ],
     "name": "Kosovo",
+    "numeric": "",
     "status": "user assigned"
   },
   {
@@ -4670,6 +4951,7 @@
     "ioc": "",
     "languages": [],
     "name": "Yemen, Democratic",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -4687,6 +4969,7 @@
       "ara"
     ],
     "name": "Yemen",
+    "numeric": "887",
     "status": "assigned"
   },
   {
@@ -4704,6 +4987,7 @@
       "fra"
     ],
     "name": "Mayotte",
+    "numeric": "175",
     "status": "assigned"
   },
   {
@@ -4714,6 +4998,7 @@
     "ioc": "",
     "languages": [],
     "name": "Yugoslavia",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -4738,6 +5023,7 @@
       "zul"
     ],
     "name": "South Africa",
+    "numeric": "710",
     "status": "assigned"
   },
   {
@@ -4755,6 +5041,7 @@
       "eng"
     ],
     "name": "Zambia",
+    "numeric": "894",
     "status": "assigned"
   },
   {
@@ -4765,6 +5052,7 @@
     "ioc": "",
     "languages": [],
     "name": "Zaire",
+    "numeric": "",
     "status": "deleted"
   },
   {
@@ -4788,6 +5076,7 @@
       "nde"
     ],
     "name": "Zimbabwe",
+    "numeric": "716",
     "status": "assigned"
   }
 ]

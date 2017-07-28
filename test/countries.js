@@ -32,16 +32,27 @@ describe('countries', function () {
     });
   });
 
+  describe('numeric', function () {
+    it('should find France', function () {
+      assert.equal( countries['250'].name, 'France');
+      assert.deepEqual( countries['250'].currencies, ['EUR']);
+    });
+  });
+
   describe('check each country has correct form', function () {
     _.each( countries.all, function (country) {
       describe(country.name, function () {
         it('should have a status', function () {
           assert( country.status );
         });
-        it('should have correctly formed alpha2 and alpha3', function () {
+        it('should have correctly formed alpha2, alpha3 and numeric', function () {
           assert(country.alpha2.match(/^[A-Z]{2}$/), 'alpha2 correctly formed - ' + country.alpha2);
           if (country.alpha3.length) {
             assert(country.alpha3.match(/^[A-Z]{3}$/), 'alpha3 correctly formed - ' + country.alpha3);
+          }
+
+          if (country.numeric.length) {
+            assert(country.numeric.match(/^\d{3}$/), 'numeric correctly formed - ' + country.numeric);
           }
         });
       });

@@ -28,6 +28,11 @@ _.each(countriesAll, function (country) {
   if (!exportedAlpha3 || exportedAlpha3.status === 'deleted') {
     exports.countries[country.alpha3] = country;
   }
+
+  var exportedNumeric = exports.countries[country.numeric];
+  if (!exportedNumeric || exportedNumeric.status === 'deleted') {
+    exports.countries[country.numeric] = country;
+  }
 });
 
 exports.currencies = {
