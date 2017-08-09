@@ -14,6 +14,21 @@ describe('countries', function () {
     });
   });
 
+  describe('assigned', function () {
+    it('should only contain assigned countries', function () {
+      assert( _.isArray(countries.assigned) );
+      assert(countries.assigned.length < countries.all.length);
+
+      var exceptionalReservation = countries.SU
+      var deletedCode = countries.YD
+      var transitionalReservation = countries.BU
+
+      assert(countries.assigned.indexOf(exceptionalReservation) === -1)
+      assert(countries.assigned.indexOf(deletedCode) === -1)
+      assert(countries.assigned.indexOf(transitionalReservation) === -1)
+    });
+  });
+
   describe('alpha2', function () {
     it('should find USA', function () {
       assert.equal( countries.BE.name, 'Belgium');

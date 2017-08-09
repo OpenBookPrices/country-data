@@ -17,7 +17,12 @@ exports.countries = {
   all: countriesAll,
 };
 
+var assignedCountries = []
 _.each(countriesAll, function (country) {
+  if (country.status === 'assigned') {
+    assignedCountries.push(country)
+  }
+
   // prefer assigned country codes over inactive ones
   var exportedAlpha2 = exports.countries[country.alpha2];
   if (!exportedAlpha2 || exportedAlpha2.status === 'deleted') {
@@ -29,6 +34,8 @@ _.each(countriesAll, function (country) {
     exports.countries[country.alpha3] = country;
   }
 });
+
+exports.countries['assigned'] = assignedCountries
 
 exports.currencies = {
   all: currenciesAll,
