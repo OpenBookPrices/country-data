@@ -4665,7 +4665,9 @@
   {
     "alpha2": "YD",
     "alpha3": "YMD",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+967"
+    ],
     "currencies": [],
     "ioc": "",
     "languages": [],
@@ -4709,7 +4711,9 @@
   {
     "alpha2": "YU",
     "alpha3": "YUG",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+38"
+    ],
     "currencies": [],
     "ioc": "",
     "languages": [],
@@ -4760,7 +4764,9 @@
   {
     "alpha2": "ZR",
     "alpha3": "ZAR",
-    "countryCallingCodes": [],
+    "countryCallingCodes": [
+      "+243"
+    ],
     "currencies": [],
     "ioc": "",
     "languages": [],
