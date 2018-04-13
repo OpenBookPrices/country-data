@@ -1,5 +1,11 @@
 [
   {
+    "alpha2": "",
+    "alpha3": "",
+    "bibliographic": "dut",
+    "name": "Flemish"
+  },
+  {
     "alpha2": "aa",
     "alpha3": "aar",
     "bibliographic": "",
@@ -2140,12 +2146,6 @@
     "alpha3": "nld",
     "bibliographic": "dut",
     "name": "Dutch"
-  },
-  {
-    "alpha2": "nl",
-    "alpha3": "nld",
-    "bibliographic": "dut",
-    "name": "Flemish"
   },
   {
     "alpha2": "nn",
