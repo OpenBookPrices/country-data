@@ -90,7 +90,7 @@ regions.westernAsia = {
 }
 
 regions.centralAfrica = {
-  name: 'Central Aftrica',
+  name: 'Central Africa',
   countries: [
     // source is http://en.wikipedia.org/wiki/Central_Africa
     'AO', // Angola
