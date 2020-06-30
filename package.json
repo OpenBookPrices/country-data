@@ -8,7 +8,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "lint": "eslint --ignore-path .gitignore ."
   },
   "repository": {
     "type": "git",
